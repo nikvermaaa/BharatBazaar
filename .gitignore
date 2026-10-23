@@ -1,0 +1,52 @@
+# Virtual Environments (handles directories and symlinks)
+venv
+venv/
+backend/venv
+backend/venv/
+.venv
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python Bytecode, Compilations & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Environment Variables & Secrets
+.env
+backend/.env
+*.env.local
+*.env.*.local
+!.env.example
+!backend/.env.example
+
+# Vector Database & Embeddings Cache
+chroma_db/
+backend/chroma_db/
+
+# Downloaded Corporate Filing PDFs (keeps repo lightweight; fetched dynamically on demand)
+*.pdf
+backend/data/filings/**/*.pdf
+
+# Logs & Temporary Files
+*.log
+*.tmp
+*.temp
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
