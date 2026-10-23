@@ -18,7 +18,7 @@
 > - **Indian Financial Year Conventions**: April 1 to March 31 fiscal cycles (Q1 Apr-Jun, Q2 Jul-Sep, Q3 Oct-Dec, Q4 Jan-Mar).
 > - **Official Exchange Disclosures**: Automatic parsing of BSE & NSE corporate announcements, SEBI quarterly filings, and investor concalls.
 > - **Indian Rupee Units**: Native reporting in **₹ Crore** and **₹ Lakh** (both consolidated and standalone accounting bases).
-> - **Domestic News Corroboration**: Deduplicated real-time intelligence feeds from India's premier financial dailies (*The Economic Times*, *LiveMint*, *Business Standard*).
+> - **Domestic News Corroboration**: real-time intelligence feeds from India's premier financial dailies (*The Economic Times*, *LiveMint*, *Business Standard*).
 > - **SEBI Research Compliance**: Strict guardrails refusing speculative buy/sell calls, maintaining objective, verifiable facts.
 
 Engineered around a fundamental institutional standard:
@@ -128,7 +128,7 @@ flowchart TD
         
         CallFilings --> RAGEngine["Regulatory Filing RAG Engine\n• Official BSE/NSE Filings & Concalls (PyMuPDF)\n• BAAI/bge-small-en-v1.5 Embeddings (384-dim)\n• ChromaDB Persistent Vector Search\n• Filtered by Fiscal Year, Quarter & Accounting Basis"]
         
-        CallNews --> NewsEngine["Clustered News Intelligence Engine\n• Live RSS: Economic Times, LiveMint, Business Standard\n• Scikit-Learn TF-IDF Vectorization\n• Cosine Similarity Clustering (>= 0.80) to deduplicate"]
+        CallNews --> NewsEngine["Clustered News Intelligence Engine\n• Live RSS: Economic Times, LiveMint, Business Standard\n• Scikit-Learn TF-IDF Vectorization\n• Cosine Similarity Clustering to deduplicate"]
     end
 
     %% 5. Dual LLM Provider & Failover Layer
