@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>India Stock Research Terminal | NSE & BSE</title>
+  <link rel="stylesheet" href="styles.css?v=5">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Top Header -->
+    <header class="top-nav">
+      <div class="brand">
+        <div class="brand-icon">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--accent); display: block;">
+            <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"></polyline>
+            <polyline points="16 7 22 7 22 13"></polyline>
+          </svg>
+        </div>
+        <div>
+          <h1>India Stock Research Terminal</h1>
+          <p class="tagline">Grounded Financial AI • NSE & BSE</p>
+        </div>
+      </div>
+
+      <div class="ticker-selector-container">
+        <label for="ticker-search-input">Active Stock:</label>
+        <div class="search-combobox">
+          <div class="search-input-box">
+            <span class="search-icon">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--text-muted); display: block;">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </span>
+            <input type="text" id="ticker-search-input" placeholder="Select or search a stock (e.g. Reliance, TCS, HDFC)..." autocomplete="off" spellcheck="false">
+          </div>
+          <div id="ticker-dropdown-list" class="combobox-dropdown" style="display: none;"></div>
+        </div>
+        <div id="concall-status-tag" class="concall-status-tag" style="display: none;"></div>
+      </div>
+
+      <div class="live-quote-ribbon" id="quote-ribbon">
+        <div class="quote-item">
+          <span class="label">Last Close</span>
+          <span class="val" id="quote-price">--</span>
+        </div>
+        <div class="quote-item">
+          <span class="label">1D Change</span>
+          <span class="val" id="quote-change-1d">--</span>
+        </div>
+        <div class="quote-item">
+          <span class="label">30D Return</span>
+          <span class="val" id="quote-change-30d">--</span>
+        </div>
+        <div class="quote-item">
+          <span class="label">RSI (14)</span>
+          <span class="val" id="quote-rsi">--</span>
+        </div>
+        <div class="quote-item">
+          <span class="label">Trend</span>
+          <span class="val badge" id="quote-trend">--</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Workspace -->
+    <main class="main-workspace">
+      <!-- Left: News Intelligence Feed -->
+      <aside class="news-panel">
+        <div class="panel-header">
+          <h2>Top 10 Events from Last 3 Days</h2>
+          <button id="refresh-news-btn" class="btn-subtle" title="Refresh Live News">Refresh</button>
+        </div>
+        <p class="panel-sub">Corroborated market events from the last 3 days arranged from most recent to oldest.</p>
+        
+        <div class="news-feed" id="news-feed">
+          <div class="loading-placeholder">Select a stock from the top bar to view top 10 market events and news clusters.</div>
+        </div>
+      </aside>
+
+      <!-- Right: Research Chat Area -->
+      <section class="chat-panel">
+        <div class="panel-header">
+          <h2>Equity Research Assistant</h2>
+        </div>
+
+        <div class="quick-prompts">
+          <button class="pill" data-prompt="What did management say in the latest earnings concall about margins, demand outlook, and growth guidance?">Management Outlook (Concall)</button>
+          <button class="pill" data-prompt="What is the latest closing price, RSI, and 50-day moving average?">Price & RSI</button>
+          <button class="pill" data-prompt="What were the consolidated revenue and net profit in the latest quarterly filing?">Revenue & Profit</button>
+          <button class="pill" data-prompt="What are the key operational challenges, margin headwinds, and risks discussed by management and reported in the news?">Risks & Red Flags</button>
+        </div>
+
+        <div class="messages-container" id="messages-container">
+          <div class="message assistant">
+            <div class="msg-body">
+              <p>Welcome to the <strong>India Stock Research Assistant</strong>.</p>
+              <p>I examine official corporate filings (Quarterly Results & Annual Reports), deterministic price math (RSI, Moving Averages, Volatility), and deduplicated news clusters.</p>
+              <p>Select a stock from the top bar or ask any research question below.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="chat-input-area">
+          <form id="chat-form">
+            <input type="text" id="chat-input" placeholder="Ask about revenue, RSI, management outlook, risks, or news catalysts..." autocomplete="off">
+            <button type="submit" id="send-btn" class="btn-primary">Research</button>
+          </form>
+          <footer class="legal-footer">
+            Based on official filings and listed sources. Not investment advice. Governed by Indian equity research guardrails.
+          </footer>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js?v=15"></script>
+</body>
+</html>
