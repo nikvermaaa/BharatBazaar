@@ -180,7 +180,7 @@ flowchart TD
 | **Financial Figures** | Approximate memory recall | **Strictly retrieved from official filings with page numbers** |
 | **Fiscal Cycles** | Assumes standard calendar year | **Native Indian Fiscal Year support (April 1 to March 31)** |
 | **Financial Advice** | Often provides ungrounded buy/sell advice | **Strict refusal of recommendations (SEBI non-advisory compliance)** |
-| **News Ingestion** | Raw single-source web search snippets | **Cosine similarity clustered & deduplicated feeds ($\ge 0.80$)** |
+| **News Ingestion** | Raw single-source web search snippets | **Cosine similarity clustered & deduplicated feeds** |
 | **Dual LLM Failover** | Single API dependency | **Automatic failover & alternating load-balancing (Groq + Gemini)** |
 
 
