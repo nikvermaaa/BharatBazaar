@@ -12,7 +12,6 @@
 [![GitHub Actions CI/CD](https://img.shields.io/badge/GitHub_Actions-Cloud_Worker-2088FF?style=flat&logo=github-actions&logoColor=white)](.github/workflows/news_engine.yml)
 [![Compliance: SEBI Guardrails](https://img.shields.io/badge/SEBI-Non--Advisory_Guardrails-blue.svg)](#sebi-regulatory-compliance--guardrails)
 
-> [!IMPORTANT]
 > **Specifically Engineered for the Indian Equity Market**  
 > **Bharat Bazaar** is custom-built exclusively for Indian capital markets, tracking 2,600+ equities listed on the **National Stock Exchange (NSE)** and the **Bombay Stock Exchange (BSE)**. Unlike generic financial tools, Bharat Bazaar natively understands:
 > - **Indian Financial Year Conventions**: April 1 to March 31 fiscal cycles (Q1 Apr-Jun, Q2 Jul-Sep, Q3 Oct-Dec, Q4 Jan-Mar).
