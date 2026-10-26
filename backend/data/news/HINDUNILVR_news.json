@@ -1,5 +1,27 @@
 [
   {
+    "cluster_id": "1bc75323a1",
+    "theme_title": "Hindustan Unilever , outperforms competitors - MarketWatch",
+    "date": "Mon, 26 Oct 2026",
+    "published_ts": 1793010720.0,
+    "article_count": 1,
+    "outlets": [
+      "MarketWatch"
+    ],
+    "summary": "Hindustan Unilever , outperforms competitors MarketWatch",
+    "sources": [
+      {
+        "outlet": "MarketWatch",
+        "title": "Hindustan Unilever , outperforms competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0VDLXR2eW42eFNDbUJRdlJwaXh1bjc5NTRiQ292dmZ6VmJ4WXpZQWpfVVRBbktFQjhyUWtoVHM2N0hQbVFDMllodEtGeENfbnJmVE5MSktqYzNWaV9EbWVQTHZJMjJKOUFOY3lnYWVRcTVNRmJVODdfYzdxWFowSnNsYmliblVlMkN3M0V2R2pwUFhVckZpcFBqeFZDejAzVDA5ZEVjd2loY29IQllubFVtWXRoTG9leUFMQQ?oc=5",
+        "published": "Mon, 26 Oct 2026 10:32:00 GMT",
+        "published_ts": 1793010720.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
     "cluster_id": "18ce929066",
     "theme_title": "The week ahead in numbers: Govt's H1 fiscal data, factory output, HUL Q2 earnings - TradingView",
     "date": "Sun, 25 Oct 2026",
@@ -16,10 +38,10 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDdoR3hFQ0trR05vdDUzZzdfS3F1NFNHR0pVRlBMdXdKb1NaMmp0WEY4QUFIZEoyb0RUX2hqaFc0UERJQzljcC1URzNySzFhTDhIWWt6TlFhRlBsVzVqY1FpM0hHOXhwSkRsNS1ZaExZVml2dEJCYTN0Rzd3ZVJjV0FhNTNfZy1SMjBLX0M1dlNlWThLRVpxeUE4ZzZpTEFvSWNpanhqQ0ptbnJfZnZwdXZQRlF4bnYwdVhMNnVQNHRNT01wWlhxTVI2MGc4T1Vj?oc=5",
         "published": "Sun, 25 Oct 2026 13:31:52 GMT",
         "published_ts": 1792935112.0,
-        "priority_score": 35
+        "priority_score": 31
       }
     ],
-    "priority_score": 35
+    "priority_score": 31
   },
   {
     "cluster_id": "b12238372c",
@@ -106,20 +128,20 @@
     "priority_score": 14
   },
   {
-    "cluster_id": "575c4d5880",
-    "theme_title": "HUL wins Best Media Client of the Year at EMVIES 2026; Mindshare named agency of the year - Storyboard18",
+    "cluster_id": "6d92efcec1",
+    "theme_title": "EMVIES 2026: HUL named Best Media Client, Mindshare wins Best Media Agency title - Storyboard18",
     "date": "Fri, 23 Oct 2026",
     "published_ts": 1792781948.0,
     "article_count": 1,
     "outlets": [
       "Storyboard18"
     ],
-    "summary": "HUL wins Best Media Client of the Year at EMVIES 2026; Mindshare named agency of the year Storyboard18",
+    "summary": "EMVIES 2026: HUL named Best Media Client, Mindshare wins Best Media Agency title Storyboard18",
     "sources": [
       {
         "outlet": "Storyboard18",
-        "title": "HUL wins Best Media Client of the Year at EMVIES 2026; Mindshare named agency of the year - Storyboard18",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3JxUXM4UDNhQXQ5RTFkenpKLUxxdEFEMFY4V215R1FhNlVmbHBFeUhFX2Z2TWxpZE5IUWVEdVM5TTl3SFBoTzZhSEw1NHh4cm5KUnlmWEJZZlp4d2dXcmt5RnhDTGFEcWp1NGF1dG5DWFFnem1vek5SaG5oWEhVVEE5YmRKOElyV1pVTjhtWjZkclA3WE9hbTRKVC1XT0Z0cGc4U1lkaVc1cEJTZ2c40gGvAUFVX3lxTE5zcnFRczhQM2FBdDlFMWR6ekotTHF0QUQwVjhXbXlHUWE2VWZscEV5SEVfZnZNbGlkTkhRZUR1UzlNOXdIUGhPNmFITDU0eHhybkpSeWZYQllmWnh3Z1dya3lGeENMYURxanU0YXV0bkNYUWd6bW96TlJobmhYSFVUQTliZEo4SXJXWlVOOG1aNmRyUDdYT2FtNEpULVdPRnRwZzhTWWRpVzVwQlNnZzg?oc=5",
+        "title": "EMVIES 2026: HUL named Best Media Client, Mindshare wins Best Media Agency title - Storyboard18",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXdsLUZxcVhDb2JYbWlDTGRybVJWbzBIeXlkSlBoTGtEVWpIWUJtVHVzYzFXejNKS3dUUjlhVXFlSmhQNEpWQ2Zael9FVzVLaWpVb0t4Nl93QUFPT25SdndPbC1QdE5icFRUak1vSEpzbXdYc0tqc3A3cDBfM1ZSS3RDR1A2NmJzeVhjTlh6cEcxSjhDbTFSM2h1RFVwM09xS0RTLWhiUGZZZ9IBrwFBVV95cUxOc3JxUXM4UDNhQXQ5RTFkenpKLUxxdEFEMFY4V215R1FhNlVmbHBFeUhFX2Z2TWxpZE5IUWVEdVM5TTl3SFBoTzZhSEw1NHh4cm5KUnlmWEJZZlp4d2dXcmt5RnhDTGFEcWp1NGF1dG5DWFFnem1vek5SaG5oWEhVVEE5YmRKOElyV1pVTjhtWjZkclA3WE9hbTRKVC1XT0Z0cGc4U1lkaVc1cEJTZ2c4?oc=5",
         "published": "Fri, 23 Oct 2026 18:59:08 GMT",
         "published_ts": 1792781948.0,
         "priority_score": 14
@@ -144,50 +166,6 @@
         "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaWVaQ1FIb3hxd0lMZktIcVRmcVQzSnRSUU8xdk83cUJYNU5GWHlkTkZyS3NpZ1RyWUxCeWoya2Ixb2RDX1YtZXFaa1lmVUhiNjIxWGFmQVZ1S01xWHdMUVZxZ3FFNG1jakhzYjFoS01aeUc4T295cVdocTN2TFo1MXhVOHN1cGhTM2NTTXgtVFg3RW1vbjhzdGRveHdrZWJHRjhwUzdEd2pWSTlReUlKWWcydkxTM1VBenZrRFY4a1ZyRXNIcjdOOEwzYnZHUlFScFAzOHhTWWFPYmxjMnlwc1FieFJuRFBNUTlJMmFZQWFjVnM5ZzRzRm01SXh2emx1VGZqT0NlNkdJeEhfelhJ?oc=5",
         "published": "Fri, 23 Oct 2026 17:14:35 GMT",
         "published_ts": 1792775675.0,
-        "priority_score": 29
-      }
-    ],
-    "priority_score": 29
-  },
-  {
-    "cluster_id": "6e2300c5f3",
-    "theme_title": "Hindustan Unilever slips Friday, underperforms market - MarketWatch",
-    "date": "Fri, 23 Oct 2026",
-    "published_ts": 1792751520.0,
-    "article_count": 1,
-    "outlets": [
-      "MarketWatch"
-    ],
-    "summary": "Hindustan Unilever slips Friday, underperforms market MarketWatch",
-    "sources": [
-      {
-        "outlet": "MarketWatch",
-        "title": "Hindustan Unilever slips Friday, underperforms market - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbURFb2xWd1IwLVdURVc0M0R2eDdHS0xJSUU5NGVXQ1Fmb2dTaE5MbUJIQm1qWnlIWXE4U01MZno1UnI1WGZBeml1Z0F4ZlpsejZRN1lxWWpnRUY2RFlOWDFsclk2aW0yUUpjeHZVaTVhbTJudnl4dkh6NjlfaWVHMmsxdl9FODhMRDgzNkYwRzVKQ3R1ejJqZlRVa3Utdk9PUnJWRUYtMnJxOXg2?oc=5",
-        "published": "Fri, 23 Oct 2026 10:32:00 GMT",
-        "published_ts": 1792751520.0,
-        "priority_score": 29
-      }
-    ],
-    "priority_score": 29
-  },
-  {
-    "cluster_id": "103e94a522",
-    "theme_title": "Hindustan Unilever Ltd. Share Price Today - Hindustan Unilever Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-    "date": "Fri, 23 Oct 2026",
-    "published_ts": 1792749480.0,
-    "article_count": 1,
-    "outlets": [
-      "CNBC TV18"
-    ],
-    "summary": "Hindustan Unilever Ltd. Share Price Today - Hindustan Unilever Ltd. Stock Price Live NSE/BSE CNBC TV18",
-    "sources": [
-      {
-        "outlet": "CNBC TV18",
-        "title": "Hindustan Unilever Ltd. Share Price Today - Hindustan Unilever Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGtiWkVvdlVOMW1SUWRDcS1zS3h6SUJ0TVU2NTY5QVN6UDFTbnF2VmM3OFpTcDkyb1hMLXNIWEMyYnZEbE5TZUFZVl81TU5WcjRnZDJoOWJVcm56N1ZQWUg3MTJqck5oSmxkeUZISUpCRkZYcllONktfd2kza1I3Wms1MA?oc=5",
-        "published": "Fri, 23 Oct 2026 09:58:00 GMT",
-        "published_ts": 1792749480.0,
         "priority_score": 29
       }
     ],
