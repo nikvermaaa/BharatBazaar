@@ -1,20 +1,29 @@
 [
   {
-    "cluster_id": "da3ee7abeb",
-    "theme_title": "HUL Q2 preview: Margins pressures loom as raw material prices continue to rise - Livemint",
+    "cluster_id": "7e8008c495",
+    "theme_title": "HUL Q2 preview: Margins pressures loom as raw material prices continue to rise - TradingView",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793083691.0,
-    "article_count": 2,
+    "published_ts": 1793097969.0,
+    "article_count": 3,
     "outlets": [
+      "TradingView",
       "Livemint",
       "LiveMint - Companies"
     ],
-    "summary": "HUL Q2 preview: Margins pressures loom as raw material prices continue to rise Livemint",
+    "summary": "HUL Q2 preview: Margins pressures loom as raw material prices continue to rise TradingView",
     "sources": [
+      {
+        "outlet": "TradingView",
+        "title": "HUL Q2 preview: Margins pressures loom as raw material prices continue to rise - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTUwcVZxaWR6ZFJOX0pwclNuSU4za0RpaUpkaWIyRmpzb2RNdjhZU3FTNFJxWWt1cWRLVldGakoxSUJ1OFdTMTFrZTc5SFpRbVg0bWlpd2JBTVVSQi1kNW9HUTdobnkzQnc3LVMxeXg3X0R5enZ1aWI5cDRqdXV3eFhTMG0taEYzajlqeXU4U21zZnQwdFRueEJ3azBiV0FFNU1ScWctV0N4cUZ6cTdRNHhFQUhjR3d0a0JmTnlVZVZvalJqUkI1YnI0WVo3WlU?oc=5",
+        "published": "Tue, 27 Oct 2026 10:46:09 GMT",
+        "published_ts": 1793097969.0,
+        "priority_score": 35
+      },
       {
         "outlet": "Livemint",
         "title": "HUL Q2 preview: Margins pressures loom as raw material prices continue to rise - Livemint",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZUhhbEgxZlNBV3JsaGMxV2JoVFZSM2F5d0tPZTN3OHNIWUszbnpBdnNCOEhXM29NWnpWYjhTSlpUWTdWVjdROG13bDFwdXdyUTA5NWd0eHdYdG1KWGc2b19ESi1VMTRJWmJPVHBWeWdKR1FYc3VCS1NNaXZ5N3pzVVpfS2kxa2pUSy0tYVZEYlhrQUtsMlNYWVBFSzFEQllrOC1HNlNjZ0twZXZBUXRZS2Z3WG91bG90OGpGQ1h3MzBWZnUzUzRVUGRkTWF3VmFnZmJsQVYyYw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZUhhbEgxZlNBV3JsaGMxV2JoVFZSM2F5d0tPZTN3OHNIWUszbnpBdnNCOEhXM29NWnpWYjhTSlpUWTdWVjdROG13bDFwdXdyUTA5NWd0eHdYdG1KWGc2b19ESi1VMTRJWmJPVHBWeWdKR1FYc3VCS1NNaXZ5N3pzVVpfS2kxa2pUSy0tYVZEYlhrQUtsMlNYWVBFSzFEQllrOC1HNlNjZ0twZXZBUXRZS2Z3WG91bG90OGpGQ1h3MzBWZnUzUzRVUGRkTWF3VmFnZmJsQVYyY9IB3AFBVV95cUxQWmxQd21HUTNra0JyaTY3ZUVBenFxYlVlSXNvUnpyZEpmaTVrRk8xMkRVMzUybTV6dU92NTR6QnFaMmJOXzlZd3NGZGdXa3BFcGdlQTVsRWg2am40bVNvYXdjMVE5VFNwUXRBWlZGbGNXWU1MY0JsQ1ZaSzBxWTNWck5RR0x1S0VBdzRJRkFCMnRDbDNhbVdSaXFZeUdJa2gzanlrUWU2TlhrM2lIRWZ4UE8yclBSdnBHb1gwS1B2LVVEd3Z1bUtvRjEzQjZhdmlHQjZEdVZsdTI1ZklB?oc=5",
         "published": "Tue, 27 Oct 2026 06:48:11 GMT",
         "published_ts": 1793083691.0,
         "priority_score": 35
@@ -28,7 +37,7 @@
         "priority_score": 35
       }
     ],
-    "priority_score": 41
+    "priority_score": 47
   },
   {
     "cluster_id": "ac14f88801",
@@ -53,32 +62,10 @@
     "priority_score": 35
   },
   {
-    "cluster_id": "0b35f22003",
-    "theme_title": "HUL Share Price Live Updates: HUL's Financial Performance Review",
-    "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793071820.0,
-    "article_count": 1,
-    "outlets": [
-      "Economic Times - Stocks"
-    ],
-    "summary": "",
-    "sources": [
-      {
-        "outlet": "Economic Times - Stocks",
-        "title": "HUL Share Price Live Updates: HUL's Financial Performance Review",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-live-updates-27-oct-2026/liveblog/135223702.cms",
-        "published": "Tue, 27 Oct 2026 09:00:20 +0530",
-        "published_ts": 1793071820.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
     "cluster_id": "42e99eb507",
     "theme_title": "EMVIES 2026 Honors HUL, Mindshare and WPP Media - Passionate In Marketing",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793071113.0,
+    "published_ts": 1793081584.0,
     "article_count": 1,
     "outlets": [
       "Passionate In Marketing"
@@ -89,8 +76,8 @@
         "outlet": "Passionate In Marketing",
         "title": "EMVIES 2026 Honors HUL, Mindshare and WPP Media - Passionate In Marketing",
         "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWUliVE83djl3dnRuSllJalRaN05DeWVvVmZpeXR4TWJjRFhWNXIyOEFYSWp6N3VoS29ncjhlUjhUQTEyUG56dkZQZE1IYnBDRy05ZGpRT0QyTzVFZVV3aHBxYjkxa3V0bHZUWDJnUXNyRF9IMGp1WGVlTS15aS0zeE9LcjdMZHYxZjhfUTBfSjlwSnh1SUlMTW9zVzZQdDQ4eTM4V25teEZHMDBSYU9IcU5iOVRMQWdZWjBoWDhxWE5VXzNQM3Q4clByQkdsbkx3S2NsMEFzR0tSQkdOc01xaVBnMFN0bFp6M2FfRjhfdEdiMXQ1aUd0d3lOSmFTbGRGTVVQVzlQZFItWUhZb184ekNEWQ?oc=5",
-        "published": "Tue, 27 Oct 2026 03:18:33 GMT",
-        "published_ts": 1793071113.0,
+        "published": "Tue, 27 Oct 2026 06:13:04 GMT",
+        "published_ts": 1793081584.0,
         "priority_score": 20
       }
     ],
@@ -113,10 +100,10 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS0pmZTdRY05XWjItRU11YV9kc09lMk5SRGNQZkphN1Bob3U4RFFHa0c2cDc0VnNPS1FBbFdoTlZENHQycGFYYWpnUlhFMGNVaGJMbzJlb1l5QWhIZWcxR01YVUEzWVpqX01PbVJjOGFSQWRSZTJEdTRaMEp6QU5YUEV5QWhWeVlQVWR3a3I4MGVXLU5xaHp4b25aakZNaVNrc21ia2xuclp5U1RLMDl4MEFKeG1JSko1TlBTUURzNERNc0RiNXZVZVdxdjU0T0xMQ21VVExXSFdvUnlr?oc=5",
         "published": "Mon, 26 Oct 2026 14:49:00 GMT",
         "published_ts": 1793026140.0,
-        "priority_score": 20
+        "priority_score": 16
       }
     ],
-    "priority_score": 20
+    "priority_score": 16
   },
   {
     "cluster_id": "1bc75323a1",
@@ -135,10 +122,10 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0VDLXR2eW42eFNDbUJRdlJwaXh1bjc5NTRiQ292dmZ6VmJ4WXpZQWpfVVRBbktFQjhyUWtoVHM2N0hQbVFDMllodEtGeENfbnJmVE5MSktqYzNWaV9EbWVQTHZJMjJKOUFOY3lnYWVRcTVNRmJVODdfYzdxWFowSnNsYmliblVlMkN3M0V2R2pwUFhVckZpcFBqeFZDejAzVDA5ZEVjd2loY29IQllubFVtWXRoTG9leUFMQQ?oc=5",
         "published": "Mon, 26 Oct 2026 10:32:00 GMT",
         "published_ts": 1793010720.0,
-        "priority_score": 20
+        "priority_score": 16
       }
     ],
-    "priority_score": 20
+    "priority_score": 16
   },
   {
     "cluster_id": "18ce929066",
@@ -157,10 +144,10 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDdoR3hFQ0trR05vdDUzZzdfS3F1NFNHR0pVRlBMdXdKb1NaMmp0WEY4QUFIZEoyb0RUX2hqaFc0UERJQzljcC1URzNySzFhTDhIWWt6TlFhRlBsVzVqY1FpM0hHOXhwSkRsNS1ZaExZVml2dEJCYTN0Rzd3ZVJjV0FhNTNfZy1SMjBLX0M1dlNlWThLRVpxeUE4ZzZpTEFvSWNpanhqQ0ptbnJfZnZwdXZQRlF4bnYwdVhMNnVQNHRNT01wWlhxTVI2MGc4T1Vj?oc=5",
         "published": "Sun, 25 Oct 2026 13:31:52 GMT",
         "published_ts": 1792935112.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
+    "priority_score": 29
   },
   {
     "cluster_id": "b12238372c",

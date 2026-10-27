@@ -1,9 +1,31 @@
 [
   {
+    "cluster_id": "8dc0b62ef7",
+    "theme_title": "Bajaj Finance stock sits 22.48 percent below its 52-week high - ad-hoc-news.de",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793110893.0,
+    "article_count": 1,
+    "outlets": [
+      "ad-hoc-news.de"
+    ],
+    "summary": "Bajaj Finance stock sits 22.48 percent below its 52-week high ad-hoc-news.de",
+    "sources": [
+      {
+        "outlet": "ad-hoc-news.de",
+        "title": "Bajaj Finance stock sits 22.48 percent below its 52-week high - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFlVTWlXV0ZMUlBvSFU0LUo3QUIzNDNMNDlxRENnY3BoOV9kMHlla1JJUmhhM3lhcF9wVUlnTXNJcVBqaFFYenJLRDN4VXRrYmFSV3MwOVFpYmprVG5pSHRzODd3QWZHcW5Vbi1VX0RSUW12TktkQ1IwMUExMkpQcGFuUEM3alAwbUxqV3NwSTdQMjZSTXFQWS00UHYxenJUTW5PRk5rbEdGU1RPaTZ6VVZrS09DMDFDRGZDb2pTVWwxQQ?oc=5",
+        "published": "Tue, 27 Oct 2026 14:21:33 GMT",
+        "published_ts": 1793110893.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
     "cluster_id": "df7b50171b",
     "theme_title": "Bajaj Finance Tightens Rural Lending Exposure Amid Drought Risks In Vulnerable Districts - Sahi",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793074280.0,
+    "published_ts": 1793074323.0,
     "article_count": 1,
     "outlets": [
       "Sahi"
@@ -14,8 +36,8 @@
         "outlet": "Sahi",
         "title": "Bajaj Finance Tightens Rural Lending Exposure Amid Drought Risks In Vulnerable Districts - Sahi",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnlweUtETFBqbXN3dHE0Z0lNMG5YbFpZM1FSYXRxNXBPZzZiV085T1FFTjBIdGJKa3paNS15VUlFd202a0RybXBKd1owM0F3b1VrM3o2VnNhYkZiUnA3Umd3X1ZReEoxRUVDLXBPRmYwWGhLYXdubWRvQlpKLTItN1RNM1dmdnVtR3l4NHFDX3FHRnd3Z3RoV1lzNU9URFdCZFktbkN5YWtSeU45akRHSE00ck4?oc=5",
-        "published": "Tue, 27 Oct 2026 04:11:20 GMT",
-        "published_ts": 1793074280.0,
+        "published": "Tue, 27 Oct 2026 04:12:03 GMT",
+        "published_ts": 1793074323.0,
         "priority_score": 20
       }
     ],
@@ -38,10 +60,10 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHVHcEx6alo2b21qWmcxS1hyLXdxcTFmb0JnRF9qMFM0RkgyblRQZ016SXBnLU04aDdrX01DMW9ScWhBU193bXJCZWQ0a2hRMU9md0xMMl8yYTgtMGtveVZnNjk5Mm13YTJ1MmF2RzdWOEdraWl1LXFpMWFsVmZ0QlZkTzJNWkNsYW5adXBCZnp0OUpLNnlDQ2lmNGRBaXZIVmJNbmZXQ3hXSEo1NHkzOVlTQkZHbFhXZ3NUYl9TU2lMbWhfMzlj?oc=5",
         "published": "Mon, 26 Oct 2026 14:22:31 GMT",
         "published_ts": 1793024551.0,
-        "priority_score": 35
+        "priority_score": 31
       }
     ],
-    "priority_score": 35
+    "priority_score": 31
   },
   {
     "cluster_id": "c59ed3fc22",
@@ -60,10 +82,10 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOENvVDU1cFduWDdrMENwTmNXWGQ2UW5tS21PSGlId2ZrVlBjUGdBVUIyQkhqYnlUNHZrQVZsZFgyMEpCXzN0a0lpamFCa0lmLTBDWTR0dkp5VWlsQU1qeUhOdFJTYnFuUFBrUHgxMHgyQm1QYjhnWUFWWlFjSGI3RTFRMVJiVTN1eGlycHYwZ3JnTDFaYUJIazQzRkNDMl9GYllJMkVGZ2dJNlU?oc=5",
         "published": "Mon, 26 Oct 2026 14:20:14 GMT",
         "published_ts": 1793024414.0,
-        "priority_score": 20
+        "priority_score": 16
       }
     ],
-    "priority_score": 20
+    "priority_score": 16
   },
   {
     "cluster_id": "220fe0fc47",
@@ -201,9 +223,9 @@
         "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMl9rb0tENEV5VnE1OWVMRGIzT3gwNlNxYzI4OHZkeHpzbWQxR3dsYWlpLXdESFNsc3lUVWpQaU5EYU1fRHkxQWZnS1FkZVV6WU9BdTVOSkgtVE1SWnNvQXlfSV9VNEtSdmJQMHdwZXNYdXljcTk1dnZPWXdvMWRFdHZKckFHcjh1ZXp4R3Vvc0pKRGFvUm1ENkZ6dGpIOGtCTGd1dE52cTRZbVFNaTYyMUx2UTRHWkUzTjdjQ29Ya2JTcW5CbGNYTzlvUHFOcDVSSTB3VE9nOXZlVHF6cGFCTmFMZjZPTWJyNkpHUEJuQS1zRlJ3enpOLVM5ZG5FV3c1djN3cVJrU1duc1BTOHZpcnk0SdIBmAJBVV95cUxOX0psUklIVEprbmlFbmJIcEYwVkwtNHlXUHgwdUNaa3dMZ29WbVVZTTdzZVdxUXd6amNBeEFGOE1KakZDc0VTQkN0ZTl3RmZRclZ4bllBMWpNVVN4YXRRNVM4c0xBRWtwYnBRRnFDaFZlTVlCc2dtNlBzcW5NRmhDTVBFSlV1amU3NzlZV0taazBwN0F2Z3FXM1drTzlZS2lEV2lsTzhsWnRzejk3aWlhY2FxQ1NPbXdyb1Y2STBPTmdwa0NjWkZ3a3ZRZWFPTGh3SGFlckVCU1gzdXVtR1VveHRMYnhLMzllZ1JTcXRKclg4M2xnNVJWMkFPYUdvcUo4bmwzMWtfNlFhVEROZk9fZERYb2U5ejBU?oc=5",
         "published": "Sun, 25 Oct 2026 09:36:00 GMT",
         "published_ts": 1792920960.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
+    "priority_score": 29
   }
 ]

@@ -1,25 +1,69 @@
 [
   {
-    "cluster_id": "63c782620c",
-    "theme_title": "Top stocks to buy: Experts suggest BSE, GMR Airports, Nykaa, Zen Tech, and 2 others - Target price, stop-loss",
+    "cluster_id": "615c9a19d3",
+    "theme_title": "Top stocks to buy in F&O segment: CDSL, Zydus Lifesciences, Sun Pharma by Jay Thakkar for near-term | Check targets",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793084559.0,
+    "published_ts": 1793103139.0,
     "article_count": 1,
     "outlets": [
       "LiveMint - Markets"
     ],
-    "summary": "Experts recommended six stocks for possible short-term gains, based on support levels, trend reversals and momentum signals; named picks include Nykaa, ICICI Prudential AMC and Zen Technologies.&nbsp;",
+    "summary": "The Sensex and Nifty 50 ended Tuesday slightly lower amid elevated oil prices and geopolitical uncertainty. ICICI Securities analyst Jay Thakkar said markets may stay range-bound ahead of key events, identifying support and resistance levels for the Nifty 50 and Bank Nifty.&nbsp;",
     "sources": [
       {
         "outlet": "LiveMint - Markets",
-        "title": "Top stocks to buy: Experts suggest BSE, GMR Airports, Nykaa, Zen Tech, and 2 others - Target price, stop-loss",
-        "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-suggest-bse-gmr-airports-nykaa-zen-tech-and-2-others-target-price-stoploss-11793083427379.html",
-        "published": "Tue, 27 Oct 2026 12:32:39 +0530",
-        "published_ts": 1793084559.0,
+        "title": "Top stocks to buy in F&O segment: CDSL, Zydus Lifesciences, Sun Pharma by Jay Thakkar for near-term | Check targets",
+        "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-cdsl-zydus-lifesciences-sun-pharma-by-jay-thakkar-for-near-term-check-targets-11793100938012.html",
+        "published": "Tue, 27 Oct 2026 17:42:19 +0530",
+        "published_ts": 1793103139.0,
         "priority_score": 27
       }
     ],
     "priority_score": 27
+  },
+  {
+    "cluster_id": "652cbc7d8c",
+    "theme_title": "RBI Increases Liquidity Support to Banks as Tight Conditions Push Up Short-Term Borrowing Costs: ICICI Bank - KNN India",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793099120.0,
+    "article_count": 1,
+    "outlets": [
+      "KNN India"
+    ],
+    "summary": "RBI Increases Liquidity Support to Banks as Tight Conditions Push Up Short-Term Borrowing Costs: ICICI Bank KNN India",
+    "sources": [
+      {
+        "outlet": "KNN India",
+        "title": "RBI Increases Liquidity Support to Banks as Tight Conditions Push Up Short-Term Borrowing Costs: ICICI Bank - KNN India",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGp0UE9IQkRTcmZGUUE4R3piTWtmOFhCbGNmdXNYN29jc09uMGdydWd0MkctTk5Cb1RfZGw2TkUxRXRqYTl6U1B2Y2JVczQ0cFhSXzRidy1UVE5XTThHc1BUZGIyMXRWTkdxM2JRZ1R6dU5Ub2laMGZscGJfdGl0QUxvYUxQaDVGQ2xFdzhRNEVTMGxzNTFPXy03RHRTeTFxa0VVWFVfNUNFaTBIQkNlZlVQYmZ2WTBmbW5hTy1BSUxMRzR5ZzlaRkVkR1AwdzczaVF5WGg2aVR4T1Zwemk5Y0NRWHlsNE1sWXc?oc=5",
+        "published": "Tue, 27 Oct 2026 11:05:20 GMT",
+        "published_ts": 1793099120.0,
+        "priority_score": 30
+      }
+    ],
+    "priority_score": 30
+  },
+  {
+    "cluster_id": "73c8652e04",
+    "theme_title": "HDFC vs ICICI vs Yes Bank: Q4 Results Spark Stock-Specific Rally; Which Bank Stock Wins The Race? Target Price - Goodreturns",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793088857.0,
+    "article_count": 1,
+    "outlets": [
+      "Goodreturns"
+    ],
+    "summary": "HDFC vs ICICI vs Yes Bank: Q4 Results Spark Stock-Specific Rally; Which Bank Stock Wins The Race? Target Price Goodreturns",
+    "sources": [
+      {
+        "outlet": "Goodreturns",
+        "title": "HDFC vs ICICI vs Yes Bank: Q4 Results Spark Stock-Specific Rally; Which Bank Stock Wins The Race? Target Price - Goodreturns",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWZLN0xvUld0YmFqY2NJWXM4SU95WGx2bmFadnlmLXRZOURERkxzWGxHaEwzSDRfTE9lNkJFM1lqQ0FzcEdfbFEwbjM0SFpFM18zVUxITG1Mc2pSNmRmTUUxVDJFdC1zY1hvcnh1QVlzb3N1NFB6YWxjdTU3eEgwbVhHb2prQnBvY2NOcWJEZG1zMVJFeEJZMmZIeFpRcDhYNzMwald5bTZSb3UyZDFxNEx5eWZBU1pjRlVjWlBKRDFmOEhUVktZVzJwUmVCaVBLWHRfbVVrM2E5UQ?oc=5",
+        "published": "Tue, 27 Oct 2026 08:14:17 GMT",
+        "published_ts": 1793088857.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
   },
   {
     "cluster_id": "effe125ddf",
@@ -35,7 +79,7 @@
       {
         "outlet": "Free Press Journal",
         "title": "Can Anup Bagchi Boost HDFC Bank\u2019s Earnings? Heres Why Competition With ICICI Bank Remains A Major Challenge - Free Press Journal",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNejkxeldDRmIwVGlSdUtkNnJKS2JZbTY2TUplUHpHZVdSanczTkI2Mk1ROUt2YkEtNU5NLVZCNHowQ2NfMFNQZkQydnJrRml2ZFVEaWtNYmFvZDhoZUVqaFN0RE50UEdVRFItalBhd01QT2k1WnBiRjF4YkprUlBOYnVrQ3B3c2o5WXV0YV9kUnZ1R09ac01WcDRUUW5BVHNSSzljMWRrZ21jSTNDWEhYRzRHNWlkeVFiV2dXYnVqWlhtR3pjWWZrU1JIMGltVDBoMWhtVU50M3haVkU3RUt4TllRNzTSAeQBQVVfeXFMTXo5MXpXQ0ZiMFRpUnVLZDZySktiWW02Nk1KZVB6R2VXUmp3M05CNjJNUTlLdmJBLTVOTS1WQjR6MENjXzBTUGZEMnZya0ZpdmRVRGlrTWJhb2Q4aGVFamhTdEROdFBHVURSLWpQYXdNUE9pNVpwYkYxeGJKa1JQTmJ1a0Nwd3NqOVl1dGFfZFJ2dUdPWnNNVnA0VFFuQVRzUks5YzFka2dtY0kzQ1hIWEc0RzVpZHlRYldnV2J1alpYbUd6Y1lma1NSSDBpbVQwaDFobVVOdDN4WlZFN0VLeE5ZUTc0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMHhDNVNENkNPMnlaQmtxVm9Ka2RpUDBhdWpETGpqYWdBRjI1M3RtcU4tajY1Qm00OVVDdi1kankzSmhQQlBYUjdJZjU5WFE0SFhqTlNWWnI3OWF4OU9CZGE0TXlEbTY0aUk0UTY5MDJndkYxcHppMmhiMXdkZ0MxUW5QWnA5T3pHWXJMQ2lxWVVDR21RMlFlWDNuTDNQMkQwTGZyMThSRnhvMmNTZmFxRmk5SnBLQUhFYVVmM2VqTXBGVlZLbVloVUViTVV6dWktOUVndWwwVzlPN3Qzd0RB0gHkAUFVX3lxTE16OTF6V0NGYjBUaVJ1S2Q2ckpLYlltNjZNSmVQekdlV1JqdzNOQjYyTVE5S3ZiQS01Tk0tVkI0ejBDY18wU1BmRDJ2cmtGaXZkVURpa01iYW9kOGhlRWpoU3RETnRQR1VEUi1qUGF3TVBPaTVacGJGMXhiSmtSUE5idWtDcHdzajlZdXRhX2RSdnVHT1pzTVZwNFRRbkFUc1JLOWMxZGtnbWNJM0NYSFhHNEc1aWR5UWJXZ1didWpaWG1HemNZZmtTUkgwaW1UMGgxaG1VTnQzeFpWRTdFS3hOWVE3NA?oc=5",
         "published": "Tue, 27 Oct 2026 06:51:20 GMT",
         "published_ts": 1793083880.0,
         "priority_score": 35
@@ -97,26 +141,34 @@
     "priority_score": 35
   },
   {
-    "cluster_id": "966b6d3d6e",
-    "theme_title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
+    "cluster_id": "e521635e98",
+    "theme_title": "Zee Business. . Biocon \u092e\u0947\u0902 6 \u0926\u093f\u0928 \u0915\u0940 \u0915\u092e\u091c\u094b\u0930\u0940 \u092a\u0930 \u092c\u094d\u0930\u0947\u0915? ICICI Bank \u092e\u0947\u0902 \u092c\u094d\u0930\u0947\u0915\u0906\u0909\u091f \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940? RIL \u092e\u0947\u0902 \u20b91220 \u092a\u093e\u0930 \u0915\u0930\u0928\u093e \u0939\u094b\u0917\u093e \u092e\u0941\u0936\u094d\u0915\u093f\u0932? #Biocon #ICICIBank #RelianceIndustries #StockInsights - Facebook",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793074289.0,
-    "article_count": 1,
+    "published_ts": 1793071909.0,
+    "article_count": 2,
     "outlets": [
-      "Economic Times - Stocks"
+      "Facebook"
     ],
-    "summary": "Private banks delivered mixed Q2 FY27 earnings, prompting analysts to identify lenders with attractive valuations and flag those investors may want to avoid. HDFC Bank reported a 5% YoY rise in net profit to Rs 19,510 crore, largely in line with expectations, but its shares have fallen 6% since the results.",
+    "summary": "Zee Business. . Biocon \u092e\u0947\u0902 6 \u0926\u093f\u0928 \u0915\u0940 \u0915\u092e\u091c\u094b\u0930\u0940 \u092a\u0930 \u092c\u094d\u0930\u0947\u0915? ICICI Bank \u092e\u0947\u0902 \u092c\u094d\u0930\u0947\u0915\u0906\u0909\u091f \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940? RIL \u092e\u0947\u0902 \u20b91220 \u092a\u093e\u0930 \u0915\u0930\u0928\u093e \u0939\u094b\u0917\u093e \u092e\u0941\u0936\u094d\u0915\u093f\u0932? #Biocon #ICICIBank #RelianceIndustries #StockInsights Facebook",
     "sources": [
       {
-        "outlet": "Economic Times - Stocks",
-        "title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-done-for-hdfc-bank-icici-other-private-lenders-whats-next/articleshow/135224155.cms",
-        "published": "Tue, 27 Oct 2026 09:41:29 +0530",
-        "published_ts": 1793074289.0,
-        "priority_score": 35
+        "outlet": "Facebook",
+        "title": "Zee Business. . Biocon \u092e\u0947\u0902 6 \u0926\u093f\u0928 \u0915\u0940 \u0915\u092e\u091c\u094b\u0930\u0940 \u092a\u0930 \u092c\u094d\u0930\u0947\u0915? ICICI Bank \u092e\u0947\u0902 \u092c\u094d\u0930\u0947\u0915\u0906\u0909\u091f \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940? RIL \u092e\u0947\u0902 \u20b91220 \u092a\u093e\u0930 \u0915\u0930\u0928\u093e \u0939\u094b\u0917\u093e \u092e\u0941\u0936\u094d\u0915\u093f\u0932? #Biocon #ICICIBank #RelianceIndustries #StockInsights - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxQWjJZa1l4SU1tSVJjUlFFc3pfTVVRWnhoNTRyeGpJcm1rSUREemRzdG54eFd3WWp5S0tpY2ZPQkllSkMxLUw1VnVPbUN3TXViOE5jWjJoSk1qX0F0VFA2VWFJZGJ6VWt1eFBmTFVycG1wQkluZzVQejdqd0VfSmRSWnZQQzNsS29KTFNuVDExbkhSaVJLOEJxLTkyTkZwSUp4NVZXektTRmhrUmFTQjdreDRhMFMzVk9JcmFSSnlZQ1ZaeGU5VkttTENtTmp6WGtqZFpYUDBUSmJqQWpPM0NXRVR4VDEzSndZWkx6RDdSdEtDZ21vbUxJSzlKcnplOWxubTFQaXRXZ1hhYTJJMUlpOUZFa3pYR1JSal9hNWFFb0NycWFNM3diZnQwU0wtYU8zaXdjTVQwR1JDZnl2Rmx0cWJtaUs4V3E4RUNBb0swVk00X1IxOVBrRWhWU1hsSXNjaUV0MVRZdlE0QXgyZzFBRVhJd2hXOEJ5R2hRa05tZEJPU0RNVkJvZlZhRDFQenR4YkZCMEpQVXZkN1ZDdG9KMi1nVGd1dkttQ2hjeW82U2NuUXpPT0RWQWRVd2s1MDJpSUM4R19DVWJTbGlELUlpdFVPZVpLMFM0NElKa0JndGhvM1Y4LU5uamp2US1ITXVxOXpfelFOeDJ4RFJoZGE5V2h0UEJyX0dCbUhDRy16Q3ZNeTlJdndMTVh0ZkJsR2lZUGZwN3gycEEwVGRJQkRQLVROYmNxT2dsdC1wTDdubmJFNHpWRmZON3RTb1Jzc0ROc1d3b29Sc2o2dThKMUQ1QWFpUFJMX3MzQ2FYbGY1VXJkVXZ0bk5sdWdkMnRmOUthMlRBNnJLUWVNWmYyRXBkZkNuYVRUUmRLNWtSRmZXejlVRE5TLXRHX29xX0Q?oc=5",
+        "published": "Tue, 27 Oct 2026 03:31:49 GMT",
+        "published_ts": 1793071909.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "Facebook",
+        "title": "Zee Business. . #StockInsights Biocon \u0928\u0947 \u0924\u094b\u0921\u093c\u093e \u092c\u0921\u093c\u093e \u0938\u092a\u094b\u0930\u094d\u091f \u0932\u0947\u0935\u0932? \u0905\u092c \u0906\u0917\u0947 \u0915\u094d\u092f\u093e? ICICI Bank \u0915\u0947 \u0932\u093f\u090f \u0915\u094d\u092f\u093e \u0939\u0948 \u0905\u0939\u092e \u0932\u0947\u0935\u0932? ICICI Bank \u092e\u0947\u0902 \u0916\u0930\u0940\u0926\u093e\u0930\u0940 \u0915\u0930\u0947\u0902 \u092f\u093e \u092c\u093f\u0915\u0935\u093e\u0932\u0940? \u091c\u093e\u0928\u093f\u090f \u0905\u0928\u093f\u0932 \u0938\u093f\u0902\u0918\u0935\u0940 \u0938\u0947 #Biocon #ICICIBank #BankingStocks - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPc0ZiRE10MXNld04tZ2FMWTdLY3dnc1poZFpxN0lzN2c4RlA2c3g4eXRlVENSRGNvYjRPSXJkSTdDTWxocDFUUzEyaTBDV3FrTHNkaVg0RlNBa0steVktbVRYZ2lESHV3QklRZXg5X3k3N0lmbGEzdGhEeU1oTFhmNGhIdEtTdF9yT2ZvSmpKS29JYlRnNTQ3TmVJRWJlRmJ5bGNKLTNXc0xOM0xKQnhVRXhqR1VtM0dXUDdnb29RRDlqdlh5a3lscm5hT0dKNGcyemk0NDhIOGtTZDJGUkdVRGhwU1FUNUJFcTMxb3hkWGRheVpGNG9nTUFJdmkzQlQxZ3EzSURIbE9pN0tueFNSTVNWQld4OGU3RHRiQ2ZnZWJLSmQ1T1M4a3NxTTFIR0hnYTNOajZrVnF3TFVLSHhaQlNHUlN1TVcyQWxEYzlJbXduQTJRRXh0UGd4cTJBYzdqcDFTNTNwaENRa1NyZHppQlpDQ1ZPenFVdTVIZ0N6TDFZQjJuR0pPYzltaEg2RWczaWZTNlhVWnU5ckg5Tzh2Sk5GOXZjRjBSV1NEMW53ZHVkNzVtRURnNU1xX2g4elNiUnVqd0VteF9GZGR1eFVwd0ZqQ09lY0toVnU2UlI2WmJ3UzF4U0lXSDNLVGxuZ1Z1cVdZeDBIY2hQRG5hMFlUTXZMNDZJdUtsc0FLbjNrQzJfanVNbFl5SjhSWktpd3JibEhiMUZSc2oyOWhXVFNTWDZyemJxUVVrVndIZUs2eTNVQmRWSWN3VmtxcU13Y1FTX21KSTJ1MXJNSngzUWViLUE2T2tOTUE5eFlYWlpzcjVQdGlTZzFn?oc=5",
+        "published": "Mon, 26 Oct 2026 03:20:51 GMT",
+        "published_ts": 1792984851.0,
+        "priority_score": 16
       }
     ],
-    "priority_score": 35
+    "priority_score": 20
   },
   {
     "cluster_id": "08af5aaa1f",
@@ -132,7 +184,7 @@
       {
         "outlet": "Business Standard",
         "title": "Here's why Kotak Neo recommends 'Buy' rating on ICICI Bank; 'Add' Nykaa - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU25YNVJCREtCRkxRM2p1bHRDVlozV3lHZHc4NTUwSHMwdE5BTEdVRS1mM2tVYnUzYkV6SWtFOHNZd2ZYNnVVSG5DRUhFdnkwS0lxRmp3TUJ2SEQ4bGtCeEswUEFWMktEMGktUENoTDRkN1p0SHBSWmQ2UGx5RXR1V0hwLXhnU3JuVjhCa0YyQU5LcTNPQ3ppa2dHX0NFendVUHBaazlPUi0tQTBMNU95RkdabEZZQ0laRjlhZzVhSVk0R0FMREIzNXJBMGhhSjJENFpJcUU2U1hYT010MzNsTkY1UjREZHZxeVBsY09n0gHuAUFVX3lxTE9Tblg1UkJES0JGTFEzanVsdENWWjNXeUdkdzg1NTBIczB0TkFMR1VFLWYza1VidTNiRXpJa0U4c1l3Zlg2dVVIbkNFSEV2eTBLSXFGandNQnZIRDhsa0J4SzBQQVYyS0QwaS1QQ2hMNGQ3WnRIcFJaZDZQbHlFdHVXSHAteGdTcm5WOEJrRjJBTktxM09DemlrZ0dfQ0V6d1VQcFprOU9SLS1BMEw1T3lGR1psRllDSVpGOWFnNWFJWTRHQUxEQjM1ckEwaGFKMkQ0WklxRTZTWFhPTXQzM2xORjVSNERkdnF5UGxjT2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGhocnhZQVZtczkyelAxV2VneDJUTXpJYmpSQTdQRjFhR0pMZkp1cWM1eDNCTERVeTFsMFQ1RG5kREtIUGVHX1FJdzlSOVY5MW15T21JUzdJYTBEdGhUV2g0eXczSFVWVUcyejBFQ3lnQUUwd1VzZWNjN1JoZkRVb2ZwM3Z2ejJ2M29Kamx2ZTM5UEdXd0RMYmRNaTRVS0JoT3BYMFRoUGEwaVN6a0VBbVpJb0prLWRhbTV1cHJ6aS16RGFMcHd5R0w1X01Za05NZkxGbXViZVhYeVNUZWtBLXJGWFo1eVh00gHuAUFVX3lxTE9Tblg1UkJES0JGTFEzanVsdENWWjNXeUdkdzg1NTBIczB0TkFMR1VFLWYza1VidTNiRXpJa0U4c1l3Zlg2dVVIbkNFSEV2eTBLSXFGandNQnZIRDhsa0J4SzBQQVYyS0QwaS1QQ2hMNGQ3WnRIcFJaZDZQbHlFdHVXSHAteGdTcm5WOEJrRjJBTktxM09DemlrZ0dfQ0V6d1VQcFprOU9SLS1BMEw1T3lGR1psRllDSVpGOWFnNWFJWTRHQUxEQjM1ckEwaGFKMkQ0WklxRTZTWFhPTXQzM2xORjVSNERkdnF5UGxjT2c?oc=5",
         "published": "Tue, 27 Oct 2026 02:25:27 GMT",
         "published_ts": 1793067927.0,
         "priority_score": 20
@@ -163,28 +215,6 @@
     "priority_score": 20
   },
   {
-    "cluster_id": "db02bd8b19",
-    "theme_title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793054487.0,
-    "article_count": 1,
-    "outlets": [
-      "The Economic Times"
-    ],
-    "summary": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates The Economic Times",
-    "sources": [
-      {
-        "outlet": "The Economic Times",
-        "title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
-        "published": "Mon, 26 Oct 2026 22:41:27 GMT",
-        "published_ts": 1793054487.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
     "cluster_id": "49ebf124cb",
     "theme_title": "How Did ICICI Bank (NSE:ICICIBANK) Grow Profit While Improving Asset Quality? - Kalkine India",
     "date": "Mon, 26 Oct 2026",
@@ -201,28 +231,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS1ZWem9WMkR6R2FqS3RCSll4RzZXLVcwMUJVXy1na3JZZlJ0bWN2ZnhhOU5oU1VZaEg1UjRFbUp0a1BEQ3FJc2JLcHkzNXlNZEhLM3JyTHR5WXZjWURrYk1Oc0FJZFZnRWxnNnhNbE9hUUZhMTR4LTl2aFFoYkVXZDh2OHZWRGN2Qmh3QXJkWFA2UXduSFBFcEMza3B6b29DX3hwdHNZUWJRQjhBZlhvUl94V3RDNEth?oc=5",
         "published": "Mon, 26 Oct 2026 17:13:00 GMT",
         "published_ts": 1793034780.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "1c20290601",
-    "theme_title": "ICICI Bank Share Price Prediction for Tomorrow: 27 Oct 2026 - Univest",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793029675.0,
-    "article_count": 1,
-    "outlets": [
-      "Univest"
-    ],
-    "summary": "ICICI Bank Share Price Prediction for Tomorrow: 27 Oct 2026 Univest",
-    "sources": [
-      {
-        "outlet": "Univest",
-        "title": "ICICI Bank Share Price Prediction for Tomorrow: 27 Oct 2026 - Univest",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWl9Tamc5X05JTWcxcU1rRFh1amNuRFBDd1VxSEszVGhCbFJKSENvSU5SSGd2YzlTZkMtcUZoX29tMjEyZHNHWHdZZEFTZWIxdXk4M29QUHBfZVluXzgtRkJqaW5TRkVlRkxJQnFqcUpFWHZ1ek9SR2ZieUV6azYxUC14NkxNSTVERkhjWklOVS0?oc=5",
-        "published": "Mon, 26 Oct 2026 15:47:55 GMT",
-        "published_ts": 1793029675.0,
         "priority_score": 35
       }
     ],

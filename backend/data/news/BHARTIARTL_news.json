@@ -1,227 +1,236 @@
 [
   {
-    "cluster_id": "e47cd8cc23",
-    "theme_title": "Bharti Airtel share price up 3%; rallies 12% in October, outperforms market - Business Standard",
+    "cluster_id": "95856a96d0",
+    "theme_title": "Jio Leads Mobile User Growth in Sept; Airtel Close Second - Rediff MoneyWiz",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793087197.0,
+    "published_ts": 1793106872.0,
     "article_count": 1,
     "outlets": [
-      "Business Standard"
+      "Rediff MoneyWiz"
     ],
-    "summary": "Bharti Airtel share price up 3%; rallies 12% in October, outperforms market Business Standard",
+    "summary": "Jio Leads Mobile User Growth in Sept; Airtel Close Second Rediff MoneyWiz",
     "sources": [
       {
-        "outlet": "Business Standard",
-        "title": "Bharti Airtel share price up 3%; rallies 12% in October, outperforms market - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0M3a29UYWNtY0wtT2JBRWlvMEVVRjJGb3ZoeTh3cDdrU2hPWVRCN2xPdjFuQi1YZ0ptVV9VeFhHckQ1QUpMYzhhQzhyUHJyc3I4MTc3cFNVeFhUdlgta2NOT3VEU2FiRTZPcE11UTk1d1JSYzlwdWdTU2UyUmdHZnRxaE55aUFaYTRzdHZGejM5WkpFb2k1YjhpeWs1cUo3NzRSVXRucS02cXAzcVZ2cUZXNzJMeGhCazMzOHRvdzl0N0IzNzgtUEh3elZsR3RNdGoyWNIB2gFBVV95cUxPQU5MZTVZRkkyeW1HX04xN3haaTdLa3NkTFlMUTdyZjFTZXI2XzJ2MEhHLUM4OHFhamc2d3VjU1ItUXRJU2hPODJjd2dIRVE1S2VOQ1d3RUZJanFtXzBkMVhIRFBMRFl6MDF3aUY2QmxudlpLSmF4RHAxVjRSbTFaMC0yMXpOaWllMi1TVmFWMElXRk4xRmRwZEdDREVuUVh4N2VST2RhQ3ZVMjhMblpjUkpaNFdKbW56MGtZdGx6TE4zMmI3NXF6U0RVZEpVNEpZSksxbzFneGpxQQ?oc=5",
-        "published": "Tue, 27 Oct 2026 07:46:37 GMT",
-        "published_ts": 1793087197.0,
+        "outlet": "Rediff MoneyWiz",
+        "title": "Jio Leads Mobile User Growth in Sept; Airtel Close Second - Rediff MoneyWiz",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlB5U2ktUGZHVWZUcVhrUGFyaU53cGNsTC1ETk0wVERpRHVxMy04X1U4dWlQVkRUaTl1LUd2UmNxV3RIS0NrbF9fTTZib0FmNVJXRER2R3FkbTdENGhPWVYzZTZBUWlEUDR3WGJBaHNtd05ETlNyRmNxUENrWnk1X0ZjZFhLakNJc2M5WXBCejFDb2VWTF9PRTFvVUd5Tko0bzVFTnlabDhEaWVtZGFnSFZR0gGyAUFVX3lxTFBaUHlTaS1QZkdVZlRxWGtQYXJpTndwY2xMLUROTTBURGlEdXEzLThfVTh1aVBWRFRpOXUtR3ZSY3FXdEhLQ2tsX19NNmJvQWY1UldERHZHcWRtN0Q0aE9ZVjNlNkFRaURQNHdYYkFoc213TkROU3JGY3FQQ2taeTVfRmNkWEtqQ0lzYzlZcEJ6MUNvZVZMX09FMW9VR3lOSjRvNUVOeVpsOERpZW1kYWdIVlE?oc=5",
+        "published": "Tue, 27 Oct 2026 13:14:32 GMT",
+        "published_ts": 1793106872.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "e14fa6f027",
+    "theme_title": "Jio, Airtel add nearly equal mobile subscribers in September",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793104332.0,
+    "article_count": 1,
+    "outlets": [
+      "Economic Times - Industry"
+    ],
+    "summary": "Reliance Jio and Bharti Airtel reported similar subscriber gains in September as Reliance Jio added 2.71 million users. Bharti Airtel followed closely by adding 2.69 million subscribers during the same month. Bharat Sanchar Nigam Ltd also grew by 625,633 subscribers while Vodafone Idea recorded an increase of 550,119 users. Overall, India's wireless mobile subscriber base grew by 6.57 million to surpass 1.3 billion for the first time.",
+    "sources": [
+      {
+        "outlet": "Economic Times - Industry",
+        "title": "Jio, Airtel add nearly equal mobile subscribers in September",
+        "url": "https://economictimes.indiatimes.com/industry/telecom/jio-and-airtel-almost-tie-in-subscriber-growth-bsnl-outpaces-vi-in-september/articleshow/135234364.cms",
+        "published": "Tue, 27 Oct 2026 18:02:12 +0530",
+        "published_ts": 1793104332.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "e9b141477e",
+    "theme_title": "Jio, Airtel add nearly equal mobile subscribers in September - The Economic Times",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793104320.0,
+    "article_count": 1,
+    "outlets": [
+      "The Economic Times"
+    ],
+    "summary": "Jio, Airtel add nearly equal mobile subscribers in September The Economic Times",
+    "sources": [
+      {
+        "outlet": "The Economic Times",
+        "title": "Jio, Airtel add nearly equal mobile subscribers in September - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVDJkTW4yeFZPeks4aDZjUVhlOTJ4WHV6clExYkxRVDBNUUZlR0hiMTdSZFl4YndpSXl6c3pneFRHWlo0T2NOcmlad2oxSTVBTWZMbzdXYWtRbWl1NzBIS0hqN0dIU2puTFgyODRqaXlNRFJpcDkzZk9md2pwdVlIclQ5UFFDM1RhQUxzRDljcWtIMzRuUlpid0x6VHhMNVNVYkRIaTgtdDI0OV9BQUUzTXdYanJjX0FTWFNuNlZqZEN5RDNnUVlUVjMtOThMSFZUUXM1RzlRVUg2YzkyOFdsSWYtRm1YZ9IB5gFBVV95cUxOVDJkTW4yeFZPeks4aDZjUVhlOTJ4WHV6clExYkxRVDBNUUZlR0hiMTdSZFl4YndpSXl6c3pneFRHWlo0T2NOcmlad2oxSTVBTWZMbzdXYWtRbWl1NzBIS0hqN0dIU2puTFgyODRqaXlNRFJpcDkzZk9md2pwdVlIclQ5UFFDM1RhQUxzRDljcWtIMzRuUlpid0x6VHhMNVNVYkRIaTgtdDI0OV9BQUUzTXdYanJjX0FTWFNuNlZqZEN5RDNnUVlUVjMtOThMSFZUUXM1RzlRVUg2YzkyOFdsSWYtRm1YZw?oc=5",
+        "published": "Tue, 27 Oct 2026 12:32:00 GMT",
+        "published_ts": 1793104320.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "ffc8d2a495",
+    "theme_title": "Market wrap: Bharti Airtel, Tata Consumer, Asian Paints, Coal India top gainers and losers on Nifty and Se - The Economic Times",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793104133.0,
+    "article_count": 2,
+    "outlets": [
+      "The Economic Times",
+      "Economic Times - Stocks"
+    ],
+    "summary": "Market wrap: Bharti Airtel, Tata Consumer, Asian Paints, Coal India top gainers and losers on Nifty and Se The Economic Times",
+    "sources": [
+      {
+        "outlet": "The Economic Times",
+        "title": "Market wrap: Bharti Airtel, Tata Consumer, Asian Paints, Coal India top gainers and losers on Nifty and Se - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZnFOR1I2VGNySnFDWnJpeHZZRFJhOUo1dGplZXFGUUYxRmMwMVUzQTFoRlQwYzZUX19MNXBiY01JdE52YldycFlkeXdyeXBMZlcyN0NmYjR4SF9BZlI4UzVNRi1GZ2NIN3BCem1oZTZSYW1aMGJwYk9xYUVqTFQ3VDdhNnlualFoSnh0Z3MwLWVobUdtWU9nSDRtNmJpNnJHVl8tZzJ4RkExcGpfMTJSdEMwaE9PSFVFSFVlLW5TUS1nWGJKM25TanVZT3N2TFlrX1lBREZTd3VQcEdYR1o0MTlaYTVZdWdtX0xFU25nbHVpREt1RmxadU9HWnlhMVJzSVhmRGNXS01TYmhZcXNVOG1IZHIxSTlvdkI00gGgAkFVX3lxTFBGbXNYazFXZDMwS0tDOFE2SEJTZm9VU29uaFBmcmJDVDlzQWtPb2dXYVBCWFdrWjZURFFmR0JXWGFQY2Z3ZFdDOFYxWDFONVFUSGF4VzRvUnJLTk91WmFzLVRMeGtNSzdDZmM0MTR4a2EyVmgyQ19FcXNMUlRrWlowcnVTZ3U1b3VYYzUwczRkcHlyMXNmN1B3d1l1R1FJSzIzRy04S3FFeG9lWGNSSmFEZzVNZ083cURtOG5QOEFFQlFSdWhlUDd5b0piTnV6bDFVMUo4VFlTUEozNElJTUVVVDJGdDRJY0s2Z0dwcFhPeEc1dHE1bGtMd2xBbGIwNTBmVGdOdEt4TVVLSVl1OFd3ZlFGTUtqVWNTRzAwUTNFMQ?oc=5",
+        "published": "Tue, 27 Oct 2026 12:28:53 GMT",
+        "published_ts": 1793104133.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "Economic Times - Stocks",
+        "title": "Market wrap: Bharti Airtel, Tata Consumer, Asian Paints, Coal India top gainers and losers on Nifty and Sensex on Tuesday",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bharti-airtel-tata-consumer-asian-paints-coal-india-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/135234189.cms",
+        "published": "Tue, 27 Oct 2026 17:58:53 +0530",
+        "published_ts": 1793104133.0,
         "priority_score": 35
       }
     ],
-    "priority_score": 35
+    "priority_score": 41
   },
   {
-    "cluster_id": "2b16676034",
-    "theme_title": "Jio\u2019s big-bang listing may give it stock market\u2019s No.2 crown after Reliance Industries",
+    "cluster_id": "f3c9450828",
+    "theme_title": "Jio IPO GMP hints at 22% listing-day pop for a market cap second only to Reliance Industries",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793085398.0,
+    "published_ts": 1793103654.0,
     "article_count": 1,
     "outlets": [
-      "Economic Times - Stocks"
+      "LiveMint - Markets"
     ],
-    "summary": "Jio Platforms could overtake Bharti Airtel to become India\u2019s second-largest listed company after its October 28 debut, with a 22% grey market premium implying a market capitalisation of Rs 12.5 lakh crore. Its Rs 30,213-crore IPO drew 22.2 times subscription, while brokerages highlighted growth opportunities in broadband, enterprise technology and AI.",
+    "summary": "If the GMP pattern holds until listing, Jio Platforms would become India's second-largest company by market cap, pushing rival Bharti Airtel into third place.",
     "sources": [
       {
-        "outlet": "Economic Times - Stocks",
-        "title": "Jio\u2019s big-bang listing may give it stock market\u2019s No.2 crown after Reliance Industries",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jios-big-bang-listing-may-give-it-stock-markets-no-2-crown-after-reliance-industries/articleshow/135227418.cms",
-        "published": "Tue, 27 Oct 2026 12:46:38 +0530",
-        "published_ts": 1793085398.0,
+        "outlet": "LiveMint - Markets",
+        "title": "Jio IPO GMP hints at 22% listing-day pop for a market cap second only to Reliance Industries",
+        "url": "https://www.livemint.com/market/ipo/jio-platforms-ipo-share-price-gmp-market-cap-11793102563152.html",
+        "published": "Tue, 27 Oct 2026 17:50:54 +0530",
+        "published_ts": 1793103654.0,
         "priority_score": 37
       }
     ],
     "priority_score": 37
   },
   {
-    "cluster_id": "f221db2876",
-    "theme_title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Current Trading Status",
+    "cluster_id": "7cb952c94c",
+    "theme_title": "Jio, Airtel add over 5.3 million mobile users in September as India\u2019s subscriber base crosses 1.3 billion",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793072104.0,
+    "published_ts": 1793101627.0,
     "article_count": 1,
     "outlets": [
-      "Economic Times - Stocks"
+      "LiveMint - Companies"
     ],
-    "summary": "",
+    "summary": "The number of wireless mobile subscribers rose from 1,293.43 million at the end of August to 1,300 million by the end of September, marking a monthly growth rate of 0.51%.",
     "sources": [
       {
-        "outlet": "Economic Times - Stocks",
-        "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Current Trading Status",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-live-updates-27-oct-2026/liveblog/135223743.cms",
-        "published": "Tue, 27 Oct 2026 09:05:04 +0530",
-        "published_ts": 1793072104.0,
-        "priority_score": 35
+        "outlet": "LiveMint - Companies",
+        "title": "Jio, Airtel add over 5.3 million mobile users in September as India\u2019s subscriber base crosses 1.3 billion",
+        "url": "https://www.livemint.com/companies/news/jio-airtel-add-over-5-3-million-mobile-users-in-september-as-india-s-subscriber-base-crosses-1-3-billion-11793099005932.html",
+        "published": "Tue, 27 Oct 2026 17:17:07 +0530",
+        "published_ts": 1793101627.0,
+        "priority_score": 20
       }
     ],
-    "priority_score": 35
+    "priority_score": 20
   },
   {
-    "cluster_id": "735ea7b69e",
-    "theme_title": "Bharti Airtel - Positive Breakout: These 8 stocks cross above their 200 DMAs - The Economic Times",
+    "cluster_id": "d3978e0761",
+    "theme_title": "Jio, Airtel account for over 5.3 million wireless user adds in Sept: TRAI - ET Telecom",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793070636.0,
-    "article_count": 2,
+    "published_ts": 1793099366.0,
+    "article_count": 1,
     "outlets": [
-      "The Economic Times"
+      "ET Telecom"
     ],
-    "summary": "Bharti Airtel - Positive Breakout: These 8 stocks cross above their 200 DMAs The Economic Times",
+    "summary": "Jio, Airtel account for over 5.3 million wireless user adds in Sept: TRAI ET Telecom",
     "sources": [
       {
-        "outlet": "The Economic Times",
-        "title": "Bharti Airtel - Positive Breakout: These 8 stocks cross above their 200 DMAs - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRWhfQTF5QjJZZmZjWThkUFgzMGx5bkJacWoxcXlMRldxZDAxUzd2Q0tULWtBV2szbGJEdGFrMm9QV3hOZDJhMUhrV2c0TkhoX2twd1pka3MyMHNJRDdPUVJORWpEWmt5Z2hZU1J1OENrVWlMMFJXR1g5YkF1ZUtUZ1gySGpicE1PWFRjRWFtaUdJd2Y2dXFodVBnTWNVcXRQMDNiU0lzSlFUeWg0aS1LakpocGRxLUVrN1BEWXJscl81Y1N4N0Z3MEpZWC1hVUhaSl9aS1dPNWM1dXgwdlE?oc=5",
-        "published": "Tue, 27 Oct 2026 03:10:36 GMT",
-        "published_ts": 1793070636.0,
+        "outlet": "ET Telecom",
+        "title": "Jio, Airtel account for over 5.3 million wireless user adds in Sept: TRAI - ET Telecom",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNkZscUJNRlRBdTdlZV91dzkzQklKYlBGOHhXTlc1UmVNMWd6dks4S3lkUkg4SG14dTVhY2pZbURqMnJoVl9BYXVVa253bHRfQU9Ib01sbG5sZVJSWDJWaGhnRmI4akJNamRaNU9JN29Wb0djVkdlNkQ4ZzlQWXE2Y1R2eW83cU9paktySC1YYUdkLWtUYm5TLUo2XzN0NHR4bmw2cVBVZGMzblIyNHc1eWhGM3E1Um1mVFg4RlR4VElyV2hXVk5obnhyaG43Q2dZR2N6d0lsa1I5LUxM0gHcAUFVX3lxTFA2RmxxQk1GVEF1N2VlX3V3OTNCSUpiUEY4eFdOVzVSZU0xZ3p2SzhLeWRSSDhIbXh1NWFjalltRGoycmhWX0FhdVVrbndsdF9BT0hvTWxsbmxlUlJYMlZoaGdGYjhqQk1qZFo1T0k3b1ZvR2NWR2U2RDhnOVBZcTZjVHZ5bzdxT2lqS3JILVhhR2Qta1RiblMtSjZfM3Q0dHhubDZxUFVkYzNuUjI0dzV5aEYzcTVSbWZUWDhGVHhUSXJXaFdWTmhueHJobjdDZ1lHY3p3SWxrUjktTEw?oc=5",
+        "published": "Tue, 27 Oct 2026 11:09:26 GMT",
+        "published_ts": 1793099366.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "f43a71205e",
+    "theme_title": "SENSEX, NIFTY50 end rangebound session on a flat note; Tata Consumer, Bharti Airtel top gainers - Upstox",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793097211.0,
+    "article_count": 1,
+    "outlets": [
+      "Upstox"
+    ],
+    "summary": "SENSEX, NIFTY50 end rangebound session on a flat note; Tata Consumer, Bharti Airtel top gainers Upstox",
+    "sources": [
+      {
+        "outlet": "Upstox",
+        "title": "SENSEX, NIFTY50 end rangebound session on a flat note; Tata Consumer, Bharti Airtel top gainers - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUmREREJuOHVRNmlyZG9rbTZfQXl3OW91YTJXZzVFNDZRRVdNV2NqZS1PWDVBTUhKS2pEeVM1di1sdkJzWG5GclNueTRnNC1vTzdrci1DVEJpM013YTZ4SVF6T2JVXzVQR3NnLUdUZmVMLVp3T3ZLU3Fsa1FuSDNpdmkzb1RRc0Y3cDJyN1czbkR2Q3RsZnROX05JelZ4a1o4RGV4VTZuS1VfcWVkSDZ5RDVUVmE4Ykx3Y2xMYkJzZ0xlMnIweVJkNVJjcE5yU1NyTzZscTdEMXM1LUI4YmowbUYwV2dKZTA?oc=5",
+        "published": "Tue, 27 Oct 2026 10:33:31 GMT",
+        "published_ts": 1793097211.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "342a4613ec",
+    "theme_title": "Bharti Airtel advances Tuesday, outperforms market - MarketWatch",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793097180.0,
+    "article_count": 2,
+    "outlets": [
+      "MarketWatch"
+    ],
+    "summary": "Bharti Airtel advances Tuesday, outperforms market MarketWatch",
+    "sources": [
+      {
+        "outlet": "MarketWatch",
+        "title": "Bharti Airtel advances Tuesday, outperforms market - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEVKRjhOeXFBUTRERVZIMTFqaTNIc2tHTDFiSVQ1VGtBQW1xbkh3akQ3SlJ0RUsyQ3Fna2Fpc2UwYVU2U2U5cEVqWWpEQjlwTlZWc05tZWo5VWVBbW1oZWdQblBrNHlSVC1TTVQ1U09WbGJ6V2RYY09SeVJOVW1pWnFvaTN0Z0ozaHFOZzdrVVV2YmNGM2N6Rm5vRnp0Nm9Jdy10Yi1VWV9GVE9WcndhV2M0N2dId2w5SklWSG9jTVRRaG1LaGc?oc=5",
+        "published": "Tue, 27 Oct 2026 10:33:00 GMT",
+        "published_ts": 1793097180.0,
         "priority_score": 35
       },
       {
-        "outlet": "The Economic Times",
-        "title": "Bharti Airtel - Negative Breakout: These 5 stocks cross below their 200 DMAs - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeEdURzZqVWMtalRQVm5yUFJhTDktYnlYRVlRQ294NDI3VURMNW13Qy1FaWlHX25ETjYwSklNSWRfQ1dHN212bGpEZk9RMFNtU2RjTEdDN01TNklYMjhXN2FFNWRwUmN0OWpORGQwdkV5TVRXZlBMTE9jQ2xtUExfeG1rNkY3SFFjMHYxaG1fN3pwTm1kY3ZHS0w2UkhVak1jVW96Mm1GUWFMVzRVNm41NjFFZkk4a09iU1JlYTJKRW4xcXRHTWpqaVhkb2lTd3NFZWIxTTBqSlkzbXJrWkE?oc=5",
-        "published": "Mon, 26 Oct 2026 04:30:25 GMT",
-        "published_ts": 1792989025.0,
+        "outlet": "MarketWatch",
+        "title": "Bharti Airtel climbs Monday, outperforms market - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckdha0t3ck45ODBCTHk1cUNlQ3RxVXlSSzEtaWlXb3hfbFFtWGlveTJOc3huOXg1VTFUVzNFS0tXeHYyXzFMYzBfTU9CRmNpczJEUlQ1MWVlN0t1S1BLZUtSVUZ1cFg2YmljTlhSenNyeFVjR1ltQ2VsRENKSWlsSWpreHlXNERVS0RscXZrdGJqVlp6bENNc2g5bDZxQ0dsQnNYbHE4M0RvM20zSndxbzAxWVMxTFlXalFlWXdkSkFTZw?oc=5",
+        "published": "Mon, 26 Oct 2026 10:33:00 GMT",
+        "published_ts": 1793010780.0,
         "priority_score": 31
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "1cbbe37d02",
-    "theme_title": "Trade Spotlight: How should you trade BSE, Mankind Pharma, Bajaj Finserv, Bharti Airtel, Zydus... - Moneycontrol.com",
+    "cluster_id": "470c861135",
+    "theme_title": "Bharti Airtel Ltd Sees High-Value Trading Amid Narrow Price Range and Institutional Interest - MarketsMojo",
     "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793069026.0,
+    "published_ts": 1793093534.0,
     "article_count": 1,
     "outlets": [
-      "Moneycontrol.com"
+      "MarketsMojo"
     ],
-    "summary": "Trade Spotlight: How should you trade BSE, Mankind Pharma, Bajaj Finserv, Bharti Airtel, Zydus... Moneycontrol.com",
+    "summary": "Bharti Airtel Ltd Sees High-Value Trading Amid Narrow Price Range and Institutional Interest MarketsMojo",
     "sources": [
       {
-        "outlet": "Moneycontrol.com",
-        "title": "Trade Spotlight: How should you trade BSE, Mankind Pharma, Bajaj Finserv, Bharti Airtel, Zydus... - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPcXlrTl9samdmNWk3Q1ZsbzAwYmc0bjV1VlVpeEdtNXFYNXNtVmRQV3A2LU9icmZBWjh2d2pmblUwWjIwNUdKeVNvQURIeXJyNnVEa2YtT0tIVF9xdlNFSnhDR2tYYVp2WUIxMGF2M3FQbnE5Y042NldwVU9KNlJYb1F5RkRUM0ZMTDh0RWg4aElndHlMWEIwLVktMWtOSlpod2JqbllyRkpzUWFtQVBnWGdKSUVZVF9adHhfbTZfTkpDeE96RkdKMFJvQUdjazB6T0Ezd3NxRl9EQVFOUlJwSXNUYXkwbVRJSk93aF9qT0lsZ1QydHBHOHpLd3JHOUpLMkFPZG5RcVU3d1NOYlhRYWdaQmxtdzZtYTV0btIBogJBVV95cUxPT19JbENkSVdZZzAwUmk4a0Z0ZjZCTThESHR1WjFrRXd6d3ZHay0zY0NkU0JpdExVdmF6SHRYeVcxLUZuakdRd2E3dklHb0FNTUJsNWhPMGdMT1E3YU5vTjBzNm9GRi1lel9pUThadzdaOXNLMFg0a0VyNWR1TWEzdmhfam5tMG1UZVM2a1hKcEJKcHlhWVdQT0h4N1ZwaDVSWWRnaTNCMEx6NUc2cGFVQkNGNXQxZFJQc2NTSmwxRUlQWTI4eVRPWG02ckh6YXl1UXpRV3FpNU1vMXJ1dllOemtma0lBcVZ4RXN6bXNMR0RZSW84OGt5S0llbkdFdS02RVRQMWoxd2E4cFYwWk5XVDl1SlgtVmdLVlRLbjFuTmZOQQ?oc=5",
-        "published": "Tue, 27 Oct 2026 02:43:46 GMT",
-        "published_ts": 1793069026.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "c7ccd49140",
-    "theme_title": "Bharti Airtel Free IR with Postpaid is Claimable after 90 Days - TelecomTalk",
-    "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793064680.0,
-    "article_count": 1,
-    "outlets": [
-      "TelecomTalk"
-    ],
-    "summary": "Bharti Airtel Free IR with Postpaid is Claimable after 90 Days TelecomTalk",
-    "sources": [
-      {
-        "outlet": "TelecomTalk",
-        "title": "Bharti Airtel Free IR with Postpaid is Claimable after 90 Days - TelecomTalk",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0NmLWlka3kxSG5VM2lHdk5xY1d0SE1uWjJUeUNkTXRkQU4yMUEzcVktUHEwMmJ2OWVHNE1QbC1qLUFEQW8zZVpvMTZReVFjSzVzOW9qbUFqZ1UwcnU5Z2NFajM1VnFTQzdKZEUzdjhvQ3FxSW9DVTNib3lVYVFFeA?oc=5",
-        "published": "Tue, 27 Oct 2026 01:31:20 GMT",
-        "published_ts": 1793064680.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "8bb5c630b0",
-    "theme_title": "Bharti Airtel Features in Trade Spotlight as Telecom Steadies a Weak Tape (NSE:BHARTIARTL) - Kalkine India",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793033940.0,
-    "article_count": 1,
-    "outlets": [
-      "Kalkine India"
-    ],
-    "summary": "Bharti Airtel Features in Trade Spotlight as Telecom Steadies a Weak Tape (NSE:BHARTIARTL) Kalkine India",
-    "sources": [
-      {
-        "outlet": "Kalkine India",
-        "title": "Bharti Airtel Features in Trade Spotlight as Telecom Steadies a Weak Tape (NSE:BHARTIARTL) - Kalkine India",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUcxTXZibTNDS3pPSHVERHFPTm5CODVVSmY2NEp5QTdjSU1leFpQN1JMOENpb2IzNnBocVBJVnBTQnpMdFRsWUg2VUhHWk5TeWhmZWRaYzBwZW5iTHZJaEhSRzVDdEdFclNxUFlCdk1kUlpqczMtMkZ4RkhJQnlteGNZZ3NHVWJCX3NnYXphUjFmRS1VdWcwNmVRT3QwbWhrM0ljUFJ3RzRidnZ6YVUzTWM1ci1QR1dReFNyaTh0VG11RGpUcm1Rd0pqdnI?oc=5",
-        "published": "Mon, 26 Oct 2026 16:59:00 GMT",
-        "published_ts": 1793033940.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "ff37b9cd1c",
-    "theme_title": "Bharti Airtel Earns Nearly Twice as Much Revenue Per GB as Jio: New Street Research - TelecomTalk",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793022829.0,
-    "article_count": 1,
-    "outlets": [
-      "TelecomTalk"
-    ],
-    "summary": "Bharti Airtel Earns Nearly Twice as Much Revenue Per GB as Jio: New Street Research TelecomTalk",
-    "sources": [
-      {
-        "outlet": "TelecomTalk",
-        "title": "Bharti Airtel Earns Nearly Twice as Much Revenue Per GB as Jio: New Street Research - TelecomTalk",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80cTIwU3NTSDMtQk1RVkhkS0tkZDczeGt2dExVU3p1anNNY0JBUEZZSGJDM2RwVWFUU3BpclhqbW0ycjVVVW1rbWxTSTN4c3NNaktQZE9UTE9YaWdwMWxWR1dXb1c1QVAtQmYyTjZVMjZ3X3hrTDZpX29jNks?oc=5",
-        "published": "Mon, 26 Oct 2026 13:53:49 GMT",
-        "published_ts": 1793022829.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "8a54b074c9",
-    "theme_title": "Bharti Airtel BHARTIARTL Reg 74(5) Certificate Q2 2026 - Kalkine India",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793021460.0,
-    "article_count": 1,
-    "outlets": [
-      "Kalkine India"
-    ],
-    "summary": "Bharti Airtel BHARTIARTL Reg 74(5) Certificate Q2 2026 Kalkine India",
-    "sources": [
-      {
-        "outlet": "Kalkine India",
-        "title": "Bharti Airtel BHARTIARTL Reg 74(5) Certificate Q2 2026 - Kalkine India",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWVQRmVlR2xmdU5OR3dGeE0zc0NkUWFFT3ZHanh2ZUlPWVNNYUw5NnFNZmQ1a0xBM1ZGSGdFS1FRLTZKYTZibUUyWUROcVc5VE9RUThseEVLcHBTWWZ0M0oxYV8tblh3SjA5Z0pFQzFac0pXb2lVelIxYXN0MUZCaE1kdDJsREhzYmtSRUZta0U0dEdDWFp6RV9oOGZvek1uQVFmOC1fWUFnT3A5R29ibVp4N3IzWUU?oc=5",
-        "published": "Mon, 26 Oct 2026 13:31:00 GMT",
-        "published_ts": 1793021460.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "6113ee5d23",
-    "theme_title": "Bharti Airtel Share Price Prediction for Tomorrow: 27 Oct 2026 - Univest",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793013580.0,
-    "article_count": 1,
-    "outlets": [
-      "Univest"
-    ],
-    "summary": "Bharti Airtel Share Price Prediction for Tomorrow: 27 Oct 2026 Univest",
-    "sources": [
-      {
-        "outlet": "Univest",
-        "title": "Bharti Airtel Share Price Prediction for Tomorrow: 27 Oct 2026 - Univest",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUkg5S1BRbzlkbTVvYi1jalY2RU5nemd2WWJxOWt2c1NReTRNTGMwWF9ZX2ROcTlXR2llaEdaOXpIMXNPOXV0emdJUWtBOFNNRUhsS3RMVUdtek1DdlljYkdpZHVIMFQ5dWRMVnRPNi13SGczNjRqdHVvdjVia2RNc1hSYXZkb3Q0VThqck1nTldzX243?oc=5",
-        "published": "Mon, 26 Oct 2026 11:19:40 GMT",
-        "published_ts": 1793013580.0,
+        "outlet": "MarketsMojo",
+        "title": "Bharti Airtel Ltd Sees High-Value Trading Amid Narrow Price Range and Institutional Interest - MarketsMojo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcmJ0SnNKUDZ1Xzg2Y05nRTNqdEpZeDRncEMyV1Z0Wl9KYzA2c1RhdmFPNXBuQ2x3OHJmRGszaFVJenBZNDM3MmE4Znh5SG9NOERlcnFueHFoVmtyZDRkdHpTU0o3WDVXQk5TYTlFMDFNdjFMVWViNEVRd2c5b3o0eTJPZl9lbGtOVHZsWG5hcUFIaDFxZndYMmo2Ry1iQ25PUVFfaUI2S2RHM2JnMG83SkxLSGdmUlZQNTNmQjdOZnhFVVRtZ241Y1h5Z0JvTmRBaXhsUS1MVFpMMjA0SVQwQi10OTg?oc=5",
+        "published": "Tue, 27 Oct 2026 09:32:14 GMT",
+        "published_ts": 1793093534.0,
         "priority_score": 35
       }
     ],
