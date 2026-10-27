@@ -1,247 +1,311 @@
 [
   {
-    "cluster_id": "b863fb6d67",
-    "theme_title": "Citi cuts HDFC Bank target from INR 970 to INR 880 for HDFC Bank stock - ad-hoc-news.de",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793024856.0,
+    "cluster_id": "830d23a9d3",
+    "theme_title": "HDFC Bank leadership change: Anup Bagchi takes over from Sashidhar Jagdishan as MD & CEO - BMI",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793092257.0,
     "article_count": 2,
+    "outlets": [
+      "BMI",
+      "Storyboard18"
+    ],
+    "summary": "HDFC Bank leadership change: Anup Bagchi takes over from Sashidhar Jagdishan as MD & CEO BMI",
+    "sources": [
+      {
+        "outlet": "BMI",
+        "title": "HDFC Bank leadership change: Anup Bagchi takes over from Sashidhar Jagdishan as MD & CEO - BMI",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdlZldkl6UTBBZ2hRTzIyV1dwMGoxOW1YUTNZTW13YmtIanVyN0RCYVZBYU5sUlNfOXFmM1BhN0dxTDlxYnZ2YU11VTVNdXhkWDdmamtoZmxoUW1nZzNnaThYWW5tSnZvZnJuQWFPYllaQlUwUGhGeHp1dGEzRk5GM2JxYjY2a1ZFMDhGSF82YjZzY3R6NzMyZ1gwamowcjRSZ211NjVrR3c2bHNSUDl6bVVudFpZcTFGdXFBM0ZyT29mejZYUkczd1MwcEgxdU9PMWprZVlkdllpRmpYVG50UzloT2_SAeQBQVVfeXFMTnZWZXZJelEwQWdoUU8yMldXcDBqMTltWFEzWU1td2JrSGp1cjdEQmFWQWFObFJTXzlxZjNQYTdHcUw5cWJ2dmFNdVU1TXV4ZFg3ZmpraGZsaFFtZ2czZ2k4WFlubUp2b2ZybkFhT2JZWkJVMFBoRnh6dXRhM0ZORjNicWI2NmtWRTA4RkhfNmI2c2N0ejczMmdYMGpqMHI0UmdtdTY1a0d3NmxzUlA5em1VbnRaWXExRnVxQTNGck9vZno2WFJHM3dTMHBIMXVPTzFqa2VZZHZZaUZqWFRudFM5aE9v?oc=5",
+        "published": "Tue, 27 Oct 2026 09:10:57 GMT",
+        "published_ts": 1793092257.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "Storyboard18",
+        "title": "HDFC Bank appoints Anup Bagchi as MD & CEO from October 27; Sashidhar Jagdishan Exits - Storyboard18",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHZKZF9hYWhoeloyb201UjBwcllneE1BaEU1U2FIUTNWY0J5cG1WMDZPck10QWJHWmRkZlhrNDE1MDZGVWNxc0s5dk13SW8xXzBBMW9uWTh1eGI5SFJuTGxLLWpQVkxDbWpCTlphVjNMeFhSY0V3ZWNkWHVCZEI3SkVicWtQVkc1QnFyQktTMTVKT25vdFlvLThOdjVVT0o3b09qUktxODVlZ9IBqgFBVV95cUxPVHZKZF9hYWhoeloyb201UjBwcllneE1BaEU1U2FIUTNWY0J5cG1WMDZPck10QWJHWmRkZlhrNDE1MDZGVWNxc0s5dk13SW8xXzBBMW9uWTh1eGI5SFJuTGxLLWpQVkxDbWpCTlphVjNMeFhSY0V3ZWNkWHVCZEI3SkVicWtQVkc1QnFyQktTMTVKT25vdFlvLThOdjVVT0o3b09qUktxODVlZw?oc=5",
+        "published": "Tue, 27 Oct 2026 06:52:27 GMT",
+        "published_ts": 1793083947.0,
+        "priority_score": 30
+      }
+    ],
+    "priority_score": 36
+  },
+  {
+    "cluster_id": "217279147f",
+    "theme_title": "HDFC Bank stock hits a 52-week low despite Q2 profit growth - ad-hoc-news.de",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793089439.0,
+    "article_count": 1,
     "outlets": [
       "ad-hoc-news.de"
     ],
-    "summary": "Citi cuts HDFC Bank target from INR 970 to INR 880 for HDFC Bank stock ad-hoc-news.de",
+    "summary": "HDFC Bank stock hits a 52-week low despite Q2 profit growth ad-hoc-news.de",
     "sources": [
       {
         "outlet": "ad-hoc-news.de",
-        "title": "Citi cuts HDFC Bank target from INR 970 to INR 880 for HDFC Bank stock - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa29WTmRaS2piMFIzR3ZxX3BQTFVpZFNCZEw3NnJQSldleTdkQ1dYM2FxRDRzTVBsTFBtcHZlSVpPUnlCcnVlQ2I5V0hFMmZXMm1QLThlWUx1LTBaUmZLS1pURDRCOGhZOXctYkdZa0hkRk9hMHBsSGxRUUdzeU9MZkM5eXhaSVhIb0htbHJvbkstUUtnREFyWlNGdmlJbzROUzFLS3VXa2E1MXZCRUY3d1ZMWEtKb2xoeWFJNmpidTl0OXJYOW8za3pBR0V6Zw?oc=5",
-        "published": "Mon, 26 Oct 2026 14:27:36 GMT",
-        "published_ts": 1793024856.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "ad-hoc-news.de",
-        "title": "Citi cuts target for HDFC Bank stock from INR 970 to INR 880 - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXpWMmxDcXJlQ0NTWmdlWGVsWmJzcHNSTlVFTzc1NllVb2RQNUVISGxvakNrcHlxRV9hVUxIT0I4X203a3JrckZ2U185bk1zTmZTQk5adXJuS2M3SWprTE5JZ21DRjJIRFljTURrT19yaC0xSmJrOUdGYW1nUktpTXpkNVlDOFRUaGNfU3ZQalZHTWlYNTQxUm1fVHFwU2FCQ0RCQkpBakEwenZReHM5WnRLZVo5MGphMFAzS193cGo?oc=5",
-        "published": "Mon, 26 Oct 2026 08:10:41 GMT",
-        "published_ts": 1793002241.0,
+        "title": "HDFC Bank stock hits a 52-week low despite Q2 profit growth - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcDV3NlFwbTI0RzN1LXNOdF9RLTlqTzRjS05FV1RtRFJzWWpzalRaN3dZajdNcmNPVE5WT2xJTWFiYUpVQXpaQzFKbmxWVFFkRExSaVlNNzBzVU1TWjgzX3VwbzdQaS1Td2ROdFRrcnhGbmVobHkxak5aQkpkYnMxY1VJeXkydnF0M29SQXBzOE9lbEdVellnMThHcE9VdVpwNFdMNmthUEVici0tekJJOXV3bVpPQ3R5Ymw1QXFBZw?oc=5",
+        "published": "Tue, 27 Oct 2026 08:23:59 GMT",
+        "published_ts": 1793089439.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "5714bb25a3",
-    "theme_title": "HDFC Bank ADR nears key $21.71 support in downtrend: Live levels By Investing.com - Investing.com India",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793024736.0,
-    "article_count": 1,
+    "cluster_id": "8cfb49865a",
+    "theme_title": "Anup Bagchi takes charge as HDFC Bank CEO and MD - The Hindu",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793086104.0,
+    "article_count": 8,
     "outlets": [
-      "Investing.com India"
+      "The Hindu",
+      "BusinessLine",
+      "ETV Bharat",
+      "The Economic Times",
+      "Fortune India",
+      "Rediff",
+      "Mid-Day",
+      "Business Today"
     ],
-    "summary": "HDFC Bank ADR nears key $21.71 support in downtrend: Live levels By Investing.com Investing.com India",
+    "summary": "Anup Bagchi takes charge as HDFC Bank CEO and MD The Hindu",
     "sources": [
       {
-        "outlet": "Investing.com India",
-        "title": "HDFC Bank ADR nears key $21.71 support in downtrend: Live levels By Investing.com - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0hYbWhnNmN1bG40eXA3NEJlemZPX21iRzdVTXluendiLUZDZC04U0VpdTN4dmN4SXRhb3NncFlvcldxVTNxQms4SXRxeTVOckU5YVB2STJGMC1kVXBPaVV5cWtRbHcwVXhZYmFwaDFMYzNxRmdxR2N6S1BtZHluREVZWm10VHJxRXVHZGhmZ202QnFKUUxRZTgzUlIxSEx1bU9Lci1DbEZKdkNYOE42aS0yNEwxT2ljTWRWeEtGUQ?oc=5",
-        "published": "Mon, 26 Oct 2026 14:25:36 GMT",
-        "published_ts": 1793024736.0,
-        "priority_score": 20
+        "outlet": "The Hindu",
+        "title": "Anup Bagchi takes charge as HDFC Bank CEO and MD - The Hindu",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONFlfSTBNWV9VcjdLMTY5UmM4eDFyZ0lPR0RnSmhYbnJTRVd3ZXd0ZXBQSmNTaUpzUGJtblJpY3BGNGVuVUdKUHo1SElDMnVKdEtfUHJoQ3FBd2tLVnM0UHM5MWxSLWpFdllmcDhFdGE0ZjhYYlZmTEMzdUlSQ29QTnItT0o2U1ljUmU5NXNqVG82QzdBc0dVNm11dV9qckhNWlJhU9IBqwFBVV95cUxQYUlRejF6R1VtQ3VZWllMMEZXYXYzc0dmeEJPajJWbGVobDFIUlpDcjZqTHZZT0FNRlBlZF81bzltNDJYaUQyWGtHa3EwMXVhNjI5bGtNS2tuS045N3dtN3ZWdFdqRVBYYW56YWdGZnNDSi1mQVZ6OWFjMjVzOFJabEtQQ2VFUHo4bGJXd2pVamNnWTJ2eFN0TmhHOUhEa2R6ZUJwQjlwQTMwQ00?oc=5",
+        "published": "Tue, 27 Oct 2026 07:21:39 GMT",
+        "published_ts": 1793085699.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "BusinessLine",
+        "title": "HDFC Bank shares steady as Bagchi takes charge as MD & CEO - BusinessLine",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMW9zeGxSc0E1ZFB1YlJFQkl5d1Bmb0JmbHNJUnhDVXdvcDFWdkR3V2d5VEtGN2xrdmY4NFRaY0FnUzhJY000WmZvQ3NnX3RNcWlBZ3JJVHRkcnRWRXpWWXhTZ0NOSVNieHJOWUNpQkNFZGVBWC1PRlR3WlJDMUNqajhZMWlCTWVPRjAyUkhMaGZTYW9wU3ZNdVZYTzNiRnZydkc4WldvMXZsSTFqdC12U0JpbTFHQk9ZakVFSGs5Nk0tcnZfb2ZQR1Y3N0Nmand6bHlTQzJuRUw2TGNaT050OHdHZzhra3Y0elHSAfABQVVfeXFMTnlaR1JjWFlOQ2pHdXB1WmFtcnRKallwZlJhMVVjTWFmYnJhNWJjZVZvb1N1WmhwdXhjTU5TTTk5c2Q4OXpySklaSHNGSjBPNDZJVVBhbWZJQjVyZ1JtZ1lsUTJENnptRF8wUXZ5OXRvVDh4aFNndUxfZWJjM0FUUEJqbGNBUVR0XzRKOC1oOFZsOU94TWowMEN3c1dkOV9jbFdsci14NkVvZDh0ZW5zMGpGcFQwaUlNRDZXczRYRE9vUW5PODhwZFhhMW9WUnM2c2c2U0R2WWM4d0JMWjZxaDhmaDFKOGJyOXNlaERoVWVQ?oc=5",
+        "published": "Tue, 27 Oct 2026 04:55:08 GMT",
+        "published_ts": 1793076908.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "ETV Bharat",
+        "title": "Anup Bagchi Takes Charge As HDFC Bank MD and CEO Amidst Business And Governance Challenges - ETV Bharat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3MzVVRxbjB3WkgxR0tMaVVHSmo4VEpZd19XTWxpZlQwdHk4dEM2RXNmWTVyT1RsSkxqQW1OQUdfck15V1dENVJWRXVrQjVMU1FESEs0YThRWVJmeHZqNUd5RGpwN0lYYk9DYWJHTzMyLWFVQ0hZOFRlR3FVczZvZW1UYVRmWElCR0tzYW5zSk5rUVdFdjdSUjUyM3IwY3FuZTBj0gGoAUFVX3lxTE5PYnd6ZnJ4QWNlRjhTRkxSYkNsM3JoRmpSLU9kei1WWEtjU2k3cDlFQUFsRnJ6SlRzOFRVNzAzYjhWQklEbUNWWV9NOXVrSXFnZy1UelF1VEZNOXJDcExWV3R1MTd1aFhXVXdpR2EweHNOU1NYRlMzZFluRHBKZkxOWWdaTzBhcDZOeWFFaDdUVDdfY3U1aGE4ekt5ckVfYkR6cUxUSmRrbQ?oc=5",
+        "published": "Tue, 27 Oct 2026 07:28:24 GMT",
+        "published_ts": 1793086104.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "The Economic Times",
+        "title": "Anup Bagchi takes charge as HDFC Bank MD & CEO - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeXRRcXBSak9CVVB0Z1JfdUtQUmk2bHUtbFgzcEh5Ylg0WWZGdS1MSGRpY2xnQ0ZoYUsyRVhXYkdMdVRGN1FHbWUxQXEzMXRkM2lfMWJIYWM0NUlXU2tlVlNYV3NrM3ZLSG03RkpqUFdwNGNvSGxDd1V3bUd4dXV3T1lhQ2tOZXZwN3BlSEgwMGM3QnpwYmotZElKVl82V3EtYjR3OXgwTDR1WTdjaWNqNVY3bm9IT0dqaFV1TXhkM3dGLUxFclpqaVFXbU9TSnRlZWpIZ0dkOFkzWTBQYlVkZkYzLTlfNDQzeDEtQnd2cGJfYUhh0gH6AUFVX3lxTE5UUGNLT3UxRVBPSkt6clBHaDlhVXV5QVBkWEVTaUdEWmdlMXUyOUIwTWpGTFk0SDlJc1g3Y0Q3ZXl0Mlc5UnlnQmJzSWN4YlRRZEVHUFoxcnNHVVNPeTNUWkRDSjBSVjV2dXZOYlkzV3JBWktnbmdRenRhVkZpb0JkajFDX1h1dU1ENFZjRTNva0d4Ml9HcHI0XzhSYV9FS0FzTE9CeHNmWktXSkFKUGVlSWxsUGpFYmpnVHMwRWxUQ2JBaHFwd2w5NGJCdG5XWmt3SmJNWHlLNTl5R0plcUl1ZnNhOXFOZU5xTUhCX3ZjWmhRZVpDUTB1SGc?oc=5",
+        "published": "Tue, 27 Oct 2026 06:13:19 GMT",
+        "published_ts": 1793081599.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "Fortune India",
+        "title": "Anup Bagchi takes charge as HDFC Bank MD & CEO amid growth, governance challenges - Fortune India",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHhMdGF0d0VTN2l1YnZfZmM2T1d5QU1yYWtVcUVPcEZfMXlXNDlXQVlMNnZvZHJiQ0FIVjhadkp2cXZPZUpvbERkRlBraU12Vk5ZR29JamFSSjhBWHdOWTRFMUZJU0N0YUVocWRzSnRmZ0xmTDBXZTg4N3V6bGJuWEljN3NicmZ1dnpHTnVfcVdGQjVHMGpIRGxUbjVfNWlWOGtpMkZVV3J4a1RvVFdrUGRab0NBU3dvbkd2cnpBbVZRMTV1OHFFUDZKNlkydXNiQndpSdIB1AFBVV95cUxQTHhMdGF0d0VTN2l1YnZfZmM2T1d5QU1yYWtVcUVPcEZfMXlXNDlXQVlMNnZvZHJiQ0FIVjhadkp2cXZPZUpvbERkRlBraU12Vk5ZR29JamFSSjhBWHdOWTRFMUZJU0N0YUVocWRzSnRmZ0xmTDBXZTg4N3V6bGJuWEljN3NicmZ1dnpHTnVfcVdGQjVHMGpIRGxUbjVfNWlWOGtpMkZVV3J4a1RvVFdrUGRab0NBU3dvbkd2cnpBbVZRMTV1OHFFUDZKNlkydXNiQndpSQ?oc=5",
+        "published": "Tue, 27 Oct 2026 06:35:43 GMT",
+        "published_ts": 1793082943.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "Rediff",
+        "title": "Anup Bagchi takes over as HDFC Bank MD-CEO - Rediff",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMHFtbzVoZ0l4U3F1eThYbVh0NzcwbGs5bkZZMVBZWHhjWFh0WTBLVjRMVVV4S216dHRJMmRnRGozcURQTENINTZqOG9uSEFMdVE3TURMN0tEX3BsM2pyanZOV0pDd1g4Y1R4VFB1OVppVUJfblVRdlJpY0RMRGZEbDNnWEtmT01pSWhDY2Nlb0twdmVHV0VKbWNSamNvSFdBOEQweHBWMzFwQk9YMDRqeEFqcjhfajFFYkQyZERPdktkTFk?oc=5",
+        "published": "Tue, 27 Oct 2026 06:17:48 GMT",
+        "published_ts": 1793081868.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "Mid-Day",
+        "title": "Anup Bagchi takes charge as HDFC Bank CEO and MD - Mid-Day",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb045RlJJaUdGdkpMRTBCWE9NbnBERWFuZDdIeThNMkhud2J6bnlkNlpZT01uMXhXMW1KSlgtOV9vM0hJbzZyYlU0TVFIUHFnVHhyRHhfRFdvUWpQeUE1WGNMSEhUNUk1WE80bjR5MEMxUm5WSjgwX2c3XzhfY25hU3o0VTdaUEpxLTFXdlJSaVlOMTBrSktRc3kteF9YSjVXeVlVMHhYemFqVnh2SXdNWW5SNTNtcWRFNklLYkhDRFo2TkdxZGE2UVFZN3dUSC12b2JUYmhTOE1GRkdvc3BSbktpNzJhZw?oc=5",
+        "published": "Tue, 27 Oct 2026 07:26:00 GMT",
+        "published_ts": 1793085960.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "Business Today",
+        "title": "After Sashidhar Jagadishan, Anup Bagchi takes charge as HDFC Bank MD and CEO - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONm52Y01YZUNxTUNzd05QNFRfMDFsdUQtdGtzRzRoTmRna21MYWdlQjBEQVVRX3ZIZjI3Q3FqN2Q1b2RELVI5TEE5MEhoQlBGUV81Y3A0azBIdUViZlBhYW9hVUM2X251aU14RGNDa0F5blR1dVlTZ25LcUp4bGpVMUNxdnhJcjdFX3NIWW9IWWVrd2N3MV9lOFdTN09wbzY1ZjhmanZ3TTNHeTg1bEJWTjBGOG5JRmw0Q3NDVTR0SjF1MTZhNEswcTRCTnpCRUtlWC0tMzNzM05XN2ZNdkHSAeMBQVVfeXFMT1doZ3phN2JLRjVCZENabXctZmlqczMtOWYwXzVvNjNfTzU3QUc5SzJ4RkVyTDVLaDNoUGlBRW1pbjA2dG1SVEFKWW5GX2VkTGZCUlFqcVg0ZzJ1MkN5NkZ5NUhYSkEyMy1WSWg4VG1lS1Z5dmZ0SV9qUHVvS3BtajNQcGZIelF3eVJCYlpyejdrcDd1Z3BUV2J4cTFMTHlqWTg1MkJ0NTF1a19NajFYSlRnQ2dsUE1VRTFubmVJWWpHMnIySGpra0Y3S2xWQ1NrTGFEdy16ekVIa25HU2lFdjJQVE0?oc=5",
+        "published": "Tue, 27 Oct 2026 04:32:20 GMT",
+        "published_ts": 1793075540.0,
+        "priority_score": 30
       }
     ],
-    "priority_score": 20
+    "priority_score": 72
   },
   {
-    "cluster_id": "9757aeb678",
-    "theme_title": "Ashima Says Co Executes Consent Terms With HDFC Bank And BBK To Settle Legal Cases - TradingView",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793016219.0,
+    "cluster_id": "06940b1b9f",
+    "theme_title": "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide? - The Economic Times",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793084700.0,
     "article_count": 1,
     "outlets": [
-      "TradingView"
+      "The Economic Times"
     ],
-    "summary": "Ashima Says Co Executes Consent Terms With HDFC Bank And BBK To Settle Legal Cases TradingView",
+    "summary": "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide? The Economic Times",
     "sources": [
       {
-        "outlet": "TradingView",
-        "title": "Ashima Says Co Executes Consent Terms With HDFC Bank And BBK To Settle Legal Cases - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWG1tbXlWWEFEd1FCTXR3YUF4Zk1raTdtSjJkZ28ydWduajBBdlBSZEhFTDE0UUpQY2J6VzNGdU53WDc4U0JmOFJaZ0Z0OUItVGJPMk51X3ZtUGNQbG5mTXcyd1VtS3ItejB4N2RNdDFuNk0wdHBObTktNjdCMUVISUM1cnBhLXNkTGJ1dFFLUGs1bTVmRngyRVdtVko4emlhSnZjbm1QQjdtTUdlWFVjcDF0SzZxay1paHhiclFVbDR3YmNjYWNfM1FBUGhyNzFlOU9IT1pOdGpnTlFwT3RPMUNuYXc0TXM?oc=5",
-        "published": "Mon, 26 Oct 2026 12:03:39 GMT",
-        "published_ts": 1793016219.0,
-        "priority_score": 20
+        "outlet": "The Economic Times",
+        "title": "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide? - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM294S1JPSXJLbjN6UTBfYkx5VEpmOXhMS3hYQmlQN3VtZHdKNWpQUHFzZWh1WWw0NkhsQVdFcTQ0eG81bUZ6aGVkMFloblhUaV9hTVo1T0d6X2tqdTU3QzBKeF85LVdBdDNhQ2UwTzZPTTVjc0h0bnpNd1dOdDlpYUFfZGN5R3Q4RFVzd2YzWHV5bEtwVDJCODFVMU84SGNKNGt5QU01OTJTVjROZnBCT2lwN2t0ZDh3N2xpakkyQ3VwTVQyYnd3YnkzQ1doVHM4ZXFzclNwaVZYd0tsVmR2eNIB2gFBVV95cUxOQWhYNUZYUHNNSXIxS09PTmp2bkFteHE0R3ZyZjk3NXFKUEpqV21qUTlnYnFMTTVVUjZSUmlGX0hkeXM2VzMxSEdCVTNUeklkRjljNGt3VmhhSS1RVDNzOC1RWHcwSlhSNDduODk1N3A4ZV9zZmVuamhxM3dHaEpSYmpUT1lFNlY5bTNudDQxY2poak5BY3RrMUMzOWg5eHdaejNFZjFLbzlJNlh3a2NtUUJ0c1VrMlhObWJhclJqOUtjUXFTX3dNc0RZb2NkV3dnOXM4aGxrUUo5dw?oc=5",
+        "published": "Tue, 27 Oct 2026 07:05:00 GMT",
+        "published_ts": 1793084700.0,
+        "priority_score": 35
       }
     ],
-    "priority_score": 20
+    "priority_score": 35
   },
   {
-    "cluster_id": "405ba16917",
-    "theme_title": "HDFC Bank's merger delivered scale. Can Anup Bagchi deliver better returns? - CNBC TV18",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793016133.0,
+    "cluster_id": "1a24c20707",
+    "theme_title": "HDFC Bank appoints Anup Bagchi as MD & CEO effective Oct 27, 2026 - scanx.trade",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793081206.0,
     "article_count": 1,
     "outlets": [
-      "CNBC TV18"
+      "scanx.trade"
     ],
-    "summary": "HDFC Bank's merger delivered scale. Can Anup Bagchi deliver better returns? CNBC TV18",
+    "summary": "HDFC Bank appoints Anup Bagchi as MD & CEO effective Oct 27, 2026 scanx.trade",
     "sources": [
       {
-        "outlet": "CNBC TV18",
-        "title": "HDFC Bank's merger delivered scale. Can Anup Bagchi deliver better returns? - CNBC TV18",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjlkaEp0SEtPZ2xIUXJTNWpaSm1UeWNHSTZMelhWd0FCY0pIbXlaWE1DZjNvSE0wVDhuaTl0X2FFYVczTHFMQnY5VmZXWGVfaTFRSVBDQmFkZzdqdlE5NURuTEJXcTJiYW1yZHgwTERIbnhGRWhvdl9WQVBvX1JQUTNqOGlzZDRWa2R2WE9jUTRiR3VkTnRhYtIBngFBVV95cUxQSWw2LVVHYVc0SkNVbFdpOV9QREF2b21fSnFCanp4Xy0tOENZMzR1ajJ0LUFObXRWaTJpRGN6TWtwQ2dRWWZSOERXdUE0eGJzclBOaXVTeEx4Y2c0UXktZ0xBckZrcHc1OFRkbFpwdHBxN3A4TmVaX21mTGg4LUNVWllxRFZYMEVXdWNRUWN3TTdKRkdiVGFtNzBXVm8zZw?oc=5",
-        "published": "Mon, 26 Oct 2026 12:02:13 GMT",
-        "published_ts": 1793016133.0,
+        "outlet": "scanx.trade",
+        "title": "HDFC Bank appoints Anup Bagchi as MD & CEO effective Oct 27, 2026 - scanx.trade",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnE1T2pvS3A5QWZESXF0NW01V3dpSXpYSC10enQwQnJqUkpBcjR4MUJJRzBEelNyaHpqWDRWd3U0X1paZi05M1g1c1d0THpqT1Y2WXdZMWxKeGdZT3QxQVNiY1BSUHQydGpScDYxZThKSy0wRl9aNXlPcVpMdlBOOXZ1WFJCN19ZZ0tqb19IRWNJakN5TEdIeVBhMlBWYTdIS0U2LUJHNzI0aEw4Qjh3dUZJMDRfdVE?oc=5",
+        "published": "Tue, 27 Oct 2026 06:06:46 GMT",
+        "published_ts": 1793081206.0,
         "priority_score": 30
       }
     ],
     "priority_score": 30
   },
   {
-    "cluster_id": "9182b9d8ab",
-    "theme_title": "Employee stock options at HDFC Bank (HDB) carry a Rs. 692.80 grant price and vest in four stages. - Stock Titan",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793011802.0,
-    "article_count": 1,
+    "cluster_id": "3480ed37e8",
+    "theme_title": "Anup Bagchi Takes Charge As HDFC Bank CEO: Top Challenges As Stock Nears Fresh 52-Week Low - NDTV Profit",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793078799.0,
+    "article_count": 2,
     "outlets": [
-      "Stock Titan"
+      "NDTV Profit"
     ],
-    "summary": "Employee stock options at HDFC Bank (HDB) carry a Rs. 692.80 grant price and vest in four stages. Stock Titan",
+    "summary": "Anup Bagchi Takes Charge As HDFC Bank CEO: Top Challenges As Stock Nears Fresh 52-Week Low NDTV Profit",
     "sources": [
       {
-        "outlet": "Stock Titan",
-        "title": "Employee stock options at HDFC Bank (HDB) carry a Rs. 692.80 grant price and vest in four stages. - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3FuYXBLYXlvNkd3MDBENE1JUW9FdFI4cWFBTW8tajItZFdHX2NLcXVDOURTbEtTdEc3Wk1ycFZ0dk5hanpVNkI1clNXZDcwdVdyME1abFQ4eHJxcm5rYU1oSEQ4RUFSeVB6U0NMbFFDQnl6eHRLdUtjbE81OWZ2OTc1R1lkMjl2R2lRM3hmNUZjQzhJdVFjUFA5Q0pvSngwTkg1ZnJ0ZmllUkF0?oc=5",
-        "published": "Mon, 26 Oct 2026 10:50:02 GMT",
-        "published_ts": 1793011802.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "3e859be909",
-    "theme_title": "HDFC Bank falls Monday, underperforms market - MarketWatch",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1793010600.0,
-    "article_count": 1,
-    "outlets": [
-      "MarketWatch"
-    ],
-    "summary": "HDFC Bank falls Monday, underperforms market MarketWatch",
-    "sources": [
-      {
-        "outlet": "MarketWatch",
-        "title": "HDFC Bank falls Monday, underperforms market - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEZNc0Vvc1otd2FGT1ZYamlmYjFCREYxUE1faDdDaXY1QU90VU5YdWJ5R09HbVNoQjhfd1Q1TURqSWRSMEZIdGtxVFdicVUyY095RXM3Y3o1SzdES05HRGgyRzdJZ3JEX1lZZUw4ak5kZW1ReGd6enpRRnhFM09nLXZ2UEZBT2s3Q1d6V1A1TzdkUXV3ckw5TGlKTHFlbXk2LUh6MFBvcXJxMDhjcnhFdU81TXBzb3ZfZTk0T3Fn?oc=5",
-        "published": "Mon, 26 Oct 2026 10:30:00 GMT",
-        "published_ts": 1793010600.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "48ece54cf2",
-    "theme_title": "HDFC Bank shares slips further as Bagchi takes charge amid leadership uncertainty - BusinessLine",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1792997855.0,
-    "article_count": 1,
-    "outlets": [
-      "BusinessLine"
-    ],
-    "summary": "HDFC Bank shares slips further as Bagchi takes charge amid leadership uncertainty BusinessLine",
-    "sources": [
-      {
-        "outlet": "BusinessLine",
-        "title": "HDFC Bank shares slips further as Bagchi takes charge amid leadership uncertainty - BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdVZTeGR6QXYyYW14UElRMmJEemNVbjdaOWtOQXpwalVvSHNYNDVjTmUydHRPa2FCMWx3Q2x3QXRTUEZ6UVZUMERhbzBHMUdEZm5uYTYycDNRTWpoc0Z1Rmo0YlVKbnVZMjdNM3UtNHIzRW5hRG5lUldFeFBQTGF4cnRIbDdpajdoQzliM0ZIeGVLM1lwd0txQUdSc2Z2SEk3S3lEZUVaOW1lbzIweHJQb04xemJOeXVVdFl2VDJPdG4xdk9HU180Rmc3TEYyLU1XZExhSF9WNDFyRmItWDNxclEwNWtESTVL0gHvAUFVX3lxTE9QZVY0WHZ4Qm5MSG1XUVF3QlhyRUJKR2ExX1AxeE5nSEtPbFNTUlRGUjI2VERGRlpKMjRzWDZhcGFHMTFsbUgycFd1S1ZMaE1nVWNXcmN3MG9DeUlVa2R0YXVvVV8wazRUa1JSd2hsbE5YRUJrM1lKVnhyTEJFNFFhckhVRU53X0t2Y3I2LVgzWG1kc01KcFpFS05LT29iaEc1ekJIZ0VkMDY1ZXBsalRtUlhrRlZoZVBkcHNKQXBOaGwxY2ptVW1peG9BR2ctUzZmMzN4TjlBR2dGekJRWWphZ21zOFUwanhfMkg0NGRF?oc=5",
-        "published": "Mon, 26 Oct 2026 06:57:35 GMT",
-        "published_ts": 1792997855.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "db9a9f6e22",
-    "theme_title": "HDFC Bank braces for significant leadership transition as key executives exit - Rediff",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1792997657.0,
-    "article_count": 1,
-    "outlets": [
-      "Rediff"
-    ],
-    "summary": "HDFC Bank braces for significant leadership transition as key executives exit Rediff",
-    "sources": [
-      {
-        "outlet": "Rediff",
-        "title": "HDFC Bank braces for significant leadership transition as key executives exit - Rediff",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFFqekt2V2xBMFNWYW9reGpwbXZ2RlNiVUFmWExGNi1IalRyUHBBRVBaa3NNUzR2VU94QnI2aTQxOG9GTTVQOXpYY1d6cV9VelhqcXQtMUV4Mk1wdllkNlR2NVJHdW03WDg1SkZNLXhlVU9tWFpxQXg5LXpzWlA5TEtGY2ZEaUtxMWJsTHIwdnY0WUtCRE1XUnZOQTVJcnRlMXdpSU04dVVrRVhHeVRqZmVTR041cFVSU0MwVzdFWmV5aXdPSGtR0gHKAUFVX3lxTE5BMmFYZk9QZ01pQkYwcDE2WE1jdTh5QUZCSTFhQXh4OUlXVm82SC0tSjNkR2hMNmtuUkxXdktWOThQNGxJUzJyWEhzel9sZ0pfcUdUZWJaNTQwUHFrbVU5aFBBaUtLTDZOZEdZaTd0RjNpZGZWN1pGbHp4OUU1bTNUWTNXVWdFeWNETmlaYWdLTFJyZGhobEdpY282ZG5oSWhpWDd4eDFGQXBRQnFqb2RaTTBENHYwcG9LOWd2SzlGeTdXRXhGQzM0d3c?oc=5",
-        "published": "Mon, 26 Oct 2026 06:54:17 GMT",
-        "published_ts": 1792997657.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "63bcdfa878",
-    "theme_title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure - Upstox",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1792997556.0,
-    "article_count": 3,
-    "outlets": [
-      "Upstox",
-      "Unisba Media"
-    ],
-    "summary": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure Upstox",
-    "sources": [
-      {
-        "outlet": "Upstox",
-        "title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure - Upstox",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZTRxUTRxeFBmTl85d3l2d19DTGFGcy1LWnFGVjJvUVpYSWREbFgzM0p3ejRDTG5RM3BjTUxYRWNDNFZTT2c3bU9VYjhROVdOa3ZkLU13Z0FYbHN5ZklfUS1uQjVFSFlNTVNzMTJHRVVqdWtmQ3BDRUJZY0p6UnNvUzR4Q1dJU2x2XzRONDkwRnNWMzNYeEdFLXQwd1RsNlgwREN4Vkt1bEdDc1dqWnRLOGhIMkNjTlpKTU1OX0dDYnpfUG51dExkYVdxdUFfVTR4UDJOSWR6TUFHcXFaZElzTnpjMkVGZw?oc=5",
-        "published": "Mon, 26 Oct 2026 06:52:36 GMT",
-        "published_ts": 1792997556.0,
-        "priority_score": 35
+        "outlet": "NDTV Profit",
+        "title": "Anup Bagchi Takes Charge As HDFC Bank CEO: Top Challenges As Stock Nears Fresh 52-Week Low - NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRkZkTFQyOThoaE5pZjEzNUdhcTF5WDZVbllQWnhVZVc4QU9jcEhCbTRwUGRwcEVTdnNtVnQtbnBoeVBmQWE2eWNUNlg0VTF5ZnEzN1Z1UVhyNGtlREdXMS1hb2VGTmc2N2ptYnM2ZW5KTXdSYVlnOVZSYTJZZ1dzYWF2a3BOdUhueVBPX3Z4VEdxZjhfbmJGc3NBMHFMek5VX0JuQ2h1Vks1OTRxSF9DZmVfbUx0bGJQZ0hrLUtFdm02d1VPaWV5RUIwRVVWMXkwRWNmNlFOdUJKTlFuX1JxbHJ30gHqAUFVX3lxTE5LOVp5S2dhb0ZON1NoZC1MMThpMUx5OXJSMUV3RzFXRE1Gd3UwVzVDUGFKRzZRSTh6N3ZXaHdCQ29XZnd5UFo4OWpBZ1A0T1pUeHV6dE5PVXU0WGt2VkJxS3Vwem9mTkJRWXRacThZZWgwaGU4cXpvck1hazFIVHN4WTNneEtkNW4wb0Q1Q2pFWFlVbGV2NExsVnZhS1EySGVObkxLa3RlX1pwamEzSEgtV19sSk10OElXZXVWbDRsUWIzUzdXSG5LQmc5VmpzT2I3ejhIc1l2S0I0VzJFYVdyNnc5cEFVRmluQQ?oc=5",
+        "published": "Tue, 27 Oct 2026 05:26:39 GMT",
+        "published_ts": 1793078799.0,
+        "priority_score": 45
       },
       {
-        "outlet": "Unisba Media",
-        "title": "Hdfc Bank, Icici Bank, Idfc First Bank, Yes Bank Share Letest News, Anelysis, Target, Hold Or Sell? Griffin Canning (p6aENLGKLm) - Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGJFS2NhNTc3ZlNKNElEMmp5MkZrV0xUUXN2ckxqZzAwNERXUkFVWXp1R2dJWXRkc0NyTGZsUk8tUFdjLXFMTW13dzJhNGlKY0Z0ejFWUmxDcU4tQWhtUWQxQmVxRzhFV1RCSEk4Tzd2eUNfLTRTRlpCMlhWclRUNVN3?oc=5",
-        "published": "Sun, 25 Oct 2026 17:40:40 GMT",
-        "published_ts": 1792950040.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "Unisba Media",
-        "title": "Hdfc Bank, Icici Bank, Idfc First Bank, Yes Bank Share Letest News, Anelysis, Target, Hold Or Sell? Borsa (urFBQzaICd) - Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHJsLTNDQ1ZaVndBVUtHYVcwanA0VFpqVjgxRE1pNDQteGFwRy1uNm1JWC1JMW5LWi1PU2FXbmd5S1FiMmxyeUNrSEdEbFZfSVBjVlhEaVdldFRxSzFhNDZXZ2F3SVJFc3hUWU12MUNPXzVtWF9NRkRqX3o0MWJoeUpn?oc=5",
-        "published": "Sun, 25 Oct 2026 04:48:46 GMT",
-        "published_ts": 1792903726.0,
-        "priority_score": 31
+        "outlet": "NDTV Profit",
+        "title": "HDFC Bank CEO Transition: Sashidhar Jagdishan Exits As Anup Bagchi Takes Charge - NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHVvQ0E5Q0dxZTlKM3VfeVhjQ1JRdWF5bW5QS3otZGVOS2g1cDdmTG8wRENlWU9EWW0xMGNDVERVUHhKcWNUWEhLcy01SVF3V3BOTDBmcDc3Nzd3dXBJMG41OVl5aU9YQUtYNDFoa0t0NEhISlZ3VUpIajlhbldqWTZ5ekdIUXVMZmpXQXptSjNFd0RvMjdCTE1yTnU3enFqRnNqZXdiaEVJcm9rSWV0aE5GX2xVVEZjWUkyakdYZ2NvNE1GYVpfbUlsTlo1LU11MS1FUlZYZDJfOEJIbjdQddIB6AFBVV95cUxPTDM5WnVUaVNOTWlQd0VOSzdLUEZrS2dhUWZOcnBKNmNRaHEzMmpiSHFZXzlDT2Y0b2ZZaG1qb0g0QjliM3hBcEs2MkZuTVRZX3VGQXNnamNWWm5tQm9maWd1X2JrY3dPSnIxQUw1WG5oVUIzWUM0bVF1YkJKaXI0QVY4TXFCT3dQc3VDVWRMUVhnaDRYYnEwYkYtZTluelIxZkVPU1ZOUDVqVFEtNkRZd2ZfNjl0MmNyMlg0ZW1SRmpERVdJSXpEejZJcWZZQ0RpZlZ5WTNHbTNDWWVScUdhdEVab3VJVFdn?oc=5",
+        "published": "Tue, 27 Oct 2026 03:17:52 GMT",
+        "published_ts": 1793071072.0,
+        "priority_score": 45
       }
     ],
-    "priority_score": 41
+    "priority_score": 45
   },
   {
-    "cluster_id": "ff0ce947f4",
-    "theme_title": "HDFC Bank Stock Update: Share Price Slips Near 52-Week Low on Executive Probe - LatestLY",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1792994246.0,
+    "cluster_id": "ae48ec0b1c",
+    "theme_title": "Why are HDFC Bank shares steady as Bagchi officially takes charge as MD & CEO - TradingView",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793077560.0,
     "article_count": 1,
     "outlets": [
-      "LatestLY"
+      "TradingView"
     ],
-    "summary": "HDFC Bank Stock Update: Share Price Slips Near 52-Week Low on Executive Probe LatestLY",
+    "summary": "Why are HDFC Bank shares steady as Bagchi officially takes charge as MD & CEO TradingView",
     "sources": [
       {
-        "outlet": "LatestLY",
-        "title": "HDFC Bank Stock Update: Share Price Slips Near 52-Week Low on Executive Probe - LatestLY",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQU81NE8zeDNxa0lNdzdvSUJfTHhqZ1FaU0tia1NUMElMNkMtSng3UGNpVzZaN2h5N2JMa3d4MlAtYjI3aWZGZ3ZVU0RoWmZCaUVGOUJrMU15RmE4Y05xdm9oaFdXY1JCZXU3b1RiSGJ3UUVoT3FjSDNJYnRyQ1JUZTBHd2V3cE1peXpFQ1VZMW9HMzYyeXlXbUlKZy1iYS1sYzMzU2RlREhXSWhwVE5XQl9SQUdQR0JfaklyMXNyT2_SAcYBQVVfeXFMUGF1c0s3R0x3VTQybFQ0QVQ5Yy1MSy1aWkZ0RkNVeHQ3Q09ySU5XSFpPa2lzX1gtdUxqVGo5LUNPampkLXhPSW5wYnk2RjFsQ1NIb05pUDk2V002WDVuQTR0OTV6Mm5kLTI0X0Q5TUFTamx0RXN0aU9lSURBR214TWFHTGdvZ3RXazh6QjdSUms1UFQxbGlsSkMxMXg3R2ZONGU1VVBSUmp0UnYyT3d4SDFlVGNnbmExZzEwUXhNZkZ6YjRrb1ZB?oc=5",
-        "published": "Mon, 26 Oct 2026 05:57:26 GMT",
-        "published_ts": 1792994246.0,
+        "outlet": "TradingView",
+        "title": "Why are HDFC Bank shares steady as Bagchi officially takes charge as MD & CEO - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVjhkdmRYMzZUSEo4REM1RXo0TWcwVjR2dEFrQW9pbjRyUUpUVEZueXZNUERnSzhkQ3AxX1h5Z3MzQWxscnFkMURTQnFvVTVjcldHX3h4aVNlZzc4cUxFaFozX2ZoRkJzeWZfX3JNNnFTU000b3J4SjBFbm1JTVczd21kZXlWNWNsZlFnX2I5U2FPZGV2YkJBYTVzQVIwWFQyUEd3TFJsWVE2NXZsdG1RSGZCbC1NUTFoc2lEWThGSTdKLWFqcUhLTV9NUkE?oc=5",
+        "published": "Tue, 27 Oct 2026 05:06:00 GMT",
+        "published_ts": 1793077560.0,
+        "priority_score": 30
+      }
+    ],
+    "priority_score": 30
+  },
+  {
+    "cluster_id": "c6496681b8",
+    "theme_title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next? - The Economic Times",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793074289.0,
+    "article_count": 1,
+    "outlets": [
+      "The Economic Times"
+    ],
+    "summary": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next? The Economic Times",
+    "sources": [
+      {
+        "outlet": "The Economic Times",
+        "title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next? - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPclZFdGVQbHp1bTE1c2piSG43SDBCMjFpck1HLXVDcnVNakVhdWF4NnlHb3Z5MlpVeHM3a2FybmR6LUNIUFVnX1RUekw1RnpCSXlnM3h3ek1ZRnI3X2dTSUM0UkFWUjZ5LXNZRlg2dVhxN3pjMXljdnczNTdnYnJxempRb0VaalJaa0hSMVpQOUlFV1dkZGVMb0tjanRESVlsSkVpV2FSUGZZWTJGRWFRR2FrMWVFel8wc1VCVjVzZFJnUExybU1yNmNFLVI5bmFKbXlWTWlHbkdTc0HSAeABQVVfeXFMTXV5SEl6ZFJBSWVfWEQtZkdJc3lzaUZWY0xzNDYtamM4dXBCWGFOOUZ1bjhOWHFPRExjbmI4VklDOEFUZUQ2WkJZVDNrNVluaS1wWktvQkRtVmNDODBLUnRianZlVEp2VXJjMGlHTmhURENRbE9vUnp1dmYwVEtpSlNZanVDbGR6ZTR4bk9ib1VIRGV5Y1VFOU1lQ2FZTGZ3a0F2NmV5OWlQM0dHTHZuWWV4RzM0cF9qMW1mY3M3SnNnT2VCSHI1ZFFKemtYM3BHTFpoUmQ1VUhCT0t4azVlcUQ?oc=5",
+        "published": "Tue, 27 Oct 2026 04:11:29 GMT",
+        "published_ts": 1793074289.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
+  },
+  {
+    "cluster_id": "966b6d3d6e",
+    "theme_title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793074289.0,
+    "article_count": 1,
+    "outlets": [
+      "Economic Times - Stocks"
+    ],
+    "summary": "Private banks delivered mixed Q2 FY27 earnings, prompting analysts to identify lenders with attractive valuations and flag those investors may want to avoid. HDFC Bank reported a 5% YoY rise in net profit to Rs 19,510 crore, largely in line with expectations, but its shares have fallen 6% since the results.",
+    "sources": [
+      {
+        "outlet": "Economic Times - Stocks",
+        "title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-done-for-hdfc-bank-icici-other-private-lenders-whats-next/articleshow/135224155.cms",
+        "published": "Tue, 27 Oct 2026 09:41:29 +0530",
+        "published_ts": 1793074289.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "0ffe053fd2",
+    "theme_title": "Three challenges facing HDFC Bank's new CEO - TradingView",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793071920.0,
+    "article_count": 2,
+    "outlets": [
+      "TradingView",
+      "Livemint"
+    ],
+    "summary": "Three challenges facing HDFC Bank's new CEO TradingView",
+    "sources": [
+      {
+        "outlet": "TradingView",
+        "title": "Three challenges facing HDFC Bank's new CEO - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHhlQ2lTRmRIbHIxUFlZSy1wM3ZIRExfTEZHUHF2LUV0anZZTFMwNXFyaU1Lal9KbnozTU9Zek1vRVFMbVN4OHdTVDZvaU5KalVGRmJMdUxUb1QycWU4X041WGpQVHk1RzlsWF9mWFcyLVNGX1VBNnB3YnV3YUVuV3Nlc3ZUeWR6VFhmZndHZjIycGhRNDExeF9aMFUxNExWcWc?oc=5",
+        "published": "Tue, 27 Oct 2026 03:32:00 GMT",
+        "published_ts": 1793071920.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "Livemint",
+        "title": "Three challenges facing HDFC Bank\u2019s new CEO - Livemint",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa1hYSkw1OFpHTzZQNDQ0cE5rQTI5UmtHcVNtQjNjWHRnM3pqQUQ1U3AtUDVPMGU1UVNKcDQ2RnU5VHJ6V3RFbGNyVlYyUkdJczJaTWlQemhfV0VlSVZYU1FfbHNkS01CRTU5OVBLR1NlQ2JfRVdVMXE2b1RzQ1FsY1ZiV0x4ZTZxY2ZaQjlQS0NoMGF4WVN3U202QzduaDk4NU1PTtIBqgFBVV95cUxNdkRGMmZsd2duY3ZES2hlTS12amxiODVUNVlWb3ZWNWEyWktvamhrYTZlWDdiek51QVRxbHVrQ2g3djVKOVdsVzBwYVRfc1lnTUN2dk9vVC1QTWhlZVdKc2psRDM2dDNJOHhWNVhNVVhRSzhCZzFSOWFkT2p4VEZnd3o0Q2szd3EtU1lVODl1c0VObjlNYzlZa3hpaFRiQXI2TEFVc2tSUXY2QQ?oc=5",
+        "published": "Tue, 27 Oct 2026 00:30:24 GMT",
+        "published_ts": 1793061024.0,
+        "priority_score": 30
+      }
+    ],
+    "priority_score": 36
   }
 ]
