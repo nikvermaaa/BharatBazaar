@@ -1,47 +1,33 @@
 [
   {
-    "cluster_id": "1f799a6ec2",
-    "theme_title": "Bank stocks in Q2 FY27: Why ICICI, SBI, Kotak and AU Bank are Motilal Oswal's top picks - The Economic Times",
+    "cluster_id": "468a9cb6ee",
+    "theme_title": "ICICI Bank falls Wednesday, underperforms competitors - MarketWatch",
     "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793165627.0,
-    "article_count": 1,
+    "published_ts": 1793183520.0,
+    "article_count": 2,
     "outlets": [
-      "The Economic Times"
+      "MarketWatch"
     ],
-    "summary": "Bank stocks in Q2 FY27: Why ICICI, SBI, Kotak and AU Bank are Motilal Oswal's top picks The Economic Times",
+    "summary": "ICICI Bank falls Wednesday, underperforms competitors MarketWatch",
     "sources": [
       {
-        "outlet": "The Economic Times",
-        "title": "Bank stocks in Q2 FY27: Why ICICI, SBI, Kotak and AU Bank are Motilal Oswal's top picks - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNNHRZU0V5YlRsZmZXeU5mS1N3VElKd0tpWEgzMm15dVpLaVIzWEVFS3NwdV9kMTloTUFFbHJTbkctZnRYY0tZbDN0VGRBVVlMcmdzREZnc2NhY1gzci1YM2Rpc2pjT1BqaFhESzJQQTRwUnc5RWZad0lvdEpuRUtFdHZYZEUyLXh2akhBRFJQZkV5ZjVCU3BXZFl2Q09yeVpqUXB4eExxSUMyYlJpdDZYM0Z1SWlsVVBSdkYyVHduR0NnU05tQzRrVjFyMGF3WmNoQ1Zmd1prWHNzWXMtWnlUdmdKeUN2a2lOWXRPeHhhUV81eW05M3UzT1RQRWJXaTlMc3FRNl9mMkJuNUswUkpDNGhIajZoeHJkNEJsN3AxelA0ak1zY09GODFnN2RTZTdGSHlNSUF6TEpLSzdTUzdhNlFJdUFvS3JyNXY5TGVWUUZFbUE5cUE?oc=5",
-        "published": "Wed, 28 Oct 2026 05:33:47 GMT",
-        "published_ts": 1793165627.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "4ec78b0fbf",
-    "theme_title": "Jio IPO listing: Reliance-promoted firm becomes 2nd largest market cap holder in India | Check other 4 in top 5",
-    "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793163278.0,
-    "article_count": 1,
-    "outlets": [
-      "LiveMint - Markets"
-    ],
-    "summary": "Jio Platforms\u2019 listing, with a market capitalisation of \u20b912.49 lakh crore, reshuffled India\u2019s corporate rankings. Reliance Industries remains first, followed by Jio Platforms and Bharti Airtel, while HDFC Bank and ICICI Bank complete the top five.",
-    "sources": [
+        "outlet": "MarketWatch",
+        "title": "ICICI Bank falls Wednesday, underperforms competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajd0X2lqYmQwSm5mSzR3dURlSDdJSlgzbElaQmFxdEIwbTFTLWlaOUxXS19wX3YzbzZrYnQxckI2ZmtqSG9wMkN2eVV2NWFtdUEwUFA2czU2U0J5Nl9jYzNxYzQtU0hwRE1zLWhNY3ByXzVLM1FqNGc1QnRQNTVZeElOR1lmRUdIbUVwUUdBSlgxVTdaMS1aWGlZOGNiRzBqZmpyRERiazdweGJwcEhNUHdNSFRzZ3pHVWJZQ1FVNmFEUlVZakI3TWt3?oc=5",
+        "published": "Wed, 28 Oct 2026 10:32:00 GMT",
+        "published_ts": 1793183520.0,
+        "priority_score": 20
+      },
       {
-        "outlet": "LiveMint - Markets",
-        "title": "Jio IPO listing: Reliance-promoted firm becomes 2nd largest market cap holder in India | Check other 4 in top 5",
-        "url": "https://www.livemint.com/market/stock-market-news/jio-ipo-listing-reliance-promoted-firm-becomes-2nd-largest-market-cap-holder-in-india-check-other-4-in-top-5-11793162583765.html",
-        "published": "Wed, 28 Oct 2026 10:24:38 +0530",
-        "published_ts": 1793163278.0,
-        "priority_score": 37
+        "outlet": "MarketWatch",
+        "title": "ICICI Bank falls Tuesday, outperforms competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1RsZmtQdS12VUhkX1dfTWRtSUNRc2ppSmhwd1N5Z3Y3NVViMUZMZGxfZ1ZpWXhKSmNTd3NmTXczZVRxX3VPQVlXS09KYjhDZV8zbk1rYi01ZVpHVXBQaTdMRjR6Qkl2VDJjdkZVVHRleGVLZzh0d0tuN2U5M2xDUnFLLTk3SXg2bW5QU1N3emEyelRCci1wYzJpRmlnczc4T0pvM0NzTQ?oc=5",
+        "published": "Tue, 27 Oct 2026 10:32:00 GMT",
+        "published_ts": 1793097120.0,
+        "priority_score": 16
       }
     ],
-    "priority_score": 37
+    "priority_score": 20
   },
   {
     "cluster_id": "6979e7b48a",
@@ -88,6 +74,28 @@
     "priority_score": 35
   },
   {
+    "cluster_id": "91911ee1f1",
+    "theme_title": "600% Dividend Dhamaka: ICICI Bank Fixes Record Date For Payout | Are You Eligible? - Goodreturns",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793125325.0,
+    "article_count": 1,
+    "outlets": [
+      "Goodreturns"
+    ],
+    "summary": "600% Dividend Dhamaka: ICICI Bank Fixes Record Date For Payout | Are You Eligible? Goodreturns",
+    "sources": [
+      {
+        "outlet": "Goodreturns",
+        "title": "600% Dividend Dhamaka: ICICI Bank Fixes Record Date For Payout | Are You Eligible? - Goodreturns",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ25FTGFwRWpWa2lyRmpDNjItck5zVW9NSWxQUV9SV2dVUER4YldsNklHa2JkVmo2TlBUVzBlWFliVGNBbnFOakdBY0J6eW1CSkJLdHNCUlRKYnZrOE1UQWhJdFBpQTVadnh0SzRVdldvb2YwWDNaOGNsUm9qRGVpUjVBWHNxNk5tUXB0M3Q4Mk1PbmZyd3ZXY2RFLW9jdUViYkRqbXEwT2VZYU5qaHVoTE0xa3JlU0t6RVluZ25lTQ?oc=5",
+        "published": "Tue, 27 Oct 2026 18:22:05 GMT",
+        "published_ts": 1793125325.0,
+        "priority_score": 30
+      }
+    ],
+    "priority_score": 30
+  },
+  {
     "cluster_id": "a234ae3f32",
     "theme_title": "ICICI Bank (NSE:ICICIBANK) Allots 10,63,398 Shares Under ESOP Scheme-2000 - Kalkine India",
     "date": "Tue, 27 Oct 2026",
@@ -126,7 +134,7 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzd6bEpaWEhIRnJFVWEwbHVxc2g1Q3JGU1FSVmpXQXdBWWRuWEtkX3RycnRKSEdUZUN1WHdxMFc1REJhN0hFM29rUmhIUE9JOWI0a0tyQ1JGOUlXdlR0U2JzSVpsZW16NHMyV3hVY1BCN2tIcHJpU0ZTMVptN290bE5DWUc5ZUdVVGZuQ08zUlc?oc=5",
         "published": "Tue, 27 Oct 2026 14:52:33 GMT",
         "published_ts": 1793112753.0,
-        "priority_score": 35
+        "priority_score": 31
       },
       {
         "outlet": "Univest",
@@ -134,10 +142,10 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWl9Tamc5X05JTWcxcU1rRFh1amNuRFBDd1VxSEszVGhCbFJKSENvSU5SSGd2YzlTZkMtcUZoX29tMjEyZHNHWHdZZEFTZWIxdXk4M29QUHBfZVluXzgtRkJqaW5TRkVlRkxJQnFqcUpFWHZ1ek9SR2ZieUV6azYxUC14NkxNSTVERkhjWklOVS0?oc=5",
         "published": "Mon, 26 Oct 2026 15:47:55 GMT",
         "published_ts": 1793029675.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
-    "priority_score": 35
+    "priority_score": 31
   },
   {
     "cluster_id": "652cbc7d8c",
@@ -156,54 +164,10 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGp0UE9IQkRTcmZGUUE4R3piTWtmOFhCbGNmdXNYN29jc09uMGdydWd0MkctTk5Cb1RfZGw2TkUxRXRqYTl6U1B2Y2JVczQ0cFhSXzRidy1UVE5XTThHc1BUZGIyMXRWTkdxM2JRZ1R6dU5Ub2laMGZscGJfdGl0QUxvYUxQaDVGQ2xFdzhRNEVTMGxzNTFPXy03RHRTeTFxa0VVWFVfNUNFaTBIQkNlZlVQYmZ2WTBmbW5hTy1BSUxMRzR5ZzlaRkVkR1AwdzczaVF5WGg2aVR4T1Zwemk5Y0NRWHlsNE1sWXc?oc=5",
         "published": "Tue, 27 Oct 2026 11:10:17 GMT",
         "published_ts": 1793099417.0,
-        "priority_score": 30
+        "priority_score": 26
       }
     ],
-    "priority_score": 30
-  },
-  {
-    "cluster_id": "547a53bfb4",
-    "theme_title": "ICICI Bank falls Tuesday, outperforms competitors - MarketWatch",
-    "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793097120.0,
-    "article_count": 1,
-    "outlets": [
-      "MarketWatch"
-    ],
-    "summary": "ICICI Bank falls Tuesday, outperforms competitors MarketWatch",
-    "sources": [
-      {
-        "outlet": "MarketWatch",
-        "title": "ICICI Bank falls Tuesday, outperforms competitors - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1RsZmtQdS12VUhkX1dfTWRtSUNRc2ppSmhwd1N5Z3Y3NVViMUZMZGxfZ1ZpWXhKSmNTd3NmTXczZVRxX3VPQVlXS09KYjhDZV8zbk1rYi01ZVpHVXBQaTdMRjR6Qkl2VDJjdkZVVHRleGVLZzh0d0tuN2U5M2xDUnFLLTk3SXg2bW5QU1N3emEyelRCci1wYzJpRmlnczc4T0pvM0NzTQ?oc=5",
-        "published": "Tue, 27 Oct 2026 10:32:00 GMT",
-        "published_ts": 1793097120.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "73c8652e04",
-    "theme_title": "HDFC vs ICICI vs Yes Bank: Q4 Results Spark Stock-Specific Rally; Which Bank Stock Wins The Race? Target Price - Goodreturns",
-    "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793088857.0,
-    "article_count": 1,
-    "outlets": [
-      "Goodreturns"
-    ],
-    "summary": "HDFC vs ICICI vs Yes Bank: Q4 Results Spark Stock-Specific Rally; Which Bank Stock Wins The Race? Target Price Goodreturns",
-    "sources": [
-      {
-        "outlet": "Goodreturns",
-        "title": "HDFC vs ICICI vs Yes Bank: Q4 Results Spark Stock-Specific Rally; Which Bank Stock Wins The Race? Target Price - Goodreturns",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWZLN0xvUld0YmFqY2NJWXM4SU95WGx2bmFadnlmLXRZOURERkxzWGxHaEwzSDRfTE9lNkJFM1lqQ0FzcEdfbFEwbjM0SFpFM18zVUxITG1Mc2pSNmRmTUUxVDJFdC1zY1hvcnh1QVlzb3N1NFB6YWxjdTU3eEgwbVhHb2prQnBvY2NOcWJEZG1zMVJFeEJZMmZIeFpRcDhYNzMwald5bTZSb3UyZDFxNEx5eWZBU1pjRlVjWlBKRDFmOEhUVktZVzJwUmVCaVBLWHRfbVVrM2E5UQ?oc=5",
-        "published": "Tue, 27 Oct 2026 08:14:17 GMT",
-        "published_ts": 1793088857.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
+    "priority_score": 26
   },
   {
     "cluster_id": "effe125ddf",
@@ -219,9 +183,62 @@
       {
         "outlet": "Free Press Journal",
         "title": "Can Anup Bagchi Boost HDFC Bank\u2019s Earnings? Heres Why Competition With ICICI Bank Remains A Major Challenge - Free Press Journal",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNejkxeldDRmIwVGlSdUtkNnJKS2JZbTY2TUplUHpHZVdSanczTkI2Mk1ROUt2YkEtNU5NLVZCNHowQ2NfMFNQZkQydnJrRml2ZFVEaWtNYmFvZDhoZUVqaFN0RE50UEdVRFItalBhd01QT2k1WnBiRjF4YkprUlBOYnVrQ3B3c2o5WXV0YV9kUnZ1R09ac01WcDRUUW5BVHNSSzljMWRrZ21jSTNDWEhYRzRHNWlkeVFiV2dXYnVqWlhtR3pjWWZrU1JIMGltVDBoMWhtVU50M3haVkU3RUt4TllRNzTSAeQBQVVfeXFMTXo5MXpXQ0ZiMFRpUnVLZDZySktiWW02Nk1KZVB6R2VXUmp3M05CNjJNUTlLdmJBLTVOTS1WQjR6MENjXzBTUGZEMnZya0ZpdmRVRGlrTWJhb2Q4aGVFamhTdEROdFBHVURSLWpQYXdNUE9pNVpwYkYxeGJKa1JQTmJ1a0Nwd3NqOVl1dGFfZFJ2dUdPWnNNVnA0VFFuQVRzUks5YzFka2dtY0kzQ1hIWEc0RzVpZHlRYldnV2J1alpYbUd6Y1lma1NSSDBpbVQwaDFobVVOdDN4WlZFN0VLeE5ZUTc0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMHhDNVNENkNPMnlaQmtxVm9Ka2RpUDBhdWpETGpqYWdBRjI1M3RtcU4tajY1Qm00OVVDdi1kankzSmhQQlBYUjdJZjU5WFE0SFhqTlNWWnI3OWF4OU9CZGE0TXlEbTY0aUk0UTY5MDJndkYxcHppMmhiMXdkZ0MxUW5QWnA5T3pHWXJMQ2lxWVVDR21RMlFlWDNuTDNQMkQwTGZyMThSRnhvMmNTZmFxRmk5SnBLQUhFYVVmM2VqTXBGVlZLbVloVUViTVV6dWktOUVndWwwVzlPN3Qzd0RB0gHkAUFVX3lxTE16OTF6V0NGYjBUaVJ1S2Q2ckpLYlltNjZNSmVQekdlV1JqdzNOQjYyTVE5S3ZiQS01Tk0tVkI0ejBDY18wU1BmRDJ2cmtGaXZkVURpa01iYW9kOGhlRWpoU3RETnRQR1VEUi1qUGF3TVBPaTVacGJGMXhiSmtSUE5idWtDcHdzajlZdXRhX2RSdnVHT1pzTVZwNFRRbkFUc1JLOWMxZGtnbWNJM0NYSFhHNEc1aWR5UWJXZ1didWpaWG1HemNZZmtTUkgwaW1UMGgxaG1VTnQzeFpWRTdFS3hOWVE3NA?oc=5",
         "published": "Tue, 27 Oct 2026 06:51:20 GMT",
         "published_ts": 1793083880.0,
+        "priority_score": 31
+      }
+    ],
+    "priority_score": 31
+  },
+  {
+    "cluster_id": "20d6984140",
+    "theme_title": "ICICI Bank Allots Shares Under Employee Stock Option Scheme - marketscreener.com",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793082495.0,
+    "article_count": 2,
+    "outlets": [
+      "marketscreener.com",
+      "PSU Connect"
+    ],
+    "summary": "ICICI Bank Allots Shares Under Employee Stock Option Scheme marketscreener.com",
+    "sources": [
+      {
+        "outlet": "marketscreener.com",
+        "title": "ICICI Bank Allots Shares Under Employee Stock Option Scheme - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ3d5OXpjSmhNT2xRZ1pzV0hmVzFONWc4Zmc3UFBWNUp5N0s0Q2FwRk9LVVh6ck1MMlM3ajlhZFpnSENIcVNOVHVZTlN1d0V4NENZeTRfNkZIMU5Ba0VfQ2tndGp1cDhtTTB2NlZsNVZkTDdZVFVhZDJ3VmNKbnhZWC04cDh6Tm5ldlFCWlotQ3Jva0szOEkyLVNQc09wRzZ0ZDl1MjMxQ3hvaU1uSUtRcThn?oc=5",
+        "published": "Tue, 27 Oct 2026 06:28:15 GMT",
+        "published_ts": 1793082495.0,
+        "priority_score": 31
+      },
+      {
+        "outlet": "PSU Connect",
+        "title": "ICICI Bank Allots 10.63 Lakh Equity Shares Under Employee Stock Option Scheme - PSU Connect",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0J6LXpKX0ZmbXFmeFl0ME0tcFdjdmM3X0NtLXR5SjlhMnd6VGxBUUNNWVlPZEpoN0lzYzVZZTRXWWxzOWJBTTg0bTM2cnE2cHBUbGtzcTFibVRqc1ZfR2U2a2ptekYxWndmZ2hEMlNKeDNHMW5vc0hDVXM2Z0U0X2VTdDJER3djT19paW1UX3pCSTZJQUNFZzJQenYzeWJKU1ZyS2ZyR3gxbzd3MjdpNGMtUQ?oc=5",
+        "published": "Tue, 27 Oct 2026 05:57:00 GMT",
+        "published_ts": 1793080620.0,
+        "priority_score": 31
+      }
+    ],
+    "priority_score": 37
+  },
+  {
+    "cluster_id": "b253cfd3ce",
+    "theme_title": "Rs 10,000 Crore Plus Profit Stocks 2026: HDFC Bank, ICICI Bank - Univest",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793075400.0,
+    "article_count": 1,
+    "outlets": [
+      "Univest"
+    ],
+    "summary": "Rs 10,000 Crore Plus Profit Stocks 2026: HDFC Bank, ICICI Bank Univest",
+    "sources": [
+      {
+        "outlet": "Univest",
+        "title": "Rs 10,000 Crore Plus Profit Stocks 2026: HDFC Bank, ICICI Bank - Univest",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2dERUxYZWI0Q0xZUmJ3eERkenVYLWFmQkFGY1oxb2pUWHl6UU5wUmotTk1QZzQ5VnNZc1B6bGVOcmkyeHEtcVpsSmpLZE9lYjA3WHNESlBwMUsxTkY4cFNoVVRDWWE1ZDh3NUVOaDBNd1k3M3pXbmM1NHNhWTF5NXpOYVdYT0FGSzJ3RURnZUtKV0x2QkotSmpFSnBpT2lV?oc=5",
+        "published": "Tue, 27 Oct 2026 04:30:00 GMT",
+        "published_ts": 1793075400.0,
         "priority_score": 31
       }
     ],

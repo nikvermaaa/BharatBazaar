@@ -1,5 +1,27 @@
 [
   {
+    "cluster_id": "d09db14153",
+    "theme_title": "GST on Death of a Sole Proprietor: Registration, ITC Transfer, Stock Liability and Heir Exposure - TaxCorp AI",
+    "date": "Wed, 28 Oct 2026",
+    "published_ts": 1793192065.0,
+    "article_count": 1,
+    "outlets": [
+      "TaxCorp AI"
+    ],
+    "summary": "GST on Death of a Sole Proprietor: Registration, ITC Transfer, Stock Liability and Heir Exposure TaxCorp AI",
+    "sources": [
+      {
+        "outlet": "TaxCorp AI",
+        "title": "GST on Death of a Sole Proprietor: Registration, ITC Transfer, Stock Liability and Heir Exposure - TaxCorp AI",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPczluYUM2SEo4dkw0ZWNJb0MxNU4wbXNiUEphSUhjNlhJRFJPQ0g5ZlVPRDRXck00bjBqZU5vdVk4bERoWXFzNGpRX0tsNDBtbENrMEZCeEllZ1A2R3hQSmRUVlpNWk5Ub2dnTlptLVhJOVU1RmplekxBOTl6NXJuaW54WlA2REd3VGgxY3o5Mm5aaWhYTWVWSzZCQmQ2UnUwemUydmxJYnJjQkRNWlE?oc=5",
+        "published": "Wed, 28 Oct 2026 12:54:25 GMT",
+        "published_ts": 1793192065.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
     "cluster_id": "0dea44ec18",
     "theme_title": "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows - Business Standard",
     "date": "Wed, 28 Oct 2026",
@@ -88,24 +110,38 @@
     "priority_score": 35
   },
   {
-    "cluster_id": "fe6529dabd",
-    "theme_title": "ITC schedules November 2 results. Investors value ITC stock at 16.41 times earnings - ad-hoc-news.de",
+    "cluster_id": "3ff65e4b4d",
+    "theme_title": "Share Market Tips Today, Stock Market Trading Ideas: Buy ITC, Titan Company, Jindal Steel, Says Choice Broking - NDTV Profit",
+    "date": "Tue, 27 Oct 2026",
+    "published_ts": 1793142069.0,
+    "article_count": 1,
+    "outlets": [
+      "NDTV Profit"
+    ],
+    "summary": "Share Market Tips Today, Stock Market Trading Ideas: Buy ITC, Titan Company, Jindal Steel, Says Choice Broking NDTV Profit",
+    "sources": [
+      {
+        "outlet": "NDTV Profit",
+        "title": "Share Market Tips Today, Stock Market Trading Ideas: Buy ITC, Titan Company, Jindal Steel, Says Choice Broking - NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTlpCY3BxZVBERWpWR0wtV1FwY1JlWHltRTFjUll6clNkYm5vdkRuaUFfWThQSFlPVElmbUFQS2RQSHRFOFFVVGlTY1VhaWlta1JKaTZudEg2aTljSk00WGxrMVRSNUFpOFI3VzVsbW1Gc25Ka3BtamR4ZF9VOUYyTUpHekRCR1g0MG1UcU4yc2V6ZlNINTRKdUdQWU1ieVZmNEFfbi1IS0h6b2tsdEw2dXhNVHR6SHU1VW5BbXpOaXc2ejhXNXNWODhSYXNEQjl4X0JyV1FGYk1MN0xTUFdxS3d2NVVIcE0?oc=5",
+        "published": "Tue, 27 Oct 2026 23:01:09 GMT",
+        "published_ts": 1793142069.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "a536a6fee9",
+    "theme_title": "ITC sets November 2 results meeting for ITC stock - ad-hoc-news.de",
     "date": "Tue, 27 Oct 2026",
     "published_ts": 1793111041.0,
     "article_count": 2,
     "outlets": [
       "ad-hoc-news.de"
     ],
-    "summary": "ITC schedules November 2 results. Investors value ITC stock at 16.41 times earnings ad-hoc-news.de",
+    "summary": "ITC sets November 2 results meeting for ITC stock ad-hoc-news.de",
     "sources": [
-      {
-        "outlet": "ad-hoc-news.de",
-        "title": "ITC schedules November 2 results. Investors value ITC stock at 16.41 times earnings - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU3ZJdXp1cjFZTW45TW9iYUdLN3l4c01acGpGQUNTMlVGeVdicmg4anYwLXZ2V2ZyR0Z3X0tsZTM1Vy15eXk1LUxBSmwzRFNvOWJyQzZzN09iM0Rqajc5SjJ6SlNYTUhQWnV2bk0xMTY1V1dwWDBjUjRyd2VsQ3FRb01RcDVYc3VLTWhaWU9hWlBJd0pmQTczY3piRklpRlpUYWQ2bkZkZm1KMUZQT1V3STYzNXd2cEdYS20tWklNeHJtUnc4S2JFVU9QOFFfd1ZYX0ZEVEJSOXRPcWZwM0E?oc=5",
-        "published": "Tue, 27 Oct 2026 14:24:01 GMT",
-        "published_ts": 1793111041.0,
-        "priority_score": 35
-      },
       {
         "outlet": "ad-hoc-news.de",
         "title": "ITC sets November 2 results meeting for ITC stock - ad-hoc-news.de",
@@ -113,9 +149,17 @@
         "published": "Tue, 27 Oct 2026 08:05:16 GMT",
         "published_ts": 1793088316.0,
         "priority_score": 31
+      },
+      {
+        "outlet": "ad-hoc-news.de",
+        "title": "ITC schedules November 2 results. Investors value ITC stock at 16.41 times earnings - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWdiYmdkOERLOTI4ZmtsV3RmenRxM0FJQmRhdkFZdVVxenJ3NXVKUTl6TXBhbHl1N2tnQWZ0ODUwc0ptOTVTZm96ZmdQaVd6blJZR0pGR055YUhVb2dXdmJTZUMtZWY5VVpaSU10c2hIUFRKVC02U0s5OEtIMUw4Y0doLTEwYkp0RlNoZzJ0Y08zQkJFZTdvcXBRZVlfb3N4Q1UzZTZaZ245bHY3M1BxUWZCaklyWnRVSnBCbm1KNzhPZFdsbkpzaENDaHctelFnR0E?oc=5",
+        "published": "Tue, 27 Oct 2026 14:24:01 GMT",
+        "published_ts": 1793111041.0,
+        "priority_score": 31
       }
     ],
-    "priority_score": 35
+    "priority_score": 31
   },
   {
     "cluster_id": "2c169cd237",
@@ -196,50 +240,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZzhabHk5YWtIcXhrbVgxMmRmVUc0cjhrdlZIZk1YM1FsZ203aU82VWFMU2llNzBBSnpyNi00MlctbXRwUVlBT0JqWUVodXl1ODdBSVNhbzZlT1Z2LS1TbDNPZi1UY0tndWNIQU9pNk1ZQTd0dEUwa3gtT2hJWDRRdzhMNjFxRVFqcWcwcXQ5MlFqSElUbGg0UmlEYWpQX1Ytdk5XMlBrWExJSjBZV0FVQXpzaXN2N1hGWnNWOTdhRnRTSjBBRXVxSHNKREFhQTRDcHlKbTJnMWTSAd4BQVVfeXFMTThGWUpJZF9CVmo1YTB6U1hPbDFrRWVvNkVLcmRONER0V0J1V3hKM3BFVGFEMlR0OG1KcnBOZFRfeUotVFRENW1xNkY4Y280WlY3MzctWjktRFpieFpma0xzc3pKZ0hSUExXRkxsRW42UERBOWEzdUhCVFJqeExfVFpQUVdFTVhNQnVDNmtWb2FuNXFsYXZxWFg1UzFHSTFqZ25ELW5sQ19HRHYycnZzRmJVNXdWYW5NV0ZSd3FNcE1jS25KUkxnbTJkd2o5OUxBT0daOUJOdWt5YVZsSThn?oc=5",
         "published": "Tue, 27 Oct 2026 06:58:10 GMT",
         "published_ts": 1793084290.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "67420cda52",
-    "theme_title": "ITC Hotels shares extend rally for second day, rise 6% post-strong Q2; brokerages bullish, check share... - Moneycontrol.com",
-    "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793082347.0,
-    "article_count": 1,
-    "outlets": [
-      "Moneycontrol.com"
-    ],
-    "summary": "ITC Hotels shares extend rally for second day, rise 6% post-strong Q2; brokerages bullish, check share... Moneycontrol.com",
-    "sources": [
-      {
-        "outlet": "Moneycontrol.com",
-        "title": "ITC Hotels shares extend rally for second day, rise 6% post-strong Q2; brokerages bullish, check share... - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWUY3ZERuRks3VVVZd01yYlFiODZxdzA4UU8zTWZSN3p2UHdBVlNLWGlFcEFrcUhmVkdkdDc3SzYxVDlndmY0d1BtR2hDUkUtR3ZkR0k2YmFQbWQtVnVHMDJuT2p5clJOZElHOXN4VEI0YTJrWWxrOU1hbHRkTUJDLWxaYVN6NW94aFBZWUVHTF9sTE00cGhWc3h6RnRjQWFkXzl2RUkyZkJZU1pGaVQ3VWFpX3dZUzRidGtjV3JYMDBwYzg1bmJiTkpCWVJWV0s3dHdWa1lMNEVtcHFNNVF6ODFOZTNUd1U5TXUyN2xkVUlSSE5RdzdkSEgxckJpdXdBZmZtT2VhRdIBjAJBVV95cUxQa0RwS1FtUVNVZHBIeU5pejBVdHNLa3MyZ0pKMW1FVURJX2RFeHptR3JQTldYckNsaFdocndoVEd5S2g3anFyRlhiMEVnbHNzQnNMdVpBamk1dDdoc1hsS1Q5bGp3QTg1b3ZGeFpiOTl2dm1sNXJQLWU4SmpldEJvblNaeHFPWFM2VUdZbDgwN3VfeEE4WnkybnNIOS1QclFHdmhBdVc0MC01dlhVNmc2aU1TS2xULVBNWUxzNXBzcGZTV24wQVc3dmd2TjBWRzhWeG40RjU4cG9yakFGbngyMVhxMTRwMzc3ZWN5T2tfb3BmNEUtQ3l6Mk9RNGFEbHRrS1RHUkJvdENNbkFU?oc=5",
-        "published": "Tue, 27 Oct 2026 06:25:47 GMT",
-        "published_ts": 1793082347.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "1de600a181",
-    "theme_title": "Jefferies Stock Picks: Paytm, Vodafone Idea, ITC Hotels, Sona - Univest",
-    "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793075940.0,
-    "article_count": 1,
-    "outlets": [
-      "Univest"
-    ],
-    "summary": "Jefferies Stock Picks: Paytm, Vodafone Idea, ITC Hotels, Sona Univest",
-    "sources": [
-      {
-        "outlet": "Univest",
-        "title": "Jefferies Stock Picks: Paytm, Vodafone Idea, ITC Hotels, Sona - Univest",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVhrdG1zUmxQSjFLa29WYmpNNWNpc3N1YWxNbE5kempxZ0c4dmhkTlBiN05zSC10NkdpSG12UFAtNjc3alNGdnhKdTJndkI1SU95WkdLeGNaOUtIeHdIcHJ5eHdsNzhKM29GVmktZ0VPRkUwbWYtTFI5M2wzYThGYkI2YUw4dXBFaE50QVdZYnBzME93Y1dQUTZ5dmJNU2lsVVE4T1VBcV9tUmRBQmx0WUtnREQ0RUQ1YV90dzNQSEdieUdmcUh5cW02OTIxV2VoVFhz?oc=5",
-        "published": "Tue, 27 Oct 2026 04:39:00 GMT",
-        "published_ts": 1793075940.0,
         "priority_score": 31
       }
     ],

@@ -1,5 +1,58 @@
 [
   {
+    "cluster_id": "29fd4b1b9a",
+    "theme_title": "Top gainers and losers, Oct 28: Infosys, RIL shares fall 3%; Apollo Hospitals, L&T gain 4% - Upstox",
+    "date": "Wed, 28 Oct 2026",
+    "published_ts": 1793185662.0,
+    "article_count": 1,
+    "outlets": [
+      "Upstox"
+    ],
+    "summary": "Top gainers and losers, Oct 28: Infosys, RIL shares fall 3%; Apollo Hospitals, L&T gain 4% Upstox",
+    "sources": [
+      {
+        "outlet": "Upstox",
+        "title": "Top gainers and losers, Oct 28: Infosys, RIL shares fall 3%; Apollo Hospitals, L&T gain 4% - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORU1pQWpwWjE1T3l2Qmlzck95MFFUTURSTlNndzRleUp5ejdZVTlhbmQwUTgxTWY0X0l1TWQxa0pybV9NUjBqdFZHOWF4bzJYV3cyOVp0OVdyOU5QZ0tjd1hWT29sbE4zcGFwbVFEREpfX29jY1RTdEE1a0hkX3haWjlXODZ0YUhvb1FEd0stSmYxcUJ1VlJSckRIbmtrNURsTDJ4dU1qSzBjbTAxaDVBMW5XSUZEY3pjMkU3VVlzLUl1MVd3dXNfX2xadUZ6YWduMUlHWVBMRDdpcjhyZ3dZ?oc=5",
+        "published": "Wed, 28 Oct 2026 11:07:42 GMT",
+        "published_ts": 1793185662.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "068b9b4ca3",
+    "theme_title": "Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - - IndiaIPO",
+    "date": "Wed, 28 Oct 2026",
+    "published_ts": 1793183698.0,
+    "article_count": 2,
+    "outlets": [
+      "IndiaIPO",
+      "Business Today"
+    ],
+    "summary": "Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - IndiaIPO",
+    "sources": [
+      {
+        "outlet": "IndiaIPO",
+        "title": "Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - - IndiaIPO",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeEFRWndwcHFzNVNRTnNyNElPeXFmaEtjbVZDTjRZRS1uTWRZTUM1cFVoNEZqWTZmN1FYZkJJMHNwZlBLUEZJZFpmTjcyQzlnVVI0dkZCU1dsMWI2SE1oNXFSVmE4eVd0WFFjLU1CYWVkMk02VmNhcFFuN0wtTEVlal9obklPYl9xUGRZUm9oeXhqdEN3UDJuOEREcG9BVTQtN2I2LVNXOEFqYlZkUG15NUpTQlRJckk?oc=5",
+        "published": "Wed, 28 Oct 2026 10:34:58 GMT",
+        "published_ts": 1793183698.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "Business Today",
+        "title": "Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkxwdExoNFU4M0x5SzFVNGtzWnJjaU13Q3I3WVF2dGIzd25lSVVpRUQyYlo2MnRYOWh6SlJicF90UUduOWJ4S3FSendIRlBnZkg4SEF6aGp3Rm1aZjZVRWdKdUl1MkNkRzdlNnJMdjEyalV2eGx0Vm9lNFlMRXFUemlSUXBGZ3V3S3FLUW9YQjI5cmlicUg5T3ZOMVpPNEY2akRMTHVBT0k4emV5YTdHNDJRMUx5MVBsRThIMHU0OURfaXpNMGZ2Q0c1WDk0TzM5d1BqOFFRWmUyWmpsUXh5dl9n0gHnAUFVX3lxTE5Ddzg0U3pwR1Z0d2tRWTJFeFRNblFWWDI4T1piRW9taXB0UmRuVjQ4djhSaWxxa1YtTFdrb1dnaXVaTno4bE9WUkthdmx4QWhGOWdIazZWcE93TUxla29udjE3SzhNbE5RTU5BTEFVYncwdzRZbU5WUEx1Z3JjWTZMaGJGbUc1SXdZeEZHZzlSdmE0OEtQcGJmeXMzRkJmYWV5WmlWbmMyTE5PVVNlZHN5MzBsejFUWnRvRVBZUVZUME5oNDhhSWpxWVJWNFNNR0Rndkhld1RfZ1llWFZLOHZHQzVzQThoVQ?oc=5",
+        "published": "Wed, 28 Oct 2026 06:09:49 GMT",
+        "published_ts": 1793167789.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 41
+  },
+  {
     "cluster_id": "9b372e72c6",
     "theme_title": "Infosys shares shed \u20b925,000 crore in market cap across two-day fall as AI trade rebounds - CNBC TV18",
     "date": "Wed, 28 Oct 2026",
@@ -13,35 +66,13 @@
       {
         "outlet": "CNBC TV18",
         "title": "Infosys shares shed \u20b925,000 crore in market cap across two-day fall as AI trade rebounds - CNBC TV18",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT1dDc3dwYjJtSWcwTmpMQU40a0NXT0NwWXRHaVE0a2VUTlNxQk5EQ2U0TDM1ZXlPdHl6aElycWVYR2FHdFcySFVHWjhtWG8tdEEyNmpzZ0RXWnc3d2JESmJEMXEyLTV6OGhRRkI5SmJVX3N0T2tqRGZxMHhlQmlyVkdFaERoaFQ5ZkVFRWdWUVM0NDA0MF9sd3JQNWJJWktlTnBIaHBhLVZmRk53MGhQTDF6Nkg4NHBYNWl0MG5YdVp0VUQ3WGNGeEEwdVBDSVhwejRJZjEtOHNBems?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT1dDc3dwYjJtSWcwTmpMQU40a0NXT0NwWXRHaVE0a2VUTlNxQk5EQ2U0TDM1ZXlPdHl6aElycWVYR2FHdFcySFVHWjhtWG8tdEEyNmpzZ0RXWnc3d2JESmJEMXEyLTV6OGhRRkI5SmJVX3N0T2tqRGZxMHhlQmlyVkdFaERoaFQ5ZkVFRWdWUVM0NDA0MF9sd3JQNWJJWktlTnBIaHBhLVZmRk53MGhQTDF6Nkg4NHBYNWl0MG5YdVp0VUQ3WGNGeEEwdVBDSVhwejRJZjEtOHNBemvSAeABQVVfeXFMUFM4TlBKMEtYTlZ1eGEwMFdDNEVXUUZiWmFXQ1pfdkRvelZUNGxTZlR5VWJJYmxiU2lfNzR3ZzFET3JjQlpVMkFSSnc3ZTh6TUp4bjhmSEh1UnpUSEZnelhjbmdOTGE1bHdGMlBZYlZrT2NSN3ljV2NUdzYyQXVoRFRTUWhnSXlfYkFhRmxfQnlxd0FBS0VPY2xqZ0dwamdHRHlQTHNPaldFT2NwM3VYLXd6SDYwX3YzREdxQVRCdTFpUzhUV3BCRm5uTEtsTVhTaDk2YkRMSVg0a1F3cUJsaV8?oc=5",
         "published": "Wed, 28 Oct 2026 07:13:38 GMT",
         "published_ts": 1793171618.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
-  },
-  {
-    "cluster_id": "9fd6133caf",
-    "theme_title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
-    "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793169987.0,
-    "article_count": 1,
-    "outlets": [
-      "Economic Times - Stocks"
-    ],
-    "summary": "Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic\u2019s IPO filing fuelled gains in AI-linked stocks globally. However, concerns over an AI bubble persist, with analysts highlighting a potential advantage for Indian IT services firms.",
-    "sources": [
-      {
-        "outlet": "Economic Times - Stocks",
-        "title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms",
-        "published": "Wed, 28 Oct 2026 12:16:27 +0530",
-        "published_ts": 1793169987.0,
-        "priority_score": 45
-      }
-    ],
-    "priority_score": 45
   },
   {
     "cluster_id": "156641257c",
@@ -60,28 +91,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQY2o5ZEswa09uUEFJNlFBYUp2VWlkWFlOOG50Q2ExbDN2R2RZai13Y19qeEQ0bmpUX25SRlhvaS1mN0xwMlY2UDIyOC0xZDc2U3JRUHN4QnBNeGtYRXQxMUh5dGpHUlRHeTdxbkx4UmgteUJUWVIwLWdqN0hiYmtFTzBmWTk5b1E2d082RkdoNk9VN2hJZWVyaU82U3BGWFFnYXFKOVZIZ1FWckJFY0ZOcDhQbWExc0JtZVBnNFNhMmZreG1tbmJ6QjM3Yno4M3lHX2c4Q0xua250eHd1LXRPN2FvR1lxSHZaS1NnTk01SW41bGNqWnh2WmNSb21ldDFmd1FBdkpLN1RwTHVs0gGSAkFVX3lxTE1VSUlRZWczZ0pfOTNFc191WG9GNVBNWl9OTVRueVoycE4yZ0pJS0FzS0czbmktY3ZmTW9YaUNGYXR3Q2s3TmRsdnp3VV84VmtpRzZMSlJUQW1QWWlmUFdjTUtLYzNQX1VJeEljTk8ybG53OWRGSE5ZVW0zdGpBX3B2NGFXMlJ2NERZalp2aEtDeGd6dEMzT2pfTzRWZmlOV3F3aFFiVXdTUmhiQWVGTGp2NUtMRkJlUWxVMnM1RldiMk9DVzVSSGRLdVp0MjdoVFJaRll4NFRYa2hCdDBBc3I5S3ZjTGs4NWp1aTVmODdMcmhSUEtnX3dhcG5GZ2ZBMkMzWnhwSlJCNjRQZmxpTmZDcGc?oc=5",
         "published": "Wed, 28 Oct 2026 06:46:27 GMT",
         "published_ts": 1793169987.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "b316c8fb90",
-    "theme_title": "Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - Business Today",
-    "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793167789.0,
-    "article_count": 1,
-    "outlets": [
-      "Business Today"
-    ],
-    "summary": "Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret Business Today",
-    "sources": [
-      {
-        "outlet": "Business Today",
-        "title": "Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - Business Today",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkxwdExoNFU4M0x5SzFVNGtzWnJjaU13Q3I3WVF2dGIzd25lSVVpRUQyYlo2MnRYOWh6SlJicF90UUduOWJ4S3FSendIRlBnZkg4SEF6aGp3Rm1aZjZVRWdKdUl1MkNkRzdlNnJMdjEyalV2eGx0Vm9lNFlMRXFUemlSUXBGZ3V3S3FLUW9YQjI5cmlicUg5T3ZOMVpPNEY2akRMTHVBT0k4emV5YTdHNDJRMUx5MVBsRThIMHU0OURfaXpNMGZ2Q0c1WDk0TzM5d1BqOFFRWmUyWmpsUXh5dl9n0gHnAUFVX3lxTE5Ddzg0U3pwR1Z0d2tRWTJFeFRNblFWWDI4T1piRW9taXB0UmRuVjQ4djhSaWxxa1YtTFdrb1dnaXVaTno4bE9WUkthdmx4QWhGOWdIazZWcE93TUxla29udjE3SzhNbE5RTU5BTEFVYncwdzRZbU5WUEx1Z3JjWTZMaGJGbUc1SXdZeEZHZzlSdmE0OEtQcGJmeXMzRkJmYWV5WmlWbmMyTE5PVVNlZHN5MzBsejFUWnRvRVBZUVZUME5oNDhhSWpxWVJWNFNNR0Rndkhld1RfZ1llWFZLOHZHQzVzQThoVQ?oc=5",
-        "published": "Wed, 28 Oct 2026 06:09:49 GMT",
-        "published_ts": 1793167789.0,
         "priority_score": 35
       }
     ],
@@ -175,7 +184,7 @@
       {
         "outlet": "India Today",
         "title": "Infosys, TCS, HCLTech fall up to 5%: Why are IT stocks down today? - India Today",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGxNenp6SzA5S1BSRktGVHJfY09vcEprYVFwOFQ0X202UVVrRnhRWU9za0FlN19nbVpaamt2WUQ1TlNENWFGM1p1V0tNaGd6aFlnanQtZmEzNkwwa0hpNy1QakQ5Z3lMbUU2NDRtRDJWNmtHZHhKQy1XTWU3YjdoczlqRUNnci1tTTFFcGEwSU9LNk94bnJsdzd2aUJzV3N1Q00yOGJsckhuT051REpEamU3emtkTGdxNGpQSldQdERVUHU1N2tBZ1hKX2s5S1czMDF4SnNtS3h5OU5Db1daeXBOY191QdIB5gFBVV95cUxOVGxNenp6SzA5S1BSRktGVHJfY09vcEprYVFwOFQ0X202UVVrRnhRWU9za0FlN19nbVpaamt2WUQ1TlNENWFGM1p1V0tNaGd6aFlnanQtZmEzNkwwa0hpNy1QakQ5Z3lMbUU2NDRtRDJWNmtHZHhKQy1XTWU3YjdoczlqRUNnci1tTTFFcGEwSU9LNk94bnJsdzd2aUJzV3N1Q00yOGJsckhuT051REpEamU3emtkTGdxNGpQSldQdERVUHU1N2tBZ1hKX2s5S1czMDF4SnNtS3h5OU5Db1daeXBOY191QQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVWR1VUNyWUhGeDUyS0Jud3ZLV213Z1NvZjlhWmc3VjdpMkg4TzhMa2h2czJiRl9ZLVM4d1Z1NXlMV1ZMZTRXbHJiUHRvZUlwX2hLcGNta1Bsb0g2aURoRTZybE16UFhFQ1NBX21YVWR0bnIxMWNZY1RRZ3JSenVtbVRudEdsNjdIZFZCMDF6TDFYX2NpYjdnM0VuYndab0tDcmdnb1Axa1NqcmNrUHhSWmJPYThFalA3RVJMb196cDlfakhTbE5aQm5CbUp5NVg2bUhMREJOdm02dWM2TUp2c9IB5gFBVV95cUxOVGxNenp6SzA5S1BSRktGVHJfY09vcEprYVFwOFQ0X202UVVrRnhRWU9za0FlN19nbVpaamt2WUQ1TlNENWFGM1p1V0tNaGd6aFlnanQtZmEzNkwwa0hpNy1QakQ5Z3lMbUU2NDRtRDJWNmtHZHhKQy1XTWU3YjdoczlqRUNnci1tTTFFcGEwSU9LNk94bnJsdzd2aUJzV3N1Q00yOGJsckhuT051REpEamU3emtkTGdxNGpQSldQdERVUHU1N2tBZ1hKX2s5S1czMDF4SnNtS3h5OU5Db1daeXBOY191QQ?oc=5",
         "published": "Wed, 28 Oct 2026 04:16:07 GMT",
         "published_ts": 1793160967.0,
         "priority_score": 35
