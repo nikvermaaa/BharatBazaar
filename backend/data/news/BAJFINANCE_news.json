@@ -16,32 +16,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JoTVVIZ0dCOHVWRzVQSnhTOXRyczNLdExiSlRVTHN0ci1UQXNnUUdVZndDbEJmMloyTUxrQWV6VWwtMVhZLU5GeDRFSlFSMXdSbWF6TUI0ZkxiZVpSb1JheEhNWU01M3RsanFBMUVqOVU0N1V5OGRzYmFuQ2YtWm5xYnpxV3A5c0FZVHJZb09sTks2UWtjMkxkZmhRZ3o2ZkJlTzRTckdaNXhUZGpLMTduUVBSdzI4VnBwaVdyYms?oc=5",
         "published": "Wed, 28 Oct 2026 04:17:13 GMT",
         "published_ts": 1793161033.0,
-        "priority_score": 20
+        "priority_score": 16
       }
     ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "d3d6cbd4b5",
-    "theme_title": "Bajaj Finance Q2FY27 net profit rises 29 per cent to Rs 6,367 crore - Mid-Day",
-    "date": "Tue, 27 Oct 2026",
-    "published_ts": 1793132550.0,
-    "article_count": 1,
-    "outlets": [
-      "Mid-Day"
-    ],
-    "summary": "Bajaj Finance Q2FY27 net profit rises 29 per cent to Rs 6,367 crore Mid-Day",
-    "sources": [
-      {
-        "outlet": "Mid-Day",
-        "title": "Bajaj Finance Q2FY27 net profit rises 29 per cent to Rs 6,367 crore - Mid-Day",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjEzNWRlWkVyai1HUmk2YUFkTV9NNXEtYVRHNUtKSnQ4Uk1CZzc0bnIwSm00SXJLNU9teHRrOXRSVVRrOWd6eWItTWJpSFpNcWd6S2FpREE1SEcxM3B0cjg3VXc2VldqeTBzS3dQYk5EWXFNXzZrNlhLdEUxTHJPWDV4YWR6Yk1xVkVmLXJYNTBnLW5PT2xUbjNnNGlkLUpBVkR6cEdFMThqSHRGSWVEeW9GX28?oc=5",
-        "published": "Tue, 27 Oct 2026 20:22:30 GMT",
-        "published_ts": 1793132550.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
+    "priority_score": 16
   },
   {
     "cluster_id": "e765ad01b5",
@@ -60,10 +38,10 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlFmemtLNWxuUFBuOWxnWXhGZ0QzbDBQbkFmeTFkeEtKWHJzQmlpR25xamE0a2sxUTNNMkw4NU9OMmhNSGNIVEJZWkVHOVVRSlE3OTNfSnpnZkV2V0ZMMUxTMm1zNE9tbjlBMXRkZFRCVEFIV3c2a2NmWVc5dXdzY3ZQMnhxeHhyclQ3NEtxVDlpOGl3Nm1UeG5iRl8yeXZXc0JWcm5CcU9GN1ZhS1RCUjZzcGItV291ajY1amItMks4ejJBZ0h4TmdEVUdvQQ?oc=5",
         "published": "Tue, 27 Oct 2026 18:14:00 GMT",
         "published_ts": 1793124840.0,
-        "priority_score": 35
+        "priority_score": 31
       }
     ],
-    "priority_score": 35
+    "priority_score": 31
   },
   {
     "cluster_id": "8dc0b62ef7",
@@ -114,7 +92,7 @@
     "theme_title": "Bajaj Finance raises FY27 AUM guidance: what it means for Bajaj Finance stock - ad-hoc-news.de",
     "date": "Tue, 27 Oct 2026",
     "published_ts": 1793089768.0,
-    "article_count": 2,
+    "article_count": 1,
     "outlets": [
       "ad-hoc-news.de"
     ],
@@ -126,18 +104,10 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdkU5bGc0VHJST1c0Z3B3TEs5R0p3MHpFY1JVRGFacWs5YS05SHVSOGVCVFlST1JLSjFmMV90QmVwY2sxZldGOUhtbGFQa2VQVy1MT20yTXlxbzI0d0F3UHNSbF9lYmR3SzYyREZJR3VVVjdYdnp0QlhjMmtsQjNhMU9FdERPcE9OWGtwOGpLWHFtTHFqY3EwbmF4Q2hJZW9JX3BZMU5aTlVRUjhoNjRDQU5lcU1JdlJWUVRvWkUtUTFsNmMtQ3RQVl9lNXBjVW1WS0J2TFVR?oc=5",
         "published": "Tue, 27 Oct 2026 08:29:28 GMT",
         "published_ts": 1793089768.0,
-        "priority_score": 31
-      },
-      {
-        "outlet": "ad-hoc-news.de",
-        "title": "Bajaj Finance raised FY27 AUM guidance: what it means for Bajaj Finance stock - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPak1VV1pnbzFMNk1HNjdzSTRZVnhwVFRjVmFHLUhkQUdIVmczMmFqYlRCVWtNQlB4TFI2WnV5S1ZrQVBoaGNZQmZzTGNNU3lEOUlsR0c5RVQwbjJQaDAyMEUzMEpBUW9ONndHQzA3RGk4NklzZC12MlpMSXBZLS10S21YS1NacWRwY3N0ekhIeTktM1o2dklsOElqTnUwMFltcmx2LTVyMzFmaTBIUFdXRlZ0SDZlcmRORFNPRVJmcW5mWWhLZkdZRFg3LXpLRHdLdTdYUGh3?oc=5",
-        "published": "Mon, 26 Oct 2026 08:07:25 GMT",
-        "published_ts": 1793002045.0,
         "priority_score": 29
       }
     ],
-    "priority_score": 31
+    "priority_score": 29
   },
   {
     "cluster_id": "df7b50171b",
@@ -156,10 +126,10 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnlweUtETFBqbXN3dHE0Z0lNMG5YbFpZM1FSYXRxNXBPZzZiV085T1FFTjBIdGJKa3paNS15VUlFd202a0RybXBKd1owM0F3b1VrM3o2VnNhYkZiUnA3Umd3X1ZReEoxRUVDLXBPRmYwWGhLYXdubWRvQlpKLTItN1RNM1dmdnVtR3l4NHFDX3FHRnd3Z3RoV1lzNU9URFdCZFktbkN5YWtSeU45akRHSE00ck4?oc=5",
         "published": "Tue, 27 Oct 2026 04:12:03 GMT",
         "published_ts": 1793074323.0,
-        "priority_score": 16
+        "priority_score": 14
       }
     ],
-    "priority_score": 16
+    "priority_score": 14
   },
   {
     "cluster_id": "ddd01bd27e",
@@ -204,27 +174,5 @@
       }
     ],
     "priority_score": 14
-  },
-  {
-    "cluster_id": "04a57ce7b3",
-    "theme_title": "Samvat 2083 Stock Picks 2026: Bajaj Finance, Hindustan Zinc - Univest",
-    "date": "Mon, 26 Oct 2026",
-    "published_ts": 1792990260.0,
-    "article_count": 1,
-    "outlets": [
-      "Univest"
-    ],
-    "summary": "Samvat 2083 Stock Picks 2026: Bajaj Finance, Hindustan Zinc Univest",
-    "sources": [
-      {
-        "outlet": "Univest",
-        "title": "Samvat 2083 Stock Picks 2026: Bajaj Finance, Hindustan Zinc - Univest",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUdtclA0c2VLWkVHblJiTlpucU0zWmNxNmxsTGRIZ3p3a3RrTzhBajBuUmtndHBVc1BmY0h6ZkNGME5sdGxqYUJqRDN0UURhUXhkWXRkTmF0QzlUeUo1SEp4dWdNNE1TVUlpdmJJc0FQV250dU5JNGd5VXJLSDNwVXVrU3BoZTZETl9PdmRreDh3dw?oc=5",
-        "published": "Mon, 26 Oct 2026 04:51:00 GMT",
-        "published_ts": 1792990260.0,
-        "priority_score": 29
-      }
-    ],
-    "priority_score": 29
   }
 ]
