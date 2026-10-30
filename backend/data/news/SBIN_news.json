@@ -1,25 +1,144 @@
 [
   {
-    "cluster_id": "1179ecd837",
-    "theme_title": "Delhi advocate loses Rs 35,000 to fake KYC app, secures Rs 50,000 payout from SBI - The Indian Express",
-    "date": "Thu, 29 Oct 2026",
-    "published_ts": 1793274345.0,
+    "cluster_id": "91a107ee9f",
+    "theme_title": "ICICI Lombard Buys SBI Shares Worth \u20b9172 Crore - PSU Connect",
+    "date": "Fri, 30 Oct 2026",
+    "published_ts": 1793352420.0,
     "article_count": 1,
     "outlets": [
-      "The Indian Express"
+      "PSU Connect"
     ],
-    "summary": "Delhi advocate loses Rs 35,000 to fake KYC app, secures Rs 50,000 payout from SBI The Indian Express",
+    "summary": "ICICI Lombard Buys SBI Shares Worth \u20b9172 Crore PSU Connect",
     "sources": [
       {
-        "outlet": "The Indian Express",
-        "title": "Delhi advocate loses Rs 35,000 to fake KYC app, secures Rs 50,000 payout from SBI - The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGFnMmZ0ZE9iSEZkWVJSOGEya3p5dWRfeDNBaWxlZV9UWXNRcm5mTDFoeUJzQ0Z6VG92TlRBdG9wMFVrUTRvUDU4RjFHMjR4aWhLTlc4QnJCZHNZb2VKRHMtNHZjV0hiTGx5ZTlrbGxTRGk4a0dmalY4N3VUVnNjdl84N0R0Rm5Mdkg4YVd0eXZ5TGNkMk9rX09hUHNKQnpMc3YxVk1aVEhzYUtsXzUycFpCbUhGbjTSAb4BQVVfeXFMTkM0WVhoVTkwMGdxS2dsVHVQbGIwbnAwV2VFc2lxMTI2MXVEWnRfMzEzRGJnSVBEaDM2RW1IdEhxMnd2c3NnMWhLZURjTnRqV3FHSWR4R25OWV9QT0lZekdrV2gxS1pTZC01Z2UwaTdDYzkwc2Y4dWRCS0VKLWdJVHJIUDZVbTl4eGRlV0JLclVvcTRKcEt5Q2VlSHVveFktOEdiTXptcmc5dE81cFptNnh5eWN3R3J0VnRWWjE4UQ?oc=5",
-        "published": "Thu, 29 Oct 2026 11:45:45 GMT",
-        "published_ts": 1793274345.0,
+        "outlet": "PSU Connect",
+        "title": "ICICI Lombard Buys SBI Shares Worth \u20b9172 Crore - PSU Connect",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGoxa0lxbXBzX21idzRkSjlWc2J5MGFuX1BuTVRtQnYyUzEtcWw0U0tZNEM5Y0JNd3BYRFhFcnJDM2U5d1E4ZUZyMXNqZ1d0X1IxZzFKVFpNTkNFcUZFOElEZ05nOEsxMnREd2djdS1fbGJ4YktFX3V1dWJaZmVuMHU5MA?oc=5",
+        "published": "Fri, 30 Oct 2026 09:27:00 GMT",
+        "published_ts": 1793352420.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
+  },
+  {
+    "cluster_id": "0f6661f273",
+    "theme_title": "45.6% Indian households use digital payments for at least one consumption item: SBI Report - TradingView",
+    "date": "Fri, 30 Oct 2026",
+    "published_ts": 1793347344.0,
+    "article_count": 2,
+    "outlets": [
+      "TradingView",
+      "LatestLY"
+    ],
+    "summary": "45.6% Indian households use digital payments for at least one consumption item: SBI Report TradingView",
+    "sources": [
+      {
+        "outlet": "TradingView",
+        "title": "45.6% Indian households use digital payments for at least one consumption item: SBI Report - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa19sc2Vobm5hU3hYQzJ5Qkp5anBrcEtJN3pGdHh5LU1hZTRXXzZsMm9OWG5PNUthbFNWczZSYzhQa0lJdG9VV24xUjRtaGNXQXFxZi1oODRiSTlBUldnQ1pqd203eVJRX1lVQTg3dkRTekJobnBUWnpjMHI1ZDJibzRabUFJZDhTbDRwMkprVnQ2dTZDU2FEbXNMSjMzaWpZeVJHWXVJaU1ybF9hT2Vnd3lBQTBXTjhKU09Kb1BLcWZOQlpVbWZuWXJXODg4TS1ZZjI5cWV6dEI3Rmh1NGc?oc=5",
+        "published": "Fri, 30 Oct 2026 07:49:27 GMT",
+        "published_ts": 1793346567.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "LatestLY",
+        "title": "Business News | 45.6% Indian Households Use Digital Payments for at Least One Consumption Item: SBI Report - LatestLY",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnlJVDRxYy1Pd0YxenROZ0NlU3R5aVA0eUtXRXdMRE9aNEVlbFVwUXNlb2lmTFFSb29VYnA1TEVDdHk5WXpIN1dVS1dLQUF4UjR4RWdQaXliNmdrTVBWTFRJZlFSZmZzTGV4RnI5UExUN3JtUFBMQ3I4bWFsWlJRczJhbkZ6Q1BvTjh2MzVQWGdkMkNNVWdxRTNTYWV6MHdhM3dYSDhnRzE1aDN0Tl9iMlpVZUVjcXRvVmk1NVV0cUp6aXdpQUQzV0stN1k1cGNnQXpGUE0wb3NfZlBzS0VpNnBGZ2NXdXfSAewBQVVfeXFMTk1Ib1BhR0RQMTFPbFd0QV9ISmFGUzhZcHpXSlFaZkx3RHBWWUlLMmhKRXVza2NXYXEyNy1qV1RiOWJob3F5LWVyS2NmSFRCb1ZuLTRpOG1uLXdTR3VFZTFQbnNKSm4wRTBncjEwbWNEU25lOWZ2em9iTUl5X3RBQ1hRcURKTjlnTklHaFdDYmdiTmtEcXgwVmM3Q0xGMmJ1VFhTcEdRNjZSQ0VZUzVyYVZ6VzdUQ21Hamc3MVM0NlJoRW9Vc3FtYVRlUlJ6STlxV2xTd2tvT1NLZ0l4M1piOS05aUF5NWxPckcyWG0?oc=5",
+        "published": "Fri, 30 Oct 2026 08:02:24 GMT",
+        "published_ts": 1793347344.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 26
+  },
+  {
+    "cluster_id": "360037b266",
+    "theme_title": "State Bank of India Stock Update: Shares Slip Marginally Intraday - LatestLY",
+    "date": "Fri, 30 Oct 2026",
+    "published_ts": 1793333970.0,
+    "article_count": 1,
+    "outlets": [
+      "LatestLY"
+    ],
+    "summary": "State Bank of India Stock Update: Shares Slip Marginally Intraday LatestLY",
+    "sources": [
+      {
+        "outlet": "LatestLY",
+        "title": "State Bank of India Stock Update: Shares Slip Marginally Intraday - LatestLY",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUV5WXBzVWRoTFU1aEFadm9TMGVzWXNsa3ljNjBfOWhPVnp5OFZDT053a2VuMU5kNGJSd0R2WExFLVByZERoVHpRSG1PeHFvR2VlUXZUNjY4R0NzRDZjWlBPaUwxb216dWhFZmVySS1PSTB4N2NrbVVJVGtSLUdKY3gxQTB2LV9SeDBaYWRJV3lYVlplMU5kaC1TVXkzUG1hSGhTX3Ewb3RzTUJIbmUwSNIBtgFBVV95cUxPSlRRN2p5QzhkVWJyYjlNV1lkT2o4VjFYTm42N1BJSGd6NzJIcEdlUHdOUmRjTC1XekVfMnBIenBOY1ZrZ1RpbWs4eEZMdWNKUWhDMGktUy1TbjFudENUMEYtYUJxc211d1QzS29nZ1dscGllak1mTGtFTjBVVDBKUlFUYWZYVGNGeVFIdjdjNU1sdTBEU2lwdUN1U205Z2JaRHFVeTMxRVVENUt0Tms1dVFNektkdw?oc=5",
+        "published": "Fri, 30 Oct 2026 04:19:30 GMT",
+        "published_ts": 1793333970.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "a3899500ce",
+    "theme_title": "State Bank of India to host institutional investor meet in New York on November 5 - scanx.trade",
+    "date": "Thu, 29 Oct 2026",
+    "published_ts": 1793286065.0,
+    "article_count": 1,
+    "outlets": [
+      "scanx.trade"
+    ],
+    "summary": "State Bank of India to host institutional investor meet in New York on November 5 scanx.trade",
+    "sources": [
+      {
+        "outlet": "scanx.trade",
+        "title": "State Bank of India to host institutional investor meet in New York on November 5 - scanx.trade",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDNraVc5UWxjdTJPMDQtcUpKenZ5YzI5UVF1OUNFN1J4SGhxNGRwR09qendZWkpvcFc5X2VKb2QwU0RIZXF4dDhxemxmd0UzRDBfcEQyalYwb1lRc3BSYXBudlBtakFjcHNPd2pZVG5ZZm1fMEdBSTFRck9xTEtaZnM0a055bEtWRnhQRmlnS2lkdmhfbTF3emRjemdpQ3pxcDhsc1pfWEl4bVRNdDl1ckk2bWZUajN4UFhaWEx0bnNXMEFj?oc=5",
+        "published": "Thu, 29 Oct 2026 15:01:05 GMT",
+        "published_ts": 1793286065.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "50bbca12b1",
+    "theme_title": "SBI Warns Customers, Beware of KYC Update Links and Many More - Times Bull",
+    "date": "Thu, 29 Oct 2026",
+    "published_ts": 1793275439.0,
+    "article_count": 1,
+    "outlets": [
+      "Times Bull"
+    ],
+    "summary": "SBI Warns Customers, Beware of KYC Update Links and Many More Times Bull",
+    "sources": [
+      {
+        "outlet": "Times Bull",
+        "title": "SBI Warns Customers, Beware of KYC Update Links and Many More - Times Bull",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXRlMllLejR3RUxGYlM1NHJ0cjh1UHhtUndNUFBEeUMtbW9NZFlUcVJ4cFhyeHN2eWtWc2FRVHdyOGdjNkZhNU1FWEQ5WE9ZWU44UG54dU9SNXVOM0hTYld1a0d2RG1ESTd4bVFFdndBRExUM05PX3lxMFR3WGdNdTBrQVVlOTJJMGZwWjI5VGvSAZYBQVVfeXFMUEtRQ25UaUxkN3FuczI1WFBLMThLeEZFaXNkTENYX1VMMXR5czhhN1g0UDRRUmo4dXhjbTBYXy1jTzc5OUFobXZkYWZaMmhKZ0xBTHp2QjVXU1F5ZGo0ODdiX3BoaUZfS3VrN1E0Mkx6UTVWbFl4VjF6UzZrdThud2txMnpHN1pqRG1rcE5LanYwbDJydDNB?oc=5",
+        "published": "Thu, 29 Oct 2026 12:03:59 GMT",
+        "published_ts": 1793275439.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "ca29b6f992",
+    "theme_title": "SBI Mutual Fund\u2019s AUM rises 10% to \u20b913.1 lakh crore; H1 operating profit up 11% - TradingView",
+    "date": "Thu, 29 Oct 2026",
+    "published_ts": 1793271060.0,
+    "article_count": 1,
+    "outlets": [
+      "TradingView"
+    ],
+    "summary": "SBI Mutual Fund\u2019s AUM rises 10% to \u20b913.1 lakh crore; H1 operating profit up 11% TradingView",
+    "sources": [
+      {
+        "outlet": "TradingView",
+        "title": "SBI Mutual Fund\u2019s AUM rises 10% to \u20b913.1 lakh crore; H1 operating profit up 11% - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSnhWOFpEQ1NoNm9PMUtPNEkxVHNYOVJyUTZqcDIzQ3J6Q0pib1V5Mkk2SUZfa1lWSW5GZy1GY3lSalV4ZVhfUU1FUE1sMDF3X2lZMlpHMk5jOV82OVRXYVVXUm8yRVV6MGFnS2dyZy1ieDU4ZmtHNGFvcWxHTXA1YnNuUE1FUnI5Zks2ZlIybC1hVFFOMExHU0NGc3pMZndlTWNpQjAwcDBicmRoNWgyazlqYkxpY0pqNGhaa3RaODNXNHAzNUlZQzhWR3g?oc=5",
+        "published": "Thu, 29 Oct 2026 10:51:00 GMT",
+        "published_ts": 1793271060.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
   },
   {
     "cluster_id": "1b5950f063",
@@ -43,35 +162,13 @@
       {
         "outlet": "MarketWatch",
         "title": "State Bank of India climbs Wednesday, outperforms market - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONXhrWDR6bTlwTW9NVG4xWUJlc1BOakdtbzVCMFFkUm1QV240Yk4zQWlWWUI1TmdRc1VGT0hsVW1hem1TT2FDMWhFUUMtZ29sUkJ5THZ0WGl3MlJJcHVfMV9aYU9sQk9CUk8xRmxjUDc5V3lmTnpGa3pmZ1hPVnRUXzRVX28yRkF2SHZVTnZ5NXBURmlfRkdIVHBVVGhsWC1wYzNmYXY4Y3FBaU5VLUR5TnZpMlJRSkxXOWhnZi1NZmN0aGstWjBYSU5iOUlkUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWElPMWd2c25CM3c3aF84RUZaX01ibmJxZ3lzQWFaRmQ2TGI0VVN0WnRNeGFrRHhCN3M4UUlTZF9OZk1RTlBySEwyNlJqM3dfR2VneGtSbG5pNE4tZk9EdTN4MS1KNy1OU0VWS3lNNTZRSjB3anBtelJRSzJWRHozejg0YWtweEhGcUxINlI4RHhVel9ENGVuRzFNVndKb2VrMnVNa2V1RVh3N3RHYWtvcQ?oc=5",
         "published": "Wed, 28 Oct 2026 10:30:00 GMT",
         "published_ts": 1793183400.0,
         "priority_score": 31
       }
     ],
     "priority_score": 35
-  },
-  {
-    "cluster_id": "35fd5afa6b",
-    "theme_title": "Diwali stocks 2026: Tata Steel, MCX, IHCL and 8 more to add sparkle to shares portfolio in Samvat 2083 | Full list",
-    "date": "Thu, 29 Oct 2026",
-    "published_ts": 1793267533.0,
-    "article_count": 1,
-    "outlets": [
-      "LiveMint - Markets"
-    ],
-    "summary": "SBI Securities expects a gradual recovery in Indian equities in Samvat 2083 and names 11 stocks as potential opportunities. Its picks span metals, hotels, finance, engineering, power, electronics and automotive components.&nbsp;",
-    "sources": [
-      {
-        "outlet": "LiveMint - Markets",
-        "title": "Diwali stocks 2026: Tata Steel, MCX, IHCL and 8 more to add sparkle to shares portfolio in Samvat 2083 | Full list",
-        "url": "https://www.livemint.com/market/stock-market-news/diwali-stocks-2026-tata-steel-mcx-ihcl-and-8-more-to-add-sparkle-to-shares-portfolio-in-samvat-2083-full-list-11793263311455.html",
-        "published": "Thu, 29 Oct 2026 15:22:13 +0530",
-        "published_ts": 1793267533.0,
-        "priority_score": 27
-      }
-    ],
-    "priority_score": 27
   },
   {
     "cluster_id": "3cd15658c2",
@@ -90,10 +187,10 @@
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDd2aU5sZkRFdzgtMURLYXVXR0lrN1RWTWFzMUJBZzhrT0d4bEVtdmQ2RkNaLVpWZk9tbFBRSEZETV9Balo3bGQwbDhKTDh0WVNwSHNUWTFCUll1Z3RnY2xEVkZVZzU2M3hYNG9iblJkS3FkbFQyWk5CVURWN25PVTMwWV9NckR5U3dSWXVONnRtUEMtSEpheENMdG94TVFVSkI4cEV3SUdkTUZBS2dYS013VUJNNVB4V0xsOFZEODM0TWM2d1RyRGNlSFphWXJrZXFZ?oc=5",
         "published": "Thu, 29 Oct 2026 09:01:38 GMT",
         "published_ts": 1793264498.0,
-        "priority_score": 20
+        "priority_score": 16
       }
     ],
-    "priority_score": 20
+    "priority_score": 16
   },
   {
     "cluster_id": "f324210699",
@@ -112,10 +209,10 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXM3SGVuazJoTkdJY1lCbEJUT1hfQmMtN1pkM0RER1VLMjl5NWVlZzhhbHBiWENKTXJwRnZ0WlhSa1pwS1otSGJ2SF8tMWQwUFFkRUlXbU9JcVRwVGJwV1lwVXJjVzVRaU1DeUd4cHdzMVhqdU9pQ2twMWJTVXVETnR5QlhKN0NDWm81cVNmVFlzNzcyZkFaekFIaEdTTDF2QWVyZ1R2NnlEcjQwOV85aG9R?oc=5",
         "published": "Thu, 29 Oct 2026 08:27:58 GMT",
         "published_ts": 1793262478.0,
-        "priority_score": 20
+        "priority_score": 16
       }
     ],
-    "priority_score": 20
+    "priority_score": 16
   },
   {
     "cluster_id": "306cfbe64d",
@@ -134,106 +231,9 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3JIVjZZWVRqYTlId2tsenJjTkFFZVJJQXBoQXdJYk40dndaR2hjb3NLQ0FETWtnekswbmw0Vlc2WU1EVnpJbTljQU5jV2tkM0d6bWpoZTFESy1yOEhubWtueWxQUUpsLW5KQ05EVTA5Y25mOHZpcFpkeHpvQVQ5Wm0wcGtDYWc?oc=5",
         "published": "Thu, 29 Oct 2026 07:19:12 GMT",
         "published_ts": 1793258352.0,
-        "priority_score": 35
+        "priority_score": 31
       }
     ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "4366671d24",
-    "theme_title": "Karwa Chauth 2026: Are banks open today? Check if SBI, HDFC, ICICI Bank and others are closed in your city on October 29 - TradingView",
-    "date": "Thu, 29 Oct 2026",
-    "published_ts": 1793255226.0,
-    "article_count": 1,
-    "outlets": [
-      "TradingView"
-    ],
-    "summary": "Karwa Chauth 2026: Are banks open today? Check if SBI, HDFC, ICICI Bank and others are closed in your city on October 29 TradingView",
-    "sources": [
-      {
-        "outlet": "TradingView",
-        "title": "Karwa Chauth 2026: Are banks open today? Check if SBI, HDFC, ICICI Bank and others are closed in your city on October 29 - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbGphRVNraW83eUxYQUFORHhXLUtuSS1tWWt5NDVFckpjU2s4SlBPQl81VFV2MFd6T19Tam00S3VJQ2pMcGhKa1hod2g2NEV6VmROek9JNkt6VDJ3dHNZbngtU0J6Rzk5UFAzNUZ2Mkx3VzUzekQ3NkdkUU5mR3FJWVdmZ0hpM0t4YjNBZ3NtNklKTEY4Uzl5ZWJuaG5oWXJQUWcwSUQ4MmZ1SHhwX3BfT3JNLVBGLUJPNFRxamQyUE5LTHBuMTV1UmlTSm4zU0xsNW5NVm85ZjRWVjBiSVRQZTFzTHZqbTgyRmVVdEdhOWZFbXRuN0ZxV3Y0WjBvM1h5blZz?oc=5",
-        "published": "Thu, 29 Oct 2026 06:27:06 GMT",
-        "published_ts": 1793255226.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "0147d56aae",
-    "theme_title": "State Bank of India Stock Update: Share Price Rises on Positive Sector Outlook - LatestLY",
-    "date": "Thu, 29 Oct 2026",
-    "published_ts": 1793246383.0,
-    "article_count": 1,
-    "outlets": [
-      "LatestLY"
-    ],
-    "summary": "State Bank of India Stock Update: Share Price Rises on Positive Sector Outlook LatestLY",
-    "sources": [
-      {
-        "outlet": "LatestLY",
-        "title": "State Bank of India Stock Update: Share Price Rises on Positive Sector Outlook - LatestLY",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMjl2SVhZQ2JnYlhHNnZ4WG1tNHgtckJPSERZd3k5eEVUcTR2cG11bUpNVVFFTVZOcWZ1YnBjN2xyRmRfTkZxUTVOSUxnbEpIeEZfVU0yd2otVTNOT1g1S2ltc3ZJelp4RjRjakphZHVZMUhkYUdsM2lyUWdCZWswUHpjLWk3RGlEVjI3YTNRM09aQXE1OFVCTWZmQmF4Z29Vc2hBVXdwMmMyZUpacUt1LWotTkNLZ1p5bndXaEludzhpQdIBxwFBVV95cUxQMDZnWlZiNzNWTDlidGFRR2VoMzNjWFBKRlN0RkRBMzkxV1JaRGx5eWE3Y004QnI3ZXRkcmVHNEliWllsVkVtMmJ2b1lDX0tROG9mSUI2aGhhc2lqUlN5NVF3a0k4WWdIOVNsVVR5S0dURmlxeURGVm5FMTNET2l2eG5rRXNFNEY0TnhuLTVEZ25uS0poZE1Ga1JaN0xaM2dma3c5MjZud1plWkptNmtNaUM0UXFRRFF3WG5kYTh0bENXSzNiTFVB?oc=5",
-        "published": "Thu, 29 Oct 2026 03:59:43 GMT",
-        "published_ts": 1793246383.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "254e2cec35",
-    "theme_title": "SBI Discontinues Special FD Offering With 7.60% Interest \u2014 Here's What Investors Should Know - Goodreturns",
-    "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793223238.0,
-    "article_count": 1,
-    "outlets": [
-      "Goodreturns"
-    ],
-    "summary": "SBI Discontinues Special FD Offering With 7.60% Interest \u2014 Here's What Investors Should Know Goodreturns",
-    "sources": [
-      {
-        "outlet": "Goodreturns",
-        "title": "SBI Discontinues Special FD Offering With 7.60% Interest \u2014 Here's What Investors Should Know - Goodreturns",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORzhtc3ZqV3h5dG04a2tBT1JTQnRHck12WXYwOGJoWEt2RlVnNDBhT2lUOC03M1lsVDhzTjV2Ui1GOE1uNnRXLTktZ05nMVRKM0psVHhpamt1R0ExVXMyZUJRSDRaVVhsYjBWRWtfS1lEbmlKbFprXzhyLWxCZW40cGdNOHRIdmFGWk11RDJ6NDRZbFc4SVBTN0RxdC12dVJ6Sk5FX0ZBYlg5OGY0RkMzdnBDZXRrMXZHR0lTc3ZTUmJVbm9QRTZWa09PNTZUc2Z5VE9IaVZiSi00dUF0OVBaV1JXVy0tX0Vlb2d0X29yQ2Rzdw?oc=5",
-        "published": "Wed, 28 Oct 2026 21:33:58 GMT",
-        "published_ts": 1793223238.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "851cd17e12",
-    "theme_title": "ICICI Lombard: Acquires Stake in State Bank of India for \u20b91.72 Billion - InvestyWise",
-    "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793215985.0,
-    "article_count": 2,
-    "outlets": [
-      "InvestyWise",
-      "scanx.trade"
-    ],
-    "summary": "ICICI Lombard: Acquires Stake in State Bank of India for \u20b91.72 Billion InvestyWise",
-    "sources": [
-      {
-        "outlet": "InvestyWise",
-        "title": "ICICI Lombard: Acquires Stake in State Bank of India for \u20b91.72 Billion - InvestyWise",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJmLTB5UzdVekRQT2tEZVBGNnFyMi0zRzdSM3F3ZnlyenFrbzE3QXBkZ1QtTXVCZjczdGV1WENGcWZvLXc4NnFNOUlmN29OU1NRaHNKWF9SVHNsREg2akItcXROM3ZrWmZGeWhnbHI3X0xQc0ZXUTcxYUc3VGhicTQ0QUlvRzQ?oc=5",
-        "published": "Wed, 28 Oct 2026 19:33:05 GMT",
-        "published_ts": 1793215985.0,
-        "priority_score": 30
-      },
-      {
-        "outlet": "scanx.trade",
-        "title": "ICICI Lombard acquires \u20b91.72 bn worth of State Bank of India shares - scanx.trade",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXVmMkxEVkhtOVUtS1l2OGF6UjBBbmREY1NDOGF2ZGNrSmFURXRrUDRNWVZTbTFTQmNxNHRJcnJPR2ZjTWhPV2V2YmhRSFlhQVkySnZEa0pWeEtsdVNmVkg0VG5nbjM4M1RPRVRVOS1IakhRRnFOYUdmd1RVSGpOLVRUdXU4YzJXVlRsTE9HNzUyc1VnUUpBOVJrak9nUWlOWWdIcGFjSzRtSm5NLWNreC1LMVFhUGZt?oc=5",
-        "published": "Wed, 28 Oct 2026 17:04:27 GMT",
-        "published_ts": 1793207067.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 36
+    "priority_score": 31
   }
 ]

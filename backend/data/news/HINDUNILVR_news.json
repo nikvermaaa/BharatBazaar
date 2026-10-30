@@ -1,13 +1,78 @@
 [
   {
+    "cluster_id": "e345ec587c",
+    "theme_title": "Gen Z brands are breaching the last citadel of legacy consumer firms",
+    "date": "Fri, 30 Oct 2026",
+    "published_ts": 1793353528.0,
+    "article_count": 1,
+    "outlets": [
+      "Economic Times - Industry"
+    ],
+    "summary": "India's Gen Z and D2C brands are challenging FMCG giants like Hindustan Unilever, ITC and Marico by expanding into kirana stores. New-age brands captured 21.7% of India's kirana market in H1 FY27, up from 14.8% a year earlier. As digital-first brands breach traditional distribution networks, legacy FMCG companies face growing competition for retail shelf space and consumer loyalty nationwide.",
+    "sources": [
+      {
+        "outlet": "Economic Times - Industry",
+        "title": "Gen Z brands are breaching the last citadel of legacy consumer firms",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/indian-new-fmcg-companies-gen-z-brands-are-breaching-the-last-citadel-of-legacy-consumer-firms-hindustan-unilever-itc-emami-itc/articleshow/135354109.cms",
+        "published": "Fri, 30 Oct 2026 15:15:28 +0530",
+        "published_ts": 1793353528.0,
+        "priority_score": 27
+      }
+    ],
+    "priority_score": 27
+  },
+  {
+    "cluster_id": "790fbc1766",
+    "theme_title": "How Is Hindustan Unilever (NSE:HINDUNILVR) Translating Volume Recovery into FY27 Earnings? - Kalkine India",
+    "date": "Fri, 30 Oct 2026",
+    "published_ts": 1793346480.0,
+    "article_count": 1,
+    "outlets": [
+      "Kalkine India"
+    ],
+    "summary": "How Is Hindustan Unilever (NSE:HINDUNILVR) Translating Volume Recovery into FY27 Earnings? Kalkine India",
+    "sources": [
+      {
+        "outlet": "Kalkine India",
+        "title": "How Is Hindustan Unilever (NSE:HINDUNILVR) Translating Volume Recovery into FY27 Earnings? - Kalkine India",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVU9NSUJvZmdzQjVPczl4S0pwc1FPX3F6SlhrZGZoVFFSOTd4WU1VcVEyLW1vZG43YWpVbDdtLUdmRmY2dGd3akxWWmVKZUs2M2thZ3FhVy1vU0h4UExUNjFrR3hfZDJKOXBiZGppQk1pVXpIS0NLckdqNFU5cjlYQW90YmRRTjBBSXpnSkNGdTVqUDNETlVWWTNtNF9qMEphVXExbHdsVXBCZ2FVcGlxTmFONGl3WnJ4MFhFenIyNUppdXpMYU9GcA?oc=5",
+        "published": "Fri, 30 Oct 2026 07:48:00 GMT",
+        "published_ts": 1793346480.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "18a6ef444a",
+    "theme_title": "Hindustan Unilever Ltd (BOM:500696) (Q2 2027) Earnings Call High - GuruFocus",
+    "date": "Thu, 29 Oct 2026",
+    "published_ts": 1793313686.0,
+    "article_count": 1,
+    "outlets": [
+      "GuruFocus"
+    ],
+    "summary": "Hindustan Unilever Ltd (BOM:500696) (Q2 2027) Earnings Call High GuruFocus",
+    "sources": [
+      {
+        "outlet": "GuruFocus",
+        "title": "Hindustan Unilever Ltd (BOM:500696) (Q2 2027) Earnings Call High - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcmU4MGsyNml3WTFjMnV1X3VOMVVhTjNENGhZZWxlamNnRzQ2WnhKWFY0ZWZjY2FfV1J2R2w3Yy1KZXpKdm1VNnIwQ0V4Zk5iVUVTUS1vYW9Xclk5b05NX0J1dVYtWE1tTExOb01qbnBJdFo4RVFuc0pBTmJKdTN3bWtHbHd3R01jczZRbnNDWnJianZfNUdJUEZqOTFBaEpMYVk4Q0VrUkZPNC16ZHo5QnIwa0RHakxSYWdrUFFsTVhsam1Ib2s5M1ZfY0Z1WnZFVmp2OC0wbDQ2cUN2a0dqOU1rT2k4ekVLeHk3UXFLVmlHWDZmYkhJ?oc=5",
+        "published": "Thu, 29 Oct 2026 22:41:26 GMT",
+        "published_ts": 1793313686.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
     "cluster_id": "6475696d3f",
     "theme_title": "Q2 October dividend champions: Infosys, Colgate, HUL, CPCL, Coal India | Big payouts - amount, record date - Livemint",
     "date": "Thu, 29 Oct 2026",
     "published_ts": 1793290726.0,
-    "article_count": 2,
+    "article_count": 1,
     "outlets": [
-      "Livemint",
-      "LiveMint - Markets"
+      "Livemint"
     ],
     "summary": "Q2 October dividend champions: Infosys, Colgate, HUL, CPCL, Coal India | Big payouts - amount, record date Livemint",
     "sources": [
@@ -18,39 +83,9 @@
         "published": "Thu, 29 Oct 2026 16:18:46 GMT",
         "published_ts": 1793290726.0,
         "priority_score": 45
-      },
-      {
-        "outlet": "LiveMint - Markets",
-        "title": "Q2 October dividend champions: Infosys, Colgate, HUL, CPCL, Coal India | Big payouts - amount, record date",
-        "url": "https://www.livemint.com/market/stock-market-news/october-dividend-champions-infosys-colgate-hul-chennai-petro-coal-india-announce-big-payouts-check-amount-record-11793286004751.html",
-        "published": "Thu, 29 Oct 2026 21:48:46 +0530",
-        "published_ts": 1793290726.0,
-        "priority_score": 45
       }
     ],
-    "priority_score": 51
-  },
-  {
-    "cluster_id": "bbd6574318",
-    "theme_title": "HUL\u2019s revenue growth has a party pooper, and it may be here to stay",
-    "date": "Thu, 29 Oct 2026",
-    "published_ts": 1793263392.0,
-    "article_count": 1,
-    "outlets": [
-      "LiveMint - Markets"
-    ],
-    "summary": "Rising commodity prices squeezed HUL\u2019s margins to multi-quarter lows in Q2, dampening investor sentiment despite revenue growth hitting a 14-quarter high.",
-    "sources": [
-      {
-        "outlet": "LiveMint - Markets",
-        "title": "HUL\u2019s revenue growth has a party pooper, and it may be here to stay",
-        "url": "https://www.livemint.com/market/mark-to-market/hul-q2-results-revenue-growth-profit-margin-decline-11793260769758.html",
-        "published": "Thu, 29 Oct 2026 14:13:12 +0530",
-        "published_ts": 1793263392.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
+    "priority_score": 45
   },
   {
     "cluster_id": "97664f8f7c",
@@ -69,10 +104,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3A5dHd1VFBwVno3OFdQa1B1YTNrNGFZUTZZUWRGdnhuUVJpTjlGVHFJYVcxME41R3Y4SFJvd2FPSHoxczNWX0hIeG56VmkwcF9rY1EtX19ZU1REci13ZlRmcDFIZkxNbzUtY0FQTDdDVTViQkFiRXMyYnl4MU05ZFF5c2M3VG56SFhPOGtPQWwyNDJJME95S2p1Mzh2azhNeXRnaXZXM2pCaXJYbDN1VjhyMGM3T2F2RkZMUVNBQlcxQdIBxwFBVV95cUxQX25FNWhTN0ZkQ0F4YkVCNUgyUUJWV1h0UFRaYlcwVG9hVjlDak4xRmFrNlZ6TzJZUjZwUWlCSEV0N2ZfQTRTeXdjel9YQzVINjdQbVc0NFVaRWc0MUpRRV9hY20yN0RWZDEyTFhwdGRSTExZeElNOXhJMHNkR0pfY2oyOGIyR2E4b1pWSjBGNEMzekVVODNkRmdPaHU1bDRRd1hpN3M2SnJTU3lQZl9rY1l2YktKRTlybjJQSFdKZlc1elF2MVJF?oc=5",
         "published": "Thu, 29 Oct 2026 05:57:48 GMT",
         "published_ts": 1793253468.0,
-        "priority_score": 35
+        "priority_score": 31
       }
     ],
-    "priority_score": 35
+    "priority_score": 31
   },
   {
     "cluster_id": "e6b8c1e849",
@@ -91,32 +126,10 @@
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOUtaRzRLLVA3bXNkUl9QWGFFaUdrdFp6UGRBUGNWQlZ2cDhMWEhKVzFuN0EtcHJWMTNrZkVVRE52TThNTXU1UVJrQVpKeUE3Tk1RT0QtWTFPUEtuOWNrMnZXOFVUdGgyV2VqWE1BeUxSbnRjT1R3ckV4d3RyaThoMzd1OVBOWlVjOEdlbXdVMjB2TkNYdEQzNTVJcmpodzVPVm1mbmxYQ2xGb1RmTk55MGVxM2VmakNZNjdKSElXbldxQVNrdjc5SDV0Q3hTZDAtRnRIa20xcm9nOGhGSEswa0E5cEZxakVqblhrV2dod3I3VGlmbUFkNFRR?oc=5",
         "published": "Wed, 28 Oct 2026 17:42:00 GMT",
         "published_ts": 1793209320.0,
-        "priority_score": 45
+        "priority_score": 41
       }
     ],
-    "priority_score": 45
-  },
-  {
-    "cluster_id": "f7228609ad",
-    "theme_title": "Hindustan Unilever Share Price Falls 2.65%: Price Action - Univest",
-    "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793199291.0,
-    "article_count": 1,
-    "outlets": [
-      "Univest"
-    ],
-    "summary": "Hindustan Unilever Share Price Falls 2.65%: Price Action Univest",
-    "sources": [
-      {
-        "outlet": "Univest",
-        "title": "Hindustan Unilever Share Price Falls 2.65%: Price Action - Univest",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0VyMWViU1BmSjZ0V2d4Q2hNSTF4MjBDbHdiak12UEVkaXpEZ2RXZlI5OHhNdVFid2FZN2lvZE95MUNqOHc0VjV2cU50eWc0c0NRU18yUk82YW93aXI0aWZoaDIyckdKXzNwcXRVOFFlVzVxWjNtQ3lqdWFhWDdRMg?oc=5",
-        "published": "Wed, 28 Oct 2026 14:54:51 GMT",
-        "published_ts": 1793199291.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
+    "priority_score": 41
   },
   {
     "cluster_id": "4eacf438e4",
@@ -139,6 +152,28 @@
       }
     ],
     "priority_score": 31
+  },
+  {
+    "cluster_id": "46be79c3db",
+    "theme_title": "Hindustan Unilever to continue calibrated price hikes to offset input cost inflation: CEO - The Indian Express",
+    "date": "Wed, 28 Oct 2026",
+    "published_ts": 1793193901.0,
+    "article_count": 1,
+    "outlets": [
+      "The Indian Express"
+    ],
+    "summary": "Hindustan Unilever to continue calibrated price hikes to offset input cost inflation: CEO The Indian Express",
+    "sources": [
+      {
+        "outlet": "The Indian Express",
+        "title": "Hindustan Unilever to continue calibrated price hikes to offset input cost inflation: CEO - The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkw3T2d5WEYyU0NIN1lQMjlXN3Jadl8yNlM0M25fVFZqNDhERlctWTRqZktvOEtDdVpuZGZtTENUU21UbENmRlA5RnJaUjZMa3MzZ0xOdVNPd1BKb1NWNlJma0ktRmtrNV9WT1VaZGNOSmU4bldHa0U2cjcwd2c4WWFqV0RvQXUxVHgyb2FyUDZhVmRjOVRIXzJyRTdLTVlEUDk5bHRKOXLSAa8BQVVfeXFMT05PT3RxQVJPTE9TOEdpU0JWdDJwMzNsaUVQd0VkNDJyenpUNDRQN2trWGhzdUZiM09DRFV4djc2c0NubWIwRjhIZWhpbVlFQ0NEcVJnNzN3U2FqdFlQemNBaWRseDRZbHBrbjJBYVAxYWxBemwxckduTmp1djRkRTRxWVI4cXlKRE5fdXBTdkxhZkpRSHBTMTRibGRQMFRicEM4OE5IVk9rX3FlZktKYw?oc=5",
+        "published": "Wed, 28 Oct 2026 13:25:01 GMT",
+        "published_ts": 1793193901.0,
+        "priority_score": 26
+      }
+    ],
+    "priority_score": 26
   },
   {
     "cluster_id": "beb1ba5bac",
@@ -179,50 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMmZ2b3VzVlZnOVRWbThKSVNJclB3bFZibFdNSURIV0JVSWJNYmRIam9Dazdpa0JIcWZaeUZqb0g3aG1wb3gxdUY4azRvM3pwZTlWTFFRTTl2T3BjX2dWejNWX2hLYmN2ek5IaGVQcEtabmFuOC1rT0hCQ3FsaGVOVnpHWXBxM3B1M2dPZUZHbzY4YS05bTFoWVVsQUtvbnpWalBDX3d2OVBiWUxHTWZLdEJOWHl4OTdXZklURW1VVWhRX2NuYXdORlQ1TlpRWFEtOXo1UE12bE1GcUNuMVJONnIxTzV6Mi1qd3pGSzFZSUNvbElQMmppOVA3Z04?oc=5",
         "published": "Wed, 28 Oct 2026 12:52:43 GMT",
         "published_ts": 1793191963.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "3d60e671b8",
-    "theme_title": "Earnings call transcript: Hindustan Unilever posts strongest sales growth in 14 quarters in Q2 2026 - Investing.com India",
-    "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793187859.0,
-    "article_count": 1,
-    "outlets": [
-      "Investing.com India"
-    ],
-    "summary": "Earnings call transcript: Hindustan Unilever posts strongest sales growth in 14 quarters in Q2 2026 Investing.com India",
-    "sources": [
-      {
-        "outlet": "Investing.com India",
-        "title": "Earnings call transcript: Hindustan Unilever posts strongest sales growth in 14 quarters in Q2 2026 - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkpvcHc1cVQ5ZGtIWmtkX3pTNF9YUWVudHJ2cC1LQllEVjdabnVSbkJYOVJuYU9pVjFSOXdnaF9KbktBOWp5TVNCRWpEenNwbFZHWTVsS0RMR0tvLUt5WFdVTkJCQ2x6V3VnNFFKR1hMNVI4V2xiUjBVTlN3M010M3BuVDVmM19ZZDhwVVNBbUt0cVdIYlcwOU1QRVdLNG4xYU1uWFN0WUZYQnc5UGs1cVBzalJmZ0NDZ21GU0NMbXNWZWNnTFUzRXNyTFMzQWRWQ0dYVjg1MTdraGtHUERuVC1lRUU2cjNDakhQXzlidUI?oc=5",
-        "published": "Wed, 28 Oct 2026 11:44:19 GMT",
-        "published_ts": 1793187859.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "857bfb632c",
-    "theme_title": "Hindustan Unilever Q2 2027 Earnings Call Is Live - TradingView",
-    "date": "Wed, 28 Oct 2026",
-    "published_ts": 1793183224.0,
-    "article_count": 1,
-    "outlets": [
-      "TradingView"
-    ],
-    "summary": "Hindustan Unilever Q2 2027 Earnings Call Is Live TradingView",
-    "sources": [
-      {
-        "outlet": "TradingView",
-        "title": "Hindustan Unilever Q2 2027 Earnings Call Is Live - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRmFZT19jdTJjdS1YSEg5VWRoRmJqSUJ2TGFfY19Wc1NWV2FNYVF0dnd3TDM4dHhjMzMxNWpDZlY0SzA4MDRoMDRNMXI2TFp0U0NxOGk4enR2UjJXNmh6N2hXN0xPTEdyYWpVVEFlUmtDOURSZnQwSHFlTm9hNHpXeDU3dGlhODU2ZUxkb00zNjhZY1FxemYyLXFDczJpenc1SUtjbGFoYm5GcG5sUWU4Q3BjdkxuOVBr?oc=5",
-        "published": "Wed, 28 Oct 2026 10:27:04 GMT",
-        "published_ts": 1793183224.0,
         "priority_score": 31
       }
     ],
