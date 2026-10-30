@@ -1,246 +1,245 @@
 [
   {
-    "cluster_id": "0382cb83b9",
-    "theme_title": "Reliance Industries Q2 Results 2026: Jio Listing Impact - Business Outreach Magazine",
+    "cluster_id": "a4ceabb805",
+    "theme_title": "Reliance Retail profit falls 24% in Q2; FMCG revenue rises 60% - BusinessLine",
     "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793349493.0,
-    "article_count": 1,
+    "published_ts": 1793375735.0,
+    "article_count": 3,
     "outlets": [
-      "Business Outreach Magazine"
+      "BusinessLine",
+      "Livemint",
+      "Business Standard"
     ],
-    "summary": "Reliance Industries Q2 Results 2026: Jio Listing Impact Business Outreach Magazine",
+    "summary": "Reliance Retail profit falls 24% in Q2; FMCG revenue rises 60% BusinessLine",
     "sources": [
       {
-        "outlet": "Business Outreach Magazine",
-        "title": "Reliance Industries Q2 Results 2026: Jio Listing Impact - Business Outreach Magazine",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94MWtRd0duQ0cxY1g3M2lFMU9kVXBUT1NweGxoNVhzU3l1YnB1c1NOaEotemZKLUhUaEJtZTgtY01VRkFpeDkzNU5IMlQ2WkZGbFU3WHdsNUE5OXpCUTR5RTFRaE5BUV9GNVdrQTl2THk?oc=5",
-        "published": "Fri, 30 Oct 2026 08:38:13 GMT",
-        "published_ts": 1793349493.0,
+        "outlet": "BusinessLine",
+        "title": "Reliance Retail profit falls 24% in Q2; FMCG revenue rises 60% - BusinessLine",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3NCQjJEbU93NHpCTkpmbkY3bGF1NHBobEdBOUVfb1Q1SlhJZHhHckJ3U1VIV3ZmRWRMZm1laGdsclhfQ2djT1VtUkE2RmIxa0lVVjBTbjlNaUVnTTlucGptZk9qY2RZQlRDT1pvSzgyZzF6VGUyaWVOUFR3YjZ3VUlueDRGVlhnQVUyaXhvQ0l4c0lHRmc5R1FLYkUzcEpWbmlPbXdzaHdlbUI0V1RHT0pBZHhYMGh4ai1uR0tzcXpzWmpj?oc=5",
+        "published": "Fri, 30 Oct 2026 15:55:35 GMT",
+        "published_ts": 1793375735.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "Livemint",
+        "title": "Reliance Retail Q2 profit falls 24.5%, revenue up 6.4% - Livemint",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb09UT1M1SWJZNUdmQ29kbS1qSUtQeW1weURySUx3VlNLRlhodkxsTm5Uc2d3RkgwWXJXOUpkTmtTVzhGOGY3eFAxS2JOMFhNbm54eUZFMFM1clozZnhRZTlaSXdsWHpFQVhKcVVtVXV4WmwwMU9pUFlPZHEzbi1Nc01DdE9xaENSTjZVaVFqNVdfaVQza1c5ZTNDN1ZoQTFYVVBzQnhQWUViMzNyZWpjUFVyeXdrdnFfN0MtTlVB0gHDAUFVX3lxTFBHdW4zRWtxVU43b01OeFpOZl83R3JMVFNaOEpIMHM2YTlnUGM1MkFRenh6di1UaEUtLVlOWHgzZUpLaHlaUXdQN1pFMk9NNk1nRm52eFRHSXFZTkczSG8zREcwSlFRUXAzbU9vbF9FMnVPVVJkSFc3Z0hpbGtNSWpINnl0Q0d5czV2OG42OEV5V1Y4YUVCd2pSeElDRnYwZTRCVzU0bnp4TnFGWWNjRmUxeTJfTjkxLVpLY2R2WkNUNU5VUQ?oc=5",
+        "published": "Fri, 30 Oct 2026 15:19:46 GMT",
+        "published_ts": 1793373586.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "Business Standard",
+        "title": "Reliance Retail Q2 profit falls 24.3%, revenue rises 5.8% to \u20b980,220 cr - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaU56X2tvTEVDZmFzbGxOeUxLbG44UmRuWm02REZUMXZzRGhvMjhxVUZmUUM0dVFYd0JkbXQybTdjd2lpQUpOdXZrTXNsZ2p0am5rMjdvUmFLMXNMa1RkX252MDRmeThRQWVQTkJGclIzUlg5QUxZVXBpdTFaWENaQ2JVTmJqNjdzYnRBaWtBZFFMUU9xN045Uk9IUUtRSmF2SmNSNDFGQWZta0NVZzNTWU1tNDRtVnZBWGoxclhQSDJ4Z1llaTB2Q2lkUTVjaEtDd3Y4T3FTTW91UDZrWW9WbjZPZ9IB6AFBVV95cUxNZVh2eHhEUGZrS2pfT0xDRS0yRlVCd0ROcGN5X3NSRjhtRUJCWFlWeWtnbXpGYzRtYUpZN2VKOE5mWUNINFBuMU1rc1RQN2JLY2hiQjVGbHJ4UDU0N3pNYVloUVFtTGpodHlXeUpLYnU3c1VnUWJWaGluNVNuNV9SY1Q5S05KOVRGS0RHWFNfS2JGOFcxZ3pURFRkS0oyOWxMUF8yYlFhMnl3Q3hvMlVrelA0MEg2a05XLTBZT2g2Q0ZodlBEd3FLS1pyN19uZ2lVaW1ESE1lcm5ybWNNM29UMWxuNEN0Sjla?oc=5",
+        "published": "Fri, 30 Oct 2026 15:01:15 GMT",
+        "published_ts": 1793372475.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 47
+  },
+  {
+    "cluster_id": "f8ab23acdd",
+    "theme_title": "Reliance's refining business powers quarterly earnings beat as profit rises 40% - Livemint",
+    "date": "Fri, 30 Oct 2026",
+    "published_ts": 1793374675.0,
+    "article_count": 1,
+    "outlets": [
+      "Livemint"
+    ],
+    "summary": "Reliance's refining business powers quarterly earnings beat as profit rises 40% Livemint",
+    "sources": [
+      {
+        "outlet": "Livemint",
+        "title": "Reliance's refining business powers quarterly earnings beat as profit rises 40% - Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU3diZkV5VWVzWk5pVlJVS1hZVktoSEtaTHN0WDNUYjNNY2pEempaTTRyWXBJR2dhMmJWdG51c1lJN1dpXzdzb1JvLVZRVlBkcC1mUHZINmR2N0pnUzkzNHhfdElXU0cwZjQ4LVFBLWp4OFlnd3hQWE9aYnB2RlFUSXdjQVJsRTFfVGhFd3VHOWdsRkQwOU1fdlhOMVFzOGhoenVVNld3dFNWS2kzRjVVSkVlOEdjbHZ0Tm8xUTNmNHdFejVJcHhicmpuUTNwMWZYQ3pFcUtGY3pfLVNmc1J1UzFR0gHnAUFVX3lxTE45YW4wRjJScVhLQ3hFaE1mX1BfRVBXTThVbGdzZjQwYVBFR0JlY0M4MzBNZjVGVkpyV0diY0dySUdJNXFOX3pPWjZkdks5c2NzVWJhNmJDYXNybmVIVnZvbmhxZC1FS3Ztal91eHVpdkp5Rk1RSE1xUmNmNWZZTS11U1ZSa2tYeUNUd2x1MTZVY2tNT2tIa19Ocm5aVHo3Mkw4Z1NlZUl3ME1QdWhWYzBPY09LdHMtLVk1dHN6cEVoT0htRXp0bWxCYUFidGZ4M0M2QkNuZHVNc2xFSUdlYTVIWmZLakV5QQ?oc=5",
+        "published": "Fri, 30 Oct 2026 15:37:55 GMT",
+        "published_ts": 1793374675.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "674becc8d4",
-    "theme_title": "Reliance Industries Q2 Results 2026 Live: Jio Platforms, RIL to announce Q2 results today. Brokerages expect strong numbers for RIL",
+    "cluster_id": "f843ec88f2",
+    "theme_title": "Reliance posts record revenue, EBITDA and profit, Walmart probes Flipkart and LTCG pitch from FPIs - Editor\u2019s Picks from Moneycontrol - LinkedIn",
     "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793348859.0,
-    "article_count": 1,
+    "published_ts": 1793374655.0,
+    "article_count": 2,
     "outlets": [
-      "Economic Times - Stocks"
+      "LinkedIn"
     ],
-    "summary": "",
+    "summary": "Reliance posts record revenue, EBITDA and profit, Walmart probes Flipkart and LTCG pitch from FPIs - Editor\u2019s Picks from Moneycontrol LinkedIn",
     "sources": [
       {
-        "outlet": "Economic Times - Stocks",
-        "title": "Reliance Industries Q2 Results 2026 Live: Jio Platforms, RIL to announce Q2 results today. Brokerages expect strong numbers for RIL",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
-        "published": "Fri, 30 Oct 2026 13:57:39 +0530",
-        "published_ts": 1793348859.0,
+        "outlet": "LinkedIn",
+        "title": "Reliance posts record revenue, EBITDA and profit, Walmart probes Flipkart and LTCG pitch from FPIs - Editor\u2019s Picks from Moneycontrol - LinkedIn",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEh2eXRId2pyMVNyT1M1d1V5b3pqMXI0QUdzNl8wSDIteUtpRWNwWVFEZGt0bmQ2cEFOMG5talBSTUpmc3dWVzhzRFMtUXRweHZpQk1jNkpiVlo2T3hfQUVkSnpwMXhXUmVCOTF3bnJoOFZhSllxOWg2YjlVTmpEODlyQ1pDWXVZZUJWZ25VSHo1WFo1U2RKaDdRZjNwUWExTnZRNmhkYU1IdG40ZHZsMGpfaFJBYXZ1MXc?oc=5",
+        "published": "Fri, 30 Oct 2026 15:37:34 GMT",
+        "published_ts": 1793374654.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "LinkedIn",
+        "title": "Reliance posts record revenue, EBITDA and profit, Walmart probes Flipkart and LTCG pitch from FPIs - Editor\u2019s Picks from Moneycontrol - LinkedIn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3RuaWdnaVpIQ084YUx2ZGlZM29QOHgxNF9XTzVIT19IbGNxR05EeHc1Y2xVVkFmaUxhT1F4NW5NMldUdTdYRHM3MXRCbVdvMjQ2bnpLTlo5MGFjcGlUVTJPOFozTGJUS1FYMW55Tkd5Q280NkZMRHVxdk54VGE3WXVaMWo1Q2lLV1hZaWh3dW93M21UV1RWcjk1WQ?oc=5",
+        "published": "Fri, 30 Oct 2026 15:37:35 GMT",
+        "published_ts": 1793374655.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "3b5e77a282",
-    "theme_title": "Reliance Industries Q2 Results 2026 LIVE: RIL Stock Nears 1-Yr Low, Jio's M-Cap Falls Below Rs 13 Lakh Crore - Goodreturns",
+    "cluster_id": "4dce57d0bc",
+    "theme_title": "Reliance Retail Q2 Results: Profit Slips 6.6% To Rs 2,619 Crore, Margin Contracts - NDTV Profit",
     "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793347664.0,
+    "published_ts": 1793373995.0,
+    "article_count": 1,
+    "outlets": [
+      "NDTV Profit"
+    ],
+    "summary": "Reliance Retail Q2 Results: Profit Slips 6.6% To Rs 2,619 Crore, Margin Contracts NDTV Profit",
+    "sources": [
+      {
+        "outlet": "NDTV Profit",
+        "title": "Reliance Retail Q2 Results: Profit Slips 6.6% To Rs 2,619 Crore, Margin Contracts - NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmExR0pJZW9MZlEtb2NINEJTOHZ6bzNTZ3o0VXJUWndrS3VBbDI0ekRJZXJVZVFHZkhONzJJYUNXWkNkMFRGZW5OTHg4WWh1YXdteXQ2WWZJcWpUVFQwcmpxc0FnQjBSYjhvbFFydWxGX2VzczZNZVZORndMbTRobWJGNEd1eFUwRFUyMTZ0MTVhOXdJT25TM1R6MmlZcGljSm5zZ1lud3ZwOXZCeFpMcC01MU45U2pZRU82SkV3VdIBxwFBVV95cUxQMnEtdUpmdE5xYy1QWTlTcnpNX25vMlJfMVlxanNNT014dEhndnFWMW03SU43dGNqYzQyV285ekFIV0NSR1lSakFVclB4X3M3NlVWYUJ4UzRHMVZMd19TRmFVZ0QxcUt5dVRlQWlpMlJxUlczQ2NJcU5Bb2ZET29tSTZvdHFRSEQ2MFpLQWNRdDlsZU9sWk5aNVBlcEV5VTBRNk85X0drb1BabzJidXRxdWZ3bWw2Y29TUTktdnFxSE9KV003ZWJ3?oc=5",
+        "published": "Fri, 30 Oct 2026 15:26:35 GMT",
+        "published_ts": 1793373995.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "e21a65cf8b",
+    "theme_title": "Reliance Industries Q2 Results 2026 LIVE: Reliance Beats Estimates; O2C, Jio Drives Growth - Goodreturns",
+    "date": "Fri, 30 Oct 2026",
+    "published_ts": 1793372001.0,
     "article_count": 1,
     "outlets": [
       "Goodreturns"
     ],
-    "summary": "Reliance Industries Q2 Results 2026 LIVE: RIL Stock Nears 1-Yr Low, Jio's M-Cap Falls Below Rs 13 Lakh Crore Goodreturns",
+    "summary": "Reliance Industries Q2 Results 2026 LIVE: Reliance Beats Estimates; O2C, Jio Drives Growth Goodreturns",
     "sources": [
       {
         "outlet": "Goodreturns",
-        "title": "Reliance Industries Q2 Results 2026 LIVE: RIL Stock Nears 1-Yr Low, Jio's M-Cap Falls Below Rs 13 Lakh Crore - Goodreturns",
+        "title": "Reliance Industries Q2 Results 2026 LIVE: Reliance Beats Estimates; O2C, Jio Drives Growth - Goodreturns",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONE5rWVM0MmhtXzNIdkE2dF9CYlZTRi1iS0NlVUhGT0ZqTmEtMEpickxQTDNlVGg4WlVxdXc0UzZBRlhuTkh6TUdnWDVjTVVUaGtBOXZCdWdVemRTbEd1RlBPQ1dBVkNZMm1Ma2NETEJTcGlXNnRwZVZIS3RmWmI0WUFTWEd0UkFQdUtjTjNBSTgtRmNUdGFHNC1ndjRFek9nV0daWnd0SFk4dHU1SjJCeDhaT3pXT1ZvSUtIeTlydjdTbUFGT0RlMFF3YlpROUloUlZNTk1OTzF6dw?oc=5",
-        "published": "Fri, 30 Oct 2026 08:07:44 GMT",
-        "published_ts": 1793347664.0,
+        "published": "Fri, 30 Oct 2026 14:53:21 GMT",
+        "published_ts": 1793372001.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "125b1940a2",
-    "theme_title": "Reliance Industries seen posting profit rise as refining and Jio support quarterly earnings - Traders Union",
+    "cluster_id": "87164c1ea9",
+    "theme_title": "Reliance Industries Q2 results: Consolidated revenue jumps 27.8%, net profit rises 33.8% - The Indian Express",
     "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793343384.0,
+    "published_ts": 1793371628.0,
     "article_count": 1,
     "outlets": [
-      "Traders Union"
+      "The Indian Express"
     ],
-    "summary": "Reliance Industries seen posting profit rise as refining and Jio support quarterly earnings Traders Union",
+    "summary": "Reliance Industries Q2 results: Consolidated revenue jumps 27.8%, net profit rises 33.8% The Indian Express",
     "sources": [
       {
-        "outlet": "Traders Union",
-        "title": "Reliance Industries seen posting profit rise as refining and Jio support quarterly earnings - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGxXVk0yNlFSNFNYc3NZWXZNMmw1S2hacTQxMUVPZ1hMVy11bUNyOTRTVEM4RzQxUmgwZHdycEw2R0dOZEUxUUt2NGgtRGsyZE9OalJodmFZX1ZqaVFFMVB0Ym9jNlRESnRPYXFSY1dkWUZBUEFoZ2hRTmNadVhIR0JCRHZyNUV1LXJjcldGZ0J3M0E?oc=5",
-        "published": "Fri, 30 Oct 2026 06:56:24 GMT",
-        "published_ts": 1793343384.0,
+        "outlet": "The Indian Express",
+        "title": "Reliance Industries Q2 results: Consolidated revenue jumps 27.8%, net profit rises 33.8% - The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzJ1NjQ3VzVWX09UamxEYlhYYU1mWUxsb1ljUUp2V0hCVWtXWFN0YkFnZ1ZLZEl6WFV2R3FITDFUUGZNcnpnbng1Q0tWU2sxS21DN2U3N0t5VXlDZU5OSTJBNTBIQVVYdWN1dWthT3FKUGU2OHh4RFg4T2RLRExaWmZ2VkVCM0N2QzkwSzNtLXV3d2gybDhPWjNjV0JYSk8zTEFSQnk4STdGalRrdnfSAbQBQVVfeXFMUGprN29WQUZja1drQXdQTnptZVhSbW03ZElBdHFaZENlM0Zpd0d6ODd6VVM2dU1GQTlwc1JvaG96dmgtMTlVZTlxVnFQWjdHN2lWSlN2aDFKcEhxTzhlTjJ5cjdNSkUyVjVCUENUckFHeUtDR2RCTnR0NnRybmQxel9mbThwUWJfcEl0ZlNEcjVWRXpkUzVQOGNZQzYza0RGTVdqQ2Fvd0E2WWhBZ1J2UVo0bVo1?oc=5",
+        "published": "Fri, 30 Oct 2026 14:47:08 GMT",
+        "published_ts": 1793371628.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "c0d44629b4",
-    "theme_title": "Reliance Group stocks ahead of Q2 results today: How Jio Platforms, RIL shares are performing? JPL-RIL earnings schedule - Livemint",
+    "cluster_id": "03561212b3",
+    "theme_title": "Reliance posts 40% rise in quarterly profit as businesses fire on all cylinders - Reuters",
     "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793343110.0,
-    "article_count": 2,
+    "published_ts": 1793371574.0,
+    "article_count": 1,
     "outlets": [
-      "Livemint",
-      "LiveMint - Markets"
+      "Reuters"
     ],
-    "summary": "Reliance Group stocks ahead of Q2 results today: How Jio Platforms, RIL shares are performing? JPL-RIL earnings schedule Livemint",
-    "sources": [
-      {
-        "outlet": "Livemint",
-        "title": "Reliance Group stocks ahead of Q2 results today: How Jio Platforms, RIL shares are performing? JPL-RIL earnings schedule - Livemint",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZjB0dFZrSmZrT3BlQUpJQVdvTUF6MWtwNld4R1FsVlNPVGRveENjLW9HY0hrWEpMNmJBU09CSXBLbDVYcmppWVE5akx1ZUY4UXUzZzBHWVkyT1E5cUhBdENDeFNhRGFkaDRldWlRWGF0Z1VQT1dzNzNLZkRuYUhvUW9xZll1NkVPZENqVVdYREUzMjlKRDlFN2xNSHRwTnpkTHZXSmItRVRPM18tMjE5RThqSVFKNUthMmtSel9RMjUweWtmVGcyWmtUSEJmSjY3VnFHazVUWGQ1OGkzcjJJV285d2ZNcmMyTktqS2F5M0dPeC15WWpQaEtUZkJqeWF1VVc4cWdfTXdMdHk0SU8wdXZmYlh5Z01HVzRr0gGbAkFVX3lxTE1mMHR0VmtKZmtPcGVBSklBV29NQXoxa3A2V3hHUWxWU09UZG94Q2Mtb0djSGtYSkw2YkFTT0JJcEtsNVhyamlZUTlqTHVlRjhRdTNnMEdZWTJPUTlxSEF0Q0N4U2FEYWRoNGV1aVFYYXRnVVBPV3M3M0tmRG5hSG9Rb3FmWXU2RU9kQ2pVV1hERTMyOUpEOUU3bE1IdHBOemRMdldKYi1FVE8zXy0yMTlFOGpJUUo1S2Eya1J6X1EyNTB5a2ZUZzJaa1RIQmZKNjdWcUdrNVRYZDU4aTNyMklXbzl3Zk1yYzJOS2pLYXkzR094LXlZalBoS1RmQmp5YXVVVzhxZ19Nd0x0eTRJTzB1dmZiWHlnTUdXNGs?oc=5",
-        "published": "Fri, 30 Oct 2026 06:51:50 GMT",
-        "published_ts": 1793343110.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "LiveMint - Markets",
-        "title": "Reliance Group stocks ahead of Q2 results today: How Jio Platforms, RIL shares are performing? JPL-RIL earnings schedule",
-        "url": "https://www.livemint.com/market/stock-market-news/reliance-group-stocks-ahead-of-q2-results-today-how-jio-platforms-ril-shares-are-performing-jpl-ril-earnings-schedule-11793339608520.html",
-        "published": "Fri, 30 Oct 2026 12:21:50 +0530",
-        "published_ts": 1793343110.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 41
-  },
-  {
-    "cluster_id": "83f375cd97",
-    "theme_title": "Ambani's Reliance set for profit jump on refining, Jio boost - Reuters",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793342100.0,
-    "article_count": 2,
-    "outlets": [
-      "Reuters",
-      "Finimize"
-    ],
-    "summary": "Ambani's Reliance set for profit jump on refining, Jio boost Reuters",
+    "summary": "Reliance posts 40% rise in quarterly profit as businesses fire on all cylinders Reuters",
     "sources": [
       {
         "outlet": "Reuters",
-        "title": "Ambani's Reliance set for profit jump on refining, Jio boost - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONFoxY0l3N2tzeVRQVlJxNjVYLVN5WDF3elA4Y2pLelFBTDYzRXRTZ1pWMHExdXk0OFdnWVBOSVZERWpTVlRZb0xrdVI4cXlpeHdsUk90ZVhRd21XYlNDVGVpUTRhY0U5ZU5pUTAxRF9QWFVTbDlneEhUU04zOEpZeHJXc1g2bWJQaHhUWUV3dm1LV19rUzJOc2dmMDA?oc=5",
-        "published": "Fri, 30 Oct 2026 06:35:00 GMT",
-        "published_ts": 1793342100.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "Finimize",
-        "title": "Reliance\u2019s Profit Jump Is Set To Ride Refining And Jio - Finimize",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2lSdU5BbzVFWS1RVldTWlVVTlgxOGxDdWlyLWtrb1RxTDRpWGRFR1cteGVxSVdZd1lhd2l2OUY1RzhvTWFiOWh5MFl0aEdFZnBQQW5Hbk4tNzVRUWt0Z3dydGZmbkZ2WE1xU0FKWmxOSW03dWhablJsVGdIMVktOGptVXJVaTV4T0E?oc=5",
-        "published": "Fri, 30 Oct 2026 06:01:27 GMT",
-        "published_ts": 1793340087.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 41
-  },
-  {
-    "cluster_id": "3b205d6916",
-    "theme_title": "Reliance's Sept 2026 quarter results to be out today: Company's profit could be \u20b921,000 crore; refining & J... - Bhaskar English",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793342057.0,
-    "article_count": 1,
-    "outlets": [
-      "Bhaskar English"
-    ],
-    "summary": "Reliance's Sept 2026 quarter results to be out today: Company's profit could be \u20b921,000 crore; refining & J... Bhaskar English",
-    "sources": [
-      {
-        "outlet": "Bhaskar English",
-        "title": "Reliance's Sept 2026 quarter results to be out today: Company's profit could be \u20b921,000 crore; refining & J... - Bhaskar English",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN1lEYm5aclI0TFQzczAtQ0Jzb2dlUEFmdVRvZ0xWazdqMTI5aVhKRENYWFFfdnc5UDNfUnJrM0JGV3N5ZXpQQ1U2enItS3B6MGFndmdFbGo1cldsRmdkV25xUzh3bExZZzEzOVowYVFwbnVlUlZfMVhPUTlJcE9TUE1YTVBhbkQxTXoyWmNCWnF1TkRrRFlqRU1jX1VDRmNzc2J6ZWExay0xS3lnYUJta001eXFlUlRSdXRnTkhYZlZHcGJV0gHKAUFVX3lxTE5OTTlUX2NNb0wyaG8tM3NfeTdrRGJtazN3UXhXTktORTlhS0t0aUEwT3o2Y21wWTctczBRMTdhQ0xWWmJmQjlXQmloTzNvQ29keEJWOENEQ3VCT1EySF9VYnZQR0JFMEhjUEp3NlVMVjMyZTYyR3hILXRMQ2dIemJJMmhONllXUDRJTnBVZXlGVWwtVWtHaTBCLWtpNG1ueUxWMzZwOHhJM3VSUFNWZzloNW1OMEsxV3MwMGxmNk5lOWlILXcwRW5NTGc?oc=5",
-        "published": "Fri, 30 Oct 2026 06:34:17 GMT",
-        "published_ts": 1793342057.0,
+        "title": "Reliance posts 40% rise in quarterly profit as businesses fire on all cylinders - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3F1YnFaLTBTLUs5bS1sUk1jVE9lYlFqS2ZQZDJibUpxbC1fSW5udUpITDFnUVhsWU5BekF4UUtjNm0za1VkeTZFSGstZGd1bnZ3cXZIdTZmeG5Ob0l3WFdWZm1zYy14Zy1PdkdSM29MZ29Qa0d6MUNBXzh3ME5fRG1ZNldhbGJxcjNfZDc5bzhOUFJQV2dHLW00X0pNUkw5UUlwZ3BhNjJ3THdYZllWbTB6SlM?oc=5",
+        "published": "Fri, 30 Oct 2026 14:46:14 GMT",
+        "published_ts": 1793371574.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "91a33e445e",
-    "theme_title": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or wait for a recovery?",
+    "cluster_id": "36adc8e77e",
+    "theme_title": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digita - The Economic Times",
     "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793337327.0,
+    "published_ts": 1793371500.0,
     "article_count": 1,
     "outlets": [
-      "Economic Times - Stocks"
+      "The Economic Times"
     ],
-    "summary": "In 2026, the Nifty 50 index faced significant drops, with 34 out of 50 stocks plummeting by as much as 34%. Analysts believe that the sell-off is driven by foreign institutional investor exits and a conservative outlook on earnings. This decline presents potential opportunities for long-term investors as valuations dip below historical norms.",
+    "summary": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digita The Economic Times",
     "sources": [
       {
-        "outlet": "Economic Times - Stocks",
-        "title": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or wait for a recovery?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/itc-ril-hdfc-bank-among-top-laggards-as-nifty-falls-over-12-in-2026-time-to-buy-beaten-down-stocks-or-wait-for-a-recovery/articleshow/135345201.cms",
-        "published": "Fri, 30 Oct 2026 10:45:27 +0530",
-        "published_ts": 1793337327.0,
+        "outlet": "The Economic Times",
+        "title": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digita - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWktnUkoyemZlZXcySXA3akV6ZGZMd1VQd2ZTREpZT0JfeFBJclNPQnFVa0dVTG1GdkJjN01ta0pmTnVuNkwxRkJMWEpvX0JsSzdvSWhfeTkzMDRVR2daYzVzQy1VZk1hQnRkcl94RFdtcTBRYVdJS28tVWJMMWJPdWhWSnF2NFd3RjdZRm1nS3BMR0wwdDNJRUEwLXZhZ0lESDVCeklIYV9nSklhcTJMSlROS2kzc215OW56VnRjYnpURjEtcGI4TU43YmJoeV9WVXR0emVZTHdITmZyc2pxSlFyNXRPYXAyNGY3eEZUSWpacVZiSTBtS3FRRdIBgAJBVV95cUxNVV9BaEp6RlZJMkU3R3FSUFpYSFJxNzJudW1wakhqNjN1aVRGN3dnMkFaV0IyUmhsTV9XbURLUDJqVXU2RXhFVHRCMjJpV0JzYjEzSWVnV1ctd25oRXJ3Y2M0WGlGdW9YZzRVSlF5ZzQxQzhhckliNXAydVNRTVBZTEw3X3VfT0FkbnVUWTZwSXBfZ25KQldwLWJCR2xRZVF2Wk8yUElhVUg5eDVCRngzSm41cV85V29BXzRkZVAyOEkzSklBUE1CakpNSGh6U2ZhLUlRQzBjbU9lZlhkNWpqSHEwcW9hYXZ0WEl4Z2RGSzJMalJvaURuU2I1Z3RlY2cy?oc=5",
+        "published": "Fri, 30 Oct 2026 14:45:00 GMT",
+        "published_ts": 1793371500.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "0d5ad1dfee",
-    "theme_title": "Reliance Q2 Results 2026 today: RIL near 52-week low; buy Mukesh Ambani-owned stock? Experts sees 23% YoY profit growth - Livemint",
+    "cluster_id": "aff6540b23",
+    "theme_title": "Reliance Industries Q2 profit jumps 33.8% to hit record high of \u20b929,550 crore; H1 PAT crosses \u20b950,000 crore mark - Fortune India",
     "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793337122.0,
-    "article_count": 2,
+    "published_ts": 1793371422.0,
+    "article_count": 1,
     "outlets": [
-      "Livemint",
-      "LiveMint - Markets"
+      "Fortune India"
     ],
-    "summary": "Reliance Q2 Results 2026 today: RIL near 52-week low; buy Mukesh Ambani-owned stock? Experts sees 23% YoY profit growth Livemint",
+    "summary": "Reliance Industries Q2 profit jumps 33.8% to hit record high of \u20b929,550 crore; H1 PAT crosses \u20b950,000 crore mark Fortune India",
     "sources": [
       {
-        "outlet": "Livemint",
-        "title": "Reliance Q2 Results 2026 today: RIL near 52-week low; buy Mukesh Ambani-owned stock? Experts sees 23% YoY profit growth - Livemint",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOU2ZNOFpJNHI3bUhDVS1ST2toUUVXWUhGa0luclM0azNQYUJfUTByZi0zTlpvRTkxeEFoa1lNWWdhUmNhOS1qbEI0SDFIQ2RjdnpkQ0dFanBnRDRGSG9oWWwtSlBrX0k1UWIxRDlTRk9OblN5X1ZpeU1iUFNyRU5IQ3ZQVEhOa2dPVWZtM0lUb3MzSHYyOWllU2o0VnhqYWtIZ3k4OExHRENpMTdXblRhN0hiSHFnSE5kUEpJWkptdVAtdTZXRXR5cFN6Z0htTDBZZV8wNFhTZjZEbUkwOWRDWS02YUVmRVZVZmlKV3dRVTVmWVNRTTV4QTU0YkJadF9PTWdsRDVVdlJJR2tDVTRsNmRqZ9IBmAJBVV95cUxPdGNZdDRsWFN0RHJzUkFHSWN3S2Nzai1JMVE5c21CSVZfZXF3RFA5UVowVkI5d1NWMTMzdkpYNV8yTHprY3FjWmdJMmtfSTYyR3A3bmZVdXVkeWxaTTRWcF82dXZiYlppNWdkd1pvUnotRU5Fam1CcUtSNWhSV2hFZVhZNTNxQ05XN0U4SGJfd2oyeVVGNTd4bUlqZ1VsNlRDcF92TW41bmdsRFk3bTVRQTJSaUFXUUFzdUNvRnpHUlJjUzVxSVVDSVpLMEFtaUhSaFZZZkZxTURraVQ5bEYtZXI1SEczc0dBTUZUY0J1MmVZRFBQUW5CRDljMGxLVjFCX0d4SFlhZjFETUVNX0NsTXhUaTNpa1oz?oc=5",
-        "published": "Fri, 30 Oct 2026 05:12:02 GMT",
-        "published_ts": 1793337122.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "LiveMint - Markets",
-        "title": "Reliance Q2 Results 2026 today: RIL near 52-week low; buy Mukesh Ambani-owned stock? Experts sees 23% YoY profit growth",
-        "url": "https://www.livemint.com/market/stock-market-news/reliance-q2-results-2026-today-ril-near-52-week-low-buy-mukesh-ambani-owned-stock-experts-sees-23-yoy-profit-growth-11793333789585.html",
-        "published": "Fri, 30 Oct 2026 10:42:02 +0530",
-        "published_ts": 1793337122.0,
+        "outlet": "Fortune India",
+        "title": "Reliance Industries Q2 profit jumps 33.8% to hit record high of \u20b929,550 crore; H1 PAT crosses \u20b950,000 crore mark - Fortune India",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM3ZGYWdUNmx6X2pzNHg1VlVsU0NPdVZTSFBJdkVEUU1QZFFlWE9vbHJDYUdIcEZnNTZEdGMxX0tMdExEYm5pZWZJS0NsaE1adExkeWlROEZNanctOGNLaURsNXFqWTVhajV5Z2pBUFB0bzVGTWtxWnZlWHJ3SUZjTWdOaW5TU3lnaXl0LWllUGE1d0FaTWNPQkRqZW1keGM4bzkwb2FKRGU1UUlLNDFjQ0loRnJkd3B3b1Z0cV9wRXlkcmxpWVRVRDZ0NTVDTGJHMkFuVDlFVmdtSEpiM3Z6aEdZNFFpZThqazBV0gH4AUFVX3lxTE9XaDFkWHNsdTJrMW9xdXhhRzVuM2R5REhNSERvRl91V0tCenNRMklpMnhFalVUYzY1bk9pUDVPX1ZtcUJuT2lkdy00Z2pZdTYwTlBsTlhjalhZWXgzdEhJeWlUOFdWckd5M0ZUQ3I3TFNaUHlCek9GdFNIdWlTaVNxdy0tWXdNcENuOGFBakNJOEVac1hOSzBhSy1HS3Q1c0lBVzJTYW85VUMwT3BwWXgtQ2NIVWNycWZuU0UtWlVNVTFXTnNUZF9GaWFaLXgyc19reEYwaVRIQUpIeHNsOEx0N2I0VGdDN2M4TzljdklPMVBPXy14YjVU?oc=5",
+        "published": "Fri, 30 Oct 2026 14:43:42 GMT",
+        "published_ts": 1793371422.0,
         "priority_score": 35
       }
     ],
-    "priority_score": 41
+    "priority_score": 35
   },
   {
-    "cluster_id": "64b6dc96fd",
-    "theme_title": "Reliance Jio shares surge 27% on market debut, becomes India's second-most valuable firm - https://internationalfinance.com/",
+    "cluster_id": "3527f60f7f",
+    "theme_title": "Reliance Retail Q2 Results: Gross revenue grows 6.4% - CNBC TV18 - LinkedIn",
     "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793336430.0,
+    "published_ts": 1793371271.0,
     "article_count": 1,
     "outlets": [
-      "https://internationalfinance.com/"
+      "LinkedIn"
     ],
-    "summary": "Reliance Jio shares surge 27% on market debut, becomes India's second-most valuable firm https://internationalfinance.com/",
+    "summary": "Reliance Retail Q2 Results: Gross revenue grows 6.4% - CNBC TV18 LinkedIn",
     "sources": [
       {
-        "outlet": "https://internationalfinance.com/",
-        "title": "Reliance Jio shares surge 27% on market debut, becomes India's second-most valuable firm - https://internationalfinance.com/",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ2NRb0FBZ1NTUEpQbU0xSHU0S1VyclQ5cWowU1B5bzhxSVVmUkZtNnE5MHRCcF81VnlYY0J1Z0tZSk9wbzNyNm9wQjluY2R2V0lHMUpTX0MxVUxjRGlObGMyVEhMTURHaV9TUHFzZWlyTXgwLVNLM1lzZm51QXAxdVZZbkNkbV9fZjJBWUtxMkx6U1hyd2JabDAweXo0ejgxWDE3TG9BQTEyc3VETHh0UGp5TXV3b3lVZ2hIQjVOUzNlX000OVE?oc=5",
-        "published": "Fri, 30 Oct 2026 05:00:30 GMT",
-        "published_ts": 1793336430.0,
+        "outlet": "LinkedIn",
+        "title": "Reliance Retail Q2 Results: Gross revenue grows 6.4% - CNBC TV18 - LinkedIn",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2gyZUdIcFQ3cUZwWjRaaklScHN5ZWVYdFBudDBtZThwSWdWa0ltODlkeGlTUTA3b2lLdTVnVXlLUlFnRS1Od3J5YzVNZFU0NXRYWXI5MFJTNmNOZnhNS3hLM25lZDg2bWl4dHBXOEpTZkZvU29aTk40TGFGcHhrSUQ3c1dXMXFBWE9oUEh0VDJsTU9JQjVlRF9BUkk4bmwxdUctazdMb3FVYk9uZDFBa09iZDRRQQ?oc=5",
+        "published": "Fri, 30 Oct 2026 14:41:11 GMT",
+        "published_ts": 1793371271.0,
         "priority_score": 35
       }
     ],
