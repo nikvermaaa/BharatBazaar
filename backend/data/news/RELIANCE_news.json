@@ -1,245 +1,219 @@
 [
   {
-    "cluster_id": "a4ceabb805",
-    "theme_title": "Reliance Retail profit falls 24% in Q2; FMCG revenue rises 60% - BusinessLine",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793375735.0,
-    "article_count": 3,
-    "outlets": [
-      "BusinessLine",
-      "Livemint",
-      "Business Standard"
-    ],
-    "summary": "Reliance Retail profit falls 24% in Q2; FMCG revenue rises 60% BusinessLine",
-    "sources": [
-      {
-        "outlet": "BusinessLine",
-        "title": "Reliance Retail profit falls 24% in Q2; FMCG revenue rises 60% - BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3NCQjJEbU93NHpCTkpmbkY3bGF1NHBobEdBOUVfb1Q1SlhJZHhHckJ3U1VIV3ZmRWRMZm1laGdsclhfQ2djT1VtUkE2RmIxa0lVVjBTbjlNaUVnTTlucGptZk9qY2RZQlRDT1pvSzgyZzF6VGUyaWVOUFR3YjZ3VUlueDRGVlhnQVUyaXhvQ0l4c0lHRmc5R1FLYkUzcEpWbmlPbXdzaHdlbUI0V1RHT0pBZHhYMGh4ai1uR0tzcXpzWmpj?oc=5",
-        "published": "Fri, 30 Oct 2026 15:55:35 GMT",
-        "published_ts": 1793375735.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "Livemint",
-        "title": "Reliance Retail Q2 profit falls 24.5%, revenue up 6.4% - Livemint",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb09UT1M1SWJZNUdmQ29kbS1qSUtQeW1weURySUx3VlNLRlhodkxsTm5Uc2d3RkgwWXJXOUpkTmtTVzhGOGY3eFAxS2JOMFhNbm54eUZFMFM1clozZnhRZTlaSXdsWHpFQVhKcVVtVXV4WmwwMU9pUFlPZHEzbi1Nc01DdE9xaENSTjZVaVFqNVdfaVQza1c5ZTNDN1ZoQTFYVVBzQnhQWUViMzNyZWpjUFVyeXdrdnFfN0MtTlVB0gHDAUFVX3lxTFBHdW4zRWtxVU43b01OeFpOZl83R3JMVFNaOEpIMHM2YTlnUGM1MkFRenh6di1UaEUtLVlOWHgzZUpLaHlaUXdQN1pFMk9NNk1nRm52eFRHSXFZTkczSG8zREcwSlFRUXAzbU9vbF9FMnVPVVJkSFc3Z0hpbGtNSWpINnl0Q0d5czV2OG42OEV5V1Y4YUVCd2pSeElDRnYwZTRCVzU0bnp4TnFGWWNjRmUxeTJfTjkxLVpLY2R2WkNUNU5VUQ?oc=5",
-        "published": "Fri, 30 Oct 2026 15:19:46 GMT",
-        "published_ts": 1793373586.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "Business Standard",
-        "title": "Reliance Retail Q2 profit falls 24.3%, revenue rises 5.8% to \u20b980,220 cr - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaU56X2tvTEVDZmFzbGxOeUxLbG44UmRuWm02REZUMXZzRGhvMjhxVUZmUUM0dVFYd0JkbXQybTdjd2lpQUpOdXZrTXNsZ2p0am5rMjdvUmFLMXNMa1RkX252MDRmeThRQWVQTkJGclIzUlg5QUxZVXBpdTFaWENaQ2JVTmJqNjdzYnRBaWtBZFFMUU9xN045Uk9IUUtRSmF2SmNSNDFGQWZta0NVZzNTWU1tNDRtVnZBWGoxclhQSDJ4Z1llaTB2Q2lkUTVjaEtDd3Y4T3FTTW91UDZrWW9WbjZPZ9IB6AFBVV95cUxNZVh2eHhEUGZrS2pfT0xDRS0yRlVCd0ROcGN5X3NSRjhtRUJCWFlWeWtnbXpGYzRtYUpZN2VKOE5mWUNINFBuMU1rc1RQN2JLY2hiQjVGbHJ4UDU0N3pNYVloUVFtTGpodHlXeUpLYnU3c1VnUWJWaGluNVNuNV9SY1Q5S05KOVRGS0RHWFNfS2JGOFcxZ3pURFRkS0oyOWxMUF8yYlFhMnl3Q3hvMlVrelA0MEg2a05XLTBZT2g2Q0ZodlBEd3FLS1pyN19uZ2lVaW1ESE1lcm5ybWNNM29UMWxuNEN0Sjla?oc=5",
-        "published": "Fri, 30 Oct 2026 15:01:15 GMT",
-        "published_ts": 1793372475.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 47
-  },
-  {
-    "cluster_id": "f8ab23acdd",
-    "theme_title": "Reliance's refining business powers quarterly earnings beat as profit rises 40% - Livemint",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793374675.0,
-    "article_count": 1,
-    "outlets": [
-      "Livemint"
-    ],
-    "summary": "Reliance's refining business powers quarterly earnings beat as profit rises 40% Livemint",
-    "sources": [
-      {
-        "outlet": "Livemint",
-        "title": "Reliance's refining business powers quarterly earnings beat as profit rises 40% - Livemint",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU3diZkV5VWVzWk5pVlJVS1hZVktoSEtaTHN0WDNUYjNNY2pEempaTTRyWXBJR2dhMmJWdG51c1lJN1dpXzdzb1JvLVZRVlBkcC1mUHZINmR2N0pnUzkzNHhfdElXU0cwZjQ4LVFBLWp4OFlnd3hQWE9aYnB2RlFUSXdjQVJsRTFfVGhFd3VHOWdsRkQwOU1fdlhOMVFzOGhoenVVNld3dFNWS2kzRjVVSkVlOEdjbHZ0Tm8xUTNmNHdFejVJcHhicmpuUTNwMWZYQ3pFcUtGY3pfLVNmc1J1UzFR0gHnAUFVX3lxTE45YW4wRjJScVhLQ3hFaE1mX1BfRVBXTThVbGdzZjQwYVBFR0JlY0M4MzBNZjVGVkpyV0diY0dySUdJNXFOX3pPWjZkdks5c2NzVWJhNmJDYXNybmVIVnZvbmhxZC1FS3Ztal91eHVpdkp5Rk1RSE1xUmNmNWZZTS11U1ZSa2tYeUNUd2x1MTZVY2tNT2tIa19Ocm5aVHo3Mkw4Z1NlZUl3ME1QdWhWYzBPY09LdHMtLVk1dHN6cEVoT0htRXp0bWxCYUFidGZ4M0M2QkNuZHVNc2xFSUdlYTVIWmZLakV5QQ?oc=5",
-        "published": "Fri, 30 Oct 2026 15:37:55 GMT",
-        "published_ts": 1793374675.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "f843ec88f2",
-    "theme_title": "Reliance posts record revenue, EBITDA and profit, Walmart probes Flipkart and LTCG pitch from FPIs - Editor\u2019s Picks from Moneycontrol - LinkedIn",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793374655.0,
-    "article_count": 2,
-    "outlets": [
-      "LinkedIn"
-    ],
-    "summary": "Reliance posts record revenue, EBITDA and profit, Walmart probes Flipkart and LTCG pitch from FPIs - Editor\u2019s Picks from Moneycontrol LinkedIn",
-    "sources": [
-      {
-        "outlet": "LinkedIn",
-        "title": "Reliance posts record revenue, EBITDA and profit, Walmart probes Flipkart and LTCG pitch from FPIs - Editor\u2019s Picks from Moneycontrol - LinkedIn",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEh2eXRId2pyMVNyT1M1d1V5b3pqMXI0QUdzNl8wSDIteUtpRWNwWVFEZGt0bmQ2cEFOMG5talBSTUpmc3dWVzhzRFMtUXRweHZpQk1jNkpiVlo2T3hfQUVkSnpwMXhXUmVCOTF3bnJoOFZhSllxOWg2YjlVTmpEODlyQ1pDWXVZZUJWZ25VSHo1WFo1U2RKaDdRZjNwUWExTnZRNmhkYU1IdG40ZHZsMGpfaFJBYXZ1MXc?oc=5",
-        "published": "Fri, 30 Oct 2026 15:37:34 GMT",
-        "published_ts": 1793374654.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "LinkedIn",
-        "title": "Reliance posts record revenue, EBITDA and profit, Walmart probes Flipkart and LTCG pitch from FPIs - Editor\u2019s Picks from Moneycontrol - LinkedIn",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3RuaWdnaVpIQ084YUx2ZGlZM29QOHgxNF9XTzVIT19IbGNxR05EeHc1Y2xVVkFmaUxhT1F4NW5NMldUdTdYRHM3MXRCbVdvMjQ2bnpLTlo5MGFjcGlUVTJPOFozTGJUS1FYMW55Tkd5Q280NkZMRHVxdk54VGE3WXVaMWo1Q2lLV1hZaWh3dW93M21UV1RWcjk1WQ?oc=5",
-        "published": "Fri, 30 Oct 2026 15:37:35 GMT",
-        "published_ts": 1793374655.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "4dce57d0bc",
-    "theme_title": "Reliance Retail Q2 Results: Profit Slips 6.6% To Rs 2,619 Crore, Margin Contracts - NDTV Profit",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793373995.0,
-    "article_count": 1,
-    "outlets": [
-      "NDTV Profit"
-    ],
-    "summary": "Reliance Retail Q2 Results: Profit Slips 6.6% To Rs 2,619 Crore, Margin Contracts NDTV Profit",
-    "sources": [
-      {
-        "outlet": "NDTV Profit",
-        "title": "Reliance Retail Q2 Results: Profit Slips 6.6% To Rs 2,619 Crore, Margin Contracts - NDTV Profit",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmExR0pJZW9MZlEtb2NINEJTOHZ6bzNTZ3o0VXJUWndrS3VBbDI0ekRJZXJVZVFHZkhONzJJYUNXWkNkMFRGZW5OTHg4WWh1YXdteXQ2WWZJcWpUVFQwcmpxc0FnQjBSYjhvbFFydWxGX2VzczZNZVZORndMbTRobWJGNEd1eFUwRFUyMTZ0MTVhOXdJT25TM1R6MmlZcGljSm5zZ1lud3ZwOXZCeFpMcC01MU45U2pZRU82SkV3VdIBxwFBVV95cUxQMnEtdUpmdE5xYy1QWTlTcnpNX25vMlJfMVlxanNNT014dEhndnFWMW03SU43dGNqYzQyV285ekFIV0NSR1lSakFVclB4X3M3NlVWYUJ4UzRHMVZMd19TRmFVZ0QxcUt5dVRlQWlpMlJxUlczQ2NJcU5Bb2ZET29tSTZvdHFRSEQ2MFpLQWNRdDlsZU9sWk5aNVBlcEV5VTBRNk85X0drb1BabzJidXRxdWZ3bWw2Y29TUTktdnFxSE9KV003ZWJ3?oc=5",
-        "published": "Fri, 30 Oct 2026 15:26:35 GMT",
-        "published_ts": 1793373995.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "e21a65cf8b",
-    "theme_title": "Reliance Industries Q2 Results 2026 LIVE: Reliance Beats Estimates; O2C, Jio Drives Growth - Goodreturns",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793372001.0,
-    "article_count": 1,
-    "outlets": [
-      "Goodreturns"
-    ],
-    "summary": "Reliance Industries Q2 Results 2026 LIVE: Reliance Beats Estimates; O2C, Jio Drives Growth Goodreturns",
-    "sources": [
-      {
-        "outlet": "Goodreturns",
-        "title": "Reliance Industries Q2 Results 2026 LIVE: Reliance Beats Estimates; O2C, Jio Drives Growth - Goodreturns",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONE5rWVM0MmhtXzNIdkE2dF9CYlZTRi1iS0NlVUhGT0ZqTmEtMEpickxQTDNlVGg4WlVxdXc0UzZBRlhuTkh6TUdnWDVjTVVUaGtBOXZCdWdVemRTbEd1RlBPQ1dBVkNZMm1Ma2NETEJTcGlXNnRwZVZIS3RmWmI0WUFTWEd0UkFQdUtjTjNBSTgtRmNUdGFHNC1ndjRFek9nV0daWnd0SFk4dHU1SjJCeDhaT3pXT1ZvSUtIeTlydjdTbUFGT0RlMFF3YlpROUloUlZNTk1OTzF6dw?oc=5",
-        "published": "Fri, 30 Oct 2026 14:53:21 GMT",
-        "published_ts": 1793372001.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "87164c1ea9",
-    "theme_title": "Reliance Industries Q2 results: Consolidated revenue jumps 27.8%, net profit rises 33.8% - The Indian Express",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793371628.0,
+    "cluster_id": "4b56523c32",
+    "theme_title": "Sensex at 3-month high on Reliance rally, positive earnings - The Indian Express",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793618122.0,
     "article_count": 1,
     "outlets": [
       "The Indian Express"
     ],
-    "summary": "Reliance Industries Q2 results: Consolidated revenue jumps 27.8%, net profit rises 33.8% The Indian Express",
+    "summary": "Sensex at 3-month high on Reliance rally, positive earnings The Indian Express",
     "sources": [
       {
         "outlet": "The Indian Express",
-        "title": "Reliance Industries Q2 results: Consolidated revenue jumps 27.8%, net profit rises 33.8% - The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzJ1NjQ3VzVWX09UamxEYlhYYU1mWUxsb1ljUUp2V0hCVWtXWFN0YkFnZ1ZLZEl6WFV2R3FITDFUUGZNcnpnbng1Q0tWU2sxS21DN2U3N0t5VXlDZU5OSTJBNTBIQVVYdWN1dWthT3FKUGU2OHh4RFg4T2RLRExaWmZ2VkVCM0N2QzkwSzNtLXV3d2gybDhPWjNjV0JYSk8zTEFSQnk4STdGalRrdnfSAbQBQVVfeXFMUGprN29WQUZja1drQXdQTnptZVhSbW03ZElBdHFaZENlM0Zpd0d6ODd6VVM2dU1GQTlwc1JvaG96dmgtMTlVZTlxVnFQWjdHN2lWSlN2aDFKcEhxTzhlTjJ5cjdNSkUyVjVCUENUckFHeUtDR2RCTnR0NnRybmQxel9mbThwUWJfcEl0ZlNEcjVWRXpkUzVQOGNZQzYza0RGTVdqQ2Fvd0E2WWhBZ1J2UVo0bVo1?oc=5",
-        "published": "Fri, 30 Oct 2026 14:47:08 GMT",
-        "published_ts": 1793371628.0,
+        "title": "Sensex at 3-month high on Reliance rally, positive earnings - The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbF9TTUJ0RDNUcjluMlBySWRSOGVtQ3Z6RUQtU2I2NE1Ycmx6SmtLLVFKVUJZVFZONFVFRUtvZkE2R2hMczZpNFRuU0JKLTdlU2l4VU1Vc2FVbEtidjZ0SFUxZzJjTEZfUUFGM3ZmUVYxbnVtNVY5RzExVy1fSENvTHFrZkltQVlTbkFsWk1INXpGV0xyTkV1cmdadHl2VWRPalJDSHc2Y3RFSFVxQlExNDZLSVB3UFHSAb4BQVVfeXFMTnRtOTF2ZXNnbWhjTy05Vko4X2VhWW1vMGNLTG85TVV3cmVTbmR6MGQyLUtnUTNuSGFpb0JRUkNZSk5qYjRId1V3NWxqakxBck1MbS1vZFhDendGcU9PRjY2ZnliYXpVTnR4eWpqY3E0NGJwcFl1b3ZodU1yNEcyV3NrdDc3YWRVNV95LWVaa0Ntb1otX1NOU0ZxQTdmMktyakhmNWJmbVo3UVBvcmgyZFlLNWNhOFc4MGlwNDFCUQ?oc=5",
+        "published": "Mon, 02 Nov 2026 11:15:22 GMT",
+        "published_ts": 1793618122.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "03561212b3",
-    "theme_title": "Reliance posts 40% rise in quarterly profit as businesses fire on all cylinders - Reuters",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793371574.0,
+    "cluster_id": "0bb9b3b20b",
+    "theme_title": "Closing Bell: Nifty Surges 1.68% to 23,441 as Reliance Rallies 11.6% on Record Profit, Crude Cools Below $110 - India Infoline",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793617468.0,
     "article_count": 1,
     "outlets": [
-      "Reuters"
+      "India Infoline"
     ],
-    "summary": "Reliance posts 40% rise in quarterly profit as businesses fire on all cylinders Reuters",
+    "summary": "Closing Bell: Nifty Surges 1.68% to 23,441 as Reliance Rallies 11.6% on Record Profit, Crude Cools Below $110 India Infoline",
     "sources": [
       {
-        "outlet": "Reuters",
-        "title": "Reliance posts 40% rise in quarterly profit as businesses fire on all cylinders - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3F1YnFaLTBTLUs5bS1sUk1jVE9lYlFqS2ZQZDJibUpxbC1fSW5udUpITDFnUVhsWU5BekF4UUtjNm0za1VkeTZFSGstZGd1bnZ3cXZIdTZmeG5Ob0l3WFdWZm1zYy14Zy1PdkdSM29MZ29Qa0d6MUNBXzh3ME5fRG1ZNldhbGJxcjNfZDc5bzhOUFJQV2dHLW00X0pNUkw5UUlwZ3BhNjJ3THdYZllWbTB6SlM?oc=5",
-        "published": "Fri, 30 Oct 2026 14:46:14 GMT",
-        "published_ts": 1793371574.0,
+        "outlet": "India Infoline",
+        "title": "Closing Bell: Nifty Surges 1.68% to 23,441 as Reliance Rallies 11.6% on Record Profit, Crude Cools Below $110 - India Infoline",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLVZ6YnZHcGpwdG1Nb191NWxSRHNyQmpPR2l6Y2dETkpKdU1EREc1SDg5UnJPTUdCRWpTQ2xWLVFkbGtHaXdTQW1YYWRpd3pBTFFmSnN2RVcyYks2UXVjMm80VVFjZ29ibjZuelMwMHNTV3hXbzJDTUFaNnpJMGhoTjVXZW9kZlhJNnZocGx3VmtvQXVLTXlNZVQ3Y3FYb3oxVzRaSHVaSmY4c2pHb3FNUV8zeEd2clh0QS1rMUw0VVpTTVJwcmxOY2xIMEE3cHZvblNMR0hOUmlmVUNMVlRN?oc=5",
+        "published": "Mon, 02 Nov 2026 11:04:28 GMT",
+        "published_ts": 1793617468.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "36adc8e77e",
-    "theme_title": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digita - The Economic Times",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793371500.0,
-    "article_count": 1,
-    "outlets": [
-      "The Economic Times"
-    ],
-    "summary": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digita The Economic Times",
-    "sources": [
-      {
-        "outlet": "The Economic Times",
-        "title": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digita - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWktnUkoyemZlZXcySXA3akV6ZGZMd1VQd2ZTREpZT0JfeFBJclNPQnFVa0dVTG1GdkJjN01ta0pmTnVuNkwxRkJMWEpvX0JsSzdvSWhfeTkzMDRVR2daYzVzQy1VZk1hQnRkcl94RFdtcTBRYVdJS28tVWJMMWJPdWhWSnF2NFd3RjdZRm1nS3BMR0wwdDNJRUEwLXZhZ0lESDVCeklIYV9nSklhcTJMSlROS2kzc215OW56VnRjYnpURjEtcGI4TU43YmJoeV9WVXR0emVZTHdITmZyc2pxSlFyNXRPYXAyNGY3eEZUSWpacVZiSTBtS3FRRdIBgAJBVV95cUxNVV9BaEp6RlZJMkU3R3FSUFpYSFJxNzJudW1wakhqNjN1aVRGN3dnMkFaV0IyUmhsTV9XbURLUDJqVXU2RXhFVHRCMjJpV0JzYjEzSWVnV1ctd25oRXJ3Y2M0WGlGdW9YZzRVSlF5ZzQxQzhhckliNXAydVNRTVBZTEw3X3VfT0FkbnVUWTZwSXBfZ25KQldwLWJCR2xRZVF2Wk8yUElhVUg5eDVCRngzSm41cV85V29BXzRkZVAyOEkzSklBUE1CakpNSGh6U2ZhLUlRQzBjbU9lZlhkNWpqSHEwcW9hYXZ0WEl4Z2RGSzJMalJvaURuU2I1Z3RlY2cy?oc=5",
-        "published": "Fri, 30 Oct 2026 14:45:00 GMT",
-        "published_ts": 1793371500.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "aff6540b23",
-    "theme_title": "Reliance Industries Q2 profit jumps 33.8% to hit record high of \u20b929,550 crore; H1 PAT crosses \u20b950,000 crore mark - Fortune India",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793371422.0,
+    "cluster_id": "1c83ed1e99",
+    "theme_title": "Reliance, metal stocks power Sensex, Nifty rally; IT stocks decline - Fortune India",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793617376.0,
     "article_count": 1,
     "outlets": [
       "Fortune India"
     ],
-    "summary": "Reliance Industries Q2 profit jumps 33.8% to hit record high of \u20b929,550 crore; H1 PAT crosses \u20b950,000 crore mark Fortune India",
+    "summary": "Reliance, metal stocks power Sensex, Nifty rally; IT stocks decline Fortune India",
     "sources": [
       {
         "outlet": "Fortune India",
-        "title": "Reliance Industries Q2 profit jumps 33.8% to hit record high of \u20b929,550 crore; H1 PAT crosses \u20b950,000 crore mark - Fortune India",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM3ZGYWdUNmx6X2pzNHg1VlVsU0NPdVZTSFBJdkVEUU1QZFFlWE9vbHJDYUdIcEZnNTZEdGMxX0tMdExEYm5pZWZJS0NsaE1adExkeWlROEZNanctOGNLaURsNXFqWTVhajV5Z2pBUFB0bzVGTWtxWnZlWHJ3SUZjTWdOaW5TU3lnaXl0LWllUGE1d0FaTWNPQkRqZW1keGM4bzkwb2FKRGU1UUlLNDFjQ0loRnJkd3B3b1Z0cV9wRXlkcmxpWVRVRDZ0NTVDTGJHMkFuVDlFVmdtSEpiM3Z6aEdZNFFpZThqazBV0gH4AUFVX3lxTE9XaDFkWHNsdTJrMW9xdXhhRzVuM2R5REhNSERvRl91V0tCenNRMklpMnhFalVUYzY1bk9pUDVPX1ZtcUJuT2lkdy00Z2pZdTYwTlBsTlhjalhZWXgzdEhJeWlUOFdWckd5M0ZUQ3I3TFNaUHlCek9GdFNIdWlTaVNxdy0tWXdNcENuOGFBakNJOEVac1hOSzBhSy1HS3Q1c0lBVzJTYW85VUMwT3BwWXgtQ2NIVWNycWZuU0UtWlVNVTFXTnNUZF9GaWFaLXgyc19reEYwaVRIQUpIeHNsOEx0N2I0VGdDN2M4TzljdklPMVBPXy14YjVU?oc=5",
-        "published": "Fri, 30 Oct 2026 14:43:42 GMT",
-        "published_ts": 1793371422.0,
+        "title": "Reliance, metal stocks power Sensex, Nifty rally; IT stocks decline - Fortune India",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUdhcUlNT1MxU0hFZ2pVQm5HWlhKRU1PUm1XZzN2UjRzcG53dlBmSnBkUks4R2Y2REhiLXNrMFJnRlVubEQ4dzQ0ZjI2cjdaYXl0NklyejRtR1lpM1MyQThnc0w1X2tIcG9Ub29WcmJJdS1wMzNUY0tWVlNaZ25zZUkxVy1TOHQ3UVpRa3loNVNCeXNDS054TnRVQXZ4S3dTZkZnVnpfOHpuQjVt0gG6AUFVX3lxTE1tYkdiVk0yTVN2a09vdDFXS0FVTkRXdnIxVXJBb3JkNWRRbUdrdG9LR215T3lhcFl0N3d5aG1KWV9hM3JlVVJCSjI0cWE1VDd2S2ZlQUxLa0ZIdngxTWVGQWFGZkdaN1g1Q1o0VjBmVDh3MmlMY3JtNkdSRFFrc3QwYmNZS2c4YVd3Y0NfOUowRFh0WGg0Z2gxZ3JJNDQtMnFtb2VoU0h2YXlRUW0wMEVaUjBIa0dZNDkyQQ?oc=5",
+        "published": "Mon, 02 Nov 2026 11:02:56 GMT",
+        "published_ts": 1793617376.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "3527f60f7f",
-    "theme_title": "Reliance Retail Q2 Results: Gross revenue grows 6.4% - CNBC TV18 - LinkedIn",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793371271.0,
+    "cluster_id": "870e61983a",
+    "theme_title": "Indian billionaire Mukesh Ambani\u2019s Reliance adds $10.5 billion as shares jump 7% on record profit - Billionaires.Africa",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793615526.0,
     "article_count": 1,
     "outlets": [
-      "LinkedIn"
+      "Billionaires.Africa"
     ],
-    "summary": "Reliance Retail Q2 Results: Gross revenue grows 6.4% - CNBC TV18 LinkedIn",
+    "summary": "Indian billionaire Mukesh Ambani\u2019s Reliance adds $10.5 billion as shares jump 7% on record profit Billionaires.Africa",
     "sources": [
       {
-        "outlet": "LinkedIn",
-        "title": "Reliance Retail Q2 Results: Gross revenue grows 6.4% - CNBC TV18 - LinkedIn",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2gyZUdIcFQ3cUZwWjRaaklScHN5ZWVYdFBudDBtZThwSWdWa0ltODlkeGlTUTA3b2lLdTVnVXlLUlFnRS1Od3J5YzVNZFU0NXRYWXI5MFJTNmNOZnhNS3hLM25lZDg2bWl4dHBXOEpTZkZvU29aTk40TGFGcHhrSUQ3c1dXMXFBWE9oUEh0VDJsTU9JQjVlRF9BUkk4bmwxdUctazdMb3FVYk9uZDFBa09iZDRRQQ?oc=5",
-        "published": "Fri, 30 Oct 2026 14:41:11 GMT",
-        "published_ts": 1793371271.0,
+        "outlet": "Billionaires.Africa",
+        "title": "Indian billionaire Mukesh Ambani\u2019s Reliance adds $10.5 billion as shares jump 7% on record profit - Billionaires.Africa",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYmF4dDY0M01TMllQRG9tWkhQdjBOUjlScWRJWmxHVER1cndTS1BuMW9TVU01YWNhVUpaNzY0WmR1TDJBUDByMDl2VFItNjNDbFF2VGFBTThWUW13andmUjRNQVVSX3Axdkg4bl84LWVTY3I5MjFaQXNmUW9mbjR6aC1jdE9FcGZsZ2hZbHdybllnV1FWZEs0T1RjanViQ3E1N0RqdU5RQm95bE9IeXl6S3I4alFabDFWSlpVc0xZdUkxcVc0bkFWM195QnhobTNjbGc1Tw?oc=5",
+        "published": "Mon, 02 Nov 2026 10:32:06 GMT",
+        "published_ts": 1793615526.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "7c7020db26",
+    "theme_title": "Deven Choksey sets Rs 1,800 target on Reliance, sees scope for an upgrade - Moneycontrol.com",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793615389.0,
+    "article_count": 1,
+    "outlets": [
+      "Moneycontrol.com"
+    ],
+    "summary": "Deven Choksey sets Rs 1,800 target on Reliance, sees scope for an upgrade Moneycontrol.com",
+    "sources": [
+      {
+        "outlet": "Moneycontrol.com",
+        "title": "Deven Choksey sets Rs 1,800 target on Reliance, sees scope for an upgrade - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2R1UVVaSkdvWmhsckY1bHpGVTQxaHE3NjJEV2lIdjdhYXF0ME0yb1BZbTFDNmhSX0RGbzBMQVZaRjFqVHpkZlNiTUMwSVJubDN4blVDWGxHbl8yN21EN1ZSdXViT0pmc1k0SEt2eUhUUVJXMzVWcHdxaWxIZXhyX1IxS1dwak04OGlhckk1X2Znd3BqTzI4M0NUcXVDbkpDc0RFV2pvT3N1ekhyRnZucGdDcnZOVmVVdzRxczYwQTB1Wk9RSF9hZVJKQ2o3YWFlaEJB?oc=5",
+        "published": "Mon, 02 Nov 2026 10:29:49 GMT",
+        "published_ts": 1793615389.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "2169bc2a03",
+    "theme_title": "Reliance Industries sees upside towards \u20b91,300-1,325 after earnings-led rally: JM Financial\u2019s Rahul Sharma - CNBC TV18",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793615008.0,
+    "article_count": 1,
+    "outlets": [
+      "CNBC TV18"
+    ],
+    "summary": "Reliance Industries sees upside towards \u20b91,300-1,325 after earnings-led rally: JM Financial\u2019s Rahul Sharma CNBC TV18",
+    "sources": [
+      {
+        "outlet": "CNBC TV18",
+        "title": "Reliance Industries sees upside towards \u20b91,300-1,325 after earnings-led rally: JM Financial\u2019s Rahul Sharma - CNBC TV18",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVEVzRGFITW5uVWQwYW10X3dyTnhRTnpRT1pGUnMyMUF2QVVVRU5yTkg3SWFqSGhXRmsxeUFTQWZnemVzcWlSWmJVVEl4cHRiY3I3aUdyME05ZTBJcTlleTljakVCWFMzSXF0M19IdTM5aVpRT010VzJjc05HWHNIcWpjdVVzNUk1OWx2OTNEOFNQZXFHTWI0cnRCRm5tMDI4TFR3MEw5RllzcnI4dENqQ1pfQXZNMVJvVDR1cUswcjfSAcYBQVVfeXFMTmRTOFJpMF9IS1FETGtIYm01WkRfbWF3NGI0ZThuc1B4aG1nczR5WTZ0Z3RVSkJuTXpmcnpYRmJyMTFZcmM0cnl1aXB1c0xDSkV5anBXSEI4ai1lTEh5aWFpWG1DYmtvTVpxUGZwYk5DODkxOFJVbGgwNG04NF9yT3lXdmhwbnV4SVhfVlA5eVFmRjBMUVIyVGlaMWNOYlZvbjlfemttaVdvcnRRYnNsNl8xaE0zTHloMGRMY01wWlpUdnZrV2VB?oc=5",
+        "published": "Mon, 02 Nov 2026 10:23:28 GMT",
+        "published_ts": 1793615008.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "e6570c798a",
+    "theme_title": "Reliance Industries shares record biggest single-day jump since April 2020 as Q2 earnings spark Rs 2 lakh - The Economic Times",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793614377.0,
+    "article_count": 1,
+    "outlets": [
+      "The Economic Times"
+    ],
+    "summary": "Reliance Industries shares record biggest single-day jump since April 2020 as Q2 earnings spark Rs 2 lakh The Economic Times",
+    "sources": [
+      {
+        "outlet": "The Economic Times",
+        "title": "Reliance Industries shares record biggest single-day jump since April 2020 as Q2 earnings spark Rs 2 lakh - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWEx5M1A4VVhBNkxlb1VoLVZFbU8yRUNUSjd3Y1Q4ZzdPU0kwZ05PLTR6UjNhUW1VWTdIR0xuSUhsU2I2bEZ0ZjB2TDBmWGFvOXJsWlZnb3lkLXNLQkRSQTY2WVZta2xyQ0lKYmdOUmNTLVhDLXRVNVdsTzR0RzhkLW54aExJTDhSR1NZQjUxTVZBenJtcUg1MWJKb2RYWVhGLUgyY2c4LUNqMW1hQWNJM0h6MFFfLXZFQ2JUZGJQQkZZckFwcTNNQVBOVC1DT0Rja3NMYUJGaUtDWV8wSURaMGhDWW93V25ZY2FEVmdoUjdZdUVjYlZEVUJ6ejZaQXY2ZnhGV0l3a0Fkb195OGVDQTlhNG9sQnc2WEVsMtIBogJBVV95cUxPQ2xkWTZwWlBHVGNwNDBRT3YtWWxXQXZXU0Y0S20xaHJnN29qUHRsaEl3clBjaGk4NU9CYXBHM2p5U0ZiVndkWmMwTURBWWNDVThJN1BhNkNVeV9HaXY5d3N6bmFQRU9KY29fVlVsLVN2bkhTb2ZqZm5Kb3QwNFVoaERyeVVNVEl5N3lzM0JrcTIwV2pJSk9MVjRKWEREeE5IYjhIUVk1ZWVZRC1yeEJaeUtYbGw0bG15Yk82a3lacGJURU0wQkpINTBPUVQ5bGJydkNiMVFFQUlsNVMwX3BISmV2RXNQVG9mSFpCbWhyRkZKTXlxUERsdXhhLWctR0Z3VTdSTDZoRm9Cb1NxVVQ1YWc2a1ctSUdLdnJRSkJLMVRrQQ?oc=5",
+        "published": "Mon, 02 Nov 2026 10:12:57 GMT",
+        "published_ts": 1793614377.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "9cb55f1291",
+    "theme_title": "Reliance Industries shares jump nearly 12% after record Q2 results; top Nifty gainer, biggest index... - Moneycontrol.com",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793613923.0,
+    "article_count": 1,
+    "outlets": [
+      "Moneycontrol.com"
+    ],
+    "summary": "Reliance Industries shares jump nearly 12% after record Q2 results; top Nifty gainer, biggest index... Moneycontrol.com",
+    "sources": [
+      {
+        "outlet": "Moneycontrol.com",
+        "title": "Reliance Industries shares jump nearly 12% after record Q2 results; top Nifty gainer, biggest index... - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU2IxZFp2SXB5LVpkOElMdjZtckM1VmFaZTlpckNMNlhDd29SVHNUU0V4OFU0RTZHWXVzalJaYXREeVE1V05yOGpETFk1aGhqOE91bWc5SkdUYlJ6NG1HYVdFektOZzdZVjVLSUpGaC1zSjc0X3g3T3JBYVVaYWNJUzk1Wi1HNGRFRTdlaWh3NjdwTThBSHRZV0NkSlBXX3FFS09WTHRkMDZTY1U1VTloTzVGRFRmRHp3LVlINlUzV2RpN0VpLUM2Ung4TlZCVXRhWDY4Q3FYTWV4dWdJU1lLbi1HVVJSbjFiMU8tZ1F1S2NjVWp5THV1NUF1Y3NuNEHSAYQCQVVfeXFMUGVrRU5iX3dDUG5lNWo0MDZNS19XVjRVZzF3U0tybTFrY2NHXzRGMTRGQTlVWWU3ZElsVTRTa3FyLVFfR2xZXzlBOHdFeS1LakcyWHM3cnQ1Q3NtZGYtX2Njd0lPNnpRdzN3M3ZsSUdiTUdWX21WTndXRUJXLTd5UHVHNEh2Vnk1M1JicE16c1RtNXRyYVFMdms1cWlLZlZUdURhLTJvcmtzUm9iTmxLTXY5Sk5oX2dkME5aNEVnczRIXzhtZmpOWFNCTXloMzRjSmZNeVotdTBKRF9WQWdHaWh5R3lsV0ZncHFVWms2OVQtOGJMdDUxaXRvOTRjOWxBZl9XVUM?oc=5",
+        "published": "Mon, 02 Nov 2026 10:05:23 GMT",
+        "published_ts": 1793613923.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "f7133446a7",
+    "theme_title": "Reliance Share Price: Goldman Sachs Sees 58% Upside as Value Tops Rs17 Lakh Crore - NiftyTrader",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793611858.0,
+    "article_count": 1,
+    "outlets": [
+      "NiftyTrader"
+    ],
+    "summary": "Reliance Share Price: Goldman Sachs Sees 58% Upside as Value Tops Rs17 Lakh Crore NiftyTrader",
+    "sources": [
+      {
+        "outlet": "NiftyTrader",
+        "title": "Reliance Share Price: Goldman Sachs Sees 58% Upside as Value Tops Rs17 Lakh Crore - NiftyTrader",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QcDBUNWV3aHpJcTFBdmdmZFVXdEhVVUw4WXhERVhqYUpONWdSMlpKTlJTdHUwV1MxV2c4VUw2M0NkMGg1MDNqSDhUVmtSTFdBX05sbXNyME55QW9ONDVabk1HRG5CeUFuSjYyTTUwak9mUQ?oc=5",
+        "published": "Mon, 02 Nov 2026 09:30:58 GMT",
+        "published_ts": 1793611858.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "7e4aaeaded",
+    "theme_title": "Nifty gained in 17 of 20 instances after Reliance Industries' stock surged 5% or more - Moneycontrol.com",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793608158.0,
+    "article_count": 1,
+    "outlets": [
+      "Moneycontrol.com"
+    ],
+    "summary": "Nifty gained in 17 of 20 instances after Reliance Industries' stock surged 5% or more Moneycontrol.com",
+    "sources": [
+      {
+        "outlet": "Moneycontrol.com",
+        "title": "Nifty gained in 17 of 20 instances after Reliance Industries' stock surged 5% or more - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcW0yT2tJSkhna2ZLT21pQlhXTUlkcXJoanBubFNxT09yT1RyRHg2WXA3Z3JYb1UzLVVoc1RDVlNsa2pCNFJKSThUNXU4a1dSMGRPQi1EUkFoQmJwUUZ0b05qNnVSQVVfNURmNmpsMHRoQUdFc2llYXhkdEFodEtmX2otemZJbGRTRmtQaVVmYzczTEItcXRhdGloQ29ydVp5WktHOWtOOXNFWk5UVlpnOGdobzhaLVIyUXpweUx6SHpxRnFhOWN4aTNJckIyQXZoeDJRWlV0azdKY1Zyak84RWpn0gHnAUFVX3lxTE9haG1FaUFyNkZOOUIyMnNuY0FXMnhvTzlFZ3dUUGFWekRWS2V3Sko1Q1k4Q0VsUjMzUHJXY2h0MWpHcTVWSU9CYzRQSjNJcU9laTZOMC1aUG45X0pHdTRTdEEtNFpONHlXWnBDWWt1T0hUcXdocWcwOEtXT2FyM2V2X3FUb3hXcGtFVkItc19LQ0dLbWxPZ09qMW9iTFVRUXRpSk02SGYyS2owMmpuQmhJdTFvVFJ6dS1xTkNYX2RhUjFLTHdqdGR3N1c4dGhWd1hiZzNkX3g5eTRTREJnOHphUzRlOU1Waw?oc=5",
+        "published": "Mon, 02 Nov 2026 08:29:18 GMT",
+        "published_ts": 1793608158.0,
         "priority_score": 35
       }
     ],

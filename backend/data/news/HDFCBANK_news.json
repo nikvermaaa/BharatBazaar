@@ -1,247 +1,256 @@
 [
   {
-    "cluster_id": "cc5c8f0d7b",
-    "theme_title": "HDFC Bank stock gains 2.83% since latest report as CEO begins term - ad-hoc-news.de",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793372143.0,
+    "cluster_id": "0b2415a9f3",
+    "theme_title": "HDFC Bank Q2 FY27 results: performance and outlook - Kalkine India",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793615400.0,
+    "article_count": 2,
+    "outlets": [
+      "Kalkine India"
+    ],
+    "summary": "HDFC Bank Q2 FY27 results: performance and outlook Kalkine India",
+    "sources": [
+      {
+        "outlet": "Kalkine India",
+        "title": "HDFC Bank Q2 FY27 results: performance and outlook - Kalkine India",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHNHcHpZaTRQQmEyZU8wUlo0UGdERW5MZ2lkQnZHcldvcTRUNlB0T25ETnAtTGtORjJ1UnAxakx2VHh5d1NEOVA2RExfWXBqcHlpM0RlRWpQUTlvclhvUUZzZkRtSS1Hb0s2aTZIRDZpQnl6VTcyOWtZdTZXTTY2TmFYVG9pUWtaWnA4azJqNWZKWlItcUFWRHQ4OGtzVmwyTjFXMVJwNlpFRlFOaEZpN2tn?oc=5",
+        "published": "Mon, 02 Nov 2026 10:30:00 GMT",
+        "published_ts": 1793615400.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "Kalkine India",
+        "title": "HDFC Bank (NSE:HDFCBANK) FY26 results and financial outlook - Kalkine India",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0RfaFp6dUpTaEZKNk9GRXBJWVBPTUdmZVZEMURfRUhiT1BnR29wM3I5a0VlVjVmMXZqUjcyWFBxaUxjZ3FXRlAybTYzVXBwci1NR2ZvWjczSUh0Qmp1VTRrLTV2MnlvR0NsSk9ndDdGRDB1cUNxemc3NmFUUGlZcW9HdGNjbWJOX0VvcTkxSU9pRTVNS2lPaUdrTkxwZUJ2MW1Hd2xHQXJpT2QtVVNmakZfMFhGUWVFY1E?oc=5",
+        "published": "Fri, 30 Oct 2026 13:37:00 GMT",
+        "published_ts": 1793367420.0,
+        "priority_score": 14
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "c33f70f71b",
+    "theme_title": "HDFC Bank, IHCL, Bharti Hexacom among top picks for Samvat 2083; check price targets & more - Business Today",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793612420.0,
     "article_count": 1,
+    "outlets": [
+      "Business Today"
+    ],
+    "summary": "HDFC Bank, IHCL, Bharti Hexacom among top picks for Samvat 2083; check price targets & more Business Today",
+    "sources": [
+      {
+        "outlet": "Business Today",
+        "title": "HDFC Bank, IHCL, Bharti Hexacom among top picks for Samvat 2083; check price targets & more - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcHZiOE9mOWpVTFlEMVRLT1dfSFRpc3RCQmEzb29xYTdEaXdYSTVVNTJjQ3ZHci1xOFE2TVlrRlFrd3I0LTE1VWMtY1FWRmhIQTF4OVVYN1pjWXlWWUl2SW5XVGNCQVVQNkRMSlE3My13clJfX2ZkdEFSNkJ5WF9lNUpzM29SNmhpZFB2SHBUd1VBQzh6VjVEb3pnYTRJR0wyZGNBTTQ0cmtrVXhOZ0pCNW5OMnQ0V2JmTmVjVDkzNGFjal9HazBGU29YVzJnVzdsclVTVDdzeUszTXY0XzE5VDVLWHlXZmRwR21uMkVXSEJidTFKbkRCWEFISdIB-wFBVV95cUxQcHZiOE9mOWpVTFlEMVRLT1dfSFRpc3RCQmEzb29xYTdEaXdYSTVVNTJjQ3ZHci1xOFE2TVlrRlFrd3I0LTE1VWMtY1FWRmhIQTF4OVVYN1pjWXlWWUl2SW5XVGNCQVVQNkRMSlE3My13clJfX2ZkdEFSNkJ5WF9lNUpzM29SNmhpZFB2SHBUd1VBQzh6VjVEb3pnYTRJR0wyZGNBTTQ0cmtrVXhOZ0pCNW5OMnQ0V2JmTmVjVDkzNGFjal9HazBGU29YVzJnVzdsclVTVDdzeUszTXY0XzE5VDVLWHlXZmRwR21uMkVXSEJidTFKbkRCWEFISQ?oc=5",
+        "published": "Mon, 02 Nov 2026 09:40:20 GMT",
+        "published_ts": 1793612420.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "1d16d85f37",
+    "theme_title": "CGTMSE Honours Top Banks & NBFCs For MSE Credit Growth, SBI & HDFC Bank Lead Awards - Free Press Journal",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793608298.0,
+    "article_count": 1,
+    "outlets": [
+      "Free Press Journal"
+    ],
+    "summary": "CGTMSE Honours Top Banks & NBFCs For MSE Credit Growth, SBI & HDFC Bank Lead Awards Free Press Journal",
+    "sources": [
+      {
+        "outlet": "Free Press Journal",
+        "title": "CGTMSE Honours Top Banks & NBFCs For MSE Credit Growth, SBI & HDFC Bank Lead Awards - Free Press Journal",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2UxVldocVRKVjJXSFFPQllrcW5NVTgxN3M4bkNUSjYxd1E5RkhyUk9KOEJsS19VQnhtcElkWm80X3FoanhxMTBEblpnc0lrUlJ0bDdIUWtyWEVSbWVIQU9yZnJ4OExrTXg2SEdCbXR3Y1dFaXd3MTlfY1RiQUs0TXp3YXBwbTQ4WDRTY2s2cThxZlpWUGtDVWgtY1ByOTBiaHlsUzVxZEVWN3FnN3lJY1hvOE43ZFdFeW02ZUk5YmpFZ9IBxwFBVV95cUxPYVJQb3VKS29qZ0l1MmtXVVhlWmhMNk9mV2pJUEg1a1l3eTI1RzRjbW5wYzRPSXRCMU92blUxT3Q4LU5ZQVE2VHZhRWJLNjJCNWR4ZTVRXzhQbHB1Ym1RSnQyaVZ0QVNNYkFlbHJHVVV3ZkRuZi1hYk9KdE5GWXpjQ1hDOUw5Njg2VVk4aklybnBZY1dtdVdrMTdUVld5T3I3U01oUXhSTGEtbGExN1Vzbl9kX1dhWWp5NnFQS0ZieEdEWHhZUmg0?oc=5",
+        "published": "Mon, 02 Nov 2026 08:31:38 GMT",
+        "published_ts": 1793608298.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "9f93d1fd18",
+    "theme_title": "HDFC Bank stock heads into vote on Anup Bagchi's CEO term - ad-hoc-news.de",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793607669.0,
+    "article_count": 2,
     "outlets": [
       "ad-hoc-news.de"
     ],
-    "summary": "HDFC Bank stock gains 2.83% since latest report as CEO begins term ad-hoc-news.de",
+    "summary": "HDFC Bank stock heads into vote on Anup Bagchi's CEO term ad-hoc-news.de",
     "sources": [
       {
         "outlet": "ad-hoc-news.de",
-        "title": "HDFC Bank stock gains 2.83% since latest report as CEO begins term - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDJTaGRWcGVFek5MSFZ4UFlsUGpDUGtCcy1OaXliQ04tS3paMDR6UzRUSERUT0RPNlJLRDZfVEU0Ykl5YXpmdkdmRTFUdVI2LWpYZWJjeUwtZGFRNTE5SG1OdktoU1o0LUVPTERlRzlGVmwxWFlEcGh3R3FzR1BVM0p4b1NNSW42MHVOSUhSOGdUYUVSQ0dBWmk4V0hwVi10SHM5QmNEdTJjRHNvSUJqZ2pNNHZTaGRIQ3JYMktSQXBSeEtGRUtj?oc=5",
-        "published": "Fri, 30 Oct 2026 14:55:43 GMT",
-        "published_ts": 1793372143.0,
+        "title": "HDFC Bank stock heads into vote on Anup Bagchi's CEO term - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFNaWlI5MzdYSkZiVm5TYklQV1RmTlBZZW9HRERCNzM1RG82S3dxem4wRk9zb0hXZ0Y2ekZxcFc4VlpTOUIwbXlrNFU0b1NlX0xEWE9IX2pCRzczMmVpU3BzeG9QLWhHVkZEeTdGbTNzMEJGdW1BdnItY1Z4a2FaZkhSV3cteEVPQ2tjdEtFb2VoMGxxR1ZRYzhxZzRuZ1pYOUdMMTFlbzJVYkI2R0pJNXlkMWo5Z3gtNzJKdg?oc=5",
+        "published": "Mon, 02 Nov 2026 08:21:09 GMT",
+        "published_ts": 1793607669.0,
         "priority_score": 45
+      },
+      {
+        "outlet": "ad-hoc-news.de",
+        "title": "HDFC Bank stock faces shareholder vote on Anup Bagchi appointment - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3ZucUdXYm03Y0k0N2Rid0hzTnRzOEFlUVpwVE5LTVlCQVF3R0x4UkRVU01WaDJZZDNOTF9ZX2plVjJaVEdXTFI5WGJjNWhjM091dWE2czhOU0JoV2VMYmdZcUNZOWhtRlZpWTJBc05mMkphV0QyY1doUUJlNExBR2YyWF85a0FCeUpqdWxQMTA1b1B4cWJfU1ljOWF2dGUzekU4d184OGRHcy14bkk1cm10bklZWndyd3lnRWk0Q3ZSTmdNa04w?oc=5",
+        "published": "Sun, 01 Nov 2026 16:07:07 GMT",
+        "published_ts": 1793549227.0,
+        "priority_score": 35
       }
     ],
     "priority_score": 45
   },
   {
-    "cluster_id": "34fb800ec3",
-    "theme_title": "SENSEX rises over 300 points, NIFTY50 reclaims 23,000 led by Infosys, HDFC Bank - Upstox",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793355769.0,
-    "article_count": 1,
-    "outlets": [
-      "Upstox"
-    ],
-    "summary": "SENSEX rises over 300 points, NIFTY50 reclaims 23,000 led by Infosys, HDFC Bank Upstox",
-    "sources": [
-      {
-        "outlet": "Upstox",
-        "title": "SENSEX rises over 300 points, NIFTY50 reclaims 23,000 led by Infosys, HDFC Bank - Upstox",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTk9VQTZLWUZyMGV6cUljWFdOWVA2dDdQS2REblhPM2YwcmV6cmp1Sk1ZODhGVzBJUlhrX1h2TFZ6U0VVc0FsWlQyV1h2RWFkOWNnTU5hd21ubmlmMHdrak9vNFJhaXBQUzV4SjhwMDJOWEtrTXBzenZ2RGt6OWVMbzlEd0ZFbFFVZmVqX1NLWlVUTFF2QmJkbllOdkc2NDZzbWphdW5ULW5wck52Yk9aX0syWjBvdjVPb1ZoQmJiWGwtSnhBa2E4a1VjN09PY3lpdnFn?oc=5",
-        "published": "Fri, 30 Oct 2026 10:22:49 GMT",
-        "published_ts": 1793355769.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "217dcefe83",
-    "theme_title": "HDFC Bank stock weighs deposit mix after Q2 profit growth - ad-hoc-news.de",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793350680.0,
-    "article_count": 2,
-    "outlets": [
-      "ad-hoc-news.de"
-    ],
-    "summary": "HDFC Bank stock weighs deposit mix after Q2 profit growth ad-hoc-news.de",
-    "sources": [
-      {
-        "outlet": "ad-hoc-news.de",
-        "title": "HDFC Bank stock weighs deposit mix after Q2 profit growth - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGZmOFkyTmhpOGJSOF9VT1V3a0FYNnk2ejFEaTEzZC1iY2pQR0FmekQxZmZaRWpMSEtNcHJwbnhPeENPekZuZmNfUjlCaXBDOE13OHpNVWQ1UklqYnMtMVowWDA5a3ZqU3FZR1NiOEFyMjRGNjNOMW53LVdCY2d4TGFpaVJrMGNSWFEyUFJNa1NTYnJTX2lvczRUeWsxaWt3OERxV3A3cTJ0Qnk0aGU2X05HZlRkdVRqdV9KRA?oc=5",
-        "published": "Fri, 30 Oct 2026 08:58:00 GMT",
-        "published_ts": 1793350680.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "ad-hoc-news.de",
-        "title": "HDFC Bank reports 22.80 percent term-deposit growth for HDFC Bank stock - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXZXZld0eUZYY3djaXhfc1JWQm5fY2l6U1AxQTU1b01LU1JqcVkwR3pFRlVRZFdZdnhMXzh5OVdsS3YtQXo2bFB6R21fVWdVbWk2bU9xd2ZjTnNMRmxKNklWdlExMkVSa1pZVXNzaFdfLTFISTF4NlF6a1pSTzktcUpra2NBZEFMdVNLaGlodWVwSzJ4a0dBYzhDaUJwSG51U2VNOFVxdXNjaUZLeEV6a3pUWG43cUVkX3YtVkozOExWQUw2ZVZzc204Njdqdzg?oc=5",
-        "published": "Thu, 29 Oct 2026 14:39:05 GMT",
-        "published_ts": 1793284745.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "ad3a0ea13b",
-    "theme_title": "HDFC Bank Marketing Strategy: Digital + Trust - KTPL Blog",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793345400.0,
-    "article_count": 1,
-    "outlets": [
-      "KTPL Blog"
-    ],
-    "summary": "HDFC Bank Marketing Strategy: Digital + Trust KTPL Blog",
-    "sources": [
-      {
-        "outlet": "KTPL Blog",
-        "title": "HDFC Bank Marketing Strategy: Digital + Trust - KTPL Blog",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWFCQ0h5TmlyaGh5bjdQWWFzczBQZVZkM3JnQl9saGxoY0pyQmxmX3E1Q1Q2VkRzM0FRMGVmS1J3eS0yelhWN0wyQ1ZQaXQ1a3pLSE1sMmlISzljQURVT3hqWWxvM21ib21LRHhJMThLWW1XV3kxVnZrRDFUSFBTRFJGZ2IwakMzLWppMWxvb2YwR1UtQ0FGX2VjT09ITW9GSVlNbkxR?oc=5",
-        "published": "Fri, 30 Oct 2026 07:30:00 GMT",
-        "published_ts": 1793345400.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "e5812c6ee7",
-    "theme_title": "HDFC Banks shares drifts lower as week ends - BusinessLine",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793338289.0,
+    "cluster_id": "f34d66c721",
+    "theme_title": "HDFC Bank shares slips; another Senior Executive departs - BusinessLine",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793602053.0,
     "article_count": 1,
     "outlets": [
       "BusinessLine"
     ],
-    "summary": "HDFC Banks shares drifts lower as week ends BusinessLine",
+    "summary": "HDFC Bank shares slips; another Senior Executive departs BusinessLine",
     "sources": [
       {
         "outlet": "BusinessLine",
-        "title": "HDFC Banks shares drifts lower as week ends - BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGhsWlczSUJPbS1xTXUwbjlLUkJuSHlMTzlZTWhhVXF6alF5eVpSaTJaR0ZuSzZRUGZNVHRMY2NSR05WNkhDWGpPNEYtc28tNTRhYVdEaFA4T1BmSjB3dW5MNEJuRF9WR0ZRNXVRWmcxUXZSNHBOYnNwQUQxRjVndXNtUWJ5YkZSZG5VcG1pbGdMb2hsWDhudVM3VlpNczB3U09IN0RERHJBZmpOc3A5LVk1clLSAbsBQVVfeXFMTmNacU9DMVlXUm9oLWh4cVN1d3NydnFWczNQUXJSY3JwWnZlODdDVHZDd05FbVdlcTFhQy1lc1hieTJfWDlHQUJac1B0NWdzRW9KRGt5dGd0Z180ejRqWWZuYUNVTkhqNHptUWxhNW9BelZ6TV9Sd0h1NUxaNzBYN2VuT0tqbTJtUHc5UktOUWxmemlod1ZWdnRxd2JTQ2tlZlpSZFJnWFVJcHVPUzRNWGU1ZEpZMHJzQ3VUWQ?oc=5",
-        "published": "Fri, 30 Oct 2026 05:31:29 GMT",
-        "published_ts": 1793338289.0,
+        "title": "HDFC Bank shares slips; another Senior Executive departs - BusinessLine",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWhFRlhkX2QwckxTWC1NbzVoZ0ZSOE9CdGJFZUVPNXpYaVlRbjUzZWdWMXFzelJmX0poTVR6SHhrSEs3QzdqWFpaNExuOGRXblZDZ3d4a3B2ZFJqUU4wenNOUENIc3ZLWGtjMndqRjltYVZBbDhsaVJndlQxaVQ2OVc5WE10NUNZTm1zNWhKakVxQ2JQZ0NQTjFoU3F2UDcyWHRwbGtmdGd0azRWLXl1cmdVU195UWJIT0R2T2twbnp2T1hYOEHSAcwBQVVfeXFMT3d1RldmRm5Ucms5cUNncG5OZFF5T29pdW9qSGZVdnlWaTd2clhWQ1NBTElSVUhUdEtRTFN3TDZGQVB6Mk9SUXh4RjAwaDNkZTh6ZG1ZWUVOaFdCRHFnRm9HbEZxV2Y4SnZGdDJFZ0V3Qi1YbWxuUkNfZjZmcEhVMlY3T19rcVVudWI5cFhlZldMR196bk52Q2FmVzdFajV2YUtBRnRZMnZJUEsxcll0aXFUa2lBMVpWYkVBVW0tNTl0aUlabVU2OXhSODhw?oc=5",
+        "published": "Mon, 02 Nov 2026 06:47:33 GMT",
+        "published_ts": 1793602053.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "3f175c0f6c",
-    "theme_title": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or - The Economic Times",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793337327.0,
-    "article_count": 1,
-    "outlets": [
-      "The Economic Times"
-    ],
-    "summary": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or The Economic Times",
-    "sources": [
-      {
-        "outlet": "The Economic Times",
-        "title": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaTJTZ0lZblNwcWtoeWVUeHJQbUZxcHU5UWR6akNRaFAwd0VyYkRPaEdjUUpHV1NCUmhXWWZ2ZlZueWJRNndWMFlia092OGlhRDRWZHZKcDlUYWItTWhZT2VaVDVPQjB0ejdVcVYzWkRJT09VT1JSUHgtWDNQUTR3R0RQTTdVb3NmVUJXZkJWZzg1TmpyRFkxVFdnaDVfenBmQk1TblJDbU1FRjMzOVFRTE82XzFydFFlVk9kd3g4ekxuQW5NWk9MQkJSQzdrRzN1THV6cmtvU0ZBTmRKT3hpM1lIdXE1cnU2OGxXWmpGc2JsdVJDUnJrZDhRNnFsVTU2ZjU0OU5CT2ZabEJlOWtTTTBscVdkQ1ZaTWRYWF9HMDjSAaYCQVVfeXFMTlpvQnRTUzl3WEpUU1V5UmdhMUljY0ZIZjZrcWxYLWlNWm1Kd29IYThOMThTR0J5aHNub2ZRV1A0Zi1PN2RidWtCeDhWTnlvdm9mY0swRWhXb1pkMnZZMnl1N19TY2VjWm4yUkRmRThjYlVONGJseXFoOE1Ld19JRzRPLU1VS2Y3Sk5XVUo2T0RidjRkX2t5eV9HNllwQ3JjMXRVV214N1VlYm1sNU41bzA4RHU2eFhmUnM1aFU0V0NrQk1tYkpOQWpCTUlmNkE3ajZxWXd1YWUyTzUybENiVGdCcy16alhKUjRub3BtcWFNUEd0NmJ2OWplb0dZRl9fdlpjemwtN2MxdDBCWWhlZFNvT1VaVzJ0dU1UOXY2TWFMYnIzOHRn?oc=5",
-        "published": "Fri, 30 Oct 2026 05:15:27 GMT",
-        "published_ts": 1793337327.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "e1446d0b30",
-    "theme_title": "Foreign Investors Own Half Of HDFC Bank and ICICI Bank. An LTCG Cut Could Matter Most Here - NDTV Profit",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793332810.0,
-    "article_count": 1,
-    "outlets": [
-      "NDTV Profit"
-    ],
-    "summary": "Foreign Investors Own Half Of HDFC Bank and ICICI Bank. An LTCG Cut Could Matter Most Here NDTV Profit",
-    "sources": [
-      {
-        "outlet": "NDTV Profit",
-        "title": "Foreign Investors Own Half Of HDFC Bank and ICICI Bank. An LTCG Cut Could Matter Most Here - NDTV Profit",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd0dUTDAxcl9nXzJuNGxNak8wV0N6TkxSUVFnQ0xNMEZ5ZGdvN2prX3lzVHRacUNxa1R3ZWsxdHZRamN0Zjh5by1VWXBPaThDS0tBREdrVjlVSmFsekl6SGhaRXU3WTdmMFpudmxrN0p6N2FEVGV6UGgwOVlxc0M4Si1PWGFoVDViR0VoRkVvT0xvUlBPY01DZ2pSY1BHVTFjMTMwNUFIdkpHclJlLS0tU3l1MjB5eWhVaWfSAcIBQVVfeXFMT0E4eVF5ZmFuVFhKMkpzeUR6V2prOUU5S18tLUV0MjFSWWNTbnF6aHAyN19tVFBIZDVGX0lnTXZmQ1hyNXh4LW4yUDZHOG52QUVVYkZiQmN3QTk0ODk4UF9UUXduUGFLQWQ3Tnd1anNFMXk1dWpFR0kwM2R0Nnh0Wk1GWmpQcTdSNm5MTkxub0I3Tk1QUHdKSmlRQW9DMGNnWWFwTDM1Mm9WTlZ6SUVpRnlsSHFUeWFQbDVFZWxLMXJUQ3c?oc=5",
-        "published": "Fri, 30 Oct 2026 04:00:10 GMT",
-        "published_ts": 1793332810.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "547cd9c67a",
-    "theme_title": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart - Upstox",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793330922.0,
+    "cluster_id": "68d5a27b47",
+    "theme_title": "DivyaSree Developers, HDFC Capital partner to set up \u20b91,500 crore residential platform",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793601762.0,
     "article_count": 2,
     "outlets": [
-      "Upstox",
-      "BusinessLine"
+      "LiveMint - Companies",
+      "Economic Times - Industry"
     ],
-    "summary": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart Upstox",
+    "summary": "The partnership aims to build a \u20b96,750 crore development pipeline over the next three to four years as the commercial property developer accelerates its residential expansion across major Indian cities.",
     "sources": [
       {
-        "outlet": "Upstox",
-        "title": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart - Upstox",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haXVDV2V3Wm5yQXBKZFJjZjkyQ0syd3BZWnRJZmo5UEdhckVTeTViZWtfVnkyRF9LVGRwSXZwMEo4Q1lUSDZfUzFlQmM1bEJhaFZEMXhSRHQ3S0h0THNBdXBB?oc=5",
-        "published": "Fri, 30 Oct 2026 03:28:42 GMT",
-        "published_ts": 1793330922.0,
-        "priority_score": 35
+        "outlet": "LiveMint - Companies",
+        "title": "DivyaSree Developers, HDFC Capital partner to set up \u20b91,500 crore residential platform",
+        "url": "https://www.livemint.com/companies/news/divyasree-hdfc-capital-rs-1500-crore-residential-platform-11793500076141.html",
+        "published": "Sun, 01 Nov 2026 21:00:34 +0530",
+        "published_ts": 1793547034.0,
+        "priority_score": 30
       },
       {
-        "outlet": "BusinessLine",
-        "title": "HDFC Bank Share/Stock Price Live Today | The HinduBusinessLine - BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VSkFBNzhjR2h2UW84T3pHeE8xMzAzNkNXeUR4c1ljMTBCLWpKYVpkX2Z2d1hSMHQwSG1abVBHZWd1UnFhclduUXloeUxzbFIxVzJlZWxzRkgzZWtpZVh2V29ELXVXYTlzbmc?oc=5",
-        "published": "Wed, 28 Oct 2026 07:00:00 GMT",
-        "published_ts": 1793170800.0,
-        "priority_score": 29
+        "outlet": "Economic Times - Industry",
+        "title": "HDFC Capital creates Rs 1,500 crore residential platform with DivyaSree Developers",
+        "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/hdfc-capital-creates-rs-1500-crore-residential-platform-with-divyasree-developers/articleshow/135445972.cms",
+        "published": "Mon, 02 Nov 2026 12:12:42 +0530",
+        "published_ts": 1793601762.0,
+        "priority_score": 20
       }
     ],
-    "priority_score": 41
+    "priority_score": 36
   },
   {
-    "cluster_id": "4fa73fbec8",
-    "theme_title": "HDFC Bank Share Price Prediction for Tomorrow: 30 Oct 2026 - Univest",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793321678.0,
+    "cluster_id": "9eb0a4166e",
+    "theme_title": "HDFC Bank Group Head Sanjay D\u2019Souza Superannuates After Nearly 27 Years - PSU Connect",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793601060.0,
     "article_count": 2,
+    "outlets": [
+      "PSU Connect",
+      "scanx.trade"
+    ],
+    "summary": "HDFC Bank Group Head Sanjay D\u2019Souza Superannuates After Nearly 27 Years PSU Connect",
+    "sources": [
+      {
+        "outlet": "PSU Connect",
+        "title": "HDFC Bank Group Head Sanjay D\u2019Souza Superannuates After Nearly 27 Years - PSU Connect",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0xxNGtJbF9kWnFYOGpsMVlET3BaRmJYSFhqMUxSOFNIMVhDSVlLWkNpeXItdUFDVjNNd0lsOWhSVGhGX3F3aU1jNlRTeThkOFM0Z2J2TUFtdWpDQThCbEppQmgxeFhWREQ5bUM2dWhFLTFPcVRyem5PUlA3UUlZRlFjUHliRnBhc2RGSzF3OEY3V2h4dkxlY0RpRUtzZnlwLXJmcVEwSUZJb2M?oc=5",
+        "published": "Mon, 02 Nov 2026 06:31:00 GMT",
+        "published_ts": 1793601060.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "scanx.trade",
+        "title": "HDFC Bank SME head Sanjay D'Souza retires after 27 years - scanx.trade",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbldxRWxVNHlWQTVLWWJqTjctVXFYZjZ2Y0wxVUNtVlROT2tleUNfcVZOVnlWUlFzUFBjN18xLUdnbUdBdGxoT3Bkekt6NUpUNW1tWEl4QThwN29JNDdWbzBRSVdXZVJYa3F5WmFWTWVqNW1uLUxFSUlyU1Vob01wVXY5SURmeE5pV1VHNGxqaDlSYmkxYUVjaTBjcFRCSGZPNDdUY09YYmFiazQ?oc=5",
+        "published": "Sat, 31 Oct 2026 17:04:02 GMT",
+        "published_ts": 1793466242.0,
+        "priority_score": 16
+      }
+    ],
+    "priority_score": 26
+  },
+  {
+    "cluster_id": "5b96d73ed7",
+    "theme_title": "Monday Watchlist: HDFC Bank, ICICI, DLF in focus as private banks, realty signal reversal - The Financial Express",
+    "date": "Mon, 02 Nov 2026",
+    "published_ts": 1793577600.0,
+    "article_count": 1,
+    "outlets": [
+      "The Financial Express"
+    ],
+    "summary": "Monday Watchlist: HDFC Bank, ICICI, DLF in focus as private banks, realty signal reversal The Financial Express",
+    "sources": [
+      {
+        "outlet": "The Financial Express",
+        "title": "Monday Watchlist: HDFC Bank, ICICI, DLF in focus as private banks, realty signal reversal - The Financial Express",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQamlrWGhaRlduRmQxcFVUeVA3eHA1MENkYWRsUGpweldsbXRuUTRuWGFBajEzMGZWS2lhTEd5UVJfVFlsMjBvdkZNVHhnUzExejV5TGRHcGVPNlpfSWVUM2RVV2lKeFNtQjNYYVVPeEtXb0tTbXdWN2oxeUxDd2Z6TWFHRlNBZVcwY0lnVlBqSE5qY29UTHRXbzFIX2Joay0zblN5S2VEZ1BYRndFQTdvTDloVVR3bVdDcE0yUzJUVEEzZHlJWEZ6MWNRS21fODhZaXBONjMxdFVzWjdRLTRBa2EzVdIB6gFBVV95cUxPSlZVNV9Rb3UxNWRWck5tRXJuMmNJOER6bFlWamswX0dhWlFTVWNpQm5uSnFhcVRkenROYVpwMW1PT3VvUXNLUnl1eG5CbVpJS25KUXF1NWZoNnM4RFVqZmVTN3JfcXI1cmhrY1Q5OVBSS21oXzZzbFhjNDZHRjVzNWItUTFJRnBEV0hvTGx4MWp1T2FHeXctYlA3YVBENXlzT3VVWlVwdnZmaWNwaEItYUtrTHBhTDUxZjJzLXZiVHBtX0RNeHBaNmVQWXFwUDBjOWdUcUFhNFJLUzVWWGctLUxHc2xmdGJhTWc?oc=5",
+        "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+        "published_ts": 1793577600.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "8eec8e9ddb",
+    "theme_title": "HDFC Bank Share Price Prediction for Monday, 2 November 2026 - Univest",
+    "date": "Sun, 01 Nov 2026",
+    "published_ts": 1793569608.0,
+    "article_count": 1,
     "outlets": [
       "Univest"
     ],
-    "summary": "HDFC Bank Share Price Prediction for Tomorrow: 30 Oct 2026 Univest",
+    "summary": "HDFC Bank Share Price Prediction for Monday, 2 November 2026 Univest",
     "sources": [
       {
         "outlet": "Univest",
-        "title": "HDFC Bank Share Price Prediction for Tomorrow: 30 Oct 2026 - Univest",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWFo0OGt0WXhfaWJMOG1aMVY0RXRGNzlsR2U2NnM0Ym9OQjBqWUlUQ0tpQnV5SlpaWV9VenYyemVNQjZvSzF2SWQtZEpXUUozUkFKSTFDVnlPcjl1QVQyYXFBUk9SYzNGaXRnUmdybHo0TnRBNHItcl9rekIyc19rdnQ4cDIxZlRGaXJZbmpSbw?oc=5",
-        "published": "Fri, 30 Oct 2026 00:54:38 GMT",
-        "published_ts": 1793321678.0,
+        "title": "HDFC Bank Share Price Prediction for Monday, 2 November 2026 - Univest",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNanUtZTVvY2IwYUdBcDV2S29zRnV2dkZIQkYzLXVwZXQzMGM5VC1DMzAza0Y4NGlERU1BY3BlcXVOYzlzV2NMNF9Vd3NXb3JXVV80XzgyNVBSc25fTG1lSVlXVGtLcXpiMUhhVG1MUXVxOVYtZmpDRU5TN1dhb3pHX0hLVDY4amxtTElrTGVIOA?oc=5",
+        "published": "Sun, 01 Nov 2026 21:46:48 GMT",
+        "published_ts": 1793569608.0,
         "priority_score": 35
-      },
-      {
-        "outlet": "Univest",
-        "title": "HDFC Bank Share Price Prediction for Tomorrow: 29 Oct 2026 - Univest",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1pKTnhwbTRaRHlac2g3cDBtNnNmamEwQTJOc0QzTlp5cE9oSlhVVFhJTGNnOUl2eUNkck15N2hOakVpWmZtV2hFRV85LUZiQnlWZG5PXzBmWUdwRGp4M0VYNGVmQkZUT1ZxSS0zVm9sT1BTMHpsTnM3dGU1X0ZTVjNwclA4cExZMVRLbElsNA?oc=5",
-        "published": "Wed, 28 Oct 2026 10:15:00 GMT",
-        "published_ts": 1793182500.0,
-        "priority_score": 29
       }
     ],
     "priority_score": 35
   },
   {
-    "cluster_id": "0ea884275f",
-    "theme_title": "HDFC Bank \u2014 many questions unanswered - TradingView",
-    "date": "Fri, 30 Oct 2026",
-    "published_ts": 1793321400.0,
+    "cluster_id": "58de8e23f5",
+    "theme_title": "HDFC Bank Share Price Target at Rs 981: Deven Choksey Share Research - TopNews",
+    "date": "Sun, 01 Nov 2026",
+    "published_ts": 1793561216.0,
     "article_count": 1,
     "outlets": [
-      "TradingView"
+      "TopNews"
     ],
-    "summary": "HDFC Bank \u2014 many questions unanswered TradingView",
+    "summary": "HDFC Bank Share Price Target at Rs 981: Deven Choksey Share Research TopNews",
     "sources": [
       {
-        "outlet": "TradingView",
-        "title": "HDFC Bank \u2014 many questions unanswered - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmJsNTF4dHgtdzV3ZnU5a2o1OVR0U0FHSUgyMFM3RlN6enBMWjJFdGNQWWFZZ2xPM3poWFhqUWZyUGVMYVJHMWh5WWZpQWVlYkNXcHlZaXRzM1I3SUJiV1U4WE41R3NtMEctcDBiczBkSG5OclVSRlZpNDZDOHdXZmNCX2pMaUd2NU5MY2dSVjl6cVVqZUNB?oc=5",
-        "published": "Fri, 30 Oct 2026 00:50:00 GMT",
-        "published_ts": 1793321400.0,
-        "priority_score": 20
+        "outlet": "TopNews",
+        "title": "HDFC Bank Share Price Target at Rs 981: Deven Choksey Share Research - TopNews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWoxdi14UXMyTXZJcFNlR1h4cGhLWld0dVF5cFc5Q1lqV0pkZ3BtTW9GREtFb3Bnb01qN0tob3RvN0J5R29PMDFydVhkeGxlSk1OZW5HdEZ1T2JzVkNRWDJzeGZfSURSZENUdkFSbTBrVy1SYkkzb2hwUFlXanZCV1BoelRLc3NkSFc3Xy1LMDZkMFdPY1E?oc=5",
+        "published": "Sun, 01 Nov 2026 19:26:56 GMT",
+        "published_ts": 1793561216.0,
+        "priority_score": 35
       }
     ],
-    "priority_score": 20
+    "priority_score": 35
   }
 ]
