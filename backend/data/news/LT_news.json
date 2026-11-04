@@ -1,219 +1,246 @@
 [
   {
-    "cluster_id": "79e648a727",
-    "theme_title": "Lt. Col. (ret.) Robert Bynam Reeves Jr. - Wilson County News",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793730368.0,
-    "article_count": 1,
+    "cluster_id": "6d6e85a5ac",
+    "theme_title": "Democrat Vikki Goodwin wins Texas Lt. Governor race, unseating Dan Patrick - Houston Chronicle",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793790733.0,
+    "article_count": 3,
     "outlets": [
-      "Wilson County News"
+      "Houston Chronicle",
+      "KVUE",
+      "KHOU"
     ],
-    "summary": "Lt. Col. (ret.) Robert Bynam Reeves Jr. Wilson County News",
+    "summary": "Democrat Vikki Goodwin wins Texas Lt. Governor race, unseating Dan Patrick Houston Chronicle",
     "sources": [
       {
-        "outlet": "Wilson County News",
-        "title": "Lt. Col. (ret.) Robert Bynam Reeves Jr. - Wilson County News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGxMWklpQ3pkV1NpcDUyMW1neE5lTlNKTW83aUd4OE9EUXFpTGJJUm45Sm9pUGlyUDVUeW1ONkpvRk84bU5LaE85SVNPUEFnQnRnSGRkVHF6YWFhcTBBbDhOUzVnOXM3UEhaMVBxUGw4Sm5CSXEzbFZobWlDYkJaRF80dGE?oc=5",
-        "published": "Tue, 03 Nov 2026 18:26:08 GMT",
-        "published_ts": 1793730368.0,
+        "outlet": "Houston Chronicle",
+        "title": "Democrat Vikki Goodwin wins Texas Lt. Governor race, unseating Dan Patrick - Houston Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWZ6WHlNVjlmQThYZHpMVVJIR0J4RHpxQnMxOVF0dWFWQTEteG5QQk0tUENLekpCZW54Qk5FUnBhaURZMEh3QV9kRTUzbmRzZVBQZDlwd1ZONVNtQk9mU3F0eFN6T3RTVnFRa2tfejkwVkJVbENDaHdqQzAwWEp2M3BueUpWLVF0ZXAwalpXTW82TWtLaFJWYlBPNUhUUW9NOGI3T1luOA?oc=5",
+        "published": "Wed, 04 Nov 2026 07:29:32 GMT",
+        "published_ts": 1793777372.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "KVUE",
+        "title": "Dan Patrick concedes Lt. Governor's race to Vikki Goodwin - KVUE",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZDNaNzRCc2l2MkxvNUt4MTBPcm9hOWdBQVBhLTlQNjVBblh2aXZmTjVzWXRFbWh4cHRIOG1xRVVxRlJBU2pCUlo2dE1JUTBodzh1a3FkUzBOSUdydklNU2xhSGRsVVlFTEQ5M0NRWTZzaTJsMmhPNUFxaERGQi1ZYXRlYWt6WUFMZjFFLVI4OEszUzhOcTV0ZXpmZmRXQ3BxZXNoV1lQVmRkLUJRZjZYam4yb0FIbDFRSlNTQlQtLWZGRUtmSnRPR1JRXzN2OGJycS1rTGdPLVhjMktTbWluZmlJSHE2Nm93a2xrV2x4NW5NUEdJQWpDQVQ2VjNhSHFwaXc?oc=5",
+        "published": "Wed, 04 Nov 2026 11:12:13 GMT",
+        "published_ts": 1793790733.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "KHOU",
+        "title": "Texas Elections Results: Dan Patrick concedes Lt. Governor race to Vikki Goodwin - KHOU",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSzExa2ZoU1J1V2Iza3phZlpUc2hWcmkwa2FnS2RYUWQyTERyd1Z5eXJtLVpoNm9CelpteS1tbHJCQm5HbHhXaks2TGZiRzBWSGFKbjhyT0o2MzI3emhTRC1kX3RnSXBvOUE3Q1ZqQ3ZvY1Zwbk4tSlItLUFteXMwa3c0Um5yZU5oWTE5dEtVOU5FZ2xWUkp6dEhYSUJBNm5pX25NRjBreE80WEV2Nk1wU3d4Tk03XzRvRF9LcUlveTRzVzYtSnhrN25XQmZ5Q2w4VzF6cV9B?oc=5",
+        "published": "Wed, 04 Nov 2026 08:00:27 GMT",
+        "published_ts": 1793779227.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 32
+  },
+  {
+    "cluster_id": "28f824551e",
+    "theme_title": "Green re-elected as Hawaii Governor with Kawakami as Lt. Gov. in 2026 Midterm Election - KITV",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793779860.0,
+    "article_count": 1,
+    "outlets": [
+      "KITV"
+    ],
+    "summary": "Green re-elected as Hawaii Governor with Kawakami as Lt. Gov. in 2026 Midterm Election KITV",
+    "sources": [
+      {
+        "outlet": "KITV",
+        "title": "Green re-elected as Hawaii Governor with Kawakami as Lt. Gov. in 2026 Midterm Election - KITV",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWU5KUXpjR2F5cFM0UWMxZ0lVazhkUEwyMzNlcWhrRGVGRkppQW80N3dzVWVxMnZqWUNoTjFqTVRpX3BzRXM0bUpnRGdlbTBpQlZXa0doXzM5MElrUGJ4amNSSWFhLTFVRkx4bmpEVGJaSzR4VTE1a1F4a1ZfR0JqenhjRUhNZGdhX1oxVC1rSGRaVGJwMHJLUkd6WmtCMndRaGdIWXpIRFBvWFpmTDBVc2ZDb00wbFU1bG9Pc2ZjZTNSWEk5QVJyTnRKZlJUTW1VNkhBeUVGWjIwY0tCN0RKckdObEpQV1dBNUh2eGtqb0RpYWljbW1OR0gtYw?oc=5",
+        "published": "Wed, 04 Nov 2026 08:11:00 GMT",
+        "published_ts": 1793779860.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "732fce71a0",
-    "theme_title": "Lt. Miller investigation expected to \u2018wrap up in the next few weeks\u2019 - Forest Park Review",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793727980.0,
+    "cluster_id": "e0c8c203c2",
+    "theme_title": "Wahl projected winner in Alabama Lt. governor\u2019s race - WDHN",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793779520.0,
     "article_count": 1,
     "outlets": [
-      "Forest Park Review"
+      "WDHN"
     ],
-    "summary": "Lt. Miller investigation expected to \u2018wrap up in the next few weeks\u2019 Forest Park Review",
+    "summary": "Wahl projected winner in Alabama Lt. governor\u2019s race WDHN",
     "sources": [
       {
-        "outlet": "Forest Park Review",
-        "title": "Lt. Miller investigation expected to \u2018wrap up in the next few weeks\u2019 - Forest Park Review",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTdQTG0yQTRKNnFUNjhxZ0RQa3NnajJ5TWFFWFZXQ2pLVE9xUm1iRERuNVBFeW9JYkxIZ0NiZ0R0OERlRFV2Y01QbmdlSThKRjdtcERTbGlmSTJfVGVyVy1sZGxndXAtT3FjbHFkSXdnck9WVjd5WTZYWkpIZ0FianV2TUI?oc=5",
-        "published": "Tue, 03 Nov 2026 17:46:20 GMT",
-        "published_ts": 1793727980.0,
+        "outlet": "WDHN",
+        "title": "Wahl projected winner in Alabama Lt. governor\u2019s race - WDHN",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0xaZWRQUktPZi1VTXhqbHdoUUo1bkZYWG5VeTBEa3F5TU11MnlWV0FWcmRHb2JRTjk1eTU3b2dSSTdvYW54VHpfa0dDYmZ3RWVyb2RHZ3lPT1Q5bzlMYlNUcFphdjBzYW1qQWIycVk4MERDRnRBNFVLWE1Fb1Myd1h1NA?oc=5",
+        "published": "Wed, 04 Nov 2026 08:05:20 GMT",
+        "published_ts": 1793779520.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "e0065e56b1",
-    "theme_title": "Lt. Gen. Fast visits DM [Image 3 of 3] - DVIDS",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793722020.0,
-    "article_count": 1,
+    "cluster_id": "419a99a50c",
+    "theme_title": "Vikki Goodwin defeats Dan Patrick to become Texas\u2019 first Democratic lt. governor in 27 years - KABB",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793777561.0,
+    "article_count": 2,
     "outlets": [
-      "DVIDS"
+      "KABB",
+      "WOAI"
     ],
-    "summary": "Lt. Gen. Fast visits DM [Image 3 of 3] DVIDS",
+    "summary": "Vikki Goodwin defeats Dan Patrick to become Texas\u2019 first Democratic lt. governor in 27 years KABB",
     "sources": [
       {
-        "outlet": "DVIDS",
-        "title": "Lt. Gen. Fast visits DM [Image 3 of 3] - DVIDS",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aVEM2RTdXQnRYMFp6OEw3ZlZQZjBncm5JZlF3Rlg2STZFbTQ1eWRCbVlFbHpIV3NDUlFSTWpZN1BzY0tJbGprUFU1QjlsSjRkSkJ4WTBTWHBBZ3M4M1VmOHE1RlVXcTk3QWpPVG13?oc=5",
-        "published": "Tue, 03 Nov 2026 16:07:00 GMT",
-        "published_ts": 1793722020.0,
+        "outlet": "KABB",
+        "title": "Vikki Goodwin defeats Dan Patrick to become Texas\u2019 first Democratic lt. governor in 27 years - KABB",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlpUWHdQeW5BS0RSOXN5S2tuWG8tU21FS0wyX2dDa0Faa2h5MHg5NkU0SGFuVnFWWmx3dUJsZ095QTQ3YnU5cHhFNkx1WUFwQkZFQVFVNkhaTk55ZDdXZHctdlR1dEljbnE1Ukh5YkZpcE5la1V2eHN0VGN5dDlqZWZUbXlEYVEtbWtZT1FCSkFiRzctUk9xcU1jaGpHTU5UOVNWX3ZybmlDa1lidFk3cmdaTnZybTluT0hXQ0x6OTI1TXlvcEtCYkVQaUVXeFlfam9VVFBEUWc?oc=5",
+        "published": "Wed, 04 Nov 2026 07:32:41 GMT",
+        "published_ts": 1793777561.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "WOAI",
+        "title": "Vikki Goodwin defeats Dan Patrick to become Texas\u2019 first Democratic lt. governor in 27 years - WOAI",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOanNSZmxnRXVzeVAxcjR5b2dKTkR1YTRMUGpZTUZvMXZrb3hQZ0wxUDZCd0IyUGEyVGI0U1JtUTZMcV9VMlNtUUNScEItOFFaMFc1emc5a1Axclk3cGxyUVlXa0VHa3JVWnZvYldpcmZ2Q0J2QnlPT2dIRlN0LUNuR25NUXJvMEhqcXFYM1gtdUNKbjhreTlLUTdhUXk5TU1WdGY0dXY1MEp1TC1hZXZxMmgzY3hJaDFqUWJuV0ZaOGJzZEVpX2tZdw?oc=5",
+        "published": "Wed, 04 Nov 2026 07:00:36 GMT",
+        "published_ts": 1793775636.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 26
+  },
+  {
+    "cluster_id": "86177cb64f",
+    "theme_title": "Democratic State Rep. Vikki Goodwin Defeats Republican Lt. Gov. Dan Patrick - The Texan",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793776680.0,
+    "article_count": 1,
+    "outlets": [
+      "The Texan"
+    ],
+    "summary": "Democratic State Rep. Vikki Goodwin Defeats Republican Lt. Gov. Dan Patrick The Texan",
+    "sources": [
+      {
+        "outlet": "The Texan",
+        "title": "Democratic State Rep. Vikki Goodwin Defeats Republican Lt. Gov. Dan Patrick - The Texan",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQUdvNi1DQzJydFlRWWFBWWE2Wk9Vc0FkUzFNNXNadEdCaUgxY1BIT21XQTFSS3JGYUtULVNvQ2Q1RVRuU2Y5QTllWGh4RFFIaWxsY0gwS01MZVkweC1mNUpBREFMRHBWbUo1MmtvajlOZ1FpODZqQWlDMWMzX2kzTjNHZ2J6ZDg3RXVMQ1Y1V3pUZjBqT0hZX0VPUHVmRkVCNkxVbU1VcVFfcVRyRmtvMkt3OE5jYVFhVEZoaEN3enVPMUNLWFZTc05PX1gyTEx3NC1pMzFVclJzeWkxY2M3Z3V4Y1NCOTFRSVhWYUN3Q00?oc=5",
+        "published": "Wed, 04 Nov 2026 07:18:00 GMT",
+        "published_ts": 1793776680.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "d9b10647f5",
-    "theme_title": "Residents react to retired Lt. Gen. Peter Elwelu\u2019s arrest - NTV Uganda",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793713980.0,
+    "cluster_id": "351d41d5fd",
+    "theme_title": "Lt. Nyamo & Lt. Daniel Trophy: Nitsuyan records emphatic win - Nagaland Post",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793775662.0,
     "article_count": 1,
     "outlets": [
-      "NTV Uganda"
+      "Nagaland Post"
     ],
-    "summary": "Residents react to retired Lt. Gen. Peter Elwelu\u2019s arrest NTV Uganda",
+    "summary": "Lt. Nyamo & Lt. Daniel Trophy: Nitsuyan records emphatic win Nagaland Post",
     "sources": [
       {
-        "outlet": "NTV Uganda",
-        "title": "Residents react to retired Lt. Gen. Peter Elwelu\u2019s arrest - NTV Uganda",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3dwd1ltaHVWS3VTUl9GeGtybUJUekN3WC1URUJXb3JNUF84Qy1pVWlWS3FvNTRCOGlZN2JybVE1SW5jajlpUGVPSEhSYnE3U28yZlZIQ0ZXWEtmWnQxclQ1TUJtSWRlZExwSEM1WGVLMjVqRl9tTThnRXZueEFxNHZCUQ?oc=5",
-        "published": "Tue, 03 Nov 2026 13:53:00 GMT",
-        "published_ts": 1793713980.0,
+        "outlet": "Nagaland Post",
+        "title": "Lt. Nyamo & Lt. Daniel Trophy: Nitsuyan records emphatic win - Nagaland Post",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmozdWtCWURvaHVZd3JYcUJXMjFjWjdSMHkyaTgyRE45c1dkVVdKa2o1WEFrT0hvZ1hHQjh3MklkVjBMWHFISF8yT3RNVnhRX29JeTNVdjAyS0ZhdHpnbVlNdDhvXy14NmJLc1c0RHpxeU5OSE1oU0pVNWVXM0NIMDNrTjRabmpi?oc=5",
+        "published": "Wed, 04 Nov 2026 07:01:02 GMT",
+        "published_ts": 1793775662.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "cc2ce33d49",
-    "theme_title": "LT Foods Q2 FY\u201927 revenue rises 17% to US$343.4M - Milling Middle East & Africa",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793712600.0,
+    "cluster_id": "ee6d2b1a9c",
+    "theme_title": "Green And Kawakami Swamp Opponents To Win Governor, Lt. Gov. - Honolulu Civil Beat",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793772978.0,
     "article_count": 1,
     "outlets": [
-      "Milling Middle East & Africa"
+      "Honolulu Civil Beat"
     ],
-    "summary": "LT Foods Q2 FY\u201927 revenue rises 17% to US$343.4M Milling Middle East & Africa",
+    "summary": "Green And Kawakami Swamp Opponents To Win Governor, Lt. Gov. Honolulu Civil Beat",
     "sources": [
       {
-        "outlet": "Milling Middle East & Africa",
-        "title": "LT Foods Q2 FY\u201927 revenue rises 17% to US$343.4M - Milling Middle East & Africa",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44R3doQkpHdWxjY3M5LXhDSEdFR28xQlRudFBkUWY4OVRySUpTU0FZZmIwVGJsbkRkVldHbEcyOS1XcnFwaGNMOWdOaTh5TV9HS3QwQ0F2S1NMbHpkRjE3WmxfeTJNekhWZkdOYzF1SV9SSlFaUlA3ZQ?oc=5",
-        "published": "Tue, 03 Nov 2026 13:30:00 GMT",
-        "published_ts": 1793712600.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "0d60e2219d",
-    "theme_title": "Lt. Gen. Ivan Havryliuk appointed as new Ukroboronprom head - The New Voice of Ukraine",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793712600.0,
-    "article_count": 1,
-    "outlets": [
-      "The New Voice of Ukraine"
-    ],
-    "summary": "Lt. Gen. Ivan Havryliuk appointed as new Ukroboronprom head The New Voice of Ukraine",
-    "sources": [
-      {
-        "outlet": "The New Voice of Ukraine",
-        "title": "Lt. Gen. Ivan Havryliuk appointed as new Ukroboronprom head - The New Voice of Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTE5oTGMxc2FTeE9rRjNrT3RjUXFpX3V3R0R4NXFqMlZyd29yMi1ReXRkaWpKMGhsMll6TlJFem5EMEw2a2h1UGlGVjBpVzdsNnp1LUI3MVRNcGp3NDBDaHEwNFduZE51TkpCNlFPVFBCWWUwVkxyRER6cllpRUo4QWx3OG1QZDdGUm9TMnNPQldudXBWYVlTbkpaRmUxVUh0VndUTFlmRGFucHZUcHR3ejBMV0FoOWk1bUpZVXFveUVCV0XSAb8BQVVfeXFMUDR6MTBFOWxINjVKMkZBTGJqWERWd2RHWTZiTGtudjFzUnFreS05MFVFbHhkZjJ1QTZieUlWN1h6dlNWT0Y4bENuV3FoNkxHdzJHOHRtWmpnSld0Nkx1ZVdFMWZiLUhFeHVIZWl6MDRTemkycGNrRnYxdVkxUC1DNUg1TWdKc0xoc3lhVHMxNzhEM3ZqX0dieURtMXNzQm1ZVWh1cEFRdEtVUm1HMVRjM2RsZlZ6eVJleTdOb1VSa1E?oc=5",
-        "published": "Tue, 03 Nov 2026 13:30:00 GMT",
-        "published_ts": 1793712600.0,
+        "outlet": "Honolulu Civil Beat",
+        "title": "Green And Kawakami Swamp Opponents To Win Governor, Lt. Gov. - Honolulu Civil Beat",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1lUa1JsaDJaOTRPaEZDcFJhb0lnZUVBWWd1Y2RXWWpscEphdGV0UkRldXlDLXd2M1l5QzRQQ2JUT1daajJNNjI4bTFKZXNwYlg0TXVYclhyT2EteUVxdjVtcHkxUlAxejZaeEk0bjBUU2tQV05MdmM1OVUzTkNuUmVKM2o2Wk5sckd6NGFpR3hYcTVSeG1z?oc=5",
+        "published": "Wed, 04 Nov 2026 06:16:18 GMT",
+        "published_ts": 1793772978.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "94032e1fc9",
-    "theme_title": "Election results for Georgia governor, Lt. Gov. races - WYFF",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793711861.0,
+    "cluster_id": "75fe7f69a0",
+    "theme_title": "T.W. Shannon wins Oklahoma Lt. Governor\u2019s race, AP projects - News 9",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793770257.0,
     "article_count": 1,
     "outlets": [
-      "WYFF"
+      "News 9"
     ],
-    "summary": "Election results for Georgia governor, Lt. Gov. races WYFF",
+    "summary": "T.W. Shannon wins Oklahoma Lt. Governor\u2019s race, AP projects News 9",
     "sources": [
       {
-        "outlet": "WYFF",
-        "title": "Election results for Georgia governor, Lt. Gov. races - WYFF",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUFneU9ITV90c2lxSTBFWEVIdE5jUEJGUWt6blpwdUx1NDNwNWxkek5jQUNpMTdWWHduVERwQ195bUszWDR5TGh2TjBfcVk0dDJNOHNqanlKT21LY3hGeW9yT3lIRzFYb1JkVjRySl9RRk4xX2lHYkxHVjFlYW1LMjltdWx4Zw?oc=5",
-        "published": "Tue, 03 Nov 2026 13:17:41 GMT",
-        "published_ts": 1793711861.0,
+        "outlet": "News 9",
+        "title": "T.W. Shannon wins Oklahoma Lt. Governor\u2019s race, AP projects - News 9",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNXRPOHpuTlF0U3RLbEFzWDVuVmh3S19uTjdiZzRaSjVJRWVXT1dJcTl0NXk5TUhoWHhxUk45cDBsVm40cmw2Y1ItQ3MwTzdHZ2h5SGhxQUoyN3RMMlZIQ25zdlpNYlZ0QW1FUlBWbDl0RlV4TldZU1ZtWjRkQlVqalpXd3I4blZTZkJQdEVQWQ?oc=5",
+        "published": "Wed, 04 Nov 2026 05:30:57 GMT",
+        "published_ts": 1793770257.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "a18d2b626c",
-    "theme_title": "GM LS And LT Engines: What Sets Them Apart, And Which One Is The Best? - Yahoo Autos",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793709300.0,
+    "cluster_id": "6921ee9b57",
+    "theme_title": "Lt. Gov. Peggy Flanagan holds a Minnesota Senate seat for Democrats - NBC News",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793768700.0,
     "article_count": 1,
     "outlets": [
-      "Yahoo Autos"
+      "NBC News"
     ],
-    "summary": "GM LS And LT Engines: What Sets Them Apart, And Which One Is The Best? Yahoo Autos",
+    "summary": "Lt. Gov. Peggy Flanagan holds a Minnesota Senate seat for Democrats NBC News",
     "sources": [
       {
-        "outlet": "Yahoo Autos",
-        "title": "GM LS And LT Engines: What Sets Them Apart, And Which One Is The Best? - Yahoo Autos",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWtaZGhlZjhQRHcwZ3F4U2cyTVJFZGlRSUFMLTl5c2pTMS1Mci0tS2phNGdldFRLTm9ZdE1sbFd2QkVxT3IzdUlINGNreXpfRVNXVlhDYVNiR2ZIa1ZnRlNiYllHMEk2RGxjbU1OWktDSnRCd2d1NUtuRkM0QmU3b2c3R2lNeTFiQmZEMkJMekdfZGFEbHc?oc=5",
-        "published": "Tue, 03 Nov 2026 12:35:00 GMT",
-        "published_ts": 1793709300.0,
+        "outlet": "NBC News",
+        "title": "Lt. Gov. Peggy Flanagan holds a Minnesota Senate seat for Democrats - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbllwZ2Vnd3NkdHFsYTNXU3lNTW5WVjVLZWNmNmc3eXNLTDJHT1JBUkdQSFAza0dSMmR5dFRXamNKUHc2c0lVcUgwRFR6VkpsR0pqVmdMYXVwOVUyOFhPelBUVkhSNXNYLXJYeE9Bb083ZG8xUTktVkxpQnZHc29NYTA3NWNacGtmNGRDOWR4M1kwQmNrYWM3Tkgxck9DVjZISk9EdzN3bXBIRmd0NVpDMktrazU4MkRr?oc=5",
+        "published": "Wed, 04 Nov 2026 05:05:00 GMT",
+        "published_ts": 1793768700.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "7906b4abcf",
-    "theme_title": "Bears OL Coach Dan Roushar Shares Latest on LT Rotation - Yahoo Sports",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793707215.0,
+    "cluster_id": "8b7ec4e940",
+    "theme_title": "Vikki Goodwin ousts longtime Texas Lt. Gov. Dan Patrick - The Texas Tribune",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793767937.0,
     "article_count": 1,
     "outlets": [
-      "Yahoo Sports"
+      "The Texas Tribune"
     ],
-    "summary": "Bears OL Coach Dan Roushar Shares Latest on LT Rotation Yahoo Sports",
+    "summary": "Vikki Goodwin ousts longtime Texas Lt. Gov. Dan Patrick The Texas Tribune",
     "sources": [
       {
-        "outlet": "Yahoo Sports",
-        "title": "Bears OL Coach Dan Roushar Shares Latest on LT Rotation - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kcVNsbExzZ29HN3dJemVkaUFRNU5xZHFEekpHOUplR3hZZHQxRTRLenMtTWstcGI1X0wyUE12Y2pXWHhQRHNMQVg4SHRxa2wyVUVXNlhyMjhjdGNPRXp6R3BnUW9HeWhBaUtXSWl6WjFsQnhyMVZwTlZkRVBtdw?oc=5",
-        "published": "Tue, 03 Nov 2026 12:00:15 GMT",
-        "published_ts": 1793707215.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "e92ddf6a37",
-    "theme_title": "\"Housing Not Enough\": Delhi Lt Governor Pushes For Water, Buses After Narela DDA Flats Sell Out - NDTV",
-    "date": "Tue, 03 Nov 2026",
-    "published_ts": 1793702070.0,
-    "article_count": 1,
-    "outlets": [
-      "NDTV"
-    ],
-    "summary": "\"Housing Not Enough\": Delhi Lt Governor Pushes For Water, Buses After Narela DDA Flats Sell Out NDTV",
-    "sources": [
-      {
-        "outlet": "NDTV",
-        "title": "\"Housing Not Enough\": Delhi Lt Governor Pushes For Water, Buses After Narela DDA Flats Sell Out - NDTV",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFJYVVpJZ0I1SjFZRHNOc1hzSTY2V0V6VUl3RmtRNVZsZTBHSkFtOG1aWmdlQXBMZTVONEw5OU91N2JGZnNlbjBvVlpwQmloU0Q0TVYxbm96Z2xubVJoajdNR0JQZkVUekV5VTk5Tk1mTU5KVEM2RTNmWjFEMkQzYkRrQjJnNEhrVzF0QXVtVWtfQng5akxtLWdkdkExX2s4NFg1Q28xbEo5d1VTckZScTEwS2hBRkhGbVFkRHBmaEl3WEY5dUc0MEtnY1LSAdQBQVVfeXFMTnlFcldKTU9LY0RfN25NWW5lUWNFaG16bkVHRy1VRkN2M3VyRHNkdmZxQmNVemxxMU93Y2ZzMUw1ZkFIemlPU0gwTDdabFJrWkVpVGhJWEZsQmkwVUswMnpRdWNBNndNYlp5Q1N1V053R3NxUVppQnNFWm1jb2wtTTFhN1FmeVZlT202cy1OWDBlNEFpd0k5Sk9rN0JscnJwSUlhREJGVW5SQnU4TUY0TjJXZlR6eDNXM3dGS3NTZFlGMkhFQ3RJQ1Mxc3l5M21WQVFVNkk?oc=5",
-        "published": "Tue, 03 Nov 2026 10:34:30 GMT",
-        "published_ts": 1793702070.0,
+        "outlet": "The Texas Tribune",
+        "title": "Vikki Goodwin ousts longtime Texas Lt. Gov. Dan Patrick - The Texas Tribune",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXVzeC1RQms3X0c4QlZLeGh0dUVwWVVHb1pnSTNiSGVuM2p0c3NZVG5xbzc2emg1MXRQbUFhVFVJYmlxYW9NdWdub0V6bVljcEt4cW1HLTc3aWMxMmhIX1Z0Q0xCVmRrUjhYZnlPSW5vUzR2dUJTQXRIRDRNckxtQ0JyVjJnbzk3VFVaYnE5Tk5nVDFfSmdHMS1UYW02X1k?oc=5",
+        "published": "Wed, 04 Nov 2026 04:52:17 GMT",
+        "published_ts": 1793767937.0,
         "priority_score": 20
       }
     ],
