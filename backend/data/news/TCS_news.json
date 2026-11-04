@@ -1,21 +1,206 @@
 [
   {
-    "cluster_id": "0ca57bdb9a",
-    "theme_title": "Only 10% of enterprises let AI agents make decisions without human approval, finds TCS study - Storyboard18",
+    "cluster_id": "e5c1460b2e",
+    "theme_title": "TCS Launching New PIVOT Programme - Bernews",
     "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793789461.0,
+    "published_ts": 1793811163.0,
     "article_count": 1,
     "outlets": [
+      "Bernews"
+    ],
+    "summary": "TCS Launching New PIVOT Programme Bernews",
+    "sources": [
+      {
+        "outlet": "Bernews",
+        "title": "TCS Launching New PIVOT Programme - Bernews",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02VllONFR4X2NlRnc4cG5BZ21sSDRxcHF4OUhYMTEyVGNqbGxlalRsTThGTnJKM1l2SG9oOVFZVFcwS2JkQ1RJVmtiOFc1cWlUZnN5dlUzNFlqM1FIaGlGQ1NCTmZmOUpoQVdlYUFjVTRHS1NLbHBiRXdOdVc?oc=5",
+        "published": "Wed, 04 Nov 2026 16:52:43 GMT",
+        "published_ts": 1793811163.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "fa45580e11",
+    "theme_title": "84% global executives say productivity is AI\u2019s top benefit: TCS study - TradingView",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793810780.0,
+    "article_count": 1,
+    "outlets": [
+      "TradingView"
+    ],
+    "summary": "84% global executives say productivity is AI\u2019s top benefit: TCS study TradingView",
+    "sources": [
+      {
+        "outlet": "TradingView",
+        "title": "84% global executives say productivity is AI\u2019s top benefit: TCS study - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHJwMkxZcDFWZTVhQ3NPY2xsSlpiNE5zdURGaUE4OEZZY24zVi1pTzdqUU1Bdld1MEFXUDQzNnRxSUdzT0hyRTZ3RS00UEVyOFIyaEt4UlhXeC1SQm1ubGpMX0VReGFQTTEzT2pVampGVU5uSEMxd24zVk1tNFRFWDVmZURqa2NkUHJieWQwMXJJOWhaUWZmT1hRb1hmejIwY2ZucjlGZ0JGUmsxSkd1S3poMmgtXzNXTm9kS3ROUC1aUQ?oc=5",
+        "published": "Wed, 04 Nov 2026 16:46:20 GMT",
+        "published_ts": 1793810780.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "343396d427",
+    "theme_title": "Meet Ramya Devanathan, who quit TCS and built Rs 12-crore saree business - Education Times",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793808018.0,
+    "article_count": 1,
+    "outlets": [
+      "Education Times"
+    ],
+    "summary": "Meet Ramya Devanathan, who quit TCS and built Rs 12-crore saree business Education Times",
+    "sources": [
+      {
+        "outlet": "Education Times",
+        "title": "Meet Ramya Devanathan, who quit TCS and built Rs 12-crore saree business - Education Times",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWtJZUdabTRsdkN3emxiU0dCM2FudFIzcXlkTUhhMDhfblJUQVE5RkhHdnRTRUJqbk5oZWJlbE1UYkFObHRvVldzZTNYTDlNa2xRTElIUVJ0a1FqdFFmR3EydXVEMi1Md2l6YzR2M29fekpLVXB4UDF6TkdlT1Z6N0xUMGlMZkUxZ1U0d2tFYzVqSER0RFBWbGhHM0g5Uzg0bWQ3R2g2ek9ubzJhTXlVbGU5cVFOOWZmeEdaVlhSS1NRdUxQcU4tVE9TTVRwSWRUck5N?oc=5",
+        "published": "Wed, 04 Nov 2026 16:00:18 GMT",
+        "published_ts": 1793808018.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "57ad0c8768",
+    "theme_title": "Market wrap: BEL, Adani Ent, TCS, HCL Tech top gainers and losers on Nifty and Sensex on Wednesday - The Economic Times",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793801030.0,
+    "article_count": 1,
+    "outlets": [
+      "The Economic Times"
+    ],
+    "summary": "Market wrap: BEL, Adani Ent, TCS, HCL Tech top gainers and losers on Nifty and Sensex on Wednesday The Economic Times",
+    "sources": [
+      {
+        "outlet": "The Economic Times",
+        "title": "Market wrap: BEL, Adani Ent, TCS, HCL Tech top gainers and losers on Nifty and Sensex on Wednesday - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdFU2WnlpelF3Z1VaTmdoTmdKbHYzREJYd0xvRENmT2duczVpZ3dOcG5SNzlEeC1BVWo2SExBWlJQekVkOVVmNVJuVzhMQ0ZBUkpoX2xwcWhkR3N0NHh4WjVOZnVzOFpNS3hGVGI4OUcyWVZ5eEgtY3Q0alRDUDcwcHN5d0h0X2JVRDZ1bVFDTjFYVTh6dkE4TWFoVmZOY212WndGbUNrUWIwZmlnOEV2QURWODB2ZDhjMmlwTnIwM1hyR19oT2pxVGhnTmZoeXBuTjVFRkJTbEllcDJ4MTQwdWN3NGU0TnJWYURva1NFQm4tajJZVDJMQXBGdmzSAYICQVVfeXFMUHVSbEcxZUpXZ2xldG9lR2s5MTRucGJSb1U5b191T3g5QTlpSEhWdjJEbjRRMUJaM0UzU2tVZEhoOC1IdDQ2OWZIS1I1RUdaU2lPeWY0LWtWV2t2OFFVd0d3MWlqdlJIdm43RGJoX0JFR0NTRDJRUUY5V2N6NlRzQnJRTFhJc3BDN1hwWVpGZXNhcDFTZ2ZVbGpZTGJVR2pnUUlaUTNZLXBIeXd0YVd3VUV1VXgyV0YyOWpyWnRCcENNQ0ZCRHB6YXhVNUEtVmt4cmFjOEM0STNnLWpXS0QzWWJ6R1JybnZEdEtYTHNoX3VhdU1nekJMeTdyS2RGQ3R6SGln?oc=5",
+        "published": "Wed, 04 Nov 2026 14:03:50 GMT",
+        "published_ts": 1793801030.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "7e0750d189",
+    "theme_title": "Gravity Media Debuts SMARThead Robotic Cameras in U.S. at TCS New York City Marathon - Sports Video Group",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793800859.0,
+    "article_count": 1,
+    "outlets": [
+      "Sports Video Group"
+    ],
+    "summary": "Gravity Media Debuts SMARThead Robotic Cameras in U.S. at TCS New York City Marathon Sports Video Group",
+    "sources": [
+      {
+        "outlet": "Sports Video Group",
+        "title": "Gravity Media Debuts SMARThead Robotic Cameras in U.S. at TCS New York City Marathon - Sports Video Group",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOalRKOVlRRGs1d0k2Y1R3UnZmTDRwU19Fd0ctMUlqckhnNzJHSTducmp6d2hvOURkaFh3VWxOWDJVN3hoYVFlcHhOVVJjc3E1alVwTjhJRjdYdlRMRVdydnFHMExBMDBDWlZnNHFGUVd0XzUyY1BoZWpvZTdIR1pIU1pnOHVSY0lMOGdpODdWd2JhS1hpd0NPamgwMmU2MTN5WVhRY0tjajRXQ2hIUzZhTHVmZFN3U0RYY1d1ZmI3b00?oc=5",
+        "published": "Wed, 04 Nov 2026 14:00:59 GMT",
+        "published_ts": 1793800859.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "c1259d7b2b",
+    "theme_title": "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793791973.0,
+    "article_count": 1,
+    "outlets": [
+      "The Week"
+    ],
+    "summary": "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards The Week",
+    "sources": [
+      {
+        "outlet": "The Week",
+        "title": "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRDJneEFUV0ZIcXVjR1dwTzVKSDhPb2J2M2ZYcWhXdlJQQWhQTWpnTmo2UVh0emc2R0liMER6WTB2bUlTb1R4azVDLUh6Y2V5cE9jelZwRWIzVlE2VmRSeGJ6QkdmNXdVdmFteGFoNXpOYzJjVXFLTHFWbGlRN2doX2lZblJKbDZTY1lnNHRkTExZSm83TGcxaU1RT0h3S0g0S2d0dmpmMm41TlpLbDVzZ0VZM3d4U3A3UkthVGFCTHlLd2lTYmQ1OGFVNTJhUmZIZ2Z5cUs2UnhMYW90eUd30gHkAUFVX3lxTE1DS0tvZG1WTWhSY002V0RES1BYaE80emk2Q1ROZm5PRWRQOThoLUFxdDl5WTJNaldDN2htZjVhcEk3UU1HVHJoY2Z4eEVBMmJHb0I1Rmd6UEZ0cnlIWGRqTW1mSmNyeTNhWmMyRkw1QVdmMThOTVNEMUdDR1pjUE5ySzd2emtlZmZXcV9sdzJ5Q0pNY1Q0MTd5SFBUTUN3VnFRMTF6NUVsc2RBaVFFeERKSlY4UVlLVXdrZ0tEZHdCZS10dnBtQ2tmLVVGZUc0ZU00LUc0NEJCS1NiTTZMS1lpaFlpYg?oc=5",
+        "published": "Wed, 04 Nov 2026 11:32:53 GMT",
+        "published_ts": 1793791973.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "6f178579d9",
+    "theme_title": "84% See AI Productivity Gains, but Only 10% Allow Agent Autonomy: TCS Study - Analytics India Magazine",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793791593.0,
+    "article_count": 1,
+    "outlets": [
+      "Analytics India Magazine"
+    ],
+    "summary": "84% See AI Productivity Gains, but Only 10% Allow Agent Autonomy: TCS Study Analytics India Magazine",
+    "sources": [
+      {
+        "outlet": "Analytics India Magazine",
+        "title": "84% See AI Productivity Gains, but Only 10% Allow Agent Autonomy: TCS Study - Analytics India Magazine",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2VpclVnaGNXaGdIZUxPSXBZRFZQa2hDV2M2V0hVMDk3amhOUjhjSW1kbmFwNWZVZTBlamUwZ05lQlRWM285UXBlWW5BdXhXbEc0NVAzdzJaQkJvWTh6eTUybUtyaS02VkQ2VFVsaDdORTJTVEtwenNZVEVzWk94YmxJOWdPUk9tLURpd0xiZjdEZko5ZnA5Y1M1dVFXM3cwdmQ2TjNLaFNWQ3JDdFE?oc=5",
+        "published": "Wed, 04 Nov 2026 11:26:33 GMT",
+        "published_ts": 1793791593.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "63e36cc611",
+    "theme_title": "TCS study finds only 10% of enterprises allow AI agents to act without human approval - Express Computer",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793791563.0,
+    "article_count": 2,
+    "outlets": [
+      "Express Computer",
       "Storyboard18"
     ],
-    "summary": "Only 10% of enterprises let AI agents make decisions without human approval, finds TCS study Storyboard18",
+    "summary": "TCS study finds only 10% of enterprises allow AI agents to act without human approval Express Computer",
     "sources": [
+      {
+        "outlet": "Express Computer",
+        "title": "TCS study finds only 10% of enterprises allow AI agents to act without human approval - Express Computer",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVW5wNXA0VVJRbTVQek1QQm94UHViWHJ2TmlmZEFTNTF3Q0lmdk9zd0tpbllZcFZQbmVacXJMVTBEdVpobS1wWlFPT0FuNk56a3l3eUFJTnAxdWpYd1FySDN3OFBmbWIzWC11WXRXckNvM05QMnVxc0J6bWtiRzVmb0tXQWg0UXY3LU9hY3c3Nlowc0hzSWxDejFiUVV6S1cwNVlkSFVSZ0VCNWIxSWlSaS1PX0tGSkkzbGlwLTRmWWhpalVualJF?oc=5",
+        "published": "Wed, 04 Nov 2026 11:26:03 GMT",
+        "published_ts": 1793791563.0,
+        "priority_score": 20
+      },
       {
         "outlet": "Storyboard18",
         "title": "Only 10% of enterprises let AI agents make decisions without human approval, finds TCS study - Storyboard18",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWndWLVYzNWlmM0JxN2lsMXZvWTBYamw4dC1fVmdGTHdpbW93UE81S0wwRThRNnl2djdBUW40dzN4VHVNTXZ0bTdxZG1aTS1TT3p6RUc0NEhIN2d3Z0FOc0RhdW90YmhudGY4REhkOWpETHFjWHpMemRzdzlEVThKbWNiTkxDY1QyZWVCNlp1dFpSOEdEMUJ4bE1vN2tCUG1BMWR1NWFTUGxrbk1LTHY3OW9tdnNUVVpmMlQ4dlZrU2o1aGtRVU1QdWt1cFdqTVYtOE80RlJObjJsNGlGWUdScGptYnnSAeQBQVVfeXFMTVp3Vi1WMzVpZjNCcTdpbDF2b1kwWGpsOHQtX1ZnRkx3aW1vd1BPNUtMMEU4UTZ5dnY3QVFuNHczeFR1TU12dG03cWRtWk0tU096ekVHNDRISDdnd2dBTnNEYXVvdGJobnRmOERIZDlqRExxY1h6THpkc3c5RFU4Sm1jYk5MQ2NUMmVlQjZadXRaUjhHRDFCeGxNbzdrQlBtQTFkdTVhU1Bsa25NS0x2NzlvbXZzVFVaZjJUOHZWa1NqNWhrUVVNUHVrdXBXak1WLThPNEZSTm4ybDRpRllHUnBqbWJ5?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc2I1STlkWkRGaWRtdW1iVzhtdHYxV042WFlTUEw2Y2xkYS1TQXJuRU1NN1pfMjlaZ2trR01xSHRGMHRyOXVya1NXVm1GeWJkR3otakNvSmFYeHNkN19VRklBWXJHc1UyUll5UnFnTDVHRHVSQ3ZmRmhuRnF3dlZpX2k5WjBNcWhMVThtS0JoeGpWbUtzdG02Z1lqTkZoblE4ZTRRY28zWmthWlFQQ0pSZXZObGZoQ2VWaHlzNlpiOTMycDJFVGYyRnZOQlRxZXVBREthMXBUR0lTV2dQWEVn0gHkAUFVX3lxTE1ad1YtVjM1aWYzQnE3aWwxdm9ZMFhqbDh0LV9WZ0ZMd2ltb3dQTzVLTDBFOFE2eXZ2N0FRbjR3M3hUdU1NdnRtN3FkbVpNLVNPenpFRzQ0SEg3Z3dnQU5zRGF1b3RiaG50ZjhESGQ5akRMcWNYekx6ZHN3OURVOEptY2JOTENjVDJlZUI2WnV0WlI4R0QxQnhsTW83a0JQbUExZHU1YVNQbGtuTUtMdjc5b212c1RVWmYyVDh2VmtTajVoa1FVTVB1a3VwV2pNVi04TzRGUk5uMmw0aUZZR1Jwam1ieQ?oc=5",
         "published": "Wed, 04 Nov 2026 10:51:01 GMT",
         "published_ts": 1793789461.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 26
+  },
+  {
+    "cluster_id": "94a5c5d58a",
+    "theme_title": "Top gainers and losers, Nov 4: BEL surges 5%, Adani Ent, Titan rise 4%, TCS declines 2.5%; check list - Upstox",
+    "date": "Wed, 04 Nov 2026",
+    "published_ts": 1793791046.0,
+    "article_count": 1,
+    "outlets": [
+      "Upstox"
+    ],
+    "summary": "Top gainers and losers, Nov 4: BEL surges 5%, Adani Ent, Titan rise 4%, TCS declines 2.5%; check list Upstox",
+    "sources": [
+      {
+        "outlet": "Upstox",
+        "title": "Top gainers and losers, Nov 4: BEL surges 5%, Adani Ent, Titan rise 4%, TCS declines 2.5%; check list - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaWVUaGx6V19SWWRMdElUR2dXNTZsc3pjOXp0WUs3T1laNHpfcUFEMUpVWDNZOThMSk43eW9lX3pVT3BZa1JUQUNBbVpaRURmdUZLUF9TZ01MZXFHQ1JRc3Qwc2MxQWFzOS1WN1BVR3doY054NFlxaE80VzlzbWJXbGdKaUpwMUN2cEM1dlllLUtnc3hvTFRpUHhmeElYZ2F6eGQwSGVoa2E5RXk1NzRHN3dCRGVlYTdYUEtsb2RCVjB4M3I1V1BmSVVrZmJBV2lnb3Y1TWpmYmhmZjYyS0tkdl9TTHhoUQ?oc=5",
+        "published": "Wed, 04 Nov 2026 11:17:26 GMT",
+        "published_ts": 1793791046.0,
         "priority_score": 20
       }
     ],
@@ -42,190 +227,5 @@
       }
     ],
     "priority_score": 35
-  },
-  {
-    "cluster_id": "e47e340247",
-    "theme_title": "Tata Consultancy Services Study Shows 84% Executives See Higher Productivity as Top AI Benefit - www.marketscreener.com",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793785870.0,
-    "article_count": 1,
-    "outlets": [
-      "www.marketscreener.com"
-    ],
-    "summary": "Tata Consultancy Services Study Shows 84% Executives See Higher Productivity as Top AI Benefit www.marketscreener.com",
-    "sources": [
-      {
-        "outlet": "www.marketscreener.com",
-        "title": "Tata Consultancy Services Study Shows 84% Executives See Higher Productivity as Top AI Benefit - www.marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVE9hRjdodzBVclJDb1I0TFhsTHVnLXRxeHVZXzhYWWVsZ2FZYmJLNnpWSHh2UmN0TVNCdm5jV1BVck1iTkdXUEY0VUtvZU1NMF8tNGJfa3JIbEp4QWRMYXhGaFZFT0VmSjd5YkdVUWxMd09Fc1N6Nzdrc0ZXR0Y4ZlQtUnF2OXdrazI1VnRWckFNMndHN2phNnV2SmVKZ3N2My1hNTVMZUFvRmk5TkNORFEzb3RpZWpibDRtWFktN2FCUTdXOFlzQXlJSEVYRGUxbXdXUDcxY0NRdTY4Z0VZ?oc=5",
-        "published": "Wed, 04 Nov 2026 09:51:10 GMT",
-        "published_ts": 1793785870.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "4d6953d2ae",
-    "theme_title": "TCS study: 84% cite productivity as top AI benefit - scanx.trade",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793779340.0,
-    "article_count": 2,
-    "outlets": [
-      "scanx.trade",
-      "IT Voice Media"
-    ],
-    "summary": "TCS study: 84% cite productivity as top AI benefit scanx.trade",
-    "sources": [
-      {
-        "outlet": "scanx.trade",
-        "title": "TCS study: 84% cite productivity as top AI benefit - scanx.trade",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3kxMV9qbXlkMzRBbUhXOV81ZFZUTTJTY2xTUnA5bTRTUHh2ZmZqZTAwNF93ZUJwU0JEVFpqdmRZS2hHMXJmMm8tdVAzWm05cU10cTFqSFRRMHAwOS1DdzJVakozbzZoQzJJdXZqN3Z6bWItY29YUkZWa3hFYlVuRlprYUFiaEpDYWx0TEhveFctcDFCbTZBeUxfTGxXaDJUTmpSSA?oc=5",
-        "published": "Wed, 04 Nov 2026 05:54:08 GMT",
-        "published_ts": 1793771648.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "IT Voice Media",
-        "title": "TCS Enterprise AI Study: 84% Cite Productivity as AI\u2019s Top Benefit - IT Voice Media",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbldGUW01eXJsU0tPdTgwUV9SN2p1OVZYOTFMYTZSdjBydGNhU2N2Z2ZYZFNUVE90UzlFdnRLNVdsdTZaUHFhR2ZQT0t3VFZEV2FHSTZtcFR2MFZ3WE1IX01QOWpvVEtrYWZ3M2tRN3YxS2FHQUFvdTNYZjNYaEZQbDZWd2JMM2lFbmNMWkpBUnlsZ0loM1kwTzFTVGNJZk1QZ1RodXlPN2FUX3cxaTdpVWJ5WGF6VnNDN0ZWREpnTS1nendqTzdB?oc=5",
-        "published": "Wed, 04 Nov 2026 08:02:20 GMT",
-        "published_ts": 1793779340.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 26
-  },
-  {
-    "cluster_id": "a01bfa304f",
-    "theme_title": "TCS-backed marathons generate $3.2 billion in economic impact: report - afaqs!",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793776402.0,
-    "article_count": 1,
-    "outlets": [
-      "afaqs!"
-    ],
-    "summary": "TCS-backed marathons generate $3.2 billion in economic impact: report afaqs!",
-    "sources": [
-      {
-        "outlet": "afaqs!",
-        "title": "TCS-backed marathons generate $3.2 billion in economic impact: report - afaqs!",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMk5lMzFGRzRYak5kYXUyS0oyLWFCekVZMTJBdEZ2THlSN2p3ekl3dUxRX3E5TmQ2VGRZM0xBUTNKN1RNZkN2SWJLMHRaaDMtb2VBZ2gxQWVfek5mWktwWlNKLTdvdUhNV1JlQzdUWlN1MGFOZ0x3ZjYtYXlmbjl1NEFjd2NpcEJYbWV6MU5WSFdTbENmMnljZ0I0Tk1CTFpuUXdtTlRTNkNzQ2M?oc=5",
-        "published": "Wed, 04 Nov 2026 07:13:22 GMT",
-        "published_ts": 1793776402.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "b0cfb7f005",
-    "theme_title": "Tata Consultancy Services Ltd. Hits Intraday Low Amid Price Pressure - MarketsMojo",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793775609.0,
-    "article_count": 1,
-    "outlets": [
-      "MarketsMojo"
-    ],
-    "summary": "Tata Consultancy Services Ltd. Hits Intraday Low Amid Price Pressure MarketsMojo",
-    "sources": [
-      {
-        "outlet": "MarketsMojo",
-        "title": "Tata Consultancy Services Ltd. Hits Intraday Low Amid Price Pressure - MarketsMojo",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVhKRTFEaUxFcmhWdGZLLUtEZ2RPV2d6ZTNISDlISzFPUWxpTHFSc0xJdzNQRFZHMDJKVlNYZXBjZzgtSHRZWGVsU0VPMTloa2N6Y0RGQ1RvRWFUdmd2X1Q5TXR4SEtHNjFqWUhTcFFyMk8tc3JtSnBrOUxsU1FDTGcwbW1DT3V0R0RmVGhfQXlWOXVCLUF1UndqYUp3WnhYUUJaeE1nay1EOVRNNW13Nk5xVEVENWF3ck53aGk2SVlZYXc?oc=5",
-        "published": "Wed, 04 Nov 2026 07:00:09 GMT",
-        "published_ts": 1793775609.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "7083c30ccd",
-    "theme_title": "SMM: Global Zinc Concentrate Supply-Demand Pattern Analysis and Outlook - When Will TCs Rebound After Hitting Record Lows? - Shanghai Metals Market",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793774520.0,
-    "article_count": 1,
-    "outlets": [
-      "Shanghai Metals Market"
-    ],
-    "summary": "SMM: Global Zinc Concentrate Supply-Demand Pattern Analysis and Outlook - When Will TCs Rebound After Hitting Record Lows? Shanghai Metals Market",
-    "sources": [
-      {
-        "outlet": "Shanghai Metals Market",
-        "title": "SMM: Global Zinc Concentrate Supply-Demand Pattern Analysis and Outlook - When Will TCs Rebound After Hitting Record Lows? - Shanghai Metals Market",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSU5uNWVqVnVPakQyWHJtSEhLdE5xcUp5Vkh4SGQtQWF0LTdWbm53czNEUXQ4N0VXdWJ1eUh2WlkwM2FtQnhoZFlLUmRHYmZBelZnTWtfaDR4dEZsTzVkZkoyTXA1U3N0aXpNZHZzb1pEWHBUM1dYallmbGZwc2VIU2UtVGdXM0I3MEhJakJNRDI4bzlFWXNSU05YR3UySkQ5WWZYSWxybnJfV0NGY1owTFFELTRRalRfMGdrRlhLazBPOGctcjJhMS1yclJ6cUdMcEI4b0phd0dYVTAwai1CS0xQdDgtNjJaNGx0eGN1d00wbmVLQmk2bQ?oc=5",
-        "published": "Wed, 04 Nov 2026 06:42:00 GMT",
-        "published_ts": 1793774520.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "e93e00dc35",
-    "theme_title": "AI boosts productivity, but only 1 in 10 executives trust it to act autonomously: TCS study - CNBC TV18",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793774141.0,
-    "article_count": 1,
-    "outlets": [
-      "CNBC TV18"
-    ],
-    "summary": "AI boosts productivity, but only 1 in 10 executives trust it to act autonomously: TCS study CNBC TV18",
-    "sources": [
-      {
-        "outlet": "CNBC TV18",
-        "title": "AI boosts productivity, but only 1 in 10 executives trust it to act autonomously: TCS study - CNBC TV18",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT3p5WEpxYUNNdnZ5cFdRSkk1elhLWFBJQzVLeFlJajBhZU96eXRZdjF4RjdMY3ozU2RMdzBJbnYwWnNrS0VFV3R6b2pNcTE0MUhyQkdVV1pEVE5jZjBBam5lUVViMnBnU3ByZThFSXowSUJhSzRKcS1JMUNlV2s1TENZbEVNdnBST0tuZldZbV8xSjU3TS11V2xZSmxuOVZMazBhZF9KdnNGNWZuUWdvUEJWUFowNWk5Y2R2Mk5LSzM1Yk5QQ0pKN1ljWFFRQ1Nyd0dCUVpQOUE5b1MyNDhaVmFoWWJRSmFmS3fSAe8BQVVfeXFMTzF6Z1AtdVQ5aHoyRjJqVWh2SmozdEtpd2dMbjhHWk5wNEIzSDQtRndGMkUwZURzVzYxMGQxOFBoZDZpRWhadkdNNU1Udm5Eclh1TWNQQXFSMzQtUzZSUXNzYXdmUFl6bmJ4dTJkTV9DOHFaTDdqVVNrcFVhLXZfT1BudjlBekdOcnM3eTVDX1RkMUN0bzBWRlNzT3lRLVpwS0hteWhNSHE3VTY3dDB5QlF6U1I0b1FLcUtXVmxmaDlhZi1nMjk2eHF3c1RmSFRDcVZHM2xnMXNKZHFVbGU1WE9EY3NVNXFmSUtiRVN0S2s?oc=5",
-        "published": "Wed, 04 Nov 2026 06:35:41 GMT",
-        "published_ts": 1793774141.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "3f357db0ba",
-    "theme_title": "Long Term Trading Analysis for (TCS) (TCS:CA) - Stock Traders Daily",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793774122.0,
-    "article_count": 1,
-    "outlets": [
-      "Stock Traders Daily"
-    ],
-    "summary": "Long Term Trading Analysis for (TCS) (TCS:CA) Stock Traders Daily",
-    "sources": [
-      {
-        "outlet": "Stock Traders Daily",
-        "title": "Long Term Trading Analysis for (TCS) (TCS:CA) - Stock Traders Daily",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3gwZm0yZlIyMW4zR0Z3QTFmRm5WSHdRUXA5UzJzeHlzSnNGdXNvek1FbW01RF8wXzVScFdxWDJWOHpET18wSktpeVRfNzJxVm5vVnZBeWQ1QV9Ma18zZHYxcjhXdWpDOWpGbDQ4UkgtS2htYkFtbHNWWXgwTXVwOUxrMEpwdzdPdU1FbFduZkE4b1VnTm9oTA?oc=5",
-        "published": "Wed, 04 Nov 2026 06:35:22 GMT",
-        "published_ts": 1793774122.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "9b7f47c903",
-    "theme_title": "TCS renews partnership to drive Jaguar\u2019s AI-powered Formula E efforts - Consultancy.uk",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793771573.0,
-    "article_count": 1,
-    "outlets": [
-      "Consultancy.uk"
-    ],
-    "summary": "TCS renews partnership to drive Jaguar\u2019s AI-powered Formula E efforts Consultancy.uk",
-    "sources": [
-      {
-        "outlet": "Consultancy.uk",
-        "title": "TCS renews partnership to drive Jaguar\u2019s AI-powered Formula E efforts - Consultancy.uk",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzZxeWFBM1dXS2tlazlqc0FCbVpWaUJJOHV3SU52bmlOZ3VRcVdxWGhTRjd0VU1xbU9OOUk2a1IwSkp1dHBmemVCYnJtX0p0VmZWWnhaS1FFOElUQldURXJheGZlV1BDS2JvVW5Fc2lITjIwQXliSkRPR045MXV6TGZBU1Q5a0didVBuLWM5dmM3LWJXVW4zRzg4WVZrdzBJVlhKY0RRXzJHN1psd2o40gGvAUFVX3lxTE1fNnF5YUEzV1dLa2VrOWpzQUJtWlZpQkk4dXdJTnZuaU5ndVFxV3FYaFNGN3RVTXFtT045STZrUjBKSnV0cGZ6ZUJicm1fSnRWZlZaeFpLUUU4SVRCV1RFcmF4ZmVXUENLYm9VbkVzaUhOMjBBeWJKRE9HTjkxdXpMZkFTVDlrR2J1UG4tYzl2YzctYldVbjNHODhZVmt3MElWWEpjRFFfMkc3Wmx3ajg?oc=5",
-        "published": "Wed, 04 Nov 2026 05:52:53 GMT",
-        "published_ts": 1793771573.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
   }
 ]
