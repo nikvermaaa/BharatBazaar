@@ -26,9 +26,10 @@
     "theme_title": "HDFC Bank, ICICI Bank, Axis Bank are BNP Paribas' top three banking picks; here's why - Business Today",
     "date": "Thu, 05 Nov 2026",
     "published_ts": 1793871016.0,
-    "article_count": 1,
+    "article_count": 2,
     "outlets": [
-      "Business Today"
+      "Business Today",
+      "Business Standard"
     ],
     "summary": "HDFC Bank, ICICI Bank, Axis Bank are BNP Paribas' top three banking picks; here's why Business Today",
     "sources": [
@@ -39,9 +40,17 @@
         "published": "Thu, 05 Nov 2026 09:30:16 GMT",
         "published_ts": 1793871016.0,
         "priority_score": 20
+      },
+      {
+        "outlet": "Business Standard",
+        "title": "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2tXNmM3WVhtRkNQM0NPaFdCdFB5ZlhPNmw3NmZTZUhBOXN0cE0wRmRHckRzYWVqMThoNDM4Vmx4eEZpNERsTzh0OGtNUklHckl1QW40Y2NzTWo2RDk5ZnFDN0VDLUdtRmZoZlVUTFBMQ0kySXkxd2wzaW1QT0trcGZNZnlMQWZNdG5iVkJVOS1JV1Y1bnNDYUE2cUZ6TmdMRFJvQVlCN0R5UmdWV2YyQk0xTl9OVm4tR3VjRF9hQmJkWDR0RXJaaHdEenJHaHBtSlHSAdcBQVVfeXFMTTNxZWdLRk9uMTNzaDJVdUtQNktMOWRTOTctckRYTUZfTG5tang5NUQwejBXcUN1Rm1ZTnhBRDJ3Ulh4MENtYlN1TUZqUzF1bVo3ZC13NkNNN1pLbDVGcmhVaWJZbVZ5Zk5JM2RhYmNIRDNPb1cyc2Fod3dEQ0c3S19HdG9pTTI2M1dHaEhieTV1dWJMcDNiQjMyU0RsZlcwcFE4VUN4Z3pqeVY0cms2TW1tcjlQdnd5dkNkTTg0LTNLZXdFMzlaQzNVTUhWRVJhd3dDQkZ1SDQ?oc=5",
+        "published": "Tue, 03 Nov 2026 09:34:15 GMT",
+        "published_ts": 1793698455.0,
+        "priority_score": 14
       }
     ],
-    "priority_score": 20
+    "priority_score": 26
   },
   {
     "cluster_id": "994caa6e5c",
@@ -132,26 +141,18 @@
     "priority_score": 20
   },
   {
-    "cluster_id": "afe5d3e4c1",
-    "theme_title": "RBI approves Munish Sharda's re-appointment as Axis Bank ED - scanx.trade",
+    "cluster_id": "1b0a0aafa1",
+    "theme_title": "RBI Approves Munish Sharda\u2019s Re-appointment as Axis Bank ED - PSU Connect",
     "date": "Thu, 05 Nov 2026",
     "published_ts": 1793854080.0,
     "article_count": 3,
     "outlets": [
-      "scanx.trade",
       "PSU Connect",
+      "scanx.trade",
       "InvestyWise"
     ],
-    "summary": "RBI approves Munish Sharda's re-appointment as Axis Bank ED scanx.trade",
+    "summary": "RBI Approves Munish Sharda\u2019s Re-appointment as Axis Bank ED PSU Connect",
     "sources": [
-      {
-        "outlet": "scanx.trade",
-        "title": "RBI approves Munish Sharda's re-appointment as Axis Bank ED - scanx.trade",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFJWa3pvajNTcVZPTV9hTXVkQ1VuZ3FRWEF4LW1Gd2h1VlNnanFZTWtkNHBwV2x0VEx3STFITExRWE5jOEY3QnJ2bUh4LXdqOF9GMHB4SW5leWVncElSTUdvZUw1aTRiaGdTMnF5QnczUkRudnloNzBSSHllV09rWE5xUzhab1JraHdEcGlvM19QSUQ2Vzlpbkh1aldWcGNpSEtQcWxRQjNWang0N3pmRG0tWQ?oc=5",
-        "published": "Wed, 04 Nov 2026 14:52:36 GMT",
-        "published_ts": 1793803956.0,
-        "priority_score": 30
-      },
       {
         "outlet": "PSU Connect",
         "title": "RBI Approves Munish Sharda\u2019s Re-appointment as Axis Bank ED - PSU Connect",
@@ -161,12 +162,20 @@
         "priority_score": 30
       },
       {
+        "outlet": "scanx.trade",
+        "title": "RBI approves Munish Sharda's re-appointment as Axis Bank ED - scanx.trade",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFJWa3pvajNTcVZPTV9hTXVkQ1VuZ3FRWEF4LW1Gd2h1VlNnanFZTWtkNHBwV2x0VEx3STFITExRWE5jOEY3QnJ2bUh4LXdqOF9GMHB4SW5leWVncElSTUdvZUw1aTRiaGdTMnF5QnczUkRudnloNzBSSHllV09rWE5xUzhab1JraHdEcGlvM19QSUQ2Vzlpbkh1aldWcGNpSEtQcWxRQjNWang0N3pmRG0tWQ?oc=5",
+        "published": "Wed, 04 Nov 2026 14:52:36 GMT",
+        "published_ts": 1793803956.0,
+        "priority_score": 26
+      },
+      {
         "outlet": "InvestyWise",
         "title": "Axis Bank gets RBI nod for Munish Sharda re-appointment - InvestyWise",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUFjM1hPSnBXQTF1bDVfeXpPLTFfekIxV2tnanExM2JsZmJ1MG5kakV5SmtqX2Iya0Nac2ZtSUV3cXc1SHNxb2NBcXYwU3BvY1hmNTVwUVYyQXlXVlRCMjltWWhWV3k0M1k3bVFPYzZJaWNRcFh5em0wWFBiTDJBWnlOV2x5ZjlCbEs5bWJn?oc=5",
         "published": "Wed, 04 Nov 2026 13:15:58 GMT",
         "published_ts": 1793798158.0,
-        "priority_score": 30
+        "priority_score": 26
       }
     ],
     "priority_score": 42
@@ -185,7 +194,7 @@
       {
         "outlet": "Autocar Professional",
         "title": "Axis Bank Announces Festive Offers on Car, Two-wheeler and Commercial Vehicle Loans - Autocar Professional",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWVneVhQZjdQTExBRTJ1dWVsbWxJbFd3NmRhdkdkMDR4OG1NeHdiVTdfcnNOeTRBWi16eENuSHlqWnhfbHRPWURPNGhodk4wTWRKYnVXb0FMLVIxQmFnTXo0aGlDQUk3SzlhZGlmSEhXTzRMVk9EdThjVk5uanY3ODZpUERHTXhNdjREREpBeHNLSkRkQ0RmUzNpNEd5U1NYaDcybHRZQ2FhUnl6RWdqWWNJa1ZFcVp6OGZBNtIBxAFBVV95cUxNYzhKb0VXOUEyWGpMZFNwMVRWb3pxYnphSW5mTm51NTFTaXRmVE16bGYySXlVem5COVVZbnZSejRaWWRWRGlXTWdwb05nT0xwakJZRExBUGJVNnBSRFNvWXRidkQzNkF3TzJQQUI2ZnFnWmZ1bWtPWllGYUl2WGtmbzZNUFRzMFYxYmVUOUhuNGVqMWFHQldIX3p2bjczWmp3NUZTb0NQaE5RNGZESGJ2MDNpZno4LTVBWS1SQkxKMk1Bc1F6?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzhKb0VXOUEyWGpMZFNwMVRWb3pxYnphSW5mTm51NTFTaXRmVE16bGYySXlVem5COVVZbnZSejRaWWRWRGlXTWdwb05nT0xwakJZRExBUGJVNnBSRFNvWXRidkQzNkF3TzJQQUI2ZnFnWmZ1bWtPWllGYUl2WGtmbzZNUFRzMFYxYmVUOUhuNGVqMWFHQldIX3p2bjczWmp3NUZTb0NQaE5RNGZESGJ2MDNpZno4LTVBWS1SQkxKMk1Bc1F60gHEAUFVX3lxTE1jOEpvRVc5QTJYakxkU3AxVFZvenFiemFJbmZObnU1MVNpdGZUTXpsZjJJeVV6bkI5VVludlJ6NFpZZFZEaVdNZ3BvTmdPTHBqQllETEFQYlU2cFJEU29ZdGJ2RDM2QXdPMlBBQjZmcWdaZnVta09aWUZhSXZYa2ZvNk1QVHMwVjFiZVQ5SG40ZWoxYUdCV0hfenZuNzNaanc1RlNvQ1BoTlE0ZkRIYnYwM2lmejgtNUFZLVJCTEoyTUFzUXo?oc=5",
         "published": "Thu, 05 Nov 2026 04:15:46 GMT",
         "published_ts": 1793852146.0,
         "priority_score": 20
@@ -210,10 +219,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDBIZFRuUDNPaGNRcG9CUHZoRDFLeXVJNW1NZGZSNGJDbHhoR21SSUVMUHluZXZ3b2MzWTRQWEV5N21ZSVVFOVhQYUhtQXhkRVpHMmUxSm9TWG5Najl3TzNCUF9Fbkd4VTBNQzMzZjFsVFBsRzlpT2hMN2hPbzJJaFBGRHF6MnJYcjIxbFVGVTFmMk9pU0ZIQzlSazZrYTZIbkxRY0xlZldXR2xxbXBfdlpkaGZBUHlUMUFmNVpRcnBkZ9IBygFBVV95cUxQNEVXZ3FUSnpQVTRFNlpWcEJzdXpwbXlOM0RVSF9RT1JINmVOR2h6Y1dMZDJ0aFAtNWhnUVF3dU5qNzE1NEJZM0QwOG9MX2NPd1hRQTQ2Q05rOGtwWWZDUzZobHBCT2NJaTdNTEYxYTBMcW9oc2wxUkVjektfTWpWMFRSR25mVll1SEZCWmNHS3ZLV1BTRjdBYVhnbVdxaDhzd1RHcU5jU2k5S0p0WWRkRGdEaUtoZFF1QlBZQ2lDOGFlWVRyOXFVRGpR?oc=5",
         "published": "Wed, 04 Nov 2026 18:31:01 GMT",
         "published_ts": 1793817061.0,
-        "priority_score": 35
+        "priority_score": 31
       }
     ],
-    "priority_score": 35
+    "priority_score": 31
   },
   {
     "cluster_id": "f3bf02654d",
@@ -232,9 +241,9 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFVtVG1RMXpjaUthVXc5ejFNVUhHSzNyRHB6NE5WS0RIS0tKT1ktTG8tS3JKc0tSNlVIeGtoQnhlMUowYml3RUp6M0JQczFESVlJdF9ObkhnWGZFOE9MWXBlTElFeC1kRkZxMHg4M2dkUzJSc2U1ZnZocVpPWF9HM1VhSDg1bWFqRGcxdWh2MjBwWHFYbVhtQ1V1NHRlT0NaVmNuUDA2UUc?oc=5",
         "published": "Wed, 04 Nov 2026 16:33:00 GMT",
         "published_ts": 1793809980.0,
-        "priority_score": 20
+        "priority_score": 16
       }
     ],
-    "priority_score": 20
+    "priority_score": 16
   }
 ]
