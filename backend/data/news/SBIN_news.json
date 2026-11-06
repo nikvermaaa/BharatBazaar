@@ -1,21 +1,127 @@
 [
   {
-    "cluster_id": "036a7d10b4",
-    "theme_title": "Diwali Muhurat Trading: HDFC AMC, BEL, SBI, VAML among Monarch's picks; 8th Pay Commission, BSFI key Samvat 2083 themes",
-    "date": "Thu, 05 Nov 2026",
-    "published_ts": 1793872666.0,
-    "article_count": 1,
+    "cluster_id": "9aaded374b",
+    "theme_title": "NCLT declares Videocon promoter Venugopal Dhoot bankrupt on SBI plea; appoints bankruptcy trustee",
+    "date": "Fri, 06 Nov 2026",
+    "published_ts": 1793961900.0,
+    "article_count": 2,
     "outlets": [
-      "LiveMint - Markets"
+      "Economic Times - Industry",
+      "LiveMint - Companies"
     ],
-    "summary": "After sharp corrections in Samvat 2082, Monarch Networth Capital sees potential for a market rally and wealth creation. The brokerage\u2019s Samvat 2083 themes include the 8th Pay Commission and BFSI. Its top stock ideas are Carborundum Universal, CCL Products, Vedanta Aluminium, and more",
+    "summary": "The National Company Law Tribunal (NCLT), Mumbai Bench, has declared former Videocon Industries promoter and director Venugopal Nandlal Dhoot bankrupt on a petition filed by the State Bank of India (SBI), after the failure of his personal insolvency resolution process and repayment plan.",
     "sources": [
       {
-        "outlet": "LiveMint - Markets",
-        "title": "Diwali Muhurat Trading: HDFC AMC, BEL, SBI, VAML among Monarch's picks; 8th Pay Commission, BSFI key Samvat 2083 themes",
-        "url": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-hdfc-amc-bel-sbi-vedant-aluminium-monarch-stock-picks-8th-pay-commission-bsfi-samvat-2083-11793872391839.html",
-        "published": "Thu, 05 Nov 2026 15:27:46 +0530",
-        "published_ts": 1793872666.0,
+        "outlet": "Economic Times - Industry",
+        "title": "NCLT declares Videocon promoter Venugopal Dhoot bankrupt on SBI plea; appoints bankruptcy trustee",
+        "url": "https://economictimes.indiatimes.com/industry/telecom/nclt-declares-videocon-promoter-venugopal-dhoot-bankrupt-on-sbi-plea-appoints-bankruptcy-trustee/articleshow/135593784.cms",
+        "published": "Fri, 06 Nov 2026 09:58:51 +0530",
+        "published_ts": 1793939331.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "LiveMint - Companies",
+        "title": "Who is Venugopal Dhoot? Former Videocon promoter declared \u2018bankrupt\u2019 by NCLT Mumbai bench over \u20b912,668-cr SBI default",
+        "url": "https://www.livemint.com/companies/people/who-is-venugopal-dhoot-former-videocon-promoter-declared-bankrupt-by-nclt-mumbai-bench-over-rs-12-668-cr-sbi-default-11793958227774.html",
+        "published": "Fri, 06 Nov 2026 16:15:00 +0530",
+        "published_ts": 1793961900.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 26
+  },
+  {
+    "cluster_id": "94a5132572",
+    "theme_title": "SBI (NSE:SBIN) New York Investor Meet November 2026 - Kalkine India",
+    "date": "Fri, 06 Nov 2026",
+    "published_ts": 1793960340.0,
+    "article_count": 1,
+    "outlets": [
+      "Kalkine India"
+    ],
+    "summary": "SBI (NSE:SBIN) New York Investor Meet November 2026 Kalkine India",
+    "sources": [
+      {
+        "outlet": "Kalkine India",
+        "title": "SBI (NSE:SBIN) New York Investor Meet November 2026 - Kalkine India",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzdaUkxlcVNxVXNHcE9mTGpnSU9oU0NFa0kxN1BkYVBXcFY4YmtHTGh0a2JIME45UkhCLTViS0JrNzMyRmctRlFpb1hoYnlqelBoeEVVTlJOZUV3NmhYaHYtem15RUtZaE9FUy04Y2JkN3RleldTRENQMFhGdDhSa0dxZ0pQWGFMVnRwYjhtRXdhU3hOaUllczZJRG1FNVh0cmZqeTN3azhtWkJxa0ltWlVlV1RRaFlCM2RSRXpBT1Yxa2J5YzdPTUE1TEZETm1wVjBYaA?oc=5",
+        "published": "Fri, 06 Nov 2026 10:19:00 GMT",
+        "published_ts": 1793960340.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "cf7ed0b938",
+    "theme_title": "Stock of the day - State Bank of India Ltd Target Rs.1070 - Religare Broking Ltd - Investment Guru India",
+    "date": "Fri, 06 Nov 2026",
+    "published_ts": 1793943129.0,
+    "article_count": 1,
+    "outlets": [
+      "Investment Guru India"
+    ],
+    "summary": "Stock of the day - State Bank of India Ltd Target Rs.1070 - Religare Broking Ltd Investment Guru India",
+    "sources": [
+      {
+        "outlet": "Investment Guru India",
+        "title": "Stock of the day - State Bank of India Ltd Target Rs.1070 - Religare Broking Ltd - Investment Guru India",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmkzWnRNV2lPR0JOdEltT2RZV1VmYTFia1JtV2lycG5kTVV1Q1RfUEs0NmFjdENRQ2RJSHpQSkZCV3NzMTRrd1JNVTh2RUN4Y0FSNUhiVlllSG5jbDcwdDdRZDU4b2hCdzVCMW93RFh4bnFfOE13ZXE4UUNuTERPN3A2c3JJWkltSlVIWXIyZXE2VEZjQWNZVm9KV3I0WHQ4RXBPT0hqNlF5ZU9rcTR2TkpGc2hnNmF1eUJrYU9IdWhtSGNlMFNnTQ?oc=5",
+        "published": "Fri, 06 Nov 2026 05:32:09 GMT",
+        "published_ts": 1793943129.0,
+        "priority_score": 45
+      }
+    ],
+    "priority_score": 45
+  },
+  {
+    "cluster_id": "22020eb966",
+    "theme_title": "State Bank of India (SBI) Share Price Target at Rs 1,300: ICICI Securities - TopNews",
+    "date": "Fri, 06 Nov 2026",
+    "published_ts": 1793941017.0,
+    "article_count": 2,
+    "outlets": [
+      "TopNews",
+      "TradingView"
+    ],
+    "summary": "State Bank of India (SBI) Share Price Target at Rs 1,300: ICICI Securities TopNews",
+    "sources": [
+      {
+        "outlet": "TopNews",
+        "title": "State Bank of India (SBI) Share Price Target at Rs 1,300: ICICI Securities - TopNews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMU11Zl8wRzRPMHk4TlVSMzRhUDhFaElYeGc0YmVkUnpyTThxNXVBQnBablpMOWJPZnA1SnVaZWJIRFNwc0xiRmhrald6d2VuekxLVm5rQzREYU9vRzVLS3haNnhjM0xiU1BkM0pRV0RFYW9IanVYeDNDdVJwamVFXzB4VmNBSFNCUkUwVDV3Sm55NlVWWVE?oc=5",
+        "published": "Fri, 06 Nov 2026 04:56:57 GMT",
+        "published_ts": 1793941017.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "TradingView",
+        "title": "Buy State Bank of India; target of Rs 1300: ICICI Securities - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXdlbjFtaDhJcVE2RWF1V3dpX0ZVdy12eXNMVVdrVXdEYVVCcW55SnVXU1NUMmlKV2RlR29sTmdnVWZFbnhqVFEydENaMlMtSWNZT3l6dTZ6OTRFRkJZNHZPcHNpeFVRVnJBSUhEbGpTXzYtZl8yMEg2cUU1S21ZamY0bEpSYlVONklZY05WYmxoS0RzM3NFQmxTSktsVml0d0F1T21KOHpQSF9ocS1WaVJsX0MybkhMbHFXNTl3?oc=5",
+        "published": "Wed, 04 Nov 2026 15:11:41 GMT",
+        "published_ts": 1793805101.0,
+        "priority_score": 31
+      }
+    ],
+    "priority_score": 41
+  },
+  {
+    "cluster_id": "4fed6d8a72",
+    "theme_title": "Key facts: SBI profit +14.3%; FY27 guidance; 3,897 records on dark web - TradingView",
+    "date": "Fri, 06 Nov 2026",
+    "published_ts": 1793930400.0,
+    "article_count": 1,
+    "outlets": [
+      "TradingView"
+    ],
+    "summary": "Key facts: SBI profit +14.3%; FY27 guidance; 3,897 records on dark web TradingView",
+    "sources": [
+      {
+        "outlet": "TradingView",
+        "title": "Key facts: SBI profit +14.3%; FY27 guidance; 3,897 records on dark web - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkkwTmpOTWdNRzFXd19na09tVWRiejlEckFnZzUzUlJWRTJfeld0djNCaFk1ajJqb3p4T3Vhcnh3RTFMelBjMDlDSU5KZkhhQnpsY2lsenlpUzJwNDlnRU1kTnluV282V3RPcDV4TUJ0b3pvOTY1emRTX2ZKdEZLaVY2UjVMZGMwVlVQNTByekdfVGpCa204OEsxT1Ztay1TNXB2UjhoaFIwaExENGpBM1RucGhtY1BXWjJwYXkyTHA1NnRFUWc?oc=5",
+        "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+        "published_ts": 1793930400.0,
         "priority_score": 35
       }
     ],
@@ -38,44 +144,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa1ZJQTkycmN3VzNTbVRneDItN2E3UDEwZ1BpQ1ZsNUc2X3BhbndmdlZybjJzTVB4Rm9jUzBudURrTlVScjJJd3Z4eVFXUXF1RWlYMk16VmJIaVBjSHBMWm5vNkViUjFLVXVMd1hCYmhyQ1N5YTRwZDk4TjlyMVYyT1FoVHdMX1VWQXVWdm5aa1hTN3UxamVITFFfTHhRNjg5VHpaOVRDYVYzeThFajNxdFo3Tkd1WnBoYURlb0Jza1RScU9OUnc?oc=5",
         "published": "Thu, 05 Nov 2026 02:00:00 GMT",
         "published_ts": 1793844000.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "e6008197d2",
-    "theme_title": "Buy State Bank of India; target of Rs 1300: ICICI Securities - Moneycontrol.com",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793805101.0,
-    "article_count": 3,
-    "outlets": [
-      "Moneycontrol.com"
-    ],
-    "summary": "Buy State Bank of India; target of Rs 1300: ICICI Securities Moneycontrol.com",
-    "sources": [
-      {
-        "outlet": "Moneycontrol.com",
-        "title": "Buy State Bank of India; target of Rs 1300: ICICI Securities - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1lIdEdZbXZFaV9vNFFPWnFaR0RZYVg5NFFJamtVVDhPdkM0b3ZRckxQRVoybUFldlFQNmROUkpiWXowQ2F1QUpNbDdyMm5McnFGYlUyOEpzRkVsNmI3OE5rejY0TVF5SmFZQmhKMHdJd1VXUFhjSUxydG1NdTc2bEZxd0VJRXU1YUFKSVBiMDU1Z3BleElXTUdfWDRQb3ZyZGdtRDY2dEk5V1FrTFZlZGx5YW92dmdP0gG-AUFVX3lxTE41TFJXNGR6elVKeU9OeGd0Z3ZHYmRwcjl6ZVdLZlNfaDZueTVpWEJMbHR6Vkc3aVY3SGFtbDRpaGpUUmh0aUpITGpvMUtxQVVBTzFHYmxncnVsZ29wWGxtZm5jaGFxRGtMcElsVFVfVWROY2dnUldscGcwcFNJei1kb3JBb29XOEJTQkVyWDVFR3hjeUxhTl9lakM5WXlRUTlmNkFidEYyOEVkX2hRc1dYbGNHUTRudW1ocVp1aXc?oc=5",
-        "published": "Wed, 04 Nov 2026 15:11:41 GMT",
-        "published_ts": 1793805101.0,
-        "priority_score": 31
-      },
-      {
-        "outlet": "Moneycontrol.com",
-        "title": "Buy State Bank of India; target of Rs 1350: Emkay Global Financial - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEthZ2NUSG0zcjFaRUl5WVpoWV9ISll1RU1ndVdHWWtYNFF6ZkRqU2Y1UmhQT0tMWWFrbEo3VlNxUGtIbTNqbm9Oc3hNRXo1NDV4eHl2WVFyRDU4QnRyVy1nSW9pV1I1cUg5dDdBVy1mWkRocDY0a1lIcFlJcUNDTnZNTFcxQkVPRFBHMGswQzJvUFFJVHZ5Qlh4bm44WGlHeGRacWh4aFNnMzhkdWxlWllCY083NmdyLVFBWkdTOTd2cllleE1R0gHMAUFVX3lxTE1QdXBIRjFIWU5hUmc0TEZiMHdldmpPWVo2TUlCZ0tGUDlRa2d4cy1UUkxqNEIyZS0xSmFXb3NQNk53R3dYNWRfTnlkUkRUNWJWVWE5Y2Uzemh6aGNqUENxOFdndnk1QXQyVVdRZ01QYnlsLTZ4R1ZBR1ZFMjBlRUVUQWYtc3pReFVnYVBrbWNCMkFNeXMxQlhtaXp0MDdyaGFWOWdYblgyaFM3SzIyTXMtWDMyOWdTb25majktV0ZMcS1iQ00tYzIzenV1Yg?oc=5",
-        "published": "Wed, 04 Nov 2026 08:44:00 GMT",
-        "published_ts": 1793781840.0,
-        "priority_score": 31
-      },
-      {
-        "outlet": "Moneycontrol.com",
-        "title": "Buy State Bank of India; target of Rs 1200: Prabhudas Lilladher - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHctRFJybm5BZ1N1MEFSX0M5dWpfclY5aDBVWDdraTFEbFUwYXczbmJwUC1VOHo1dkZ4c0J4U29SNzJpSlpmSGh5SE9HRzI4MDFHRzZWd3IxU3liR3VBamF6R3hZODlsTlJsODJzNVRoMklGWmVQWUVwSGFlUDdmYk1FbHlhRlNucXJUbGNtRHN4NlBUUlc0Z2RaR1JWbVlPdWhlNHpMY1pMNC1JX3ljN19sdXlGTnVaaFR5aDFEMV9wQTdvUW5ueTlyMWdwZ9IBzgFBVV95cUxNZHctRFJybm5BZ1N1MEFSX0M5dWpfclY5aDBVWDdraTFEbFUwYXczbmJwUC1VOHo1dkZ4c0J4U29SNzJpSlpmSGh5SE9HRzI4MDFHRzZWd3IxU3liR3VBamF6R3hZODlsTlJsODJzNVRoMklGWmVQWUVwSGFlUDdmYk1FbHlhRlNucXJUbGNtRHN4NlBUUlc0Z2RaR1JWbVlPdWhlNHpMY1pMNC1JX3ljN19sdXlGTnVaaFR5aDFEMV9wQTdvUW5ueTlyMWdwZw?oc=5",
-        "published": "Wed, 04 Nov 2026 06:42:20 GMT",
-        "published_ts": 1793774540.0,
         "priority_score": 31
       }
     ],
@@ -98,10 +166,10 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEdOOEFWNS1vNWQ0cGl3ZDhqMzNkS0szQjNKeC1RX1lra1dTY0JEdDFoQWRtcXpCUkx2U1BBNWFHM3lVTmdOdi1nNDFxcW1SdG5CQ3I5MXN3OWpPcThqckRONTduVVBOWUFmRk5uMGltOUQ0VTgtbTdLS0ZnU19vbElXN1NDUWo4QTAzUUhZV0ZKSzdHR3dyRUEtMFpFVVBjT3F2T3BqRWMzMEVpcXB3aA?oc=5",
         "published": "Wed, 04 Nov 2026 10:30:00 GMT",
         "published_ts": 1793788200.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
+    "priority_score": 29
   },
   {
     "cluster_id": "3b6f931596",
@@ -120,32 +188,40 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
         "published": "Wed, 04 Nov 2026 09:56:00 GMT",
         "published_ts": 1793786160.0,
-        "priority_score": 16
+        "priority_score": 14
       }
     ],
-    "priority_score": 16
+    "priority_score": 14
   },
   {
-    "cluster_id": "388a0e3540",
-    "theme_title": "State Bank of India (SBKFF) (Q2 2027) Earnings Call Highlights: - GuruFocus",
+    "cluster_id": "5a736fd2b8",
+    "theme_title": "Buy State Bank of India; target of Rs 1350: Emkay Global Financial - Moneycontrol.com",
     "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793777755.0,
-    "article_count": 1,
+    "published_ts": 1793781840.0,
+    "article_count": 2,
     "outlets": [
-      "GuruFocus"
+      "Moneycontrol.com"
     ],
-    "summary": "State Bank of India (SBKFF) (Q2 2027) Earnings Call Highlights: GuruFocus",
+    "summary": "Buy State Bank of India; target of Rs 1350: Emkay Global Financial Moneycontrol.com",
     "sources": [
       {
-        "outlet": "GuruFocus",
-        "title": "State Bank of India (SBKFF) (Q2 2027) Earnings Call Highlights: - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd0pmSUVmTWNVRlpzU1J3aE1wM0hoY3c2Tzk5Nm5OYVU4MDUtbmxtaC1OVTdsRUtzXzV0WVo5QktxbE9OSE1uWFg3ZkZIb2VoZ3VZd0tDYVJZWHRfOFVBSXFSNEFxYW0xZ0U5Zm5SU2lWbXB3ZU50LUYya0RHYjVzWWJJZWVjbzVNaDlmRXFNaEl0OVlWUG5qQk9ROW1GeWVLX283eUNoOWxfMTd4ZVpvam9FRTQ4M3g2ZW5HbUhiTjl3TnNwQmdPUk40cV9zUzJBbWVzLTlKdVQ3UE11X3FlaWhUdEU0OVIxckJQVF9hdVpRMFk?oc=5",
-        "published": "Wed, 04 Nov 2026 07:35:55 GMT",
-        "published_ts": 1793777755.0,
-        "priority_score": 31
+        "outlet": "Moneycontrol.com",
+        "title": "Buy State Bank of India; target of Rs 1350: Emkay Global Financial - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEthZ2NUSG0zcjFaRUl5WVpoWV9ISll1RU1ndVdHWWtYNFF6ZkRqU2Y1UmhQT0tMWWFrbEo3VlNxUGtIbTNqbm9Oc3hNRXo1NDV4eHl2WVFyRDU4QnRyVy1nSW9pV1I1cUg5dDdBVy1mWkRocDY0a1lIcFlJcUNDTnZNTFcxQkVPRFBHMGswQzJvUFFJVHZ5Qlh4bm44WGlHeGRacWh4aFNnMzhkdWxlWllCY083NmdyLVFBWkdTOTd2cllleE1R0gHMAUFVX3lxTE1QdXBIRjFIWU5hUmc0TEZiMHdldmpPWVo2TUlCZ0tGUDlRa2d4cy1UUkxqNEIyZS0xSmFXb3NQNk53R3dYNWRfTnlkUkRUNWJWVWE5Y2Uzemh6aGNqUENxOFdndnk1QXQyVVdRZ01QYnlsLTZ4R1ZBR1ZFMjBlRUVUQWYtc3pReFVnYVBrbWNCMkFNeXMxQlhtaXp0MDdyaGFWOWdYblgyaFM3SzIyTXMtWDMyOWdTb25majktV0ZMcS1iQ00tYzIzenV1Yg?oc=5",
+        "published": "Wed, 04 Nov 2026 08:44:00 GMT",
+        "published_ts": 1793781840.0,
+        "priority_score": 29
+      },
+      {
+        "outlet": "Moneycontrol.com",
+        "title": "Buy State Bank of India; target of Rs 1200: Prabhudas Lilladher - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHctRFJybm5BZ1N1MEFSX0M5dWpfclY5aDBVWDdraTFEbFUwYXczbmJwUC1VOHo1dkZ4c0J4U29SNzJpSlpmSGh5SE9HRzI4MDFHRzZWd3IxU3liR3VBamF6R3hZODlsTlJsODJzNVRoMklGWmVQWUVwSGFlUDdmYk1FbHlhRlNucXJUbGNtRHN4NlBUUlc0Z2RaR1JWbVlPdWhlNHpMY1pMNC1JX3ljN19sdXlGTnVaaFR5aDFEMV9wQTdvUW5ueTlyMWdwZ9IBzgFBVV95cUxNZHctRFJybm5BZ1N1MEFSX0M5dWpfclY5aDBVWDdraTFEbFUwYXczbmJwUC1VOHo1dkZ4c0J4U29SNzJpSlpmSGh5SE9HRzI4MDFHRzZWd3IxU3liR3VBamF6R3hZODlsTlJsODJzNVRoMklGWmVQWUVwSGFlUDdmYk1FbHlhRlNucXJUbGNtRHN4NlBUUlc0Z2RaR1JWbVlPdWhlNHpMY1pMNC1JX3ljN19sdXlGTnVaaFR5aDFEMV9wQTdvUW5ueTlyMWdwZw?oc=5",
+        "published": "Wed, 04 Nov 2026 06:42:20 GMT",
+        "published_ts": 1793774540.0,
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
+    "priority_score": 29
   },
   {
     "cluster_id": "5ebab7ecaa",
@@ -164,75 +240,9 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4Nlc1eXAzMzRZbnBLd3hvaEJGam1qdnZweXAzdk4yT2hvMGxXRnZHT1VNc0JFMjlZRjFXWXdDaDVjU3lTRTZjNXVGMENwdVZQUkpZZ09n?oc=5",
         "published": "Wed, 04 Nov 2026 07:23:18 GMT",
         "published_ts": 1793776998.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "4e66c7b59b",
-    "theme_title": "Buy State Bank of India; target of Rs 1200: Prabhudas Lilladher - TradingView",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793774520.0,
-    "article_count": 1,
-    "outlets": [
-      "TradingView"
-    ],
-    "summary": "Buy State Bank of India; target of Rs 1200: Prabhudas Lilladher TradingView",
-    "sources": [
-      {
-        "outlet": "TradingView",
-        "title": "Buy State Bank of India; target of Rs 1200: Prabhudas Lilladher - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXgwZFZJR0VtXzNSVEZNN2JKdElNZ3lQWE5CTGhWUjY5MGRFaDRIcGplVlI0ZnZhRUxZV25JN0x3SVFEclJmSUk0a0NjcTNVT094UWRGVkdpMjl5UC1ZR3FPMzZlX1ZRVWFpVUh6LW91VEY3aE5URXJnU21YNkxBdDBKV2ZVU1JtMTJJLXZOek1lVGFnXzJOZy04SHF6b1ZxRExKQk9nLVNTRjBFQUkyVzZueFU0TjV5cmVxUmxha0ZMUQ?oc=5",
-        "published": "Wed, 04 Nov 2026 06:42:00 GMT",
-        "published_ts": 1793774520.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "3d572b8983",
-    "theme_title": "Stocks to watch today: NSE, State Bank of India, MCX and more in focus - News9live",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793762738.0,
-    "article_count": 1,
-    "outlets": [
-      "News9live"
-    ],
-    "summary": "Stocks to watch today: NSE, State Bank of India, MCX and more in focus News9live",
-    "sources": [
-      {
-        "outlet": "News9live",
-        "title": "Stocks to watch today: NSE, State Bank of India, MCX and more in focus - News9live",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUFXaDBTZnlndUZHY3pzVHF4aXd1aTR4VmNvSUtPa2VnTlROVlF6TTMtMmJIMXVSSHZQS2R3RVhKWUZmdXdfVUpYMlhiQVMwRmMwS1d3UkQ0VmRKTkE0R1NGSWR4VkpCRU1tTUxRZEc4RnNzOTRuYkhGcGZjS2ZSRjFTaVJBZkdLSm5ibEEzLU9jdDMzczlOOGEwRThRazJLVk05MXBqVnEyQ0p3d29mOG00OXBpYjFkcEHSAb8BQVVfeXFMTVZYZThvMGNjbHVoQ3VEWEludmVQYi1oMnFkYzRwb1FkTWFobnBWVmV3TE5qWGZEM0ItZVZDU0dleVh4R2dsTG90SlVOVXBvUTNrc0x0Tl9XaDZWSElUamhTOUFmM3FkX2Q0dVNNZklUTjd2QmJqeW1IOFhZVWNWcW4xVW1RaFQxNXRuWU0tZG85M09hSkNaaWMweFYyTUJMY1doTnl1ODJkZ3hINmhKY2VlbXkzQmhkZGNIZk1la0k?oc=5",
-        "published": "Wed, 04 Nov 2026 03:25:38 GMT",
-        "published_ts": 1793762738.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "7d5cdec21e",
-    "theme_title": "SBI share price outlook: Brokerages bullish post Q2 results on margins, asset quality, but flag one-off... - Moneycontrol.com",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793761768.0,
-    "article_count": 1,
-    "outlets": [
-      "Moneycontrol.com"
-    ],
-    "summary": "SBI share price outlook: Brokerages bullish post Q2 results on margins, asset quality, but flag one-off... Moneycontrol.com",
-    "sources": [
-      {
-        "outlet": "Moneycontrol.com",
-        "title": "SBI share price outlook: Brokerages bullish post Q2 results on margins, asset quality, but flag one-off... - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRmw0Yk1IWWIwMU5YYmVTcjJ5QlhMSEktdTRFMGVVWVZOaWwzeXBBSUlQUnVPdlA5YlJhZGlVNmI2Q0NyVTRCYl91Z24tdmtjb2JrV2UxVmcxY3NIbng2WnVJTnkzbUhRY1JkdmZyUVZHX21oY1lLWW5OQ0ZUQXNPdzhVdVc5MmNGZ28xTkdCMXdxZ2lLWWRvRWlYSm5vbDFYNlNzWU5pWkhvb1dUeFdySEZXRmt3cTZkWVhRX3FVSFhOWExmajlQb1ItbEc2ek9reW9ndnAtdUxZS29wLUVCd092eGZiT2NrUzBXQ1E4WUIwNmloQk5VanNmemxoS2Vt0gGGAkFVX3lxTE41NEphcDB0dmVCT2NPLTN1NUlIeWgtZ1VRaGNZbkpjNmFTZC1EQUlOZWs4bENrNEt1emY2MkFoNER3RWZqbmw1b3hkT3JsV2VTLWt6MkZnMnJ0dUNrMGQybTkxSG5vNzdzc2EyU2ZsV0gyLTZQb3JBNmNoR3ZubjNqdGt2UFpaRGRZMXl4bWVEREhGZHdPd2t3d0FJWDA4cXBkMFkzYndWeWd6MUU0NHNPbGtiTXNGSUJ1djRaZk9yVml4THdpcnVMUXJjWmhsQTNkWE1mUWFnbmZlN1FxbjVYWkVlSUY4bFVoWV9aSVY0UWZPS3V0eGVKRXZGcUE4bkFQSWlma3c?oc=5",
-        "published": "Wed, 04 Nov 2026 03:09:28 GMT",
-        "published_ts": 1793761768.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
+    "priority_score": 29
   }
 ]
