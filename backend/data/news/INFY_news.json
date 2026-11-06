@@ -1,43 +1,73 @@
 [
   {
-    "cluster_id": "cb4ae4bde8",
-    "theme_title": "Sensex Today Trades Flat | Nifty Above 24,550 | TCS & Infosys Top Gainers - Equitymaster",
+    "cluster_id": "a41ed4b460",
+    "theme_title": "Infosys stock weighs AI growth against lower FY27 outlook - ad-hoc-news.de",
     "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793960784.0,
-    "article_count": 1,
+    "published_ts": 1793974661.0,
+    "article_count": 2,
     "outlets": [
-      "Equitymaster"
+      "ad-hoc-news.de"
     ],
-    "summary": "Sensex Today Trades Flat | Nifty Above 24,550 | TCS & Infosys Top Gainers Equitymaster",
+    "summary": "Infosys stock weighs AI growth against lower FY27 outlook ad-hoc-news.de",
     "sources": [
       {
-        "outlet": "Equitymaster",
-        "title": "Sensex Today Trades Flat | Nifty Above 24,550 | TCS & Infosys Top Gainers - Equitymaster",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOOTRZUUw5UHJBSFV2NUFFQS1KOTF1YW00Y21QYTl4NHVVME5RcWxVYzJCangtZm5ITDZ6cWFQRFVUYW1zSlZpVWluZnlhc3lLazZHaXRXblpFRTFJSGRQRUdLbkxzMmJ0SFVURGZsbmhVRzViNGZ5SlVjXzVBSnQzOHVXemNfdHNWMG1BN3dxZUVBTm5WS0oydFUyQ1hpdmJ0LVZkbnBDVUhLaHFjOFNmOTJQMmNDX0Y2YTh5ckhXajN6RWl5UXhCR3J1S1JsUmRmWk5zU2hHbW0wM05sS0Q1VmJ1T1ZqR0NIZjIyaWF0NnQ3ZWM4V1NPSE5qVFhLWnJMcVlad2Z4YklQOVNnVjVOVEY1UUZzVHpDNk1TVXI0UGktOEhOc0JXWlN5WUNTZw?oc=5",
-        "published": "Fri, 06 Nov 2026 10:26:24 GMT",
-        "published_ts": 1793960784.0,
+        "outlet": "ad-hoc-news.de",
+        "title": "Infosys stock weighs AI growth against lower FY27 outlook - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdkFZbHluUTRWRS1xb0UyQzVrRkRxUkVfSS1qMWRwbWh3anVhWm1jOTctODU5NHd5UnI4QndGUHBKUEhXUmhRcXpnck50T0k0M3ZRV0ZJUWpOZ1BnQkgtcGpDUXRobWJJRS1sVTBXZGxnM2Jmem1LeUlvX2Jlc2pBdDQ4WFVpRE9McGxtQ1JvYkhzZERjM2NTOEVRbFRLN1ZpQWM5Yjh3eFhXckNvaVJRU2ttNWdzcnU5R0FLSA?oc=5",
+        "published": "Fri, 06 Nov 2026 14:17:41 GMT",
+        "published_ts": 1793974661.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "ad-hoc-news.de",
+        "title": "Infosys stock weighs weaker FY27 outlook against rising AI demand - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenBwaU51X1c4YkJabFAydEdnRldobGRsZmd3YlhMWTdvQU5RUDl4TVpHVmpxZEVTdHRjQ1FxNF85NGZVeVFWQ0dGYjYzQ3hFZUVhYjhybS1lcnE2QlpqM1UxcHpTYl94NVVjWkl6WHBlZy1ydXlqdEp1TjkwVEp5cktMWFlQVFBqS0ZXX29HVFNHVkNZal9yMWNNUklwQWo2c1BEcF81dWc3U3lyWE02Q0RvMUZjU0xHcjdSYjNvZ3NpVWhWU2pB?oc=5",
+        "published": "Thu, 05 Nov 2026 09:06:10 GMT",
+        "published_ts": 1793869570.0,
+        "priority_score": 31
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "da7897c645",
+    "theme_title": "Infosys rises Friday, outperforms competitors - MarketWatch",
+    "date": "Fri, 06 Nov 2026",
+    "published_ts": 1793961000.0,
+    "article_count": 1,
+    "outlets": [
+      "MarketWatch"
+    ],
+    "summary": "Infosys rises Friday, outperforms competitors MarketWatch",
+    "sources": [
+      {
+        "outlet": "MarketWatch",
+        "title": "Infosys rises Friday, outperforms competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQU94R1RsVXRydGdpUGNfSEhrVzRmbm5ZblZURUZpNXJ2QlBleEV1T2diSE1BN3RWLU4xWHBQb3ZFZUloTFFaSGRmOFpNc1owXzhnUFkxWWQwN0hIdDdtcVVOeENoZHpzY1BNd2t6bTRYU1ktZ0diRHZXa0E1Q09BRElqMmxqT0VscXY0dDBKT250ZUE1Nlc5azBtcVhGdlluTE5Wc3JFRGMwdnN5aXZLbEFPdDg5MnJRanc?oc=5",
+        "published": "Fri, 06 Nov 2026 10:30:00 GMT",
+        "published_ts": 1793961000.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "d5e41030c9",
-    "theme_title": "Stocks to watch, Nov 6: Coal India, Infosys, TCS, Titan, LIC, Bharti Airtel, Hindalco, Bosch, Hindustan Zinc - Dailyhunt",
+    "cluster_id": "e0a312815c",
+    "theme_title": "Infosys (NYSE:INFY) Stock Price Breaks Above 200 Day Moving Average - Here's What Happened - MarketBeat",
     "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793954042.0,
+    "published_ts": 1793959628.0,
     "article_count": 1,
     "outlets": [
-      "Dailyhunt"
+      "MarketBeat"
     ],
-    "summary": "Stocks to watch, Nov 6: Coal India, Infosys, TCS, Titan, LIC, Bharti Airtel, Hindalco, Bosch, Hindustan Zinc Dailyhunt",
+    "summary": "Infosys (NYSE:INFY) Stock Price Breaks Above 200 Day Moving Average - Here's What Happened MarketBeat",
     "sources": [
       {
-        "outlet": "Dailyhunt",
-        "title": "Stocks to watch, Nov 6: Coal India, Infosys, TCS, Titan, LIC, Bharti Airtel, Hindalco, Bosch, Hindustan Zinc - Dailyhunt",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZlpZcG5GQU5JQnBmN3E4OWZKdFFOeGhEWTdsRUFGblNxQWhqaVBFRVdBMER3MHJIWkxENEVXWjFKWjJPSnNmUjhxdXdqeHl2NktnLWRWWnNiWDQ1RUlYSFJsb0QxTHdWa3hQaW90enBTcF9jYVVOMEI1YjcwbmdZblIxWC1FM1NzLVhEUDRVa1dqN1JHb2NmM0NkZFoxc091X2FISWo3RXFRR3pUQUExSng2SWl3NlRSSFJIVHUxTTR3ODViU0lodVQ0NHpJUElvdjhNS212WXhNTWxELU94X0VrdXZaMEl4Njd1aDRmazF2Z0xXZElhNzRhU2pMTVF4cDVWVnQtNUJTRlU?oc=5",
-        "published": "Fri, 06 Nov 2026 08:34:02 GMT",
-        "published_ts": 1793954042.0,
+        "outlet": "MarketBeat",
+        "title": "Infosys (NYSE:INFY) Stock Price Breaks Above 200 Day Moving Average - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLTBQdFZJbzZ0TzFIZTZoRlZlWVhtUHM2TFVRUHZjbzVEU3Q4R3YtemJ3ZVdSM09SczM5RHdDUWNRSzFybDlfN2Rja3VmZmVoZXRvaEQ1WTllVjdkMVotenRiWU1CLVdGYzBMRHVNbnNKRHV4cGZLeWx6T1B3UUowZDVtSndWcGpNaTlZVEdYTndSSzlSOTBfRGNCZ1lXQnZUY0ZlTmxrM0g3Rkc1UlhaazRIVFlrdVpQWExBZGtkWkZkY29OemNWQ2Z2OG1yMEZWYlphU2V0Yk11aUlkY0E?oc=5",
+        "published": "Fri, 06 Nov 2026 10:07:08 GMT",
+        "published_ts": 1793959628.0,
         "priority_score": 35
       }
     ],
@@ -192,28 +222,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmdCOWZkbm5NT2hfd0d2cG9JUjBtTUxubDJXeWw3Qkx1S2Jra0VQQ2R3a0tsR2t3dzVxY2t4b2Z0VEw4YkpTemFBc0JBX1p2dnNBVXJvcmpZeGx3aThHUlpGbV9SdERCVW56SUw2WnBIc0JieFFrd3Y4dUJHSHEwUk12LWstOFRnZHduRkh3UnNKbXhPVVF5RlBvbGJLbjBJekFXbHpNVExTZmg1ZXdxRTV5RVZQRlRVVGtSMnU3UG8xUQ?oc=5",
         "published": "Fri, 06 Nov 2026 03:45:36 GMT",
         "published_ts": 1793936736.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "54eccf3629",
-    "theme_title": "Infosys Ltd (INFY) Shares Surge 4.6% -- What GF Score of 92 Tells Investors - GuruFocus",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793931975.0,
-    "article_count": 1,
-    "outlets": [
-      "GuruFocus"
-    ],
-    "summary": "Infosys Ltd (INFY) Shares Surge 4.6% -- What GF Score of 92 Tells Investors GuruFocus",
-    "sources": [
-      {
-        "outlet": "GuruFocus",
-        "title": "Infosys Ltd (INFY) Shares Surge 4.6% -- What GF Score of 92 Tells Investors - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW5VdFlBZVBsRFhuVzNrNFpUd3lmdGg4TllBQXVNblhqWV9hc1luNEtVMnpzb3VBb3BuNklGNHRvVmlESlgxZVYyejBpTlJqaFRLdFRMb0F2cnFMU2tHNVZHLVlBbTk0MVhDWW5DZlZBQkZyNFBIeWNUYjVpa1AyOFgwaTVFLWlWOEpyMjJNLWl4UXVSblJZeVFRV3NyeFh4RWZTem5lQXMxdkU?oc=5",
-        "published": "Fri, 06 Nov 2026 02:26:15 GMT",
-        "published_ts": 1793931975.0,
         "priority_score": 35
       }
     ],

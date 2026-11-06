@@ -1,5 +1,27 @@
 [
   {
+    "cluster_id": "c296e29cd6",
+    "theme_title": "Hindustan Unilever Limited (HINDUNILVR.NS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "date": "Fri, 06 Nov 2026",
+    "published_ts": 1793953291.0,
+    "article_count": 1,
+    "outlets": [
+      "Yahoo Finance Singapore"
+    ],
+    "summary": "Hindustan Unilever Limited (HINDUNILVR.NS) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+    "sources": [
+      {
+        "outlet": "Yahoo Finance Singapore",
+        "title": "Hindustan Unilever Limited (HINDUNILVR.NS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93OW5Oc3Nrd0JWQnhMc2lvbE8xQWhmeGhiVWpQSTVjQzQ3Y3c0aXJGMURucmtPTVFRS2c5MmFTeE9ydC1CNzYxa1lINkw1djBDZ1UwU0NHVFdYd04zTDVLMHRJd3BVMlJyMnBZeEdn?oc=5",
+        "published": "Fri, 06 Nov 2026 08:21:31 GMT",
+        "published_ts": 1793953291.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
     "cluster_id": "b4acaeeab4",
     "theme_title": "Hindustan Unilever stock: EUR 35 million India R&D investment - ad-hoc-news.de",
     "date": "Fri, 06 Nov 2026",
@@ -192,31 +214,9 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN0JYcE1QcE9Fdkw4VW42ZU9aWTZTcGdudzBfLVhqaHFUNlY4UFp1c1NEZFZRd3R4TmZLdXJjdDBUcC1zQm5HVEdQMnNXVzJ3ZmJ2ZHQ0V3hqVExCTHpmVWdtTi1JZUVqRGppNDFQRmF3anB5WEFGcndMMVVUVWJCTEM0SXRlZ1VHMVlRYjVIc0cyLUM1WE8yb25nTzNxTUsyWndpNUo2Ym9qZ0x4S3JmZ25mc3BGanBpV0N1N2Z3N2hWUEllYmVGSlV5d012dTlfanBoMVFfWVBSdGJWRXfSAd4BQVVfeXFMTzdCWHBNUHBPRXZMOFVuNmVPWlk2U3BnbncwXy1YamhxVDZWOFBadXNTRGRWUXd0eE5mS3VyY3QwVHAtc0JuR1RHUDJzV1cyd2ZidmR0NFd4alRMQkx6ZlVnbU4tSWVFakRqaTQxUEZhd2pweVhBRnJ3TDFVVFViQkxDNEl0ZWdVRzFZUWI1SHNHMi1DNVhPMm9uZ08zcU1LMlp3aTVKNmJvamdMeEtyZmduZnNwRmpwaVdDdTdmdzdoVlBJZWJlRkpVeXdNdnU5X2pwaDFRX1lQUnRiVkV3?oc=5",
         "published": "Wed, 04 Nov 2026 15:41:27 GMT",
         "published_ts": 1793806887.0,
-        "priority_score": 16
+        "priority_score": 14
       }
     ],
-    "priority_score": 16
-  },
-  {
-    "cluster_id": "8c6a0617ba",
-    "theme_title": "HINDUNILVR: \u20ac35m will build AI-led R&D hubs, alongside a \u20ac5m Bio-Futures partnership - TradingView",
-    "date": "Wed, 04 Nov 2026",
-    "published_ts": 1793803816.0,
-    "article_count": 1,
-    "outlets": [
-      "TradingView"
-    ],
-    "summary": "HINDUNILVR: \u20ac35m will build AI-led R&D hubs, alongside a \u20ac5m Bio-Futures partnership TradingView",
-    "sources": [
-      {
-        "outlet": "TradingView",
-        "title": "HINDUNILVR: \u20ac35m will build AI-led R&D hubs, alongside a \u20ac5m Bio-Futures partnership - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXNkaDgtRDBHX2VSd1pTa3k4T056VGE5UG1YdC1kTm1EalhmV0pKSzlqYVAxMGpNWENMckRIUXNmZ2lVbm9YS2Y1MmZRYjZaSlhCUFBxVzhJV0FZdEpTUlEwNXJVN2lWU3lxVDIzRU9aaUZWbDBqbTQyN0xnLUNNek5fVmdPa1NRY3lyS1c5Rzg2aXo3MUJUQ1c1dzdFVmgxNHktSUllOGN3Y0Z6aVRDRjFQeUprcm9paE0tekppWFhHNWlwdGIzRWd2WVZXcG9yTWk0cVh2OWtkMU1KY2l1UWtBOTYwc3A2eXpCRGVXYkluVmpmcXc?oc=5",
-        "published": "Wed, 04 Nov 2026 14:50:16 GMT",
-        "published_ts": 1793803816.0,
-        "priority_score": 16
-      }
-    ],
-    "priority_score": 16
+    "priority_score": 14
   }
 ]
