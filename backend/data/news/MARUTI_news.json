@@ -1,244 +1,228 @@
 [
   {
-    "cluster_id": "34faef7bb6",
-    "theme_title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793980031.0,
-    "article_count": 1,
-    "outlets": [
-      "Economic Times - Industry"
-    ],
-    "summary": "Automakers and dealerships reported strong Dhanteras deliveries following robust Navratri sales, with Maruti Suzuki expecting over 30,000 deliveries and Tata Motors targeting 12,000 units. Hyundai anticipates nearly 14% growth in festive deliveries. Dealers reported healthy demand across vehicle segments, while the pre-owned car market also witnessed a significant sales uptick.",
-    "sources": [
-      {
-        "outlet": "Economic Times - Industry",
-        "title": "Auto sector sees strong Dhanteras deliveries, expects momentum to continue till Diwali",
-        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-sees-strong-dhanteras-deliveries-expects-momentum-to-continue-till-diwali/articleshow/135612686.cms",
-        "published": "Fri, 06 Nov 2026 21:17:11 +0530",
-        "published_ts": 1793980031.0,
-        "priority_score": 27
-      }
-    ],
-    "priority_score": 27
-  },
-  {
-    "cluster_id": "de4db1e54a",
-    "theme_title": "Maruti delivers 30,000 cars on Dhanteras; Tata Motors PV retails 12,000 units - The New Indian Express",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793978612.0,
-    "article_count": 1,
-    "outlets": [
-      "The New Indian Express"
-    ],
-    "summary": "Maruti delivers 30,000 cars on Dhanteras; Tata Motors PV retails 12,000 units The New Indian Express",
-    "sources": [
-      {
-        "outlet": "The New Indian Express",
-        "title": "Maruti delivers 30,000 cars on Dhanteras; Tata Motors PV retails 12,000 units - The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0U4b04xd2dVQlU4ZG1nSXBNUGJ0TjlGTk9rNS1idENYZjFSbHZzVFRGUDhwSkxhLWRIYS1PQXVreEdHTjNvMEhsQTdQMnNpeVV2Q3NteXRmTERGV1R3R09VTDRmRTFzMVVXQmtidkNjYWk5YjhMcXdJLUJxMUR6MFFPUjdWNWNnaHNtOXZDX0NNM0ZDTjB5anR1YTlRNUI2QU9YaTI1TzBjSXdaOHdTSlRMN1ZFdjNscjJOUDh4bHR5bl9RS3kw0gHUAUFVX3lxTE4xOWkzQXd6eHMzNGZJLUxrTzRxR2ZsX2hISE9Rdk5qRmk0VWZ2eFBqN1EwU1d5Y1hOX2xzNkpILUVOTDc1SVhnVUJoQU9QVVJHMU5vaklHRFBURTBfRkU1WGRUa1luVUQ1U3p6TlA4UGttTW12c2tWd3hWeXhzQ29XN3Vpa3ZfalpaUm1va3Q2RnZPRU5ZNDVNUE5BLURwTVFROEpFWXRlZHotSGl0eWMyOENaN1ZQa1E1Ry1KRWh5TTVNSUpiZmduMDdSVmlVOFo0NVp1?oc=5",
-        "published": "Fri, 06 Nov 2026 15:23:32 GMT",
-        "published_ts": 1793978612.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "cde4983bd8",
-    "theme_title": "Dhanteras rush: Maruti expects 30,000 deliveries, Tata Motors over 12,000; Mahindra grapples with tight SUV stocks - Business Today",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793974599.0,
-    "article_count": 1,
-    "outlets": [
-      "Business Today"
-    ],
-    "summary": "Dhanteras rush: Maruti expects 30,000 deliveries, Tata Motors over 12,000; Mahindra grapples with tight SUV stocks Business Today",
-    "sources": [
-      {
-        "outlet": "Business Today",
-        "title": "Dhanteras rush: Maruti expects 30,000 deliveries, Tata Motors over 12,000; Mahindra grapples with tight SUV stocks - Business Today",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUGFDMnR3SGZ0aGR2a0dlNU16ckp2bDlTMWJNQUNmd0lsdVBzWGdwel96ZjhTeDZvQmNoQ1VpUTEtT0I3V3BZZFFud0oweXdGenlabnRGekJ5MnE0eTlfVGw1SVZIVlNycnFEV3UzZzBjVWpjaHBsNXJ1UkFTSW0yQ1o5OVBnOVV4RDJNNU9UWW1BVHFKUHlDREFUSHlMZS1RNjQteHNpeUNwWmlBS2x4VW1EdmJzRXRfWHkwYmtBVHhuTXRhWWdFTzZBV1BsS1pwWkVMQWx4RHQ2dUhsZ2JkWkNBb19mWDJSVmk5OWZWLW5tS3NOanloRVpUQdIBgAJBVV95cUxQUFZhTWROUDZpdmhtb1VKQ3otRzRGTFRoYWF4ZmZfRlpYOWhJYUpIMUxTdlhzWEZGTjR2dndUbk8yZmhNVThOYjg1MjFGRXNUUzhvWWx0bWxpMXRpeDRGWmlfQ2R2X1kwd19Kak9telFITHU3ajUyNW5uM2FIWnRjOWNhdjdfYldaaUVYQ2txTzdFVzJwa0psZThKSG9DeHUweVE4TkhnaVV3RktJckJ4b0t4XzNBNjlkRW94bDRlMHMyZGptenZEWVRQbk56SzY2dzlmNDNLM1RvR0hHRUJtdkw3aDRWUWlfdW9xUEtzRlZ4VW8wcjJheDZwNU9BejFS?oc=5",
-        "published": "Fri, 06 Nov 2026 14:16:39 GMT",
-        "published_ts": 1793974599.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "521ad75636",
-    "theme_title": "Maruti Suzuki rides Dhanteras demand with 30,000 deliveries in one day, eyes 12-15% festive growth - Livemint",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793973004.0,
-    "article_count": 1,
-    "outlets": [
-      "Livemint"
-    ],
-    "summary": "Maruti Suzuki rides Dhanteras demand with 30,000 deliveries in one day, eyes 12-15% festive growth Livemint",
-    "sources": [
-      {
-        "outlet": "Livemint",
-        "title": "Maruti Suzuki rides Dhanteras demand with 30,000 deliveries in one day, eyes 12-15% festive growth - Livemint",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRjliMTRZeWFYNklZTTFOcVRnVmExb0dOX1U1cktuRGcxWmFVbHR4cFNRVlFuOVNyeTh1cEszTmlib2dPUTRIYkh3RkJfUGJFeGJvLU16NUc4WjNGTXQ0b0JWUEVSemhGZ2t5X1BXbkpFd19icXJWMEdLNHl5X2sxMWVmUk02bjEtRG9kQ0ZHNXlUN2kwckVnaEZTN1lKdjZGMmhQY2VDVXJ2SEJsWmdMb015Yk9OOU5STkRIZnJmRFlhZ0lMZXVzR19KbmNfcExCem92VUdHMkxuN3FlSmttSjFhbXB4d9IB6wFBVV95cUxQNkh4SVFNWHc0RE16OWtTSnRmdjZUOVhhTzEzcnFyaFB2VDUyYzFvUWhpenFUeVlpN3M3a2pWMGRfdl9mSFF4QzkwcWIyUGNqVXg1RWNSMmdFNjI4WlA0MTVUc1BINDZWcTBlYm40TDNMOXl5dlQ4TXR1ZE5TbVhzbGdodGN0VjN1Yl9FRldjeGlYanJWYmxRTFllYUIzUWQ2d3hMdlJRX2dyWEpuQ0Q1eFBPbkpfSmZQZ0c1NEdYRzNodE1Rb1ItbFNZOVlpUDhObzJfY0gtVS1LbGZHeEdaWFR4Tm5haVVJZFY0?oc=5",
-        "published": "Fri, 06 Nov 2026 13:50:04 GMT",
-        "published_ts": 1793973004.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "fc631f41ad",
-    "theme_title": "Festive demand remains strong as Maruti Suzuki expects 30,000 Dhanteras deliveries, Hyundai targets 16,000 - Moneycontrol.com",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793972879.0,
-    "article_count": 1,
-    "outlets": [
-      "Moneycontrol.com"
-    ],
-    "summary": "Festive demand remains strong as Maruti Suzuki expects 30,000 Dhanteras deliveries, Hyundai targets 16,000 Moneycontrol.com",
-    "sources": [
-      {
-        "outlet": "Moneycontrol.com",
-        "title": "Festive demand remains strong as Maruti Suzuki expects 30,000 Dhanteras deliveries, Hyundai targets 16,000 - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGhTeHg0N2dJSzVsZC1UYzAyMC1wOGpQUmFlRFdqWWFaTFh3MnFvRXlVVE1Xa3BoNUl3UVF4Vi15dU9MQTQ3aU9MenNGQ3BWOWlPS3JRNVBIbXJVd2Rpa2N4OUktR2pVdVZJdEV5cDZTVGVXZmIzal9vRjg4NmhoWUV0WTFWRlJ6ODVVVC16WlA3aTBsNU85dzB0dV9sdkEtaU01Sk5NUVBqZDg5MVhLZDdTdkdGMmxOeU1XdGwxRmpvM1N3UEJ2QjE5QjRTeENHRzhMLTJYbkJJS2lBaUh5SDdpT05UTlRFdFR1Qlhta1LSAfYBQVVfeXFMTmpVdlFyd1VhdnE3NmhROWNzNFFnZHJGZk90NXhxVlFkUnVQWTdLVENrWEVDN0ZiS0I4YUtlOGQ3M1lSOEZBczFkUVFKY3dUUG9hYlREMThrVTRVN3Z4Yk5OUVR4V3gzQjBUQXNULXBCNVF1cGg2MnpVN1h1TXo0WHRaWXFkNVFSTmNhMXJvZS1EN2NmaHRvY19XSUVUX0YtVFJLNGRVM3dQcGF1NHFTUjdOcGw2X3Jtc3BJZTdSZFBpNjNBVHh2WHJsUHQ5YXhqM1kwMkxqTGMzR0lCZVV1TjZqZnBiQWNobjJacVpvclc0eVg2aHJR?oc=5",
-        "published": "Fri, 06 Nov 2026 13:47:59 GMT",
-        "published_ts": 1793972879.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "53af793427",
-    "theme_title": "30,000 Maruti Suzuki cars delivered in a single day: Baleno CNG gets strong demand - The Times of India",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793972100.0,
-    "article_count": 1,
-    "outlets": [
-      "The Times of India"
-    ],
-    "summary": "30,000 Maruti Suzuki cars delivered in a single day: Baleno CNG gets strong demand The Times of India",
-    "sources": [
-      {
-        "outlet": "The Times of India",
-        "title": "30,000 Maruti Suzuki cars delivered in a single day: Baleno CNG gets strong demand - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRHdQcDlwWUU4RmVFcXpESW1NOFAzYzVYdlNkenczOVR5b3ZUSklEd0luZXBtVE54NzhYV0N5YU1RWVFyWkVWVEFaV2VIQ0hSd3V0RmE1Yk90NHhmTXJUMEJfVFU0aVlHUTdsdV85QU1PNk5LUHAweGV1RHJoNkxZUUN6aEJsMVVzd3hSN2dOTzZzVGVhR3hEalpYVmVPejd4R09oZ3BtZzFPSWprMjJnN2tuVFg3ZGdpTmN0djlmZlZlNW5NVkx5V1BjRjREUGM3UGstb3VlM3Fsb1oyZzBaeU9EUjNyUknSAewBQVVfeXFMTlhKd0h2Q0NZRUtzSzhFZFZ4M3lxcHN2YVpLWFJQZGUxbGQyTGptZEQwM1dRYkQtS3ZtRWJJa1dsOGpIcDZsLTJIY3Z3YTR1ekNIdjRQZHRBQVpDVmpCYUE2Wjkzd2NsS2hydnBtcHA0NlhQdGZYQW9jc1pYQTQ5YThSR3ZqUUlidWxfT0VsNC15aUFCb1dMOXVic1pJQXhhV2gwRUp3dEdOaGVLTTNRVXRoTGNDYWRkSjFqbDVEOTlia0lHV25CSDhxdTFuSlUwTUE1Qy1XVTk4VkVqQzhBbHk4UmpxT1BoYUxqQ00?oc=5",
-        "published": "Fri, 06 Nov 2026 13:35:00 GMT",
-        "published_ts": 1793972100.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "c2601313bf",
-    "theme_title": "Maruti to Deliver 30,000 Vehicles on Dhanteras After Strong Navratri Sales - Autocar India",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793971345.0,
-    "article_count": 2,
-    "outlets": [
-      "Autocar India",
-      "Autocar Professional"
-    ],
-    "summary": "Maruti to Deliver 30,000 Vehicles on Dhanteras After Strong Navratri Sales Autocar India",
-    "sources": [
-      {
-        "outlet": "Autocar India",
-        "title": "Maruti to Deliver 30,000 Vehicles on Dhanteras After Strong Navratri Sales - Autocar India",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0dKbW5EZUY1dWdPVEt5N2JqLWY1TzFnbkQtVmdxZll1dXVqTE80TFpvalVjb2F3V2VYY0FzdXZfalM2ekVNa2R1SERRUEN3SWZrUURfTjNfdExtc2ZFblZJTXRMNjY5QVhYOW5wLUprdUFjZGIxNFZrRjI5cjVud0REd2tXVFhHcEhuYVFkOWdsUGlWcTNhc2lCckc3Z2hmZVBSeXVDOWd2Z3RnNW5YaE1PUHoxckx2N0HSAb8BQVVfeXFMT2w1UkhieGZpb1htdEVXUVU2QXdpVXd0dXBCMktCa3Zic3lKYUlFWXVuN1g3QWdzenVkMGxuWmtRempMdGdFMVZFY0FPVHA5eDM0cE1iVHZ2UTV4ejBfWGZ0dG1PZlVXZTQ4ek5fZ0xBR01HWDBaWm9Ha0s2LXkydy0zM2dWRTctenlXaGd0cGVFcC1zQ2JTYWZaeHdPZkJBT1FVTWVrZkVwU2JvMkZxTEVMdU9YWklHeDFnUDBBWEU?oc=5",
-        "published": "Fri, 06 Nov 2026 13:22:25 GMT",
-        "published_ts": 1793971345.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "Autocar Professional",
-        "title": "Maruti Suzuki to Deliver 30,000 Vehicles on Dhanteras After Strong Navratri Sales - Autocar Professional",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGlwZVJORmpYZURXbEktVWNuVDNHU2lXMWRxYWJ6QThaSzVWUUxnTjVieGVGakhITWh1eXYxLVI3NmxDNEdvd210TkRQT2JyWEt5cE9ZV3IxSHNsV0dXWV9oVzlpMmNvWHVmeTJYSzhZYVU4UHFUVjF4SE0tMm5YU0xQR2NNbkpkQVZpd2hkaTBDWHBpVXNIcXVBam1ZWlZyRFYtQmduaXFPRkRZb1duYm5fdWtiX2h0SUHSAcIBQVVfeXFMUHNpaWhBT3RMeTdfR3NWa1JFZ1VnRngzeElQdHRDWWlVazhnZEcwZG5mdEZrMk9lbmRreFE2TGZZVEVjNEowQk5ucUVZMDg2WEktR2w1bklmSE03N2pXV05DbUEtZ2p3QW9neTRpdGVIVXpvbFctczhmdU5CcV9xd1F4YUxfMk9naXVoWmJuczV0UFBaOGpLZTk5Q1ZXVzZ3Wk5wM2tFSVFwbWhfWUNEUjVQUUJRaTBmQ01CRG9nUnMxM1E?oc=5",
-        "published": "Fri, 06 Nov 2026 13:07:16 GMT",
-        "published_ts": 1793970436.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 26
-  },
-  {
-    "cluster_id": "ef85df3681",
-    "theme_title": "Second Hand 2016 Maruti Suzuki Wagon R 1.0 LXI for sale at Rs. 3,65,000 in Pune. - CarTrade",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793970150.0,
-    "article_count": 3,
-    "outlets": [
-      "CarTrade"
-    ],
-    "summary": "Second Hand 2016 Maruti Suzuki Wagon R 1.0 LXI for sale at Rs. 3,65,000 in Pune. CarTrade",
-    "sources": [
-      {
-        "outlet": "CarTrade",
-        "title": "Second Hand 2016 Maruti Suzuki Wagon R 1.0 LXI for sale at Rs. 3,65,000 in Pune. - CarTrade",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkcwUnY5VDFsNmNwanR0SlhKcnI3MFZNVjZXbFFBUjdMOVM4MzExSXBiLVJ2N0RfMFo2Z1hZR1FiaHRhNldFRV9VdF9QSE1MdUVVa2RidVR3TzZNMU1EejlBeTN6LUVzTXFZV3FQZW8tbTd3QmJ1bk1GUjliMFFLd2ZlaWg?oc=5",
-        "published": "Fri, 06 Nov 2026 13:02:30 GMT",
-        "published_ts": 1793970150.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "CarTrade",
-        "title": "Second Hand 2025 Maruti Suzuki Baleno Zeta CNG Manual for sale at Rs. 8,45,000 in Mumbai. - CarTrade",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbWx0YlNVZE9zLUgwMTJlODFCdUZDeEtFbGVjdmdUUlZUcTU0MGhjcTkxN3N0R244djluSjlQdDBka0JyRFZpRGp0UmNPNTZzYUR0TGNvdS11NjJEbl9KbHBMQTdCdUZtY2NHRmZmS3RSSHpiZzR1eTNnNGVNdFJtNFBLdFZVZw?oc=5",
-        "published": "Fri, 06 Nov 2026 07:57:36 GMT",
-        "published_ts": 1793951856.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "CarTrade",
-        "title": "Second Hand 2020 Maruti Suzuki Wagon R LXi CNG 1.0L Manual for sale at Rs. 4,50,000 in Pune. - CarTrade",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUmdLaHlWdWk3eDNkSGNTMkY1NDdoSUlBdENmMEZ1b0lTb3h2Y3JfeEs3SUpyTFpOVzMyM0R0dnhLcHZCTEc1NU84ZHd5UmtSVHZlZ1hVOVdaUFZ3MU8zODd0cl83THdQVGhLX2ZXd1YwWHpKNDFBRk5uOWwzYV9md1dQUzI?oc=5",
-        "published": "Thu, 05 Nov 2026 23:06:35 GMT",
-        "published_ts": 1793919995.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "15278b743a",
-    "theme_title": "Golden Cross Forms in Maruti Global Industries Ltd \u2014 On a Day the Stock Fell 0.79%. What the Mixed Signals Mean - MarketsMojo",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793969938.0,
+    "cluster_id": "8c827a5fbb",
+    "theme_title": "Maruti Suzuki India Ltd is Rated Hold - MarketsMojo",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794222896.0,
     "article_count": 1,
     "outlets": [
       "MarketsMojo"
     ],
-    "summary": "Golden Cross Forms in Maruti Global Industries Ltd \u2014 On a Day the Stock Fell 0.79%. What the Mixed Signals Mean MarketsMojo",
+    "summary": "Maruti Suzuki India Ltd is Rated Hold MarketsMojo",
     "sources": [
       {
         "outlet": "MarketsMojo",
-        "title": "Golden Cross Forms in Maruti Global Industries Ltd \u2014 On a Day the Stock Fell 0.79%. What the Mixed Signals Mean - MarketsMojo",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaGc5ZlEzTDliaW00WmFQdEFCQzdjM3NYUFlXbklkdDZqNkI1bTIyaU01T3JSUkdOTzV1ZHA1bmc1RU5jemFZeEhuNHU0aDlXRndHSmZuRFRPNHctVmowRVkxd3hNSEJuUEFNTjVDQk1xeWRoejZaQ3Z0YzhwRTNYRmdwUG9ldjlINHlNWDBQeTR2YVpRNDhoYzBuM1dQUktGZHZ2THU1UDVvaERBOE5pUVhka3lodDRreDd4OUJwVzgzN05NbmlKcU80NFQ0YXYwb0JsdTRtWFFUMmM?oc=5",
-        "published": "Fri, 06 Nov 2026 12:58:58 GMT",
-        "published_ts": 1793969938.0,
+        "title": "Maruti Suzuki India Ltd is Rated Hold - MarketsMojo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1RUd1o1dS1uSGt1Vl9FZXJXN0poS05BdHZuRXZjUEtVeUxRY2M0OGhrMUlzMlU2TG9nTXVucW1uYVozaGdiVGRJLWlXYzhGMDdnS20tdUk2NC1nRGxReXdldG1HTFF3aGQyRmFXUkNQb19iOUVTRndtejF2QTlieVcyRDhoZk5vVGd0TVhYNUgyX096WFVwWkpoUURTYWp6?oc=5",
+        "published": "Mon, 09 Nov 2026 11:14:56 GMT",
+        "published_ts": 1794222896.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "7ed7531a21",
+    "theme_title": "Booked a Maruti CNG this Diwali? Delivery is expected to improve from January - Business Today",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794220526.0,
+    "article_count": 1,
+    "outlets": [
+      "Business Today"
+    ],
+    "summary": "Booked a Maruti CNG this Diwali? Delivery is expected to improve from January Business Today",
+    "sources": [
+      {
+        "outlet": "Business Today",
+        "title": "Booked a Maruti CNG this Diwali? Delivery is expected to improve from January - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkVZR0FYb1Q0ZVhRR1QyNWVWbWlxaUdvNmN5TGY2ZGo1aGl6S2dPOFhCaVA4WFRyUTBrak16cGVWUVVaQmxvOExFV1AydXYxcVNCbG1aeFp3MmkyWk5hMk8tLTFIeHE4V2w0aUd3OU1pWVczaEJtLVRIVXBHWUg1dHV5MmZQbzAyZ01naVdhVlhURUVSc3NpYWFBcDhJN0JOSEhTSHlpbF96S1NTekktNDh5VGdJYnBiTHpWYjBINVlKYnR3d0Y0eF9UV1Z3TXZwMUhqRjRRZFM2ZGvSAeABQVVfeXFMTkhyRHFfMEt5dVFVNmRHNmkzUVdCeGRqelY0V1F1ZzFmSHRmdXJObVo0WVRxdE9naVI0ZWZ6clNyY2pyN0w2bU95Y0JQZW40LXlCNjBTbml4dzNZdkV2U1Y5YndNcHlyeEYtWW9scUNTNFQybHNvU19QM0k3Nkp1WktxelRVVW8zV2gxM3h3aFotdXpscWZmd1JkVm9PVDRvZW9MMGpHYUJPUW9fZS02Z0NlZWRTTC1qeFRNOGdyNFhRaHhzX2R2bldCYTBIMW83bXN1d295ZW1mM1QzdnNENU0?oc=5",
+        "published": "Mon, 09 Nov 2026 10:35:26 GMT",
+        "published_ts": 1794220526.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "82729f9605",
+    "theme_title": "Maruti Victoris Outsells Grand Vitara, Seltos; Creta Still No.1 - India Car News",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794220273.0,
+    "article_count": 1,
+    "outlets": [
+      "India Car News"
+    ],
+    "summary": "Maruti Victoris Outsells Grand Vitara, Seltos; Creta Still No.1 India Car News",
+    "sources": [
+      {
+        "outlet": "India Car News",
+        "title": "Maruti Victoris Outsells Grand Vitara, Seltos; Creta Still No.1 - India Car News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHcwekJjX1JMeEg1R2tJYkx1aVpUd28wbXRLa0ktN1N4Qk4ycEhIWHp0c2VFUnp6Q3ZvZGZudHNkaklfdUJ1Q01pb0l2VnMtaTAyaTBBX3dhcGtSam9PdnR1QVZUZmhkYlVpaFRjb0FUVzdiNkpTVFc0OXRPYmhWVnE3SE9NVUZQOS1CeUpVRkpsdWdvRXQxalMtWFdQQkVqYThRSg?oc=5",
+        "published": "Mon, 09 Nov 2026 10:31:13 GMT",
+        "published_ts": 1794220273.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "d7bbf08d9e",
+    "theme_title": "5 Best-Selling Mid-Size SUVs October 2026: Hyundai Creta, Maruti Suzuki Victoris And More - Times Now",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794211200.0,
+    "article_count": 1,
+    "outlets": [
+      "Times Now"
+    ],
+    "summary": "5 Best-Selling Mid-Size SUVs October 2026: Hyundai Creta, Maruti Suzuki Victoris And More Times Now",
+    "sources": [
+      {
+        "outlet": "Times Now",
+        "title": "5 Best-Selling Mid-Size SUVs October 2026: Hyundai Creta, Maruti Suzuki Victoris And More - Times Now",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObkdmc0s3Wk11cnBnWXZrRkg2UE1nYjRIM1E0b3UwWXBmTm9naF9XOUVEbm1kVU0yT0dvUkhtNGNrRFdEbFBYS2tqTlFEVFVxZUxhNFNFVVp6ckRNblBTcVJDRXZUY1l4ZGNqYVU4S0UyM2xDckh4eGFhai1PeTRqcEZHV2FTNzBlQ2ZYeUkwbFk2a3JvVmQ1YnhRRXR2WVZtcmx1WWFLbWtzdUdVbjJNaVA1ODkxZEF6R1N5LU9UTmxTVGV3OXB5a1IyZ1huUkE1MWJFRENwNm0wckxNa1dIatIB5gFBVV95cUxNdHV1dXlTdk1RU2RyYWMyWWF4TThyLTM5UlJjWjdPMGVNblpUQUtFQWJkUFJ3d3QxaXJxQlVDdXhZdUNYM21TS2FYUXN4UGYwZGxoYS1KamdiMHU5YXRwZTVwOWQ2MTE4UlVFZldfdWFodURIODlUVzZxc1dMWVlmdlF1LVFPMGJMRzYzU3gyWXdxeXJIQkxnZ0luZ05UNnVSUllkX0JEVzJaZHJ1RHBsbW9mYzBZOWF3ekMzVUV2a3JUV3BwWWd1WXBiaC1kTFFKUW9xZjhINDlQZ3VieVRva3VQd2RGdw?oc=5",
+        "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+        "published_ts": 1794211200.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "27407a8592",
+    "theme_title": "2026 Maruti Dzire Pros & Cons Explained - Cardekho",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794199573.0,
+    "article_count": 1,
+    "outlets": [
+      "Cardekho"
+    ],
+    "summary": "2026 Maruti Dzire Pros & Cons Explained Cardekho",
+    "sources": [
+      {
+        "outlet": "Cardekho",
+        "title": "2026 Maruti Dzire Pros & Cons Explained - Cardekho",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLVBTNVlzTUM1dW1XbF9IZWtnOHduQ0xMZmVNQmltbkhMQ3gxa0s4cjZuOWJfczcxWVZoLTNndGxqSVJEbEtUUDBYYmwwem9DcVNFdXY4eWFMZUFUNFNwR0E3VzZaRFh3RVhvQVpkQnRyS0p0VWdPNVJ1blpETXc0MFZSVlk1NkZYN0HSAYoBQVVfeXFMUC1QUzVZc01DNXVtV2xfSGVrZzh3bkNMTGZlTUJpbW5ITEN4MWtLOHI2bjliX3M3MVlWaC0zZ3RsaklSRGxLVFAwWGJsMHpvQ3FTRXV2OHlhTGVBVDRTcEdBN1c2WkRYd0VYb0FaZEJ0cktKdFVnTzVSdW5aRE13NDBWUlZZNTZGWDdB?oc=5",
+        "published": "Mon, 09 Nov 2026 04:46:13 GMT",
+        "published_ts": 1794199573.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "73ab6a06b4",
+    "theme_title": "2026 Hyundai Bayon Vs Maruti Grand Vitara: Detailed Comparison Of The No-Nonsesne Compact SUVs - CarDekho",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794198660.0,
+    "article_count": 1,
+    "outlets": [
+      "CarDekho"
+    ],
+    "summary": "2026 Hyundai Bayon Vs Maruti Grand Vitara: Detailed Comparison Of The No-Nonsesne Compact SUVs CarDekho",
+    "sources": [
+      {
+        "outlet": "CarDekho",
+        "title": "2026 Hyundai Bayon Vs Maruti Grand Vitara: Detailed Comparison Of The No-Nonsesne Compact SUVs - CarDekho",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc1k4VmtPYWsteGNtTlIyMVBBRlBRYUhvd3dwUlBCbTZPN3hjREpyZWZaSm5RQzNnUGdZVzZEdExiSnVpNzE2UEpyOHFUcEsyMnpra0ZyaXBtdml6WkxEWFRJX2lrWGx0T0k0Z3o2d2dxd25PVWtlaVh0dHdqSEtieFdrb1ZoNXJxQmYxV2hPNHBaX2RBbHROcGp1dTBmdFJSQXJ5UWRPbTNkRlV0ZzExblNCbU9HUEZscTZaRWlhRFc3VWVFbXZLS0R2b2NhNDNEcjhLSk1Wa9IB3wFBVV95cUxONkhWRUpyXzVMWFRJN0VremNKZWN5T3RENUpmMlhDdWpMMWNES19MRzV2dm9NREN1bjMteXpnNDFqdzRBdXpYY2tlUHNDeDVQbWxIckhhYzlacDMwd0ZodzFLaC1xR0hma3k5RXJvdjh4N2R3bGc2aDdWbVJkYXpyd3V1QmZZOXp6eThFQk1ia3pvYWlzY1BJZVd2aVNENkxWbjBvZFo1bkxTeGFFUEZlUGtnT2FLUVFqeHFhWkpqRk9RODI2MmFCTjNXUHNaTTBWdDFVeTFZMmh1OUpYOGpr?oc=5",
+        "published": "Mon, 09 Nov 2026 04:31:00 GMT",
+        "published_ts": 1794198660.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "8aefa29e63",
+    "theme_title": "Maruti Suzuki Share Price - Upstox",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794193280.0,
+    "article_count": 2,
+    "outlets": [
+      "Upstox",
+      "Economic Times - Stocks"
+    ],
+    "summary": "Maruti Suzuki Share Price Upstox",
+    "sources": [
+      {
+        "outlet": "Upstox",
+        "title": "Maruti Suzuki Share Price - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RNTd2UVdUcFQwTzlWUl8tX05yTHQ4c3JkeGRFUmZfRm9FMjVPTE1kRHRtel8zd2FidnF0cEVJR1ZzTV9tZmtqREd1V3pLTk9vY2NXSl9jZEpHeXpjaVlsRFVOelM1aTVNWWp5dXFvNA?oc=5",
+        "published": "Sun, 08 Nov 2026 17:07:45 GMT",
+        "published_ts": 1794157665.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "Economic Times - Stocks",
+        "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Price Update",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-09-nov-2026/liveblog/135669242.cms",
+        "published": "Mon, 09 Nov 2026 08:31:20 +0530",
+        "published_ts": 1794193280.0,
         "priority_score": 35
       }
     ],
-    "priority_score": 35
+    "priority_score": 41
   },
   {
-    "cluster_id": "8c9e2ad6f6",
-    "theme_title": "Maruti Suzuki expects 30,000 deliveries on Dhanteras, Brezza and Baleno see strong demand - India Today",
-    "date": "Fri, 06 Nov 2026",
-    "published_ts": 1793969499.0,
+    "cluster_id": "00ed930d9b",
+    "theme_title": "Maruti\u2019s Strong Hybrid SUV Gets Discounts of Up to Rs 1.51 Lakh - India Car News",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794192402.0,
     "article_count": 1,
     "outlets": [
-      "India Today"
+      "India Car News"
     ],
-    "summary": "Maruti Suzuki expects 30,000 deliveries on Dhanteras, Brezza and Baleno see strong demand India Today",
+    "summary": "Maruti\u2019s Strong Hybrid SUV Gets Discounts of Up to Rs 1.51 Lakh India Car News",
     "sources": [
       {
-        "outlet": "India Today",
-        "title": "Maruti Suzuki expects 30,000 deliveries on Dhanteras, Brezza and Baleno see strong demand - India Today",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOVRhLUMtbjd6dkRpZHU4d2VVR2hET2paUTZqRGROeVJTLXFIR256MHhtZjdZWl9yREZYZjdXNUF2RDM1SHFzbFY4ckZUcUtrSi1lVGdiTXV5N0VlcTVyYXpIcHdyUGI0c29JNVc3STBXOWZ2MXh3S09fYXFjbFV1TVBjaFhnWjhMOUFGU05UUmNta1R0bWtoaUtmeWhncG9GRURpTWtiYmRzN2lCZ2hYZS1BdmM3V3gxczlVaGR2eHJDVkQtOWlWY0VNZ2xERjNMQW9tQU1waXdsanhWakgybDdGbER1bTDSAecBQVVfeXFMTjlUYS1DLW43enZEaWR1OHdlVUdoRE9qWlE2akRkTnlSUy1xSEduejB4bWY3WVpfckRGWGY3VzVBdkQzNUhxc2xWOHJGVHFLa0otZVRnYk11eTdFZXE1cmF6SHB3clBiNHNvSTVXN0kwVzlmdjF4d0tPX2FxY2xVdU1QY2hYZ1o4TDlBRlNOVFJjbWtUdG1raGlLZnloZ3BvRkVEaU1rYmJkczdpQmdoWGUtQXZjN1d4MXM5VWhkdnhyQ1ZELTlpVmNFTWdsREYzTEFvbUFNcGl3bGp4VmpIMmw3RmxEdW0w?oc=5",
-        "published": "Fri, 06 Nov 2026 12:51:39 GMT",
-        "published_ts": 1793969499.0,
+        "outlet": "India Car News",
+        "title": "Maruti\u2019s Strong Hybrid SUV Gets Discounts of Up to Rs 1.51 Lakh - India Car News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXV4TnVfQWd3aWJHVldVQmtJOE45Qy15cUpzaUtuMTBMM1dwZHAzS3JLdXpISFFTUDdNRk1NVzhIdERiR3VvdHFyX09WOWlnZlktZDNnQ0Qtb014c0tJOGQyWkFZZE04MG01ZDhyNDBuMWQ2bTJDZGFBT1dia1E4ZktIcFUyZHpNcHZzb3BQZEpaM2twYTNPWUNhTTBjY0V6MUJVYTNB?oc=5",
+        "published": "Mon, 09 Nov 2026 02:46:42 GMT",
+        "published_ts": 1794192402.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "f0ff03af77",
+    "theme_title": "Maruti Suzuki WagonR Facelift 2026 Launch This Year: Check Expected Engine And Features - The Daily Jagran",
+    "date": "Mon, 09 Nov 2026",
+    "published_ts": 1794191340.0,
+    "article_count": 1,
+    "outlets": [
+      "The Daily Jagran"
+    ],
+    "summary": "Maruti Suzuki WagonR Facelift 2026 Launch This Year: Check Expected Engine And Features The Daily Jagran",
+    "sources": [
+      {
+        "outlet": "The Daily Jagran",
+        "title": "Maruti Suzuki WagonR Facelift 2026 Launch This Year: Check Expected Engine And Features - The Daily Jagran",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemNfZE5uR2pMZDk3RUhabk5hbUtJZjV6VzFIRE5RcXJXaWdMMU4xbVRiZm85em5NTnUyMnZWZkpQZ0kzUUpWYkhpOVk0SnhOS25fYU9udWZJdkd2TkZLYWV4ZzNOQkNoZDViVVZQQlVfVjFfeFd6R3RyZ0dYWF9tQkxGUng4djZGdU1RRDJ6YXNLa0QydWd0TkZWZ1JwWDNOLXJCT08tM045TEVkeHg1MWw3SWd0TnhETEtfUWlnQjZ1MG5Xay1SSU5TX0RKTkdOTmfSAdgBQVVfeXFMTXhWOGRrOVhfQUZhQ1NDaVZyZXo4MHUzamlLN0E0Yk5SRndITmZFVXhySkRKcEMwWWd4SVptU1FXUGw5VWZZdEZIcnRydlZ6eHdqcjJtdm5CM0Vwb2ZoenVjc1lhRzItU1VGdXBTRkE5UVJXUHpZRnBqV3dyUEJxXzdMNFJuV0JmamY2ME8wWks1Qll0RnpwZUgxY09GejRmZzRObFh3SXBkdkdhNnFTZTNmc29hMXlqTzNrNXpsVjF4SHliOVotcWpJYW9SbjdFaEttOFJKdU5W?oc=5",
+        "published": "Mon, 09 Nov 2026 02:29:00 GMT",
+        "published_ts": 1794191340.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "6b3b8b0517",
+    "theme_title": "October 2026 Car Retail Sales Dip 14.23% YoY - Maruti, Tata & Mahindra Lead - DriveSpark",
+    "date": "Sun, 08 Nov 2026",
+    "published_ts": 1794159344.0,
+    "article_count": 1,
+    "outlets": [
+      "DriveSpark"
+    ],
+    "summary": "October 2026 Car Retail Sales Dip 14.23% YoY - Maruti, Tata & Mahindra Lead DriveSpark",
+    "sources": [
+      {
+        "outlet": "DriveSpark",
+        "title": "October 2026 Car Retail Sales Dip 14.23% YoY - Maruti, Tata & Mahindra Lead - DriveSpark",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVBQWXpNSzNJdExOX0tOU0xsUWpjZ0ozT3cwUmdGcklfVmtlZVNfbmN2ZUxiMGx0dXpPal9uRnZodVozSmFqblgzQVA4UU43cldua2xQR21Na1ZGSlM4MS1vQXRVZVRUUVRKVzVOSjdwUk9KZXoxbkhFZmxsV1ZxdTZmX1JCV2hiN05aOTV4ZlA1empuVzdVeGJOSm5lb1gxMkkxQy1mTVVLMU1DN0Jsag?oc=5",
+        "published": "Sun, 08 Nov 2026 17:35:44 GMT",
+        "published_ts": 1794159344.0,
         "priority_score": 20
       }
     ],
