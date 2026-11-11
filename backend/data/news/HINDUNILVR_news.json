@@ -22,8 +22,8 @@
     "priority_score": 20
   },
   {
-    "cluster_id": "a3369f7520",
-    "theme_title": "HUL Share Price Live Updates: HUL's Daily Price Update",
+    "cluster_id": "f0411c6835",
+    "theme_title": "HUL Share Price Highlights: HUL Stock Price History",
     "date": "Wed, 11 Nov 2026",
     "published_ts": 1794366008.0,
     "article_count": 1,
@@ -34,7 +34,7 @@
     "sources": [
       {
         "outlet": "Economic Times - Stocks",
-        "title": "HUL Share Price Live Updates: HUL's Daily Price Update",
+        "title": "HUL Share Price Highlights: HUL Stock Price History",
         "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-today-live-updates-11-nov-2026/liveblog/135723890.cms",
         "published": "Wed, 11 Nov 2026 08:30:08 +0530",
         "published_ts": 1794366008.0,
@@ -73,8 +73,8 @@
     "article_count": 3,
     "outlets": [
       "ET BrandEquity",
-      "Business Standard",
-      "ET Retail"
+      "ET Retail",
+      "Business Standard"
     ],
     "summary": "HUL hikes prices of detergent brands Surf Excel, Rin, Wheel by up to 11 pc ET BrandEquity",
     "sources": [
@@ -87,20 +87,20 @@
         "priority_score": 16
       },
       {
-        "outlet": "Business Standard",
-        "title": "HUL hikes prices of detergent brands Surf Excel, Rin, Wheel by up to 11% - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMVhXejVEYmVSZFRRYzJxVjJDTUtoRS1ncEsxem5sZ0JxOEFxQVZ6UmZBMldFZDlWa3B0ZXdxdk01MHlvT1k2WUs5TndKRzk5MGdPOXNrSnRnZlFrTlU1UWc1eGNnT0hlNUtQRElmVGNNbnVzZm1zQVBfZ2NQaXFpSGc4M0JxTFVTbkZaMVVrR0tpNDA5SWwxM0JvVGtqUmhHOEpPbHdxeG14bW5ZdndJZF9ZZkpFR294akd0LXJQOU9Pb1BacVlyZGRvNjNoYlpQdjJWU0tJSULSAdgBQVVfeXFMTjFYV3o1RGJlUmRUUWMycVYyQ01LaEUtZ3BLMXpubGdCcThBcUFWelJmQTJXRWQ5VmtwdGV3cXZNNTB5b09ZNllLOU53Skc5OTBnTzlza0p0Z2ZRa05VNVFnNXhjZ09IZTVLUERJZlRjTW51c2Ztc0FQX2djUGlxaUhnODNCcUxVU25GWjFVa0dLaTQwOUlsMTNCb1RralJoRzhKT2x3cXhteG1uWXZ3SWRfWWZKRUdveGpHdC1yUDlPT29QWnFZcmRkbzYzaGJaUHYyVlNLSUlC?oc=5",
-        "published": "Mon, 09 Nov 2026 15:54:20 GMT",
-        "published_ts": 1794239660.0,
-        "priority_score": 16
-      },
-      {
         "outlet": "ET Retail",
         "title": "HUL hikes prices of detergent brands Surf Excel, Rin, Wheel by up to 11 pc - ET Retail",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTC02UHNJbmhZdnZnNWEtUGFIS0FWc1hFbFVianNhUUJlcXBGZ3hzZGEzdWNtR2xVSm03TEdheDNnR1lWOHFDcU1iY1ZkeU1OMEtBOGtZUUlYcGpNazREaWZiYXdiNTJ3Skc4SzZQWjBiQ1didzNYTW1CQUNVR1d6RzB4T0pzM2ptUnJ6UmcyckQ5Q1lHQ3BVQXMxWWdKbFdhdGlzeDczYS16dkxZU1VOWlRCX0N0WXVjLTlaUTFkYnRwQmpoSmNzMldqOVNtc0x5bE01Q29TY0I5em9Yaks1bm1XMjF5akZDWnBiTThpVEhJQWV6WDBOYmYwYWNrWnNtMDBUWEhUeEMwbk5qLW9yTWtab19Zd9IBlgJBVV95cUxQTC02UHNJbmhZdnZnNWEtUGFIS0FWc1hFbFVianNhUUJlcXBGZ3hzZGEzdWNtR2xVSm03TEdheDNnR1lWOHFDcU1iY1ZkeU1OMEtBOGtZUUlYcGpNazREaWZiYXdiNTJ3Skc4SzZQWjBiQ1didzNYTW1CQUNVR1d6RzB4T0pzM2ptUnJ6UmcyckQ5Q1lHQ3BVQXMxWWdKbFdhdGlzeDczYS16dkxZU1VOWlRCX0N0WXVjLTlaUTFkYnRwQmpoSmNzMldqOVNtc0x5bE01Q29TY0I5em9Yaks1bm1XMjF5akZDWnBiTThpVEhJQWV6WDBOYmYwYWNrWnNtMDBUWEhUeEMwbk5qLW9yTWtab19Zdw?oc=5",
         "published": "Tue, 10 Nov 2026 03:10:10 GMT",
         "published_ts": 1794280210.0,
         "priority_score": 16
+      },
+      {
+        "outlet": "Business Standard",
+        "title": "HUL hikes prices of detergent brands Surf Excel, Rin, Wheel by up to 11% - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVkpIS3NsMEpDLVNEal94R2htWkhKZWJxOG1mNWVzZGJGZ2F6SGxTVlRIajVZbFJpdG10aW5kS28zSEhVZl90OXhMMnRacnQweVZ0YnhLNE9Yc0ZESDJHUWdUajZOeWxETk9NcVdJbTZMQWZtOEthMnBzQTFMVFZQR3QyMkpzU3dOUnE5ZFlNVDJhUVlsMXpVZGNyRXRvVE5LNUNkc2FId1Y5eVNsdkI2MlNBLW5tZWdPSUlvdjR4bFFVdmZKQ0k0UWpSX2NrbUdiTmJR0gHYAUFVX3lxTE4xWFd6NURiZVJkVFFjMnFWMkNNS2hFLWdwSzF6bmxnQnE4QXFBVnpSZkEyV0VkOVZrcHRld3F2TTUweW9PWTZZSzlOd0pHOTkwZ085c2tKdGdmUWtOVTVRZzV4Y2dPSGU1S1BESWZUY01udXNmbXNBUF9nY1BpcWlIZzgzQnFMVVNuRloxVWtHS2k0MDlJbDEzQm9Ua2pSaEc4Sk9sd3F4bXhtbll2d0lkX1lmSkVHb3hqR3QtclA5T09vUFpxWXJkZG82M2hiWlB2MlZTS0lJQg?oc=5",
+        "published": "Mon, 09 Nov 2026 15:54:20 GMT",
+        "published_ts": 1794239660.0,
+        "priority_score": 14
       }
     ],
     "priority_score": 28
@@ -126,6 +126,28 @@
       }
     ],
     "priority_score": 26
+  },
+  {
+    "cluster_id": "8c8841cb93",
+    "theme_title": "FE Leadership Awards | Sustainability Award: Hindustan Unilever \u2013 Walking the green talk, from factory floor to farm - The Financial Express",
+    "date": "Tue, 10 Nov 2026",
+    "published_ts": 1794297336.0,
+    "article_count": 1,
+    "outlets": [
+      "The Financial Express"
+    ],
+    "summary": "FE Leadership Awards | Sustainability Award: Hindustan Unilever \u2013 Walking the green talk, from factory floor to farm The Financial Express",
+    "sources": [
+      {
+        "outlet": "The Financial Express",
+        "title": "FE Leadership Awards | Sustainability Award: Hindustan Unilever \u2013 Walking the green talk, from factory floor to farm - The Financial Express",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNGpOanNySzZoRU9TYmFsZW1iT01zX1FiNWpodkRRVHFMVmQyd2gzOUV5a1p4V3BnZVgtcUEyM0FSb0hhZTJqUXkteEhzaml2SkMtckxfWm5JcVBFTDVKYlBLVnpHb1ljOXJ6QVQtejQ5bWFXb0RkT1o3M0JaaUhHT01sdDR2c0FhdEM5d3Brd3U5Y0hfMTdkXzVVeElNcmpVeUxWS1h5N3Y0YldfcWRwVWZjMlVFQXNiUi1oMHNDVGhYWXpGZzdWQ3pTRUYwN1IteU9uSUN1eDZHSENWMmJ4RW1sQWdOVlU5cUxkYVhqRzVXY1pTVjh4Y1pIR0h6TXPSAYYCQVVfeXFMT1ptOVZaOFNtZ2pPcTVzNGJkbDV3eXBwQlBKMkJfMldQTWptSHVQNkFEa1FjVjRTcjB4Q2staVUxV1lJQU9rVXo2TnRaeGx6dXJmc1lQSXd2WmxtVUk1Tl9ubl9qS0JIWFBsVVQyRE5QYkZtUjNHUDdZVGtkQ0lEYUQ1N0lRa3FnT1lCMVM0UDNyLXo0X2tyNjFfT21YNWxHX2Z1a29FOU85aXBOa2FqMENvYk1CdFVoMlVZbzh6UTQyVHRXTi1HV2dmYmtqQ3o1NXBvS2FfUVJQTXVEUktaQzF0OURsRW12RlZ2SVpKVkx0ZWFRazluNkhOQVlsdjZ2RFlENXg1dw?oc=5",
+        "published": "Tue, 10 Nov 2026 07:55:36 GMT",
+        "published_ts": 1794297336.0,
+        "priority_score": 16
+      }
+    ],
+    "priority_score": 16
   },
   {
     "cluster_id": "5e3d98a5f5",
@@ -172,7 +194,7 @@
       {
         "outlet": "India.com",
         "title": "Surf Excel, Rin and Wheel price hike: HUL raises detergent prices by up to 11 percent; Check new rates here - India.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTFl3UDdQdGJ4WE9DMV9ONGZqYnRPTmJRaUItQXY2U3hlUXF5cm82VkdETEVGU190N3B3TnlkZVlNOGxwQ0FzZjQ5cE5VbF9kbDkyczNTTlBhVjRsSHdFOVRtek5DRVVXSEtFVE03VjRqSWlZc2ZQTnZ3VG1halUwMmdhajZhak9iVEJKR2Z0NFdjbUNESHhXQUhpM08xWU5CTENBRURTVndHN21QNVFxUkU1SjBXeXpHcDdXRGJUUVg4Z2pwZWFwcHMwTzJxR0tFblVnQUM2OGNha1BVOXhwX0hTYkNteWhS0gHuAUFVX3lxTFBJWHFaRXVWdTFfb28wNDZZZHhPelJOOHJGb29nVk9XSmdDQTBLamtjYVFpczA0X2FtLXNqTzRPM1ZfbVRSTXNnX2lrSkc2ZUJkRF80T0M2ZVc5ckk4Tm9uT2t2UXpDc05ja1lnVXp2LXd3bW5OTTk3NUUxVnJBdWNaZU9velN4NG56TEFMNndxTDVvRmdGc0ZBdGlnazFjaFRObzRwUW1DV0ZaQnV6ZWxsX0ZfX2JuZm8xSkh2c3lQc0RieWZpZGVEOG9JNm5ZNnRORG9Iek9qUEhNU29Damh0Tm5yeWV3UzNhZFZ0cWc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSVhxWkV1VnUxX29vMDQ2WWR4T3pSTjhyRm9vZ1ZPV0pnQ0EwS2prY2FRaXMwNF9hbS1zak80TzNWX21UUk1zZ19pa0pHNmVCZERfNE9DNmVXOXJJOE5vbk9rdlF6Q3NOY2tZZ1V6di13d21uTk05NzVFMVZyQXVjWmVPb3pTeDRuekxBTDZ3cUw1b0ZnRnNGQXRpZ2sxY2hUTm80cFFtQ1dGWkJ1emVsbF9GX19ibmZvMUpIdnN5UHNEYnlmaWRlRDhvSTZuWTZ0TkRvSHpPalBITVNvQ2podE5ucnlld1MzYWRWdHFn0gHuAUFVX3lxTFBJWHFaRXVWdTFfb28wNDZZZHhPelJOOHJGb29nVk9XSmdDQTBLamtjYVFpczA0X2FtLXNqTzRPM1ZfbVRSTXNnX2lrSkc2ZUJkRF80T0M2ZVc5ckk4Tm9uT2t2UXpDc05ja1lnVXp2LXd3bW5OTTk3NUUxVnJBdWNaZU9velN4NG56TEFMNndxTDVvRmdGc0ZBdGlnazFjaFRObzRwUW1DV0ZaQnV6ZWxsX0ZfX2JuZm8xSkh2c3lQc0RieWZpZGVEOG9JNm5ZNnRORG9Iek9qUEhNU29Damh0Tm5yeWV3UzNhZFZ0cWc?oc=5",
         "published": "Tue, 10 Nov 2026 05:45:24 GMT",
         "published_ts": 1794289524.0,
         "priority_score": 16
@@ -219,31 +241,9 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93OW5Oc3Nrd0JWQnhMc2lvbE8xQWhmeGhiVWpQSTVjQzQ3Y3c0aXJGMURucmtPTVFRS2c5MmFTeE9ydC1CNzYxa1lINkw1djBDZ1UwU0NHVFdYd04zTDVLMHRJd3BVMlJyMnBZeEdn?oc=5",
         "published": "Mon, 09 Nov 2026 18:04:41 GMT",
         "published_ts": 1794247481.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "b32477e3c8",
-    "theme_title": "Hindustan Unilever increases prices of Surf Excel, Rin, and Wheel products by up to 11% due to rising cost - The Economic Times",
-    "date": "Mon, 09 Nov 2026",
-    "published_ts": 1794238052.0,
-    "article_count": 1,
-    "outlets": [
-      "The Economic Times"
-    ],
-    "summary": "Hindustan Unilever increases prices of Surf Excel, Rin, and Wheel products by up to 11% due to rising cost The Economic Times",
-    "sources": [
-      {
-        "outlet": "The Economic Times",
-        "title": "Hindustan Unilever increases prices of Surf Excel, Rin, and Wheel products by up to 11% due to rising cost - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZDlSSDJRSW9SWl9jNGV1QnBfUm5XN2lUZFo2RWotc0o0MjRueWpwT0VtQ1BJM05ocVY4T3drSW95WGxzNEc5MnVUN01lWUF0RjR6aGw4MEQyVENDUDRZczlIcVAzRTd2ZzZWNERpcUt1bzR1TEZXb3BxdXdPY2NTenJGZ0V3RGt3UlNpVVFCRVh6RThVeGZHMktIM1ZYUEhoS3lmOGhZdzYwM29Ya09OeUV3YThiYllqVDhzcmVRRVVaVmYtRUQ1SUo1OUE3d2diU3E2bzdTOUc3WGNhN0VGOVg4RkE3dWlwb09PUmxZRDVBcGNFZDl0WDdsSk5Ya1JGeXRiZ1JJUEUzOUZzWkdjenlaYjfSAZoCQVVfeXFMT05NNkNGVDVzWmhSc3RhbzdrT3liREgwS2o5aElRVjNDbmFwVmVOaTJiZE5mSjBtODR1WW9SZnJwMm1fMEs1Slo0SVhBcGZORWpqdGFLMjBnd3g5d1BwR1NTRGdnRTg2ZnhpZ1FNZXFuR2VUWUZpVE13MlQyUlpNNTVhcUVzVng2RWpCTTF4elhPTlk5UVkySDhsWENpWDRqNmY2RG1NZFF2X3lXejd3cTBNeTJuVVNCNTA1VkRabzBCQUZpVnlzSk54dERCdFBQcXBkY0UzVXdwUlhBVE5IeFBDU0JlZTBlNHEzY04zbjBVY3o5a2RacWNaWmk3TF9takhlQXdrR3VpZTlNZndsd19pQ3ZYMFdJWkZ3?oc=5",
-        "published": "Mon, 09 Nov 2026 15:27:32 GMT",
-        "published_ts": 1794238052.0,
-        "priority_score": 16
-      }
-    ],
-    "priority_score": 16
+    "priority_score": 29
   }
 ]
