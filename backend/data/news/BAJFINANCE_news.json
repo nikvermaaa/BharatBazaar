@@ -1,249 +1,276 @@
 [
   {
-    "cluster_id": "6565676cc1",
-    "theme_title": "Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore - The Economic Times",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794308685.0,
-    "article_count": 3,
+    "cluster_id": "0ff8eb6620",
+    "theme_title": "Bajaj Finance prepares \u20b911,700 crore share sale for institutions - https://streamlinefeed.co.ke/",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794389990.0,
+    "article_count": 1,
     "outlets": [
-      "The Economic Times",
-      "BusinessLine",
-      "Economic Times - Stocks"
+      "https://streamlinefeed.co.ke/"
     ],
-    "summary": "Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore The Economic Times",
+    "summary": "Bajaj Finance prepares \u20b911,700 crore share sale for institutions https://streamlinefeed.co.ke/",
     "sources": [
       {
+        "outlet": "https://streamlinefeed.co.ke/",
+        "title": "Bajaj Finance prepares \u20b911,700 crore share sale for institutions - https://streamlinefeed.co.ke/",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWkyOTh5NmlQYWFaYVptZkV3VkJyMElTS1BWdzJyd2l0bi10cTNhNjBQMnBOX1NJUWRKVGx1RElBcXFsc2RRbmkyeDJaMlE3V3BPX3ZUUWZ5Wno1bFlQZ2xhVkkzT0JVX0M3ZzlJR0p2OVBjb09HMkNkRndJbXByRGlxellaSFRRZzIwY1dqRnlEUVFuMTBNTWFKMDM?oc=5",
+        "published": "Wed, 11 Nov 2026 09:39:50 GMT",
+        "published_ts": 1794389990.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "dc000527fa",
+    "theme_title": "Bajaj Finance allots \u20b95,800 crore warrants to Bajaj Finserv; looks to raise another \u20b911,700 crore via QIP - Fortune India",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794389209.0,
+    "article_count": 4,
+    "outlets": [
+      "Fortune India",
+      "Sahi",
+      "Multibagg AI",
+      "scanx.trade"
+    ],
+    "summary": "Bajaj Finance allots \u20b95,800 crore warrants to Bajaj Finserv; looks to raise another \u20b911,700 crore via QIP Fortune India",
+    "sources": [
+      {
+        "outlet": "Fortune India",
+        "title": "Bajaj Finance allots \u20b95,800 crore warrants to Bajaj Finserv; looks to raise another \u20b911,700 crore via QIP - Fortune India",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPamtGQ1lwMjBTMm1UZVotMnlrdkdDTjhHcEpHMnA4Q1MtN29ZMGhYb1huTFNqQnBuSFRhS0duX3AtN2c2UjN5LVE0OC1sNlp1bGtiX1dzel9maE9iVndLeUY1a1lJM1FBQWkzdzFyajhJYzdMcE9Yak5vUVdnbU5WQnNURnNuTkxqQndWemFnZG1SY3lDS1NTRS12RFNncG1WVlpWcm5yUWdaTTAtSVNwZTFya0lyVlJpNFluaGJNMDRMd1hPN1N2MmF0aURCamN6dzNsLWtqa3ZxSDAz0gHqAUFVX3lxTE10YWFYUDVsTU4wVHJZTldFanZBM3NIRVQ2aGl3T29WVmFnSGtpTVhFajZuQkhlU241eE9rVUdkaWF0UUdjSGNIYVNyb3RRRmRxWXVqQ21KVlpBMmJhTDFETjhkMEViaDFpR0VqaVZRaFB3a1hMMkhxSVMxSzMxVy1BMVBzRHNvUkl4Ulg2dVRUUEpQaEllSUNLeXNabVl3S2dUcDZwTGgtWkdlYjEtdU5FU1NYVWc2ZDJSZGE1cmZBMXhiNUI4dkJkeU5MaXJNbW52NEhQNDgzT3M4NVJvLWk2Z2pPa3UtVHVVQQ?oc=5",
+        "published": "Wed, 11 Nov 2026 09:26:49 GMT",
+        "published_ts": 1794389209.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "Sahi",
+        "title": "Bajaj Finserv Subscribes 5.74 Crore Bajaj Finance Warrants Valued At \u20b95,800 Crore - Sahi",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzNmZ3JfQVpmQWx4TmxwWTBIU0Y4Tm56MGZHcVpLdUdBUXljOE9id1lkcTBKbzNUQzZpRzhNTzI0dXQ3NTFVSnVUM01ZMUx6MmVtaXIyQjUzemtGUkRQeTFybnk2eU1FaE10aTB1dXlxZ1dvRGpDbWUzSjZ2QjNGZWV2aXUwZEt3a29BanJtc0lYcTNkYTlmX3J3a3k4T1g4ZzJ2dkkyLWRMZw?oc=5",
+        "published": "Wed, 11 Nov 2026 04:43:49 GMT",
+        "published_ts": 1794372229.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "Multibagg AI",
+        "title": "Bajaj Finance Allots \u20b95,800 Crore Warrants to Bajaj Finserv - Multibagg AI",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV01nUmRQZDAwLWFReHM4Zml0ZEJweXVGbDZXbzdRMGRadGpoZTZROFdyRHFuSlZCVXQ4YzNlclFpaUxsT1N5Q2dJTHBCMF93Q25XOEpQbjljZmp1alg2NkxYYV84WVlIMk1qd1c5YVBoWE5TbzhwUGNYeGEwVmlHSV81U3lpcjhKRE9VR0tObDdIVjBjOGxfbDFwT1J4MElCdTc3dlhaWmw?oc=5",
+        "published": "Tue, 10 Nov 2026 12:01:05 GMT",
+        "published_ts": 1794312065.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "scanx.trade",
+        "title": "Bajaj Finserv subscribes \u20b95,800 crore warrants in Bajaj Finance - scanx.trade",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVRoRFFucDNpd3NMdGRHRE5QSG5FYmtac1lHWTBpWHhQbDU3cHVVcGFpNmtBVGV3cmpONTBsVzJKSWVieW5xekxudm16c0NpaG9ScmlIYkRsTXV6eHZqZm5IMVJLbGdrSVdBSk56T0J2bkFGeHBUeUQxWVFpYjdraDlfbmo0WEdNWlJCYlh3RW9kRWdTYy1zbmZqM1U1eXVrVlJrRVQ2V3JZM2d0T19aTzZkX2NFcVE?oc=5",
+        "published": "Tue, 10 Nov 2026 12:40:18 GMT",
+        "published_ts": 1794314418.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 38
+  },
+  {
+    "cluster_id": "0c42579f2e",
+    "theme_title": "Bajaj Finance may launch \u20b911,700 crore share sale this week - India Business Trade",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794388738.0,
+    "article_count": 3,
+    "outlets": [
+      "India Business Trade",
+      "The Economic Times",
+      "Business Today"
+    ],
+    "summary": "Bajaj Finance may launch \u20b911,700 crore share sale this week India Business Trade",
+    "sources": [
+      {
+        "outlet": "India Business Trade",
+        "title": "Bajaj Finance may launch \u20b911,700 crore share sale this week - India Business Trade",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXNONmpyaHRLcEVHdkVwbnJYX0xwNVg0Z2JHWm9wSndOVHVFRldVZmc1VDdDa2hlcHd1UjdDVTJLZWNuY1hpczRDUTNrbWpMcEt5LVNUUGctTGdhTzA2Yk1LSk9mc1dKQTJzZWJBdm5UWTNDVk1hNzRreVFyNFJ1TVhPXzdCVmFMSWdBdFBYMS14T2dVamlLLUcyM0xpM0hieHc?oc=5",
+        "published": "Wed, 11 Nov 2026 09:18:58 GMT",
+        "published_ts": 1794388738.0,
+        "priority_score": 20
+      },
+      {
         "outlet": "The Economic Times",
-        "title": "Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcUtrZU14VG94cklnSjJsdnB4Q2I0QU9aZ1FSX0pVY2ZaYml3SXlGX2RyVjdwTmxqOWFOT2hTQm9aZkJBQnlKVXVwdnFwMExkWHZ2STBCekhhbG9VV2tHRzNaWWdhUXNjalF6Wkt4MzhzMTVCWWhfZ0dlR25aQ0xBZnZUemQwLWZUZ2xCb0hpdjAtY1J6NGpRV3lleTF3dDJGeDJuV3RiMEkzYjhQNFppdU1XMUdlUVNZSlhXQzZJRUgwU0pqcl8wZkUtT0dUeGs0QzRMaHYzeU9WVzRw0gHiAUFVX3lxTE1rTjNuUHhvTW9UNHVZQkdfOGVJOEJqUUZKWXBtdC1KNTd5LVZUeFN0ZUxGRzZheDh2U0ZmcnVHdGh1U1BpVmVacWtCTGoxWGx6OXVsSnFHcVFxQlBHWnBaeUdzQVJUanF4V1lxRDJFeUVHZFQwMk5WbVhXNk9QQUxlYlR4aHNoRU54a0h6WWNCR1RfTG9pSWhONHRnbHJJLW1aMXZfTHJPZnl4ZU9DZDU4OGJXbG5vR0QzbjlKY0R4TFlCRnVuN1pIbEVCbEp5NUNhamp1bHUwYV9keGJwODNiSlE?oc=5",
-        "published": "Tue, 10 Nov 2026 10:52:44 GMT",
-        "published_ts": 1794307964.0,
+        "title": "Bajaj Finance to launch share sale worth up to Rs 11,700 cr this week: Report - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRllVZmk0QVQtMDZnVmVUOE1IODRNZDctZUI5Zm0xMTV1NHFUS3NEakxBbXJLWm5tVW53Z1JTQi0yZVZsMXJGbGlTbTExeEkxcnQxSkhOUUdPY0xEMUlpVE1GUUlyend5NnJkN0VROVk4emNJdkM0QUhfQ2Qzd2x4akljc21ZcGMzV1prOG5hZzN4ZmxyUU5yMEpPZHVqUXlCTDZMb1E2Q0FIX3lDQVU3T2ZHZ19kSWt2cS11ZXhFSkRQRzBKc21URGxnWnI1bjJnUDBFbXlmSmF5SjZHLV9wX0M1MUnSAd4BQVVfeXFMT1JWM0x5R1JiRlF3a09FRjJNQ2FiTGp6dHVvbHVwaTZIeHRlajYzV1dGRjF6XzdVUUYxdGFHcG85M1lNT1NRcWZHbXhuYU5BYmVWZUFTVE16ZXpkaEhHeTI1VVFHdTY2MjQ4WE9qUEVPRXFMcXRiaGlNVHdaZUZGVzZTRjRjT0RoNU44dUZpOWpaSW9ud1pCQkgwa3pMVzZWQVM0LWkwaUs0QkRvcHE1R3lYQ0pjeHBtNFJWYjI0b29BdDNqYTlxRWFLTEpxeHFPcVJDNGh6aG1Cb1BzWGFR?oc=5",
+        "published": "Wed, 11 Nov 2026 07:36:59 GMT",
+        "published_ts": 1794382619.0,
         "priority_score": 20
       },
       {
-        "outlet": "BusinessLine",
-        "title": "Bajaj Finance issues 5.74 cr warrants to promoter for \u20b95,799 cr - BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZkc4NXNxLTR6Zkc5M1RzYVIyb3dsSkUxTDRmY1E1NVlpTWpBdy1TaVlKZ09wMzdNMzVCMmliTGNLZDFyQjhENkVRYWtFd3ZkVE40MzNlaDNJMDNYbDNHcHJrNzNwMUw3RVVlMldjV0VmbjJBaTlyV1R1QXZ0M05Fc1hPT0dfWFQwQjg4TGo4Y0VWbnR5V3hUaUJIVjl2eG1vQnN4N3J3azZELXpKUkxnazhYVm84cFh5SVdMVUlrTDVqNzVpSjRRV0dSalMwUkR10gHXAUFVX3lxTE15RFEtOVAxT1BvQTF4Z2pyMWFxSks4Q1djVjRzM0lpS3JSSFc5Sk5PWUJDVVFKYlByM2xSS0hmUkYwcmJLOXBqc3RrY0Q4UGg2OFdEcUxNbXgtUWpzSnhhVG1vaWhSbXVpT0ZYWWt0TXNiUUN6dW5EeUt3VEpmaUI3VE5uX21NUmw0NWxrY2Z4NFZXbUtyaGpsU3V0SFRwMFlocW80N1VJYXlvcUxaMHNaMXljZkRGWElYWnZLMXRTU0tmYVlyTXcyTHB3YU53MXpQdTBnR01Z?oc=5",
-        "published": "Tue, 10 Nov 2026 11:04:45 GMT",
-        "published_ts": 1794308685.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "Economic Times - Stocks",
-        "title": "Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-issues-5-74-crore-warrants-to-promoter-for-rs-5799-crore/articleshow/135708439.cms",
-        "published": "Tue, 10 Nov 2026 16:22:44 +0530",
-        "published_ts": 1794307964.0,
+        "outlet": "Business Today",
+        "title": "Bajaj Finance to launch Rs 11,700-crore QIP this week: Report - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmduM0prMVJyWUZuUWNyUExSelZXZTNRX0R2MkRoUWpFd19henBQeElLX1hOSldIZHljems5TDhaYzNHdFVjclVydnlGMlAtcmZnLUw2VGQ0eU9HNE1iRTBTdlc1enFyR1pmdEhTbE9OcTUwRkU2NnVYYmQwaDZBeVFaeDVsTUVweFFwUDFUSTNwWU03Tm8wUUd4LVVrS29jZFk5cnRhcGdlRkhlR0VLWGc2bXdzb2R1SnpHUk1fblpIZnkzcVHSAcsBQVVfeXFMTVhhdDFiLU5xbE1VY3F4T2MwWV9PUDhoM1Rydjlsa0NOX1pPSUJWa2hnbXA5QzJPSXRsbTA5YTYtZGNWcE5mUktyQ2tBcEpRV0NaMTg4QzVGa3hYTTg0YlhWYkhVMWxZbHpPMEhrdHF3Vjl1TmJUTjZ2aVJ6WjBTeE1hVFdSbmpWMUhjcmpybDVZTUhTcEwyTk80b243b2s0RnluY3ZRWFFQTVRJdUNLZFdITnFhcFpMdmVTYTZEMXNXMDVKb29sYVpKVXM?oc=5",
+        "published": "Wed, 11 Nov 2026 07:41:35 GMT",
+        "published_ts": 1794382895.0,
         "priority_score": 20
       }
     ],
     "priority_score": 32
   },
   {
-    "cluster_id": "92ed41627c",
-    "theme_title": "Bajaj Finance approves issue of warrants worth \u20b95,799,99,97,400 to promoter - Business Upturn",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794301481.0,
-    "article_count": 2,
+    "cluster_id": "cd2f58e25d",
+    "theme_title": "Bajaj Finance Plans \u20b911,700 Crore QIP To Fund Growth - Free Press Journal",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794386700.0,
+    "article_count": 1,
     "outlets": [
-      "Business Upturn",
-      "InvestyWise"
+      "Free Press Journal"
     ],
-    "summary": "Bajaj Finance approves issue of warrants worth \u20b95,799,99,97,400 to promoter Business Upturn",
+    "summary": "Bajaj Finance Plans \u20b911,700 Crore QIP To Fund Growth Free Press Journal",
     "sources": [
       {
-        "outlet": "Business Upturn",
-        "title": "Bajaj Finance approves issue of warrants worth \u20b95,799,99,97,400 to promoter - Business Upturn",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTm5vQnVjM0ktQ0VVaU9rUjYtWC1kQnQyOFBySXhZQWVWMFRZNVNBdW82dE1kSEx4VWE0LUFwYmNPeHRVaVlKcERudUh6N1dmQzAwaERYblVNNkR0Z0t2czFPNjVhSlBhc3ZSNEhDR0U1VElENk9pY2JxeGRTZk9sS2kzM2F1SEN0Vnk1anpmdHFiQ1RNLWhpY1pOTzAtUnhRYjdhd0htV1hwWi1KT0psSk5Scw?oc=5",
-        "published": "Tue, 10 Nov 2026 09:04:41 GMT",
-        "published_ts": 1794301481.0,
+        "outlet": "Free Press Journal",
+        "title": "Bajaj Finance Plans \u20b911,700 Crore QIP To Fund Growth - Free Press Journal",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0FvU0hlRFF0Y1JJMUxMM0hicnRfUEp3RnkzOGFwNEtQaDhiblJuSDh2WjI1eTJzUmJfVDhheWR0SVZjNUp5QWxmOWJkUVQ3WF9ybGl3N0JRQ25oYkI0bzlGMGFBaWFRVDJJaUF2b2g0cDNFWXlWSk9oSC1mSGpqR3ZJNnhBcG54VkV1emdna2JpMmxMSVHSAZsBQVVfeXFMUEc5cjBUNkFNRmEwamVVWk52Snd1bWZ3akYzZ1VHaW9uNHAwajZZdTNpUWRzX1ZBT1FwM3BsYVViUVRjRmVHVTJSY3JaMi1JTkI2RkI3Ym5pUGZMZkhpdDVtUmRtaDFhR25wYzJYaVh3NnpVX19tMk01QjFSYjhEVVNzWG5nMmVnaFZUZEpDVGd0UmR6X2ZRdHE5eG8?oc=5",
+        "published": "Wed, 11 Nov 2026 08:45:00 GMT",
+        "published_ts": 1794386700.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "70ee29a189",
+    "theme_title": "Why Bajaj Finance Plans to Raise Rs 17,500 Crore, Its First Major Equity Raise Since 2023 - NiftyTrader",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794386295.0,
+    "article_count": 1,
+    "outlets": [
+      "NiftyTrader"
+    ],
+    "summary": "Why Bajaj Finance Plans to Raise Rs 17,500 Crore, Its First Major Equity Raise Since 2023 NiftyTrader",
+    "sources": [
+      {
+        "outlet": "NiftyTrader",
+        "title": "Why Bajaj Finance Plans to Raise Rs 17,500 Crore, Its First Major Equity Raise Since 2023 - NiftyTrader",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qYS1EQ3FKMXJKZFVISW94anJ4ZW1PMjduN0JMYzhHSU5OVHF0SFh5dDZ1VVJzLVQyR193SFFnekRkS2JkZXZzeG1NbFNHWnBvTjl3ci1DdTlTLTNIX0s4RUJxYkNoSGpHbHpvN0I2SjljXzRPRlA4?oc=5",
+        "published": "Wed, 11 Nov 2026 08:38:15 GMT",
+        "published_ts": 1794386295.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "a78e70fd4a",
+    "theme_title": "Bajaj Finance may launch \u20b911,700 crore QIP soon, may price it at a small discount: Exclusive - CNBC TV18 - LinkedIn",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794385950.0,
+    "article_count": 1,
+    "outlets": [
+      "LinkedIn"
+    ],
+    "summary": "Bajaj Finance may launch \u20b911,700 crore QIP soon, may price it at a small discount: Exclusive - CNBC TV18 LinkedIn",
+    "sources": [
+      {
+        "outlet": "LinkedIn",
+        "title": "Bajaj Finance may launch \u20b911,700 crore QIP soon, may price it at a small discount: Exclusive - CNBC TV18 - LinkedIn",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGNmZW9rRVEweTJwYkh4YVpoWnp6bXkzTXVTbXQ3S04yRmd2QVlTZUZqR1ZKaU8wLU53Sk05SFpRTU9Lb1FKMndfUlFVS3NjQlJZTkQwcDRZMjZGWEQ2VVhhRmhndjNBbHNUME9hLVd5VVBXYVhJeGJUREN3SFVHV1MtTWl4Y25wTE1CY0dSMW9iUk1pUWpsQXRiQmhUWWNuUmdwMnhvVGdzc2FremxESFVPMW12UQ?oc=5",
+        "published": "Wed, 11 Nov 2026 08:32:30 GMT",
+        "published_ts": 1794385950.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "6e9fc1ca9f",
+    "theme_title": "Bajaj Finance to raise \u20b911,700cr via QIP to fund expansion - NewsBytes",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794383674.0,
+    "article_count": 1,
+    "outlets": [
+      "NewsBytes"
+    ],
+    "summary": "Bajaj Finance to raise \u20b911,700cr via QIP to fund expansion NewsBytes",
+    "sources": [
+      {
+        "outlet": "NewsBytes",
+        "title": "Bajaj Finance to raise \u20b911,700cr via QIP to fund expansion - NewsBytes",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0hzTmkzNG9XcUxpZklkNFkwWVV3RVRJaGhIRERYUHhOOUN4UFpKUGRQLV9MS3l3eE45bVBzYmpPVEttNlRJLXZNcWpZcnpOdmt2QWhJcmlKaXVFVFg1dVpoRERvc2NIU3NFcjk4YUlIQWo5clA3bm1UVlplNnBBTEtJd0JkT0I1enp6TEtiUTJfNE5WZzdvS2c1NFJTVTVOSy1KV1ZKXzhzZw?oc=5",
+        "published": "Wed, 11 Nov 2026 07:54:34 GMT",
+        "published_ts": 1794383674.0,
+        "priority_score": 30
+      }
+    ],
+    "priority_score": 30
+  },
+  {
+    "cluster_id": "6f3dd44c0d",
+    "theme_title": "Bajaj Finance may launch Rs 11,700-crore QIP to fund growth; shares trade higher - Moneycontrol.com",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794382516.0,
+    "article_count": 1,
+    "outlets": [
+      "Moneycontrol.com"
+    ],
+    "summary": "Bajaj Finance may launch Rs 11,700-crore QIP to fund growth; shares trade higher Moneycontrol.com",
+    "sources": [
+      {
+        "outlet": "Moneycontrol.com",
+        "title": "Bajaj Finance may launch Rs 11,700-crore QIP to fund growth; shares trade higher - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaWg1V0VVT3Y5b0dpMUZhVUlVOVZxYVdNLVMxZXVua05BNGplTGsyRnptTGR4eXVEdGM3Tk5JVTM4NG5GdU5acHVvaVI5RTN4ZjRJNTZBN1NJM3p0QTRRVnlWYU80bGMtRk9uX0ZOLVlvY3U5ZEEzZlNzSFF4T2NidWN1WUJLSGFPdFh3dEp6Mlh6bWNEa1VQTDY5SmlxbFRjS3hzTmxqVTVyaUVtRUc4NlpiZXNiZHdGR1ZOdTQ1MGIzMm1NcVV6eUV3R21uTzdCa1hRWVFaWVpFVlJR0gHiAUFVX3lxTFBCLUpuYlYtMFhXOXRCc196UG1oRHhBc3A2UjRoREhZc1dKMUJEQ1Fyd0VBS3BJa2JFWFQzNzdEV0cyQkNZQWJUQUp6blREZ3N3ak9GTGhpVDJjRElNTzV2eEVuUkprdTBlMkNaRnZMYXY3eFJ2MXJ1QmVReFJMNHF0dURVazRFSUd6NldRQWFmazZsOTl2ME8yWDNjeW45a2Fjd09kakNuX2wxcDVuMWxOS3NrYWNkVmxPLVlFRlRiWWpmM01HWDVwd3BxWVR5QXQ2QnZ2OXozOW9CUmpnM3lyV1E?oc=5",
+        "published": "Wed, 11 Nov 2026 07:35:16 GMT",
+        "published_ts": 1794382516.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "c810a0c264",
+    "theme_title": "Bajaj Finance Said Set to Launch Up to $1.2 Billion Share Sale - Bloomberg.com",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794381031.0,
+    "article_count": 2,
+    "outlets": [
+      "Bloomberg.com",
+      "Traders Union"
+    ],
+    "summary": "Bajaj Finance Said Set to Launch Up to $1.2 Billion Share Sale Bloomberg.com",
+    "sources": [
+      {
+        "outlet": "Bloomberg.com",
+        "title": "Bajaj Finance Said Set to Launch Up to $1.2 Billion Share Sale - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPamt3UDJWcHp0aFVGd015VzlVU3F1Tl9SV1NvYk1HMmhjOUJ0dEtZeW9VV1V4QndmWHMtdElGOS1LWHliaklhekxYMGVQaEdBV2djdEYyWFh3SjgwWW9hR0V2NjhiQlh2eHFDSXpuMnRFLW1GMFBaNHVHdGg1aFV6ZFZWU1I0RFZlMGttSWtETE5Icy0xTkJ4Rmt6UUcyMmJhTVpIZk1ZVWg5NHBGVzYtQ2RB?oc=5",
+        "published": "Wed, 11 Nov 2026 06:40:00 GMT",
+        "published_ts": 1794379200.0,
         "priority_score": 20
       },
       {
-        "outlet": "InvestyWise",
-        "title": "Bajaj Finance approves \u20b95,799.99 crore preferential issue of warrants - InvestyWise",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSEl5cVJfbnloYkFuQmFOVnNBTThiZktRNHZxbGlFMXh5bkctNzg5UzV5LVpMX3hLQ3JPelVQNGc1RU11ZS1OOHdyTUtWWVZwN2xWOFYzUTd5RXBUck51QmY5Y2tjZFRoWGVOS2tFYUF6YlRSN3hMZ0FFS3pRdWh2NlNfek0wU1E1Y2c?oc=5",
-        "published": "Tue, 10 Nov 2026 06:44:28 GMT",
-        "published_ts": 1794293068.0,
+        "outlet": "Traders Union",
+        "title": "Bajaj Finance set to launch up to $1.2 billion share sale in India - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlVBZXAxX0libkxzaE13NTdnM1JxSXh2aVhPbHdYZ1VSQS1ocml4ak15TTl2V0lTckNRVHE2bFlWMW5Qbk5UTlIydDY3T2NNajh0YWZGbnduYU5QWDhOZFE0T2pQN2VnS2lMdWlPdHFyZUVla2g4alhnWVo2V2x3eGhVb1lwTWxOX0RVQw?oc=5",
+        "published": "Wed, 11 Nov 2026 07:10:31 GMT",
+        "published_ts": 1794381031.0,
         "priority_score": 20
       }
     ],
     "priority_score": 26
   },
   {
-    "cluster_id": "6ab957bd75",
-    "theme_title": "Bajaj Finance (NSE:BAJFINANCE) Prices Promoter Warrants at \u20b91,010 - Kalkine India",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794299160.0,
+    "cluster_id": "64d06537dd",
+    "theme_title": "Bajaj Finance Share Price: 13.0% CAGR vs Chola, Shriram - Univest",
+    "date": "Wed, 11 Nov 2026",
+    "published_ts": 1794374700.0,
     "article_count": 1,
     "outlets": [
-      "Kalkine India"
+      "Univest"
     ],
-    "summary": "Bajaj Finance (NSE:BAJFINANCE) Prices Promoter Warrants at \u20b91,010 Kalkine India",
+    "summary": "Bajaj Finance Share Price: 13.0% CAGR vs Chola, Shriram Univest",
     "sources": [
       {
-        "outlet": "Kalkine India",
-        "title": "Bajaj Finance (NSE:BAJFINANCE) Prices Promoter Warrants at \u20b91,010 - Kalkine India",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU2tQVlctS1BoLUpGcVdvYmtoWG9xOUx5VjYtZHNQbzhDZ1NNUzNLWkVJdm5JbEJJZkRoQVk2aFBzd3YxVEdCU3g2SnBUc3RTYVBpR1B2YmlsU2VYQmI3X3FKblBOVkNNLUhmalNSVkx4TENBTmVhcURrWlVMZ3dQU2JTbXY4NE9tWVV3TFFZb2hqUk93aVcxUHlQZUxJMW9OY3NJdDJJLUw5X0h0Z0pvSVg4VVNkYlMzY3JUZ2hCRGdoYm9XNktYXzdmRUdoNXZOQTdPdEtlTW80VEtKM1E?oc=5",
-        "published": "Tue, 10 Nov 2026 08:26:00 GMT",
-        "published_ts": 1794299160.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "c26f8c44d0",
-    "theme_title": "Bajaj Finance Approves Issue Of Warrants To Promoter Aggregating To 58 Billion Rupees - TradingView",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794293340.0,
-    "article_count": 1,
-    "outlets": [
-      "TradingView"
-    ],
-    "summary": "Bajaj Finance Approves Issue Of Warrants To Promoter Aggregating To 58 Billion Rupees TradingView",
-    "sources": [
-      {
-        "outlet": "TradingView",
-        "title": "Bajaj Finance Approves Issue Of Warrants To Promoter Aggregating To 58 Billion Rupees - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUppYTNldkVkb0UzQ2dUMmdaTVYxYURxVkg5RlhQaEpTZXdoQll0SFkxVUpxUmpQdUNrLUxhbzdtUFhfY1AtdW9HSVBGWnMxUVVJcG9ac1RlbmFrZ2d4M1RTMjBKbmhrMGdSbUs5UFdVMlc4UWVZYWs0cmZIM2RIWDFwYnlvOFk1X2N5NFUyTHlTWTFLbURQaXgtQW5jeGJDYW9UUFVfXzZGXzQxMGkySGNNcVZGYjB6cGtRNE1BU2VEZV9lQTdRVE5Ic0w1XzQxSHo0SVNkRDJUNGlBYWktSUhrR1ZRbG1tUVdF?oc=5",
-        "published": "Tue, 10 Nov 2026 06:49:00 GMT",
-        "published_ts": 1794293340.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "43e6cd3e5f",
-    "theme_title": "Bajaj Finance Preferential Warrant Issue to Bajaj Finserv Explained - Kalkine India",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794293100.0,
-    "article_count": 1,
-    "outlets": [
-      "Kalkine India"
-    ],
-    "summary": "Bajaj Finance Preferential Warrant Issue to Bajaj Finserv Explained Kalkine India",
-    "sources": [
-      {
-        "outlet": "Kalkine India",
-        "title": "Bajaj Finance Preferential Warrant Issue to Bajaj Finserv Explained - Kalkine India",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbG03OU5YX3dWYU02ZUVVYmRzckt3cDJVZDFmUDZHcVhaS1duSWliOWlNWkUzek9SUVFzdlRseENZQ1FfT3k4YU01NmEzSHpGdGtWWFBOaUVUNm5WY05Kc2hyUGtDZlVRbGRxUFd0YnhhbjdpOVRvVEwxNHlkV0MxaWd2UC00Vm8zZUdkSXhnRy1pS3BNb0Z3QWd6MXB5b3BCOFNZdXEwNmFlVlQzbGprSDlOaVdQTXlzMU1PSzJVajV5clZGbWtBNmFHOFpwN3JXVzNwM0RiYWN2UHQxMnZOWlZWbEZzMThH?oc=5",
-        "published": "Tue, 10 Nov 2026 06:45:00 GMT",
-        "published_ts": 1794293100.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "59f4883f04",
-    "theme_title": "IIFL Home Finance appoints former Bajaj Finance risk head Sharad Kumar as Chief Risk Officer - Prop News Time",
-    "date": "Mon, 09 Nov 2026",
-    "published_ts": 1794265526.0,
-    "article_count": 1,
-    "outlets": [
-      "Prop News Time"
-    ],
-    "summary": "IIFL Home Finance appoints former Bajaj Finance risk head Sharad Kumar as Chief Risk Officer Prop News Time",
-    "sources": [
-      {
-        "outlet": "Prop News Time",
-        "title": "IIFL Home Finance appoints former Bajaj Finance risk head Sharad Kumar as Chief Risk Officer - Prop News Time",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObU9SUXh1ZzJNVzN3cEVTZEo4M3FfLVhTNm9nSUxtcllRU1pIRGFabExBZkNRNGxpbGUwejhvZnZqbW5WNGxkLVBiNjNvT1Vtc0VSaU9pVXI3U0s1dTluQWU0ZzltQ0NEeHhLV3lCZXNGdUIzV0VRbWlDSllKbEpVRHFqelZkZlZMU0MtZG1hbGx0Z3lHUEllV281RlFucERkak9xWlg1Tm9MbThaVXJwdVoyTVY5ZmctNVE1UFhIdHNSQmViZ240bTU1Uml1U3ZVcm1MeVhvVTl3MHkx?oc=5",
-        "published": "Mon, 09 Nov 2026 23:05:26 GMT",
-        "published_ts": 1794265526.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "b426598a6e",
-    "theme_title": "Bajaj Finance stock: Board to set warrant issue price - ad-hoc-news.de",
-    "date": "Mon, 09 Nov 2026",
-    "published_ts": 1794239726.0,
-    "article_count": 1,
-    "outlets": [
-      "ad-hoc-news.de"
-    ],
-    "summary": "Bajaj Finance stock: Board to set warrant issue price ad-hoc-news.de",
-    "sources": [
-      {
-        "outlet": "ad-hoc-news.de",
-        "title": "Bajaj Finance stock: Board to set warrant issue price - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDNSUXFZYldOR2VSQngyVHBHWFBQVVNnQk1uU1NlZGNja3RFR1dKaE0tMTItbUNEeklKZHN0UWZSSWNya21FQTNTd3pUSE1GWFdjSk8xcW1XeFhnSWdqNGU5bUs0ZHdLNTdwLTZLSGF0VzFnZnhlbTNwT3NpTDNYdGVNeVVMUkp6dUpBY2p6REFjekE0Z1R4aDV6amtZWTE5bWRmUWZtSlJkUnVyNS0yTW55bmlQZw?oc=5",
-        "published": "Mon, 09 Nov 2026 15:55:26 GMT",
-        "published_ts": 1794239726.0,
+        "outlet": "Univest",
+        "title": "Bajaj Finance Share Price: 13.0% CAGR vs Chola, Shriram - Univest",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0lVWWFJYzBVbkhzOFFuWkJvQ2hual9VUDB3akFsUktVeThvZEx5T2hIOGRHRGZoMTdNWlpZQnc0emw0SS1mN2EzSVlvWnd3ekFzY1hCTzM2am5qUVRXMEI1LXpwbkdoZmROOTlXamdQcmFESm41Uk9aT3gyWEc0cEFaOU0taF8wcU5KWEZoMmhCd3h2cDM2OHBna0xJck9pTnVjQW5YTzdhZw?oc=5",
+        "published": "Wed, 11 Nov 2026 05:25:00 GMT",
+        "published_ts": 1794374700.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
-  },
-  {
-    "cluster_id": "4cb2f79539",
-    "theme_title": "Bajaj Finance stock in focus as lender posts 29% profit growth - ad-hoc-news.de",
-    "date": "Mon, 09 Nov 2026",
-    "published_ts": 1794218004.0,
-    "article_count": 1,
-    "outlets": [
-      "ad-hoc-news.de"
-    ],
-    "summary": "Bajaj Finance stock in focus as lender posts 29% profit growth ad-hoc-news.de",
-    "sources": [
-      {
-        "outlet": "ad-hoc-news.de",
-        "title": "Bajaj Finance stock in focus as lender posts 29% profit growth - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3h0cTl3bEJYR1FtdllNQnptZVV3S0YydUJvWTVYa0hDZEpRSG43UUJnZ2h2VTk5QzJiYkh0RWY3RjMyMklKY2dlSkc5dVhDcmluNUV4OWFSb1l1bGVZNjdkUm9FZ1dkSVhrUDB2SGZUaUtPQlk3ajY4QlBfc0JlUFRMX2lGYnNZeE4zcm5jM1lMZy1ISXQzRHh0ZE5FUEdMbW9QaDBmSVRhUFpCZHJGQWd4YUQ5WmdJNjlDdW5JX3NwUQ?oc=5",
-        "published": "Mon, 09 Nov 2026 09:53:24 GMT",
-        "published_ts": 1794218004.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "2f90c10518",
-    "theme_title": "Ahmedabad Tailor Loses \u20b959,900 After Opening Fake Bajaj Finance APK File Sent On WhatsApp - Gujarat Samachar",
-    "date": "Mon, 09 Nov 2026",
-    "published_ts": 1794212937.0,
-    "article_count": 1,
-    "outlets": [
-      "Gujarat Samachar"
-    ],
-    "summary": "Ahmedabad Tailor Loses \u20b959,900 After Opening Fake Bajaj Finance APK File Sent On WhatsApp Gujarat Samachar",
-    "sources": [
-      {
-        "outlet": "Gujarat Samachar",
-        "title": "Ahmedabad Tailor Loses \u20b959,900 After Opening Fake Bajaj Finance APK File Sent On WhatsApp - Gujarat Samachar",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMGMwaW5XOE14bHNQQjlCQlZUMTVydWUwb09JdmJyclcwTk1zcThzT2NPQlpTWldRYm5RT19qRlQzQWJJS1djWkttU1c1bExXcnc0YVE2NjE4ZEdKbXJoZktqUzJFc2Z1ek1VXzdrcGk5eXpmT0Jkb0JkSmFDM3ZUTkhHUXlCMGRfTWc2bmc0NzBpRC1wNmNCMDBpcjdNeTg4dG01VGd6alFXb1RodjhtemNkbDV0RDRiQVJFa2F0TTJBT2todkJDTUpXekJYSnM0Nm5kYXctcEtPMlIycE5fUG9keWpZSmhrWnhSWXI2YjgwY1F0?oc=5",
-        "published": "Mon, 09 Nov 2026 08:28:57 GMT",
-        "published_ts": 1794212937.0,
-        "priority_score": 16
-      }
-    ],
-    "priority_score": 16
-  },
-  {
-    "cluster_id": "37405359d7",
-    "theme_title": "Citi Raises Nifty 50 Target To 28,000; Adds Bajaj Finance To Its Top Picks - NDTV Profit",
-    "date": "Mon, 09 Nov 2026",
-    "published_ts": 1794206320.0,
-    "article_count": 1,
-    "outlets": [
-      "NDTV Profit"
-    ],
-    "summary": "Citi Raises Nifty 50 Target To 28,000; Adds Bajaj Finance To Its Top Picks NDTV Profit",
-    "sources": [
-      {
-        "outlet": "NDTV Profit",
-        "title": "Citi Raises Nifty 50 Target To 28,000; Adds Bajaj Finance To Its Top Picks - NDTV Profit",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTQ1MVJYSUZnWlktTFRJUjFlVXFqR3BaQ0hIWGZOMnF3a29QNTVlT29aNzVzU0NpUlczeTdGam0tZGJMUWxaLVBPVVp5MGxOZ3IweVBPSUVudjJLZHk5ZTVrLWRTbVpKbmRqQTJNanBuOTZWS3VMc1BaemNaRGRmdFhOT0NxLVJQSXdaUE5tTlM2TkhleGhKR0dJeFRTclRIQlFacHdYcTVmam52SjFiUWE2OFhjekpf0gHAAUFVX3lxTE9fWHZ1MzJ0WjFEWUFSOG40S1E4SVhWWDdmM0hfdEhzQXlBLVVpMkpnRW85NTNFMVcxRWo0aGZkVWNTb3JmMDJpWVBaWXAxckpEUWUzNVlDX2RUeDE0M3hKVk5KUWpVWDZxYXBra2EyaWpCOWhtaC1JVXVkNWx4Mlo2cHp3ZDBhRjM5bS1kdldWcmZubnJEelRvS1JYVUFUZEFvYm1Ea2ctdTlDa0JaR3ZSeEVfcEJJalFXMG5SUnduWQ?oc=5",
-        "published": "Mon, 09 Nov 2026 06:38:40 GMT",
-        "published_ts": 1794206320.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
   }
 ]
