@@ -1,5 +1,43 @@
 [
   {
+    "cluster_id": "c84efcf3d6",
+    "theme_title": "Kotak Mahindra Bank falls Friday, outperforms competitors - MarketWatch",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794565800.0,
+    "article_count": 3,
+    "outlets": [
+      "MarketWatch"
+    ],
+    "summary": "Kotak Mahindra Bank falls Friday, outperforms competitors MarketWatch",
+    "sources": [
+      {
+        "outlet": "MarketWatch",
+        "title": "Kotak Mahindra Bank falls Friday, outperforms competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnk2VXpIdU1YdldWVG92cVlFTTVzc3BBTnY1cTloSElYeEd5cWQ1ZWFTWFhsdzVvUTRyemJpMDg3ZkxxQmE5bERYSFFUaVBVT0FrdnRXaFVxaU1tUk1ITkxvQ3pnY01SdG5LZWFkb1A0TGtfYXJjOGlSWERSQXN4TEptb0Y5Wm1CRkpwdXRrTWdNdzlJMkg5azNEZm5nTVppYzNWamVROUVkQUtoSjhVSVZKbkZLbWdlUTR1ajlBaHZGVlZENGdDNEREaEpmY3c?oc=5",
+        "published": "Fri, 13 Nov 2026 10:30:00 GMT",
+        "published_ts": 1794565800.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "MarketWatch",
+        "title": "Kotak Mahindra Bank advances Thursday, underperforms competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONWFjX3lNMndLeFJfdi1rUFBTeTdzcnFqRWtsUWxZRF96T2NWR3BWbGtBOVJzUXlsUTJyb0pQWUVIWVVlaU9wSG9QLWk4b2NndHdJQWpqSjBpZ0padEhHOTlPd1RwZWh2TklaMlBhMG9kNnBkajFyQzhLTENIUVNPWjdfbzJvZFJ6YnN3SWY5UzhHVk9HanZKMFBKbXU0al9VT1MyY0VGMkNGUkdYQW0yZGVQX0lPLXVZOGhJYVBhMFB4UjNWQTJpZGNVWEp3ZXp2T1NGYU1xWjM?oc=5",
+        "published": "Thu, 12 Nov 2026 10:30:00 GMT",
+        "published_ts": 1794479400.0,
+        "priority_score": 16
+      },
+      {
+        "outlet": "MarketWatch",
+        "title": "Kotak Mahindra Bank climbs Wednesday, outperforms competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1RLMGU4QnJWUVZXVm5PQ0hUX3NDcXhuS3V1Njg5OXo1ZDFkWFR2ck9rRU1ZTG40UEJGV1pGU2ZKem52TG1MVUxhWUgyaVhnLXN2N3ZDb2JqTHlocFNqWFhqRXF3RVBvVER0VnRuaUlBam9XajZud3ZRUXFDMlF6S1piaUZDeUxGazhFcTUyX2dVT2NUVUsyUF9BMlJhcG5HY1ZPQ1A5QjhjSzZZakloUW5iYzNjWkdGOGs3X2VST0pLVEFwRGhuZHZmck1IZkk?oc=5",
+        "published": "Wed, 11 Nov 2026 10:30:00 GMT",
+        "published_ts": 1794393000.0,
+        "priority_score": 14
+      }
+    ],
+    "priority_score": 20
+  },
+  {
     "cluster_id": "b81a7747a4",
     "theme_title": "Kotak Mahindra Bank: Citi raises target to Rs 565 on execution, not a reset - Business Upturn",
     "date": "Fri, 13 Nov 2026",
@@ -60,10 +98,10 @@
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQM285dDFtRjRfUGo5dHlRd1E5U3VwNEZOcTdRRW9SaDBpM0V3VFg4UlRVNjd6a0ZtMmJNdXJnRnZubmo2eGlKZmFTMktyN2ItY3ZkcnpreThURFZhQkl4OFA1UndBZFVuR3lMSXdLNldTMWRwNXJuN3dJdVBGbnR0OVM5cHU2SUgyLXRCb0I2NzFWX1NUcTgwV2FMa0VNUTUwUW93QkF1a0RnZExpUmdEUjVweEFYUUhaT2NoVnhMZE5kQjF1MnkzeWFlRTFWMXFIeW9nOUxLSG5rTldsYm1ac1dvYjFFcENrcGdieXF1aGsyQ2cxNk1ZMXVLSEVtU0xKVWlEcGpB?oc=5",
         "published": "Thu, 12 Nov 2026 12:43:25 GMT",
         "published_ts": 1794487405.0,
-        "priority_score": 35
+        "priority_score": 31
       }
     ],
-    "priority_score": 35
+    "priority_score": 31
   },
   {
     "cluster_id": "12476717c6",
@@ -132,36 +170,6 @@
     "priority_score": 16
   },
   {
-    "cluster_id": "04908b6994",
-    "theme_title": "Kotak Mahindra Bank advances Thursday, underperforms competitors - MarketWatch",
-    "date": "Thu, 12 Nov 2026",
-    "published_ts": 1794479400.0,
-    "article_count": 2,
-    "outlets": [
-      "MarketWatch"
-    ],
-    "summary": "Kotak Mahindra Bank advances Thursday, underperforms competitors MarketWatch",
-    "sources": [
-      {
-        "outlet": "MarketWatch",
-        "title": "Kotak Mahindra Bank advances Thursday, underperforms competitors - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONWFjX3lNMndLeFJfdi1rUFBTeTdzcnFqRWtsUWxZRF96T2NWR3BWbGtBOVJzUXlsUTJyb0pQWUVIWVVlaU9wSG9QLWk4b2NndHdJQWpqSjBpZ0padEhHOTlPd1RwZWh2TklaMlBhMG9kNnBkajFyQzhLTENIUVNPWjdfbzJvZFJ6YnN3SWY5UzhHVk9HanZKMFBKbXU0al9VT1MyY0VGMkNGUkdYQW0yZGVQX0lPLXVZOGhJYVBhMFB4UjNWQTJpZGNVWEp3ZXp2T1NGYU1xWjM?oc=5",
-        "published": "Thu, 12 Nov 2026 10:30:00 GMT",
-        "published_ts": 1794479400.0,
-        "priority_score": 16
-      },
-      {
-        "outlet": "MarketWatch",
-        "title": "Kotak Mahindra Bank climbs Wednesday, outperforms competitors - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1RLMGU4QnJWUVZXVm5PQ0hUX3NDcXhuS3V1Njg5OXo1ZDFkWFR2ck9rRU1ZTG40UEJGV1pGU2ZKem52TG1MVUxhWUgyaVhnLXN2N3ZDb2JqTHlocFNqWFhqRXF3RVBvVER0VnRuaUlBam9XajZud3ZRUXFDMlF6S1piaUZDeUxGazhFcTUyX2dVT2NUVUsyUF9BMlJhcG5HY1ZPQ1A5QjhjSzZZakloUW5iYzNjWkdGOGs3X2VST0pLVEFwRGhuZHZmck1IZkk?oc=5",
-        "published": "Wed, 11 Nov 2026 10:30:00 GMT",
-        "published_ts": 1794393000.0,
-        "priority_score": 14
-      }
-    ],
-    "priority_score": 16
-  },
-  {
     "cluster_id": "51cdaafcaa",
     "theme_title": "Kotak Mahindra Bank (NSE:KOTAKBANK): What Does the Rs 20 Lakh Court Fine Mean? - Kalkine India",
     "date": "Thu, 12 Nov 2026",
@@ -208,7 +216,7 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUlZcnVBWnRnY0M4WWQyVFllZEpTUlhKVFpVU0oycUdZVkNhTl8tLXAydGx4R1pmVi13QWk5NHYtam54UE8xQjNxR21zLV8zMUdBdlVGWjJfZ2RTRTJMUDdCUHIyanFzNjhXMEo0Nm5DeGJVd0x0dk1zRVFuQWFSTTQxWE9fTy1EOWYzSFgyNWktS1k0NW1GaEY1YW5XYWY5bDAxdEJLcHRnbWp3TEJGUVFFbw?oc=5",
         "published": "Wed, 11 Nov 2026 12:20:10 GMT",
         "published_ts": 1794399610.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
     "priority_score": 31

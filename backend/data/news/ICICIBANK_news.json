@@ -1,5 +1,71 @@
 [
   {
+    "cluster_id": "dbd311274c",
+    "theme_title": "BEML share price falls after hitting 52-week high: ICICI Direct sees 39% upside in defence PSU stock\u2014should you buy?",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794586292.0,
+    "article_count": 1,
+    "outlets": [
+      "LiveMint - Markets"
+    ],
+    "summary": "BEML shares fell 1.23% on Friday but gained 7.64% for the week. ICICI Securities maintained a Buy rating and set a target price of \u20b92,765, citing a strong rail and metro order pipeline and growth prospects. BEML\u2019s Q2FY27 net profit declined 30.5% as expenses rose.",
+    "sources": [
+      {
+        "outlet": "LiveMint - Markets",
+        "title": "BEML share price falls after hitting 52-week high: ICICI Direct sees 39% upside in defence PSU stock\u2014should you buy?",
+        "url": "https://www.livemint.com/market/stock-market-news/beml-share-price-falls-after-hitting-52-week-high-icici-direct-sees-39-upside-in-the-defence-psu-stock-should-you-buy-11794580770478.html",
+        "published": "Fri, 13 Nov 2026 21:41:32 +0530",
+        "published_ts": 1794586292.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 35
+  },
+  {
+    "cluster_id": "b962a13855",
+    "theme_title": "Free Insurance, Movie Benefits To Go: What ICICI Bank Credit Card Users Need To Know - Outlook Money",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794567896.0,
+    "article_count": 1,
+    "outlets": [
+      "Outlook Money"
+    ],
+    "summary": "Free Insurance, Movie Benefits To Go: What ICICI Bank Credit Card Users Need To Know Outlook Money",
+    "sources": [
+      {
+        "outlet": "Outlook Money",
+        "title": "Free Insurance, Movie Benefits To Go: What ICICI Bank Credit Card Users Need To Know - Outlook Money",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRm5SbDQ5WjJyQ240Y3pFSHd4eXctdnM0NGl5eWV2YUdHYUp6REdneTdSbmVjY3Q1NGF1R3JHRnJjS21QZUE2UlY4SUg2bTZlVnoxanBRNE45RGxra2tRN2ZPVXBDVmJOaEd3LXpldWRpeGxUZEdfMmE4ZkJxTzRPX2ZkVFZTUWZoeUJhSHdKYUcyRDBxMHBCcjh5eUc5bGZ3M29lZnRYd3NjS1JIREhxYnJDbjR0MUdkLXhV0gHIAUFVX3lxTE1CUWU0Qmd2S0dlU09ZdVhvUGNnbEt5WXBvVEw1RldfOFFnVVJPb05KT2swWEFyOVB1UnFqMzB2aDVfLWF3Um90M2haenlEUTZGT25YVGR1cmVUSUstYW0tTV9JQmN2X25ONEtTc0p3UWU3LWhJTXVYYmxZZDlldUN0eFM5VmNtZ2dZeEFhUXpjU0hCR2JQM0pKdWxMUGpDa0ltUFp5SFVTSERSMlZNRmY0NDE2eUFPT2pNd245aXg0VFdnTkRwcUhh?oc=5",
+        "published": "Fri, 13 Nov 2026 11:04:56 GMT",
+        "published_ts": 1794567896.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "bc99eccb73",
+    "theme_title": "ICICI Bank slides Friday, outperforms competitors - MarketWatch",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794565920.0,
+    "article_count": 1,
+    "outlets": [
+      "MarketWatch"
+    ],
+    "summary": "ICICI Bank slides Friday, outperforms competitors MarketWatch",
+    "sources": [
+      {
+        "outlet": "MarketWatch",
+        "title": "ICICI Bank slides Friday, outperforms competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbklubjQzcWRybXlaQXVRamY2UFBvV0hEelJZeWdnWU1Nb3lMM1pCZzlja0pOemNxcE53Z0pZam1obFhsUmQ4Si1SUmIwbzVoWTZhdUllVGRMLVdJeWlPamdFMWtsUGFCQnJPU2FNZWtUVXg5UjBQd0s3a1NoSEhvbVU4RnJDdThHeEYxak05SVo2bW1mX1FZMGVJN1dIR1l6T1hZdmYxbnlpWk1JVUpnSktJODBXZ1BWdzhzWFpHR0xoQnZH?oc=5",
+        "published": "Fri, 13 Nov 2026 10:32:00 GMT",
+        "published_ts": 1794565920.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
     "cluster_id": "8fa67f8cf3",
     "theme_title": "ICICI Bank sees RBI hiking rates 25 bps in Dec | Tap to know more | Inshorts - Inshorts",
     "date": "Fri, 13 Nov 2026",
@@ -157,97 +223,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3NWSC13bkstNEZLbkNmendwR1lza1VzZkR4QkRKQllYMHVmam90LVp5WkNVN1h6bnp3eE9KT1V6aTlXemZPT211T2dVUWI5NDRyTVo1cU15endrMkFXN2VESUstZ1Z1UlQ4QnFteXVXNlZtbXUxVWV0WGwwcGZhLWNoNFdVNnp0SGt3VjBWZnFQamZtbHZPTEZHUXBnWXpDc3QxM0FpSXpJRnVSMGgwQ1NVSkNZMlRteDZmWEh6NVdCbHRYeExuRlJzT1dhSlFsSWJld3dR0gHbAUFVX3lxTE5JZVc2WnFDS2ZoQUxQTGJLNHFGa2x4RGZIWC1UTXZJRWNJTXdGMVBLc21HVXh6ajZIS21TamhrRTJ0M3JSX3M0bmRBUkJOVVlmeE9iOHJXYUNmeHh5YmJOU1dQNnhENFN5alE3VXlCZ21kUkhhWTJxQUh5RzlBTl9ERGdyc0FCUEU5VjgxQ2V1RGVSLVRBb2RXdFdLVEhuN2xiZkpHalhFZW1kQkZhREZoT2tTSEthNFI1MkZ0Mkt5NUpqLTBLMjUyYmRPbW5KUXl4Z0Q2WWlyN2lmdw?oc=5",
         "published": "Fri, 13 Nov 2026 05:04:18 GMT",
         "published_ts": 1794546258.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "6bb77cfe0e",
-    "theme_title": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Trading Status",
-    "date": "Fri, 13 Nov 2026",
-    "published_ts": 1794539410.0,
-    "article_count": 3,
-    "outlets": [
-      "Economic Times - Stocks",
-      "Univest"
-    ],
-    "summary": "",
-    "sources": [
-      {
-        "outlet": "Economic Times - Stocks",
-        "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Trading Status",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-13-nov-2026/liveblog/135787540.cms",
-        "published": "Fri, 13 Nov 2026 08:40:10 +0530",
-        "published_ts": 1794539410.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "Univest",
-        "title": "ICICI Bank Share Price: 19.2% CAGR vs SBI, Axis Bank - Univest",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDVNVlJfN0xvZnlZZWtEMzBVa1RkQVZZbzcwVE04MU9yMWs1QUY5RXcxWXBKTlRGd1p6UDU2SlVIZzBmS2xYUmxDV1poTjlqOV9yR1VFamVobjVrTktvbTdOS1BfZ09MMks3UVk2QTlUR2JYX3d4S0xJNjhtUFZLTUlsNTdQNFl2SVJ4UmtGREY?oc=5",
-        "published": "Wed, 11 Nov 2026 05:26:00 GMT",
-        "published_ts": 1794374760.0,
-        "priority_score": 29
-      },
-      {
-        "outlet": "Univest",
-        "title": "SBI Share Price: 21.7% CAGR vs ICICI Bank, Axis Bank - Univest",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVEpLdkdmWGNHR245aXB1V0xSVFAyS3ZCMENvcU9ra1k3WDNmVTRnWXlXdGNFbFZxLVd6YlJydEVvSmN4NlJ3TVRQYzFCUWQ5bTBpaDNSdzRfTDZ1bUhlVnhadU80ZGNUdFg2TjV5blRiUUp6QUFhRVhteGVLTFgtTWd1b2ZkcDR6SXpCVV96N1k?oc=5",
-        "published": "Wed, 11 Nov 2026 05:21:00 GMT",
-        "published_ts": 1794374460.0,
-        "priority_score": 29
-      }
-    ],
-    "priority_score": 41
-  },
-  {
-    "cluster_id": "d5c17be51c",
-    "theme_title": "ICICI Bank Share Price Prediction for Tomorrow: 13 Nov 2026 - Univest",
-    "date": "Thu, 12 Nov 2026",
-    "published_ts": 1794498081.0,
-    "article_count": 2,
-    "outlets": [
-      "Univest"
-    ],
-    "summary": "ICICI Bank Share Price Prediction for Tomorrow: 13 Nov 2026 Univest",
-    "sources": [
-      {
-        "outlet": "Univest",
-        "title": "ICICI Bank Share Price Prediction for Tomorrow: 13 Nov 2026 - Univest",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGdyTWR4QUN1dms2ZmFHQm5TVkhLYnRGX0wwSmFlS000aURReEdtX2R3SnF3UVhtSF92QnNDZk9JejFSamFtYVpOcHhpejl1NWl3TWlRcERISERldVBfYWFwaGpFV05EYTEzQ3cwQ2lGYWtPemFWbEx5SU1kZENrNklCYWNRRVIzREdvR0VKbjIyQQ?oc=5",
-        "published": "Thu, 12 Nov 2026 15:41:21 GMT",
-        "published_ts": 1794498081.0,
-        "priority_score": 35
-      },
-      {
-        "outlet": "Univest",
-        "title": "ICICI Bank Share Price Prediction for Tomorrow: 12 Nov 2026 - Univest",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV0RpSC1RbXdHXzlxYmJ1ZlpNeWtxdGlMdjV5SFFUY1U3Rl9aZ3ZES1BLUE83R3NFTTBTZURhV05mN3ZUM25tODFIOExEd3pGYXVPT0tNVklLMkNJRF82WG9tSDNERUR2cS1nT0QzOU9oZnN1U0RyeDRhbUJwSjk2dzdyZUI5UGhnQU1LbkNDUjhQdw?oc=5",
-        "published": "Wed, 11 Nov 2026 17:26:55 GMT",
-        "published_ts": 1794418015.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "7ad74718db",
-    "theme_title": "ICICI Bank: Intraday high, the closing reversal and what t - Kalkine India",
-    "date": "Thu, 12 Nov 2026",
-    "published_ts": 1794495120.0,
-    "article_count": 1,
-    "outlets": [
-      "Kalkine India"
-    ],
-    "summary": "ICICI Bank: Intraday high, the closing reversal and what t Kalkine India",
-    "sources": [
-      {
-        "outlet": "Kalkine India",
-        "title": "ICICI Bank: Intraday high, the closing reversal and what t - Kalkine India",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTk0TkZVX1VyczBlT0ZGRWl6WkVIdmRtaTNqWm5vY05GRFMyRlpnUkV0dkRKTkRLZHZBUWZURDZPblQ0U0ZkSWhXMGh4N2FJRHpCZTZhVUFwVno0T1dMbWJHVk52QjNjRldaemt3M1djS3JRMEhlSlFTenRnN0IzVEU4dmhwdEI0cmxBN2tDZUZNeGZGSkg2dHNKNnRjNV9QUlp1MWNQeEt2Yjh1SEx0dWJxNA?oc=5",
-        "published": "Thu, 12 Nov 2026 14:52:00 GMT",
-        "published_ts": 1794495120.0,
         "priority_score": 20
       }
     ],

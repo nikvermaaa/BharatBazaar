@@ -1,5 +1,27 @@
 [
   {
+    "cluster_id": "131df79ff6",
+    "theme_title": "Multiple lenders' involvement delaying loan; spectrum renewal not to hit services: Vodafone Idea CEO",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794580050.0,
+    "article_count": 1,
+    "outlets": [
+      "Economic Times - Industry"
+    ],
+    "summary": "Vodafone Idea is experiencing delays in securing a loan from the SBI-led consortium, affecting its plans. The company's CEO, Abhijit Kishore, mentioned that funds from private and foreign banks are sufficient for current capex. Vodafone Idea is working on plans to upgrade its network by 2027 and enhance competitiveness. Its average revenue per user has shown improvement, although losses have increased due to exceptional items.",
+    "sources": [
+      {
+        "outlet": "Economic Times - Industry",
+        "title": "Multiple lenders' involvement delaying loan; spectrum renewal not to hit services: Vodafone Idea CEO",
+        "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/multiple-lenders-involvement-delaying-loan-spectrum-renewal-not-to-hit-services-vodafone-idea-ceo/articleshow/135806751.cms",
+        "published": "Fri, 13 Nov 2026 19:57:30 +0530",
+        "published_ts": 1794580050.0,
+        "priority_score": 37
+      }
+    ],
+    "priority_score": 37
+  },
+  {
     "cluster_id": "5b1a0e5257",
     "theme_title": "SBI Success Story: How It Became India's Top PSU Bank - Business Outreach Magazine",
     "date": "Fri, 13 Nov 2026",
@@ -22,44 +44,35 @@
     "priority_score": 20
   },
   {
-    "cluster_id": "a689577cfa",
-    "theme_title": "SBI Share Price - Live NSE: SBIN Stock Price & Chart - Upstox",
+    "cluster_id": "026bdf1ca1",
+    "theme_title": "SBI Share Price Highlights: SBI Stock Price History",
     "date": "Fri, 13 Nov 2026",
     "published_ts": 1794539767.0,
-    "article_count": 3,
+    "article_count": 2,
     "outlets": [
-      "Upstox",
       "Economic Times - Stocks",
-      "NDTV Profit"
+      "Upstox"
     ],
-    "summary": "SBI Share Price - Live NSE: SBIN Stock Price & Chart Upstox",
+    "summary": "",
     "sources": [
       {
-        "outlet": "Upstox",
-        "title": "SBI Share Price - Live NSE: SBIN Stock Price & Chart - Upstox",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPa0lHTFVCTVBxWVRmVXR6cE5FMDhDc25ublZmbVllcFgyMU0wZF9NZmdZQWVjQmJrd0tPSFN2OUdVRnpfVVBWdDFCMmRPSkZFc1R4cFIyOGdMSmdtNThoam1zNGN6WnFKbGc?oc=5",
-        "published": "Thu, 12 Nov 2026 17:36:41 GMT",
-        "published_ts": 1794505001.0,
-        "priority_score": 35
-      },
-      {
         "outlet": "Economic Times - Stocks",
-        "title": "SBI Share Price Live Updates: SBI's Current Trading Price",
+        "title": "SBI Share Price Highlights: SBI Stock Price History",
         "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-13-nov-2026/liveblog/135787707.cms",
         "published": "Fri, 13 Nov 2026 08:46:07 +0530",
         "published_ts": 1794539767.0,
         "priority_score": 35
       },
       {
-        "outlet": "NDTV Profit",
-        "title": "State Bank Of India Share Price, Stock Price - NSE/BSE Live - NDTV Profit",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRlpNamxha3p1eVRuMDFHVUVfbmJ2ZTdTajh6dC1ZS3NGYlZkcVlpVndsWnczUmo0SGNaMWFVR2FEbmpZX01LckdnREZYbnNYbzVCbmRSc2VSVGN1VDNtSjJFN28?oc=5",
-        "published": "Wed, 11 Nov 2026 11:17:55 GMT",
-        "published_ts": 1794395875.0,
-        "priority_score": 29
+        "outlet": "Upstox",
+        "title": "SBI Share Price - Live NSE: SBIN Stock Price & Chart - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPa0lHTFVCTVBxWVRmVXR6cE5FMDhDc25ublZmbVllcFgyMU0wZF9NZmdZQWVjQmJrd0tPSFN2OUdVRnpfVVBWdDFCMmRPSkZFc1R4cFIyOGdMSmdtNThoam1zNGN6WnFKbGc?oc=5",
+        "published": "Thu, 12 Nov 2026 17:36:41 GMT",
+        "published_ts": 1794505001.0,
+        "priority_score": 31
       }
     ],
-    "priority_score": 47
+    "priority_score": 41
   },
   {
     "cluster_id": "dec79728b6",
@@ -176,9 +189,10 @@
     "theme_title": "SBIN Share Price Today - State Bank of India on NSE/BSE - scanx.trade",
     "date": "Thu, 12 Nov 2026",
     "published_ts": 1794445861.0,
-    "article_count": 1,
+    "article_count": 2,
     "outlets": [
-      "scanx.trade"
+      "scanx.trade",
+      "NDTV Profit"
     ],
     "summary": "SBIN Share Price Today - State Bank of India on NSE/BSE scanx.trade",
     "sources": [
@@ -189,9 +203,17 @@
         "published": "Thu, 12 Nov 2026 01:11:01 GMT",
         "published_ts": 1794445861.0,
         "priority_score": 31
+      },
+      {
+        "outlet": "NDTV Profit",
+        "title": "State Bank Of India Share Price, Stock Price - NSE/BSE Live - NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRlpNamxha3p1eVRuMDFHVUVfbmJ2ZTdTajh6dC1ZS3NGYlZkcVlpVndsWnczUmo0SGNaMWFVR2FEbmpZX01LckdnREZYbnNYbzVCbmRSc2VSVGN1VDNtSjJFN28?oc=5",
+        "published": "Wed, 11 Nov 2026 11:17:55 GMT",
+        "published_ts": 1794395875.0,
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
+    "priority_score": 37
   },
   {
     "cluster_id": "5796bd2690",
@@ -210,31 +232,9 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdnlQYkR5aXY3SDBEc1kwVHV4b05zSDhwTnliTXl0U2xfT2lZNFZreUd3OWwxeG5kaUtnc3hqcG1yVWdhbWM1ajNPMDNlR2JCWlpVSHJFb1Jtd2wtOTU3QnpJME5xaDhnc1dNUWlLY1dod1F4cF9HZ1pJNzNLRmxGUFgzOGV3TkViV2VmeVVjbmlmb0xuMWp4ckU3N1FaZElaeDFsQVk0a0RYNFlNSGF0dFc5UzNqa2xmd05pYTVTMkRsRURmZlB6NDdiWGJlaGFDSmNkTg?oc=5",
         "published": "Wed, 11 Nov 2026 13:30:00 GMT",
         "published_ts": 1794403800.0,
-        "priority_score": 16
+        "priority_score": 14
       }
     ],
-    "priority_score": 16
-  },
-  {
-    "cluster_id": "508a02bb03",
-    "theme_title": "State Bank of India Rallies 3.03% and Holds Above All Key Moving Averages \u2014 Momentum Intact Amid Sector Gains - MarketsMojo",
-    "date": "Wed, 11 Nov 2026",
-    "published_ts": 1794399736.0,
-    "article_count": 1,
-    "outlets": [
-      "MarketsMojo"
-    ],
-    "summary": "State Bank of India Rallies 3.03% and Holds Above All Key Moving Averages \u2014 Momentum Intact Amid Sector Gains MarketsMojo",
-    "sources": [
-      {
-        "outlet": "MarketsMojo",
-        "title": "State Bank of India Rallies 3.03% and Holds Above All Key Moving Averages \u2014 Momentum Intact Amid Sector Gains - MarketsMojo",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWlSUDBFVmd5U0h0bXFaUk5DVVpsUGg0TFczRGVjX2FoRW16QWUxR1pzdUJNOWpWT1lzT1Q1NGdpVFYxZUktX0FOUkE5WERFWnFJVVdPR29JakJJT3NFMUFlRy1CN0tnNmlWRkIyN2lDUXZmTVFoZWQzNlJvaGxFam9KN1hJTmFoZE5IZjF1THZ0b2ktY3NOdXJ0aDhFUkRaSk5zZ3NKeTJLZVlQRTQ2Y3o3RU5ZcU1seFlfWHhNdkdZTndk?oc=5",
-        "published": "Wed, 11 Nov 2026 12:22:16 GMT",
-        "published_ts": 1794399736.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
+    "priority_score": 14
   }
 ]
