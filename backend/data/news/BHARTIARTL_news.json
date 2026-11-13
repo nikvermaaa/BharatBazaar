@@ -1,222 +1,231 @@
 [
   {
-    "cluster_id": "2873d0de4c",
-    "theme_title": "NIFTY50, SENSEX trade higher after negative open on Nov 12; M&M, Bharti Airtel, IT stocks among top losers - Upstox",
-    "date": "Thu, 12 Nov 2026",
-    "published_ts": 1794455978.0,
+    "cluster_id": "59a42ded51",
+    "theme_title": "Bharti Airtel\u2019s Sunil Mittal says India's mobile tariffs should rise to Rs 350 per month: \u201cEverything is up\u201d - Startup Pedia",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794567637.0,
+    "article_count": 1,
+    "outlets": [
+      "Startup Pedia"
+    ],
+    "summary": "Bharti Airtel\u2019s Sunil Mittal says India's mobile tariffs should rise to Rs 350 per month: \u201cEverything is up\u201d Startup Pedia",
+    "sources": [
+      {
+        "outlet": "Startup Pedia",
+        "title": "Bharti Airtel\u2019s Sunil Mittal says India's mobile tariffs should rise to Rs 350 per month: \u201cEverything is up\u201d - Startup Pedia",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNalFqRmRxR0tUb0tXdFd5QjVSeWlGY3B6OW1xNmE2WFBMN09Rd3RJQWgtbVFYWGNVcDNZT0RSNWc2X1pWaWdwZjJMQi1VV2dMeEg2X0pYenN6ZkZQRG10cWVfc1NYd2NvWFVobHFtMGVIbkg3UEVXRk5VMDFKQ1hsNUN4SFZTNzJQSlR5TFQteXFFTnhBSjNKdHphM3pFRlpZREM1YWtxUW5BTTg3THNzUE8wOA?oc=5",
+        "published": "Fri, 13 Nov 2026 11:00:37 GMT",
+        "published_ts": 1794567637.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "a6c22ce7c2",
+    "theme_title": "Motilal Oswal Financial Services projects Bharti Airtel shares at \u20b92,400 - NewsBytes",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794567606.0,
+    "article_count": 1,
+    "outlets": [
+      "NewsBytes"
+    ],
+    "summary": "Motilal Oswal Financial Services projects Bharti Airtel shares at \u20b92,400 NewsBytes",
+    "sources": [
+      {
+        "outlet": "NewsBytes",
+        "title": "Motilal Oswal Financial Services projects Bharti Airtel shares at \u20b92,400 - NewsBytes",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVFUUU51X2ZzV1d6ZWNwbjd4d0NHRnA5QmFFMFN4V1FDZC10YnVJVEdXbjNWWUdGaWFxSU1fSTZDSmNyaUs0Z3BGZl9Hb3NjYkg2cmZjLVh1eHVTa3dCQ1lBOGF6NVMzQ1hMRG9XX2NWVHZTV0dpU1k2dS1xTlB5ZTZoVmdpMGV2Z1QySk5SZ3d5NHZGaXltcmxBR1l4OXM2OGV0NlRvRXM4emo1X21uLWFSM3RGQXVfVHVsYQ?oc=5",
+        "published": "Fri, 13 Nov 2026 11:00:06 GMT",
+        "published_ts": 1794567606.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "7448411fde",
+    "theme_title": "JSW Motors partners with Amazon Web Services to host connected-car data",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794567289.0,
+    "article_count": 1,
+    "outlets": [
+      "Economic Times - Industry"
+    ],
+    "summary": "JSW Motors has announced a partnership with Amazon Web Services to host its connected-car platform in India. The data generated will remain under the ownership of JSW Motors, ensuring local control. The automaker is preparing to launch its first vehicle manufactured in Maharashtra in the coming months. Additionally, Tata Elxsi will handle localisation of the telematics control unit as connectivity will operate on Airtel\u2019s network.",
+    "sources": [
+      {
+        "outlet": "Economic Times - Industry",
+        "title": "JSW Motors partners with Amazon Web Services to host connected-car data",
+        "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/jsw-motors-partners-with-amazon-web-services-to-host-connected-car-data/articleshow/135799958.cms",
+        "published": "Fri, 13 Nov 2026 16:24:49 +0530",
+        "published_ts": 1794567289.0,
+        "priority_score": 12
+      }
+    ],
+    "priority_score": 12
+  },
+  {
+    "cluster_id": "fe45f559fe",
+    "theme_title": "Top gainers and losers, Nov 13: Shriram Finance, Tata Motors PV fall 3%; Eicher Motors, Bharti Airtel rise over 1% - Upstox",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794566151.0,
     "article_count": 1,
     "outlets": [
       "Upstox"
     ],
-    "summary": "NIFTY50, SENSEX trade higher after negative open on Nov 12; M&M, Bharti Airtel, IT stocks among top losers Upstox",
+    "summary": "Top gainers and losers, Nov 13: Shriram Finance, Tata Motors PV fall 3%; Eicher Motors, Bharti Airtel rise over 1% Upstox",
     "sources": [
       {
         "outlet": "Upstox",
-        "title": "NIFTY50, SENSEX trade higher after negative open on Nov 12; M&M, Bharti Airtel, IT stocks among top losers - Upstox",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaDVSaEw2TUtCUXZ4QUp1Zktqb1NNbjlTSHlaWXE3WXgySV84TXJSVFhJRFB2am10UXZQb2R5LWpDRjhSQ1ZCYkVkTkI4SHk4RjRTbEx1RkhVVVJjUjFVY0JhVkgwa3hUNFRKd1Vtd0RsU1RRaTNCM1NnZlhoMHRXdDFaM015a0hkOUsteXRFQkd4X1lCaUxwcG9LY2htMXBhcHg2TVBLZnFWWUtVOGVCZjFMRGRvUWlHRUJXSjJIZGJvdDBXQXlUemFMZlRnVENtSUdkM05jaEROZVZiMGhDRXBzZ055UmMtXzI1NUFSVl9JbzVSZkZ0WnNB?oc=5",
-        "published": "Thu, 12 Nov 2026 03:59:38 GMT",
-        "published_ts": 1794455978.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "7d1f830604",
-    "theme_title": "Airtel wins best home internet tag, leads over rivals in overall speeds: Opensignal study - ET Telecom",
-    "date": "Wed, 11 Nov 2026",
-    "published_ts": 1794437964.0,
-    "article_count": 1,
-    "outlets": [
-      "ET Telecom"
-    ],
-    "summary": "Airtel wins best home internet tag, leads over rivals in overall speeds: Opensignal study ET Telecom",
-    "sources": [
-      {
-        "outlet": "ET Telecom",
-        "title": "Airtel wins best home internet tag, leads over rivals in overall speeds: Opensignal study - ET Telecom",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQjJ0cnZEcl9OQXVBcUVHSFB5Y1FrYnZtcUg5cllBTlRoSmtTT1diVDMwZmZReXpZQ2VqYS04d091eGtSeEpLdEJNOFdzbVhFbjVBLXJrd2lIbmRNWkFxaXhDdks3NFRpWFlZa3JEQ0xNeENCYkxwaWI3ME5OV2RoQVJwMWo5SHN6N1dkUmpOZHlDSHBLc3VuS2NIbDdsSVZIVVhZQmpTTWt3V2w5TjRQX3dMcnlHMXotenVUTHJXSnlVQ29jcDNtMDV0am9DbmhDUXJtbFhWR0otZ0t5RVdGSko2ckNnMlZUd0tzWNIB8gFBVV95cUxORkZOZlJ6N1RFRnNfMGZZMDVvbS1PNDFqMkFaNENhaDVfa0VVa3M5bi0tNnZlQ2R0ODRZRFJ0TVZraldJRE9IeExYWlR3YkpfR1ZqcGwzYVI5UE5FemhQVUJrWk92ejFwc01sWWxLMUVoaDdaZnZjTFBsTUdTaEJuRXBwcE5zRjF0TGFDSnlSNkdjcllLQ2RZNDlMUXBWZnNPN2poUGpKVkVyMTAyWGpvTGxvdTFkeDdNTnlJSTB4Vi1JeU9QM29BTnJBYkt1bEE2QWhZLWdXLWNYaElvNHU0V3lYdnVMUmc3OV9iaVRkLWNxdw?oc=5",
-        "published": "Wed, 11 Nov 2026 22:59:24 GMT",
-        "published_ts": 1794437964.0,
+        "title": "Top gainers and losers, Nov 13: Shriram Finance, Tata Motors PV fall 3%; Eicher Motors, Bharti Airtel rise over 1% - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNLVR5MWI3TEhLUUZqVXdpdkNTTDFLWG5rRWYtZW5hSUNsWkF5ZkVINmdRdTlHVS0xdG14ZTdzdFNGYV9wbjF1T2tNc3VnWVpfQkFKT0lDQXRNQ0ZSRzlXbEVXRi1NMXF1cl9HeDhqVnRPM3BSdHRZZ2xaaEJCdnUtelFGTGRQZ1hteGw4UXhUMVY0N3IwblhWS0V1Q3c3eG9XUlFqbEpTVHQ2dlEzUWN3bzczT09vakgxc2x2X1g0S3VlYXNMUjNLQzZFcVd5YlY2dlpHdE5MckdUVXFUb28zYzdQNi1pS0QwWWdwZ3VBWVRGR2U4dlRKLVln?oc=5",
+        "published": "Fri, 13 Nov 2026 10:35:51 GMT",
+        "published_ts": 1794566151.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "9a484e1acf",
-    "theme_title": "Bharti Airtel Limited (BHARTIARTL.BO) stock price, news, quote and history - Yahoo Finance Singapore",
-    "date": "Wed, 11 Nov 2026",
-    "published_ts": 1794424097.0,
+    "cluster_id": "b336fc42dd",
+    "theme_title": "Bharti Airtel share buyback soon? How Sunil Bharti Mittal's telecom giant is rewarding investors - Business Today",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794559448.0,
     "article_count": 1,
     "outlets": [
-      "Yahoo Finance Singapore"
+      "Business Today"
     ],
-    "summary": "Bharti Airtel Limited (BHARTIARTL.BO) stock price, news, quote and history Yahoo Finance Singapore",
+    "summary": "Bharti Airtel share buyback soon? How Sunil Bharti Mittal's telecom giant is rewarding investors Business Today",
     "sources": [
       {
-        "outlet": "Yahoo Finance Singapore",
-        "title": "Bharti Airtel Limited (BHARTIARTL.BO) stock price, news, quote and history - Yahoo Finance Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JUXpKdlpGUDQyZ2p1X09wck05ZUtsdTdxb3FaOUZHa3AyYThXTlVyYjdjczRNWlM1cGNlWmxtT193ZWc5b0ktSkk5MzNhbUlwSnFtX1RLY01oS1NESlE?oc=5",
-        "published": "Wed, 11 Nov 2026 19:08:17 GMT",
-        "published_ts": 1794424097.0,
-        "priority_score": 35
+        "outlet": "Business Today",
+        "title": "Bharti Airtel share buyback soon? How Sunil Bharti Mittal's telecom giant is rewarding investors - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTzdJeFRFQUtuY3llQ1NWbWJINmxiS0dMeDJNcEpqbXVRVTFfM2FIZ2w0U3hLTVZ5WXJKOTFKMTk0NW9RdmQzMjgxb19mc3FVNkRIQ2huNDMtaTYyZmRSeWN4VkVwTG5qd05iZ3NwcTFHOWxPeG1RRlVhaTRrQjRmNUozLXhIVkszOVBhU08tNTM5UmtjWk5TV251V0JkNEh1ZjZqcHhabUpfTk84VE5aMEtXX0FlNE82U2w5N1ZwNUk2MTFQZHBCeERqQjdLcTV1NEdpck1IY3F0VnpzREtUbXhqR2dXV050OURuOVMwOGU5RWctOVB3bWFn0gH6AUFVX3lxTE9PN0l4VEVBS25jeWVDU1ZtYkg2bGJLR0x4Mk1wSmptdVFVMV8zYUhnbDRTeEtNVnlZcko5MUoxOTQ1b1F2ZDMyODFvX2ZzcVU2REhDaG40My1pNjJmZFJ5Y3hWRXBMbmp3TmJnc3BxMUc5bE94bVFGVWFpNGtCNGY1SjMteEhWSzM5UGFTTy01MzlSa2NaTlNXbnVXQmQ0SHVmNmpweFptSl9OTzhUTlowS1dfQWU0TzZTbDk3VnA1STYxMVBkcEJ4RGpCN0txNXU0R2lyTUhjcXRWenNES1RteGpHZ1dXTnQ5RG45UzA4ZTlFZy05UHdtYWc?oc=5",
+        "published": "Fri, 13 Nov 2026 08:44:08 GMT",
+        "published_ts": 1794559448.0,
+        "priority_score": 20
       }
     ],
-    "priority_score": 35
+    "priority_score": 20
   },
   {
-    "cluster_id": "c1cad1fc4d",
-    "theme_title": "Bharti Airtel Ltd (BOM:532454) (Q2 2027) Earnings Call Highlights: Strong Cash Flow, Record ... - Yahoo Finance",
-    "date": "Wed, 11 Nov 2026",
-    "published_ts": 1794423732.0,
-    "article_count": 1,
+    "cluster_id": "7d5a2dbaf6",
+    "theme_title": "BHARTIARTL Share Price Today - Bharti Airtel on NSE/BSE - scanx.trade",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794559272.0,
+    "article_count": 2,
     "outlets": [
-      "Yahoo Finance"
+      "scanx.trade",
+      "Upstox"
     ],
-    "summary": "Bharti Airtel Ltd (BOM:532454) (Q2 2027) Earnings Call Highlights: Strong Cash Flow, Record ... Yahoo Finance",
-    "sources": [
-      {
-        "outlet": "Yahoo Finance",
-        "title": "Bharti Airtel Ltd (BOM:532454) (Q2 2027) Earnings Call Highlights: Strong Cash Flow, Record ... - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzN0aHRRVG4xcE11V1BKZ1J3M1kyQTRPSkc1MHRYNk5GMVJTNkljMFN1UzJfSjYtTmduZHZleV9nWGRSdENfWEQxTHMzZEdqb1ZWODZsVEhHU192Y3NQLVVzbi16N0x0bHNqYVlad09Pa1Q5RlE3OEhaRnZVWkg3dnFJZDlfaVQzbE1DSlVselZsd091Y0NmXw?oc=5",
-        "published": "Wed, 11 Nov 2026 19:02:12 GMT",
-        "published_ts": 1794423732.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "25a2b7729c",
-    "theme_title": "Bharti Airtel schedules analyst meets in Mumbai and Singapore for Nov 2026 - scanx.trade",
-    "date": "Wed, 11 Nov 2026",
-    "published_ts": 1794403407.0,
-    "article_count": 1,
-    "outlets": [
-      "scanx.trade"
-    ],
-    "summary": "Bharti Airtel schedules analyst meets in Mumbai and Singapore for Nov 2026 scanx.trade",
+    "summary": "BHARTIARTL Share Price Today - Bharti Airtel on NSE/BSE scanx.trade",
     "sources": [
       {
         "outlet": "scanx.trade",
-        "title": "Bharti Airtel schedules analyst meets in Mumbai and Singapore for Nov 2026 - scanx.trade",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUi1JNk5LX3RLX3diNG1ocW01bDdCWVp4c1d5WW9wdDd1RUI3QV81WkJ0ZG5GT3R6ZUF0WjY2cVd4XzFaYzhSd0lwdTdVTDMzaURxV2pTZmhZd3ZsUlhsbzNNMVUxUnZQMkVvTFBjZmIxZlppeGVXdkxfNW0zekhSTmdyX1V2XzdnWmlySHlfNnNsZ0dHa2VYUWhPYUZDbzItci1aQUlYRUJsOW9LQXdQOWZyV3hLYnpmbWR3Tg?oc=5",
-        "published": "Wed, 11 Nov 2026 13:23:27 GMT",
-        "published_ts": 1794403407.0,
+        "title": "BHARTIARTL Share Price Today - Bharti Airtel on NSE/BSE - scanx.trade",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NenFfV0tfelcwTUZ5SVFva2hGZUdqekowbmVqMXpIQnFRVkgwakU4MlpTUHNSVzU0Z2dXQzRpNW1zVl9pVndxWFVSRzhKTnhPWnVqa09hbUk?oc=5",
+        "published": "Fri, 13 Nov 2026 08:41:12 GMT",
+        "published_ts": 1794559272.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "Upstox",
+        "title": "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yVGN2YlBzbU5xc0FJSkctUlVUMzAzSHdiOENtSzV1TlJyZHhSVGZIVVVyUEw0MVpwMm1HVDRxOGM3akMyaGhNaUZUZ09TQ0N4b2Vjd3lLaW1DaEg4QXRJbU5BQjZJcjN3MGlBSQ?oc=5",
+        "published": "Thu, 12 Nov 2026 05:37:34 GMT",
+        "published_ts": 1794461854.0,
+        "priority_score": 31
+      }
+    ],
+    "priority_score": 41
+  },
+  {
+    "cluster_id": "3d2d8ad274",
+    "theme_title": "Bharti Airtel Debt Reduction and Buyback Prospects - Kalkine India",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794556200.0,
+    "article_count": 1,
+    "outlets": [
+      "Kalkine India"
+    ],
+    "summary": "Bharti Airtel Debt Reduction and Buyback Prospects Kalkine India",
+    "sources": [
+      {
+        "outlet": "Kalkine India",
+        "title": "Bharti Airtel Debt Reduction and Buyback Prospects - Kalkine India",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUNUSTJJRERSNGFtdWpCZzJDdFFpVkZhZVMxLTZRbTdJcmk0dkMyNzR6LU5mMEYtOTVJSlpHTWNIYzMwLXIzdWdUVm0zZERjNGVmLVZtU0NNMUx3OWItUUhHel91dWNRdDdGeEV5ZWU5a1NNWVV3aHBncDFKZnJIN0JIMjFoREpId0RqUFZJZVRZSXpPelZ5Nzl4SUtYQ2U5TTVvZU9EZVhDai1iNmgtdnp4UlZMSXhj?oc=5",
+        "published": "Fri, 13 Nov 2026 07:50:00 GMT",
+        "published_ts": 1794556200.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "ad5ba8061a",
-    "theme_title": "Airtel Reclaims No. 2 Spot, Overtaking Jio Platforms Just Nine Days After Its Blockbuster Listing - Business Connect India",
-    "date": "Wed, 11 Nov 2026",
-    "published_ts": 1794373607.0,
+    "cluster_id": "0f7fcd335d",
+    "theme_title": "Top Gainers & Losers Today, 13 November 2026 at 12:00 PM IST: Bharti Airtel Ltd Leads Gainers - HDFC Sky",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794553991.0,
     "article_count": 1,
     "outlets": [
-      "Business Connect India"
+      "HDFC Sky"
     ],
-    "summary": "Airtel Reclaims No. 2 Spot, Overtaking Jio Platforms Just Nine Days After Its Blockbuster Listing Business Connect India",
+    "summary": "Top Gainers & Losers Today, 13 November 2026 at 12:00 PM IST: Bharti Airtel Ltd Leads Gainers HDFC Sky",
     "sources": [
       {
-        "outlet": "Business Connect India",
-        "title": "Airtel Reclaims No. 2 Spot, Overtaking Jio Platforms Just Nine Days After Its Blockbuster Listing - Business Connect India",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOXzRvT3VGQ0JYZTVjUTJleDM0VGp4c2hOVFNPTUQ4TDhzZi1aMmxZRUNIVE43NUxSZmhEamZjNDZqdzNxa0RRZjlma0xZOHhXS0FLSDFhNk5XSEo2TDI3cFVIaGhlWDFuUS1UNVctdFVYNnAwRzBjNnN6a3hDcTR1QklrdFotZWtNSWtaZ1FCR2FpSGV2T0NsNnVBbFkzZWZueXpZblRmd3JNYmtQZlM3b0t4dGV1NFRGQTFTSUxxaFJfMEpfaGNF?oc=5",
-        "published": "Wed, 11 Nov 2026 05:06:47 GMT",
-        "published_ts": 1794373607.0,
-        "priority_score": 16
+        "outlet": "HDFC Sky",
+        "title": "Top Gainers & Losers Today, 13 November 2026 at 12:00 PM IST: Bharti Airtel Ltd Leads Gainers - HDFC Sky",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVl5VnU2UzhnMUdVSFJla2hiWWJaS3FMN1hOcklVMWdwcTFHN01vSndfenIyRzdSdnQxb0FkTm10bTBnS1ZXYXdpZHVobmNqdnJBN1VuQnoxZHZERHhzSWZFOEF2Zy1iWERsLXBuZmIzclpPazF2NWY2WHdQdXI5MQ?oc=5",
+        "published": "Fri, 13 Nov 2026 07:13:11 GMT",
+        "published_ts": 1794553991.0,
+        "priority_score": 20
       }
     ],
-    "priority_score": 16
+    "priority_score": 20
   },
   {
-    "cluster_id": "9733aae258",
-    "theme_title": "Bharti Airtel Ltd offloads shares of Bharti Infratel Ltd through inter-se transfer - EquityBulls",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794344526.0,
+    "cluster_id": "099614db16",
+    "theme_title": "Bharti Airtel Targets 100-150 Million Subscribers From High ARPU Markets - Sahi",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794552136.0,
     "article_count": 1,
     "outlets": [
-      "EquityBulls"
+      "Sahi"
     ],
-    "summary": "Bharti Airtel Ltd offloads shares of Bharti Infratel Ltd through inter-se transfer EquityBulls",
+    "summary": "Bharti Airtel Targets 100-150 Million Subscribers From High ARPU Markets Sahi",
     "sources": [
       {
-        "outlet": "EquityBulls",
-        "title": "Bharti Airtel Ltd offloads shares of Bharti Infratel Ltd through inter-se transfer - EquityBulls",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFZrNm9hbDhVRjBienNTQmxZOGY4ZUs3ZkVDN2pfRnYyMlZrOTZ1SFFBX19xSTU1SHFLUWZhcFRMN2F6bFJ3VS1xaFhCX2dCdkhiQzdwVHdvMXczY2xsd2J5MHZyQTBRREZqWVpmeDlHNnNmbEpXLUVRcWF4dXRTdE5kSGduZTV0UlNnMUtuUHNQZ2k3VnpKM05Od1RFVUxDbGFmMFFiUGdBaHRnM2tTU1Nrazc5RVZaODhQRg?oc=5",
-        "published": "Tue, 10 Nov 2026 21:02:06 GMT",
-        "published_ts": 1794344526.0,
-        "priority_score": 16
+        "outlet": "Sahi",
+        "title": "Bharti Airtel Targets 100-150 Million Subscribers From High ARPU Markets - Sahi",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbU81YVpvM3pIM0RSUEJwZUpDcWdXTjVBS1Nya0JURWlVUUIzb1ZFLUY0dVE0aUhOWG91Rm9ZdTZFa0xKcmFSR0lBR0lDLXM3dG41em9OV3F3RFMtMllNc0RpTHZmbEFnWG9kVEFiaUFMWlFWLTEtZlQ2MnBwNjFhbmNYa0FyZWREdFY5cjBpRjhpREVXdEZXMS1JXy1lOVE?oc=5",
+        "published": "Fri, 13 Nov 2026 06:42:16 GMT",
+        "published_ts": 1794552136.0,
+        "priority_score": 20
       }
     ],
-    "priority_score": 16
+    "priority_score": 20
   },
   {
-    "cluster_id": "39a1c74a02",
-    "theme_title": "Bharti Airtel reclaims title of 2nd most valuable firm by market valuation - Mid-Day",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794341704.0,
+    "cluster_id": "be2b9e03f0",
+    "theme_title": "Bharti Airtel Founder Sunil Mittal Bats For Mobile Tariff Hikes, Says Rs 10-12 A Day Affordable - ETV Bharat",
+    "date": "Fri, 13 Nov 2026",
+    "published_ts": 1794539617.0,
     "article_count": 1,
     "outlets": [
-      "Mid-Day"
+      "ETV Bharat"
     ],
-    "summary": "Bharti Airtel reclaims title of 2nd most valuable firm by market valuation Mid-Day",
+    "summary": "Bharti Airtel Founder Sunil Mittal Bats For Mobile Tariff Hikes, Says Rs 10-12 A Day Affordable ETV Bharat",
     "sources": [
       {
-        "outlet": "Mid-Day",
-        "title": "Bharti Airtel reclaims title of 2nd most valuable firm by market valuation - Mid-Day",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlZ3eDhRUWdoWlVjcjNiM0JxMExsUG9RNGdoX2NHQ0h6Z3NoZXhWcGVIMXk2eS1wbGd5NDNPYlpnSk5XTlVNNjhKLVh1TlV0MEdfQ2ZIMUNGdnZ4N0RVUEZTUUZ0aGVINHNBcDZqZFZJempCeEZHSUZFdEM3MjYtLUQzQmhmbzRvM3pyS1VoNlJNWVY5Nk1qNnZYRnZ4dFMzWmdWMzBMV0dGSXdJWjVxTzZRb2hQZnBRZzdfa0ZkSzJfcWhLczRscm05NUZvblZJaXdqU2V3YjFqQQ?oc=5",
-        "published": "Tue, 10 Nov 2026 20:15:04 GMT",
-        "published_ts": 1794341704.0,
-        "priority_score": 31
+        "outlet": "ETV Bharat",
+        "title": "Bharti Airtel Founder Sunil Mittal Bats For Mobile Tariff Hikes, Says Rs 10-12 A Day Affordable - ETV Bharat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMUJvRU90dkVyYl91SnJXbmNXM1RsdjB6elBDbEJXT0VHRk9vbUNmbVRkQmxLeHdfc2FFTlk0Ujc5REpuZUR5aHMtNmlpb196N1hQX19sWEpSb0Q0T3NJeXRfMXI2c0VRM091cldxTzIxV0pFVWtJb1JJRnNwV0JGNFlKdFlhTExHak9TV21zYU9aMW40VDlUR3hsX1NKQkVJV0VVTFVFMmk3WmFxeXBLemdkRnNoQzNXa0tqbVhmUDhjdjh5QWxrYTg2Z2hVaXltRy13Z254QVNSZzE3cmpnNVpEQXFTd9IB5gFBVV95cUxNMUJvRU90dkVyYl91SnJXbmNXM1RsdjB6elBDbEJXT0VHRk9vbUNmbVRkQmxLeHdfc2FFTlk0Ujc5REpuZUR5aHMtNmlpb196N1hQX19sWEpSb0Q0T3NJeXRfMXI2c0VRM091cldxTzIxV0pFVWtJb1JJRnNwV0JGNFlKdFlhTExHak9TV21zYU9aMW40VDlUR3hsX1NKQkVJV0VVTFVFMmk3WmFxeXBLemdkRnNoQzNXa0tqbVhmUDhjdjh5QWxrYTg2Z2hVaXltRy13Z254QVNSZzE3cmpnNVpEQXFTdw?oc=5",
+        "published": "Fri, 13 Nov 2026 03:13:37 GMT",
+        "published_ts": 1794539617.0,
+        "priority_score": 20
       }
     ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "fcf8d768ce",
-    "theme_title": "TRAI Assam Railway Network Test: Reliance Jio Leads in 5G Download Speed, Airtel Tops Upload Speed, BSNL and Vodafone Idea Face Coverage Gaps - TelecomLead",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794313652.0,
-    "article_count": 1,
-    "outlets": [
-      "TelecomLead"
-    ],
-    "summary": "TRAI Assam Railway Network Test: Reliance Jio Leads in 5G Download Speed, Airtel Tops Upload Speed, BSNL and Vodafone Idea Face Coverage Gaps TelecomLead",
-    "sources": [
-      {
-        "outlet": "TelecomLead",
-        "title": "TRAI Assam Railway Network Test: Reliance Jio Leads in 5G Download Speed, Airtel Tops Upload Speed, BSNL and Vodafone Idea Face Coverage Gaps - TelecomLead",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTzlTUGdWS1psVVAyVWNXYm1RbjRjZTNSY0RLVUFuazUwX3E2UnlXRHNuaDk0MG4wOXRjam81dHhra3A0RzNiLVEzU1JwT1E4cHN5TnloY2pFN3l1M3pCUjAyc1BreC04YXZYd2w4T1VNbFVSSlFRaUlXUk5NbmUyWVdROHpLUENmUTc1X1RZd3FJbDdjMElLV2xWYnc0cjA2MDY2OERMZzBmS2twenZTUkpYeF8yZGcteFAyMjF1TzZKX2FBb1VCYXBwRGFYMUs1bFFDR3NzWmdJN3NtS0FXaWk5NUItcXpTR2IyLUkzcFRHMGx2SmloaUwwN3lhMkcxNVlzMVFod9IBjwJBVV95cUxOamwwVGlGZDEwLUstWEg4MEMtcE1SeUxJREZaOFUwT1NQZlhvcTJDS1kwRDFmbWlqeVJfM19EQlFadkFMaFkxLThtVEV2UUlacXZUVS1VdVZGMmhyaFZKekxHN3VnTVI3YUozYzdMN2dVdkRBOGhTWFM2Y0NtUkc3dnZCN0RTTUhDQU10V2JpOVNPVWdUSkdCenJxU2Vyd19Va1M3YVVhVUtTbU9TREZtbUpqZDdqOVdEQk11MURxX3ZNTEFqR1l0Q29MSFF5bFdidVV0SC1oOFZNV0hncWhWTHo4dldxTWFrdTFPX01UanpxWE5RQ2tSRTI5RzlvWm90Uk10V1BBcTlYRjF0dWxR?oc=5",
-        "published": "Tue, 10 Nov 2026 12:27:32 GMT",
-        "published_ts": 1794313652.0,
-        "priority_score": 16
-      }
-    ],
-    "priority_score": 16
-  },
-  {
-    "cluster_id": "089ee78693",
-    "theme_title": "Vishwajeet Sinha Joins Airtel As VP \u2013 Marketing - TradingView",
-    "date": "Tue, 10 Nov 2026",
-    "published_ts": 1794303086.0,
-    "article_count": 1,
-    "outlets": [
-      "TradingView"
-    ],
-    "summary": "Vishwajeet Sinha Joins Airtel As VP \u2013 Marketing TradingView",
-    "sources": [
-      {
-        "outlet": "TradingView",
-        "title": "Vishwajeet Sinha Joins Airtel As VP \u2013 Marketing - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEowWFptU3JaTmdobHZzcXJGQTktakgzTWhCaDhTNlNGRk00RlBnem1tVEJWS0ZGWjlXMG1PU1dRcHBHV3BrRTh2UWhNRUR3alFlN1FXTU0yUkgzYzFMcWMzdUtTbXN5WEFTaHZNYVJCeFZPYk03RDQyTzVqS0FzMWs3TE8yUzlnbjFRTEI5b21WSG5tOTJhVzl0MjRxeVdORzVLTg?oc=5",
-        "published": "Tue, 10 Nov 2026 09:31:26 GMT",
-        "published_ts": 1794303086.0,
-        "priority_score": 14
-      }
-    ],
-    "priority_score": 14
+    "priority_score": 20
   }
 ]
