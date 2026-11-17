@@ -1,266 +1,293 @@
 [
   {
-    "cluster_id": "10d7b034c0",
-    "theme_title": "Tata Steel Capacity Expansion Targets 40 Million Tonnes - Urban Acres",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794825698.0,
-    "article_count": 1,
+    "cluster_id": "f0c0d7e499",
+    "theme_title": "Tata Steel targets 50 Mt capacity, to direct 75% of capex to India: TV Narendran - Shanghai Metals Market",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794908880.0,
+    "article_count": 2,
+    "outlets": [
+      "Shanghai Metals Market",
+      "Business Standard"
+    ],
+    "summary": "Tata Steel targets 50 Mt capacity, to direct 75% of capex to India: TV Narendran Shanghai Metals Market",
+    "sources": [
+      {
+        "outlet": "Shanghai Metals Market",
+        "title": "Tata Steel targets 50 Mt capacity, to direct 75% of capex to India: TV Narendran - Shanghai Metals Market",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbmZ5SUtieDd0QzFPc3daNTNOYXVreHlYM3JHMHNPRkxpN1JnTGFNNjJrck4zd0ZSaHVqcUNlMU56T2VvUjdNTU9EaVViNWhUSW9nak1hUDRTQUduUW5nNTJ0NVJpLXE4aTcwN1pkMG14aUIxUFRpb1c4NnVSQk43d0lzSWs1cks4c1FQN1pOZFFqdFpIXzNQLWxBdWdHVkFwUDdKZndTZWlvQlZ6N1hnaE1GRmlzVTdxUHF5LTNyRUhhbGNtQjRzYUhYLWgtRmh3ZXZkQlQ5ZXRLcE84eldDY3QzOGptQWtVSkg0?oc=5",
+        "published": "Tue, 17 Nov 2026 09:48:00 GMT",
+        "published_ts": 1794908880.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "Business Standard",
+        "title": "Tata Steel eyes 50 MT capacity, to direct 75% capex to India: TV Narendran - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVNFUmRRMmtGR2sxSjNQWTI5My1kQ2ZzTUx1M3lrUjdtdHU5QkowMnB2Vll4Tlc0eEo4SUJ6T3l0N1VGOFJWSXdLTVFoUVlzU1ZEOUZoTzlPazRxbHU2ZmJBaXY4VzAyaHlBQUxEczliRGFFeWU4RU41bVlkX1RmNEZWLWc5cTd5QjVaTWZ1Z1dZZ0J5LS1GdTFNXzVoUFdhZ0R5aE8wV1VEd2R2UTNQaFV0ZEROeUx6SU1PcW00UVpFb0tEbi0xaTFQSGtBN2hmTWZMNTVSc9IB3AFBVV95cUxNaXZZc0lDUEJmakE1Ni1zQkRYRVczeW82MDcxQU04VllvT3FpUTJpOHp6cGlrM25XdllxZG4xQ052aURBZVJtbkdHdDNDRzMwbVIxUk0yeW5WcjdEUFllZEMwdkpUUGwzSDNMUXd1cTUwbFpZb1h0RzhTSXo4UHFUSE5CcG5naWRadEthTGhLcFZzcEsxTW5aSE9uUGpEUVYwa3VPVGlSLVhiOTc4Y0JuaDlWUGhIcVVQSExncHo3WDRPRC04TERnZUwwd3psYnYtYTJ5VFU2Mmx0T0xx?oc=5",
+        "published": "Tue, 17 Nov 2026 07:23:59 GMT",
+        "published_ts": 1794900239.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 41
+  },
+  {
+    "cluster_id": "846503b664",
+    "theme_title": "Tata Steel Capacity Expansion: Maharashtra Plant Plan - Urban Acres",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794908435.0,
+    "article_count": 2,
     "outlets": [
       "Urban Acres"
     ],
-    "summary": "Tata Steel Capacity Expansion Targets 40 Million Tonnes Urban Acres",
+    "summary": "Tata Steel Capacity Expansion: Maharashtra Plant Plan Urban Acres",
     "sources": [
+      {
+        "outlet": "Urban Acres",
+        "title": "Tata Steel Capacity Expansion: Maharashtra Plant Plan - Urban Acres",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnZoc2VwWDVjdU9ZSzRsdFZUS0NnS05kcjZOclpVSVQzYUJUX1FxeURRa1lmbkk3Rkh2RzFuOWhrazgtUkpYajhoLUtnM1lqaHVDeTRCVEdMSHl6T0N0NlViZXRaLW05aUw0ZGlSeWdPZllGckNPZ2lUV0k2MldsS0dQVGJIZ2tScGJRWEZMRDY5U0tWajZ5bEdoTnYwRV8wai1z?oc=5",
+        "published": "Tue, 17 Nov 2026 09:40:35 GMT",
+        "published_ts": 1794908435.0,
+        "priority_score": 30
+      },
       {
         "outlet": "Urban Acres",
         "title": "Tata Steel Capacity Expansion Targets 40 Million Tonnes - Urban Acres",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmlsNUVFb0NVX1ZpT3ZTS0w2dm9PYThNblZWRThOUzRaQ240VlRZZ0Y4V1BXTEhNeTVHeHN6cXhNREt1STVzU3RCQmtqZFhNbkZuRFRtVW1FcFhzRmZuYjg5YlJzdVFwbDFveG9QLU5BQl9mMWk3TVI5MnlNS3FaSEYyM1p5TVo2c21IZHNRRTU?oc=5",
         "published": "Mon, 16 Nov 2026 10:41:38 GMT",
         "published_ts": 1794825698.0,
-        "priority_score": 30
+        "priority_score": 26
       }
     ],
     "priority_score": 30
   },
   {
-    "cluster_id": "04ad4a3c1f",
-    "theme_title": "Tata Steel Bets On Strong H2 FY27 Recovery, West Asia Conflict Deals \u20b91,000 Crore Quarterly Blow - Free Press Journal",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794823200.0,
-    "article_count": 1,
+    "cluster_id": "b50fcbf79e",
+    "theme_title": "Steel prices are rising again: Is it wise to buy metal stocks? Experts pick Tata Steel, JSW and 4 others | Targets, SL - Livemint",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794907113.0,
+    "article_count": 2,
     "outlets": [
-      "Free Press Journal"
+      "Livemint",
+      "LiveMint - Markets"
     ],
-    "summary": "Tata Steel Bets On Strong H2 FY27 Recovery, West Asia Conflict Deals \u20b91,000 Crore Quarterly Blow Free Press Journal",
+    "summary": "Steel prices are rising again: Is it wise to buy metal stocks? Experts pick Tata Steel, JSW and 4 others | Targets, SL Livemint",
     "sources": [
       {
-        "outlet": "Free Press Journal",
-        "title": "Tata Steel Bets On Strong H2 FY27 Recovery, West Asia Conflict Deals \u20b91,000 Crore Quarterly Blow - Free Press Journal",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaEVGNFZvMk9jQlhKUkNFUHp5b0wxREN0Nm9lRWNoNjBJRHliZktYX3VCVmlUR01jQlRjWTNyeGlkbDZEVTB3aVVyZWtvdFJ1RHg1NFJPYzYtMk52YkhSZ0hTengtMXd1QVU3aWR6X0VrTlRmMUplQm8xdVAtNUdHZTRZUkx4bEdTSFlSbmxtNkE0Mjl6LVFrU3dmNnhCZ2dId2VwV3hZSXRmcXg3N1VUOUZCNXQtdUtZaEc1dUU3cU1udU8yaTNUcG1odUJmV2vSAdQBQVVfeXFMTWF5cW9sdmxXMnc5bEl2M0I1ZHZSekhRS0VydnBmVF9fZFN5bGJySExESXJRajdUTk9FQXM1TV9xdnhpOU1ScWZiaG9UdTFoWXJJV0tYOGVYQ25OejdHeU9KbVQ4S3ZWRXpWWERUbFJOTmpIa3hGSGxDVGFyd3RULWZBVUdtTVA5V0hfdFQ1STk0UERBdDRLLVhmNkd1ZEpaYXMxNWZfdnBsOGNpNDJHcUVNVWF5dHczeThMZ0lwblpZQjR5b0JEbjlTbjI2WVVteWdPTG8?oc=5",
-        "published": "Mon, 16 Nov 2026 10:00:00 GMT",
-        "published_ts": 1794823200.0,
+        "outlet": "Livemint",
+        "title": "Steel prices are rising again: Is it wise to buy metal stocks? Experts pick Tata Steel, JSW and 4 others | Targets, SL - Livemint",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYktZUTc2b1VvM0haZlJFV3JIVlhSajk2X3NkcnRrMGNybER2YVFZeWU2Yk41X0g5cUVlS0pDaFliNUdxQWVCUnVQNi1MeWNUTTVQcUFDbmpZN3o5bTVhb05IaVFNallJSERvaEVsb2pzdmdCWVdCTEExUUdQZE1IVXdNak93WENwN1RrVFpnemVsdjFxOVRkZlJDTFE0REp4aGdnWm1jQ0lfdVhmSm5fMkUtdlRHSFdOR1BrZDNQN2JwU3FJekt6d0dwaGk1UzBxc29ma0JBN0UwZlNGQXJ5QlJCa08ybVFUQXNWMHdnYjhQMkNWLU1VdDN3eWh4dlVGbTJ5R3VIamJUZWwyLTMw0gGUAkFVX3lxTFBtaGpBVGpTS2Q2WmZST0Q1X2RuTDBJUC1leF95SlJYVVdwalNMRHRTODEyMFVNekhnSmUyNG9LVXMyS2FQNDAteV9VWlV0cjJNNkxCVDNEek1yRmFmcTVCQ3RnSmVqZmZyUlpxVTF6SEFEeUswRlg1RWtxMmZJMG9tcDE3RWtjR0pEYW9mS2s1aFdIdDNjNmFRMFVTclVHVTdPLWk1eWQ4WTdVSk9zZDNUcFpfUmpHVWRZNXA1TXpSQjEzOG81VmI2MFFjdEI2QjZ3NFYzVl9IQWd4c2ZCUmZPYi1nLVlWYk5TSWJaTU1jZzZUdFJmaFd0dkVzM2h6eDhwTGxKVlNXVmxtRi1oSmxsSjU0WA?oc=5",
+        "published": "Tue, 17 Nov 2026 09:18:33 GMT",
+        "published_ts": 1794907113.0,
+        "priority_score": 35
+      },
+      {
+        "outlet": "LiveMint - Markets",
+        "title": "Steel prices are rising again: Is it wise to buy metal stocks? Experts pick Tata Steel, JSW and 4 others | Targets, SL",
+        "url": "https://www.livemint.com/market/stock-market-news/steel-prices-are-rising-again-is-it-wise-to-buy-metal-stocks-experts-pick-tata-steel-jsw-and-4-others-targets-sl-11794905709244.html",
+        "published": "Tue, 17 Nov 2026 14:48:33 +0530",
+        "published_ts": 1794907113.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 41
+  },
+  {
+    "cluster_id": "e8017541ba",
+    "theme_title": "Tata Steel targets completing NINL amalgamation by end of FY27 - Yieh Corp.",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794905915.0,
+    "article_count": 1,
+    "outlets": [
+      "Yieh Corp."
+    ],
+    "summary": "Tata Steel targets completing NINL amalgamation by end of FY27 Yieh Corp.",
+    "sources": [
+      {
+        "outlet": "Yieh Corp.",
+        "title": "Tata Steel targets completing NINL amalgamation by end of FY27 - Yieh Corp.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29zck12bTl6d0pteWI4TmhzYVBXSjZQWGlMcllfN29uTVdEOFlMNWt4amZ5YW4xSzBDNU5aMC1QT0p2c09tQjN2QVYwM19IWGQwNldaaFAwR0FXRlJQWmo2QjRpMEdibzV0bGVoR3JwMm9sWTdtRnRLdTkxd1NlR3pVeGE0OUpqeUhVa0lObTVkdndmeXNWblRn?oc=5",
+        "published": "Tue, 17 Nov 2026 08:58:35 GMT",
+        "published_ts": 1794905915.0,
         "priority_score": 20
       }
     ],
     "priority_score": 20
   },
   {
-    "cluster_id": "d1b0baa15e",
-    "theme_title": "[Tata Steel targets completing NINL amalgamation in current fiscal year] - Shanghai Metals Market",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794820320.0,
+    "cluster_id": "0d09dee008",
+    "theme_title": "Stocks to watch, Nov 17: BSE, Tata Steel, JSW Steel, Urban Co, Adani Green, Happy Forgings, Adani Enterprises - Upstox",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794903726.0,
     "article_count": 2,
     "outlets": [
-      "Shanghai Metals Market"
+      "Upstox",
+      "Dailyhunt"
     ],
-    "summary": "[Tata Steel targets completing NINL amalgamation in current fiscal year] Shanghai Metals Market",
+    "summary": "Stocks to watch, Nov 17: BSE, Tata Steel, JSW Steel, Urban Co, Adani Green, Happy Forgings, Adani Enterprises Upstox",
     "sources": [
       {
-        "outlet": "Shanghai Metals Market",
-        "title": "[Tata Steel targets completing NINL amalgamation in current fiscal year] - Shanghai Metals Market",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmVUakhyVzNHczJkeVFkZUh3VUF4RVd6N0F2ZDIwUC12a0t4Ui14alI0OEo3RFZ3NHY3MmUtaXp0emo4VDVTZUlsV1k1bmtsZ3JNWnhIWFRUSDk4Z0dwcDktTTRESG1SMVpwTlhWMTF4Qld4bXFwa2cyLWZpNGtqRlQ4MFNyVHlKMy1NbUJCOEZlOFR5bGg3TGc0OUZpR2R6ZlFMM0JaZnhzV0N4MWJhMHRxakpxdGprQnhKT2JoVFJMLXBhUjNaakF6by1aS25aRGpWbWFpS29QOEh2X1E?oc=5",
-        "published": "Mon, 16 Nov 2026 09:12:00 GMT",
-        "published_ts": 1794820320.0,
+        "outlet": "Upstox",
+        "title": "Stocks to watch, Nov 17: BSE, Tata Steel, JSW Steel, Urban Co, Adani Green, Happy Forgings, Adani Enterprises - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYzVQaHQxN1VobTlyT3JaZ1FPUzJRNUJuSjhqWEVZUGhvQmpkekV3eEVpcjlTSlVydGw3ZFhsYlVzN1Qwa002Zk5kRWhsbmhNb1JXN05Ga0M3VVJQakh3ZW9ETWJ0T3p6cWJPaklGR2I1S01iTUV0TDFTRmtkaHJxVC01bVVzazJHTy1LR2hJNGN6NmNQQU5QMmhkcFpCLXltam81WVVOUnJjTXNWV184V29ydnFGUk5tTVhuWDFCaDZ5T1lpNzJrYVZNV2ZOanlvYkJwSkRvcllwNFFjS0NnXzR2ZzY1LXR3MXB1Y1Fld0lnZw?oc=5",
+        "published": "Tue, 17 Nov 2026 02:40:43 GMT",
+        "published_ts": 1794883243.0,
         "priority_score": 35
       },
       {
-        "outlet": "Shanghai Metals Market",
-        "title": "Tata Steel targets NINL amalgamation completion this fiscal - Shanghai Metals Market",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcEhua3lKT2FsaTRVaS1Jd3FEemVFU1NncThNay1JRlhKZzVXY05qUmF0NkIzUDhYR3VQN00wejBtdjl5WTJvZGgwVGszLUdhanJ2RWRPQXpIaGtVemktLUM2R2h3RHpiY2VpM3dKbktHT0tPOFI2azVDbE9kVllyZlN0M0dHTTJ0OXhnd0RETl9ldmROS2R5NkE2U2t1OUcwLXhtYXItdTgxQWpYd3dyX2xDc3dXN1pkSzNTYk5xRTFiOVJzb3lPUTlvbXlrSDQ?oc=5",
-        "published": "Mon, 16 Nov 2026 02:08:00 GMT",
-        "published_ts": 1794794880.0,
+        "outlet": "Dailyhunt",
+        "title": "Stocks to watch, Nov 17: BSE, Tata Steel, JSW Steel, Urban Co, Adani Green, Happy Forgings, Adani Enterprises - Dailyhunt",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSVhJcUNqbS11emdLRE5BMGRrVlZLeGxsLVo4VWJEcXpsSC1scFdOUUJuRjRYRE96UmNIU3JjelZObGlPcmF2NDk0X3FCdF9FdC12cTFpU0FaaDVza25fWGNUdTZlR2dFRWhER2NLVjN2dDlVWFNJR2tuOElMTklyYWJNdm9PM2JMV0RNNUVZWjUzaG51bV83ZXprbkJMU05PejhRRDlzS0tWUzlvQXpqUVl2V2RGNHItbGVPSVdZS0lmaGpNVDlGTGJNX2ctQWxTY0ZtRkQ2Mjk5UXYxVWtEV0JPam5CNU15bWJ5bFB4bWU1SFh1Qk5DSEJRa2RfZUNlNkpGaFNtYjhrbTd2Q1J3?oc=5",
+        "published": "Tue, 17 Nov 2026 08:22:06 GMT",
+        "published_ts": 1794903726.0,
         "priority_score": 35
       }
     ],
-    "priority_score": 35
+    "priority_score": 41
   },
   {
-    "cluster_id": "bdf462b435",
-    "theme_title": "Tata Steel expects stronger performance in second half of fiscal: Narendran",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794819998.0,
+    "cluster_id": "ede5d2100f",
+    "theme_title": "Tata Steel seeks UK market support, Dutch green funds amid Chinese excessive supply: Narendran",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794902645.0,
+    "article_count": 2,
+    "outlets": [
+      "Economic Times - Industry",
+      "ThePrint"
+    ],
+    "summary": "Tata Steel is seeking UK government intervention to address excess steel inventories and negotiating Dutch state funding for its green transition as Chinese oversupply, geopolitical conflicts and trade barriers disrupt global markets. CEO T V Narendran says the company is prioritising cost efficiency, value-added products and cleaner steelmaking to build resilience.",
+    "sources": [
+      {
+        "outlet": "Economic Times - Industry",
+        "title": "Tata Steel seeks UK market support, Dutch green funds amid Chinese excessive supply: Narendran",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-seeks-uk-market-support-dutch-green-funds-amid-chinese-excessive-supply-narendran/articleshow/135916299.cms",
+        "published": "Tue, 17 Nov 2026 13:34:05 +0530",
+        "published_ts": 1794902645.0,
+        "priority_score": 45
+      },
+      {
+        "outlet": "ThePrint",
+        "title": "Tata Steel seeks UK market support, Dutch green funds amid Chinese excessive supply: Narendran - ThePrint",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa1JTdmVqTzhXWmJfcU1VakswV1BOSVRrcW1xMWJGTWstYWtRcHVFTS1YbVo1QTA4a0g0dzRaMHAxLWU2TzNqcFpQQkJBdlBMaGZHT2FrQ28zcTZDNE5jRTFibnFreWhuVWlTQnAxSGpaVWtLQWthbkl3ZjF2bnhVUGwyNE5vZk1vSzkxMXpZVDdhUjRLSlphOU02NmlPZmo1bG84Z0pHbVRkeFJRRmdkaGEzNmIwX05Bdmx2YXVCXzlxTWNTcUHSAcsBQVVfeXFMT3BqUlNlR3BQak1sUnJTWjM5SHg4WmtEOEI4eGFSMk94Y3BjZkw3UDN5bXFlUklRdVBEMjl5NjJuaGlWT2JtNTktcm5TcENQeUNyWS1MVEprUTMweGVONVN6LUJfaVBTRWx5Q3NCUXFINGxBc0RKZEZCWWpXZU1ieWM4cl9wSmhCUGk3Z3kxUGlUWUpZekkyM09JeEJ5d08wWlNySEV3bHF3ZjBxQVh1WTZ4VV82RlNaZzEtdGNpUi0zQXhJY0x1bUZnUGc?oc=5",
+        "published": "Tue, 17 Nov 2026 05:46:12 GMT",
+        "published_ts": 1794894372.0,
+        "priority_score": 35
+      }
+    ],
+    "priority_score": 51
+  },
+  {
+    "cluster_id": "1a5d7c3ba4",
+    "theme_title": "Tata Steel targets 50 MT capacity in India, seeks UK support and Dutch funds for green transition - Telegraph India",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794898422.0,
+    "article_count": 1,
+    "outlets": [
+      "Telegraph India"
+    ],
+    "summary": "Tata Steel targets 50 MT capacity in India, seeks UK support and Dutch funds for green transition Telegraph India",
+    "sources": [
+      {
+        "outlet": "Telegraph India",
+        "title": "Tata Steel targets 50 MT capacity in India, seeks UK support and Dutch funds for green transition - Telegraph India",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbnVjYVFfRkZKTUFNNi1PempNelZzWUx4ckNaSFVsVlE4YU0yUU1GbFJDb0xLOE5TVGVha1JycV9ENU91ZVhQX1RSdGVrcWRsNkhjTi1wNm1KSGlpRXA1VDNuSW1CbDBwS2FxemF2YVRWR01uZXY5c1JXdUpseDVWRzdMb1I1dGUxNWw5WFBWcFRoNEtjUHF2QVlEeVVtalFia2FyemZFNDJieUs2bWRFdlJDbGFHd1laaG15Y3RsZ0swcXJ1ZGgyUno4YlRoYlk2b2ZmUUZQNNIB3AFBVV95cUxOcWZoSkNSaEQ4cnFEZFctWGtpX1hLeVlzVVBGcTVSemZaVzUwcTVnbF9VN1VVbS16SGhLaHlCby1JczVibWlEVHY3V0w0TlNIY1JBRHRuQnQtMTVWSUlqUms0ZUFUNGMycmdQOFVvSEJ3b3Boc2RfWjFabmxRSzk2YnhyNjA5dXY2OWdNREpzd3hWVzFKWUJXdXBvSzRadl80ZjF0a1hFb1gzbUN4OWtnQnZyXzFwVUpHQS02QWREVFR2Uml5MGtnQjZGejZjS2t6MDhDUFEyWURXMGJM?oc=5",
+        "published": "Tue, 17 Nov 2026 06:53:42 GMT",
+        "published_ts": 1794898422.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "29a0519533",
+    "theme_title": "Tata Steel eyes 50 MT capacity in India, to pump 75% of capex into domestic growth: TV Narendran",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794896321.0,
     "article_count": 1,
     "outlets": [
       "Economic Times - Industry"
     ],
-    "summary": "Tata Steel anticipates improved performance in the second half of the fiscal year due to strong demand. The company is expanding its steel production capacity while exploring new plant locations in India. Operational challenges were faced earlier, but stabilisation is expected moving forward. The geopolitical situation remains a significant concern impacting operations. A gathering of tribal communities will take place, promoting cultural exchange and dialogue.",
+    "summary": "Tata Steel is planning to increase its steelmaking capacity in India to 50 million tonnes by exploring new projects. The company aims to establish a 15 million tonne greenfield plant in Maharashtra to facilitate growth. Investment plans include spending approximately Rs 18,000-20,000 crore this year, predominantly in India.",
     "sources": [
       {
         "outlet": "Economic Times - Industry",
-        "title": "Tata Steel expects stronger performance in second half of fiscal: Narendran",
-        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-anticipates-strong-growth-in-second-half-of-fiscal-year-amid-global-challenges/articleshow/135879270.cms",
-        "published": "Mon, 16 Nov 2026 14:36:38 +0530",
-        "published_ts": 1794819998.0,
-        "priority_score": 20
+        "title": "Tata Steel eyes 50 MT capacity in India, to pump 75% of capex into domestic growth: TV Narendran",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-eyes-50-mt-capacity-in-india-to-pump-75-pc-of-capex-into-domestic-growth-tv-narendran/articleshow/135913321.cms",
+        "published": "Tue, 17 Nov 2026 11:48:41 +0530",
+        "published_ts": 1794896321.0,
+        "priority_score": 30
       }
     ],
-    "priority_score": 20
+    "priority_score": 30
   },
   {
-    "cluster_id": "c77da5dc86",
-    "theme_title": "Tata Steel expects stronger performance in second half of fiscal: CEO - Business Standard",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794818590.0,
+    "cluster_id": "59ebd42f55",
+    "theme_title": "Tata Steel, JSW Steel, SAIL, Jindal Steel: Steel stocks in focus today; here's why - Business Today",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794885233.0,
     "article_count": 2,
     "outlets": [
-      "Business Standard",
-      "Press Trust of India"
-    ],
-    "summary": "Tata Steel expects stronger performance in second half of fiscal: CEO Business Standard",
-    "sources": [
-      {
-        "outlet": "Business Standard",
-        "title": "Tata Steel expects stronger performance in second half of fiscal: CEO - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNzhlc1dDZEtOZWlMd0E4dHExbGtMTmhuRUVRandSMkg1cGpYSm9qT0ZFZE5ReDhyVGN6Yk1zdkFPakhDeE9fQm93cUlpUnpvUFRlRVdnM0dQV21QbG42YUUySHdzTzFwQWlxb2NzMVFOWTFENHdqWjFRZU1KQzd6OFVlTG1FU09QUVAxekt2ekszb3UtVHFMVmp1MnZIVC1sX01ib3hjUnQ4R3pnbDRLVmV0VDNXckdpdFdHT3NFUHp5VVRFUGp6NEIzTkNZal91WGZZ0gHYAUFVX3lxTE9tVzJBcFE1T2ZvTlBOdld1UGxjLWdRVjY3bjZrRGh4S2I3alNpZVVHazgyanVDQy1Va3JBdzFZYXJoQmd4WVBUa2g3V3FRM2VrQkpfZE1qSFBaWktwSFI2Y3F4UHVQU1ZKWFFOdmY4Wk01RzBkTVI1QkpBYTJpWGFveU1LMEJLWWxQNUg3blVHeUtKQnNodFZtLVQ1WWs5MFFxVlg5YlNjX3RZRlJaQVFoWTdaMjIwdWdoLTh2ejJUMWtReVlHV094Q1hlNFY4UDBqRzAtNjMxaA?oc=5",
-        "published": "Mon, 16 Nov 2026 08:43:10 GMT",
-        "published_ts": 1794818590.0,
-        "priority_score": 30
-      },
-      {
-        "outlet": "Press Trust of India",
-        "title": "Tata Steel expects stronger performance in second half of fiscal: Narendran - Press Trust of India",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdWxEdHEydjBBV1JoWVBrQzN1OG9yZHR3SzBwQlR4c1ZoV0YyR2ZWM2lvc1lBMEE4dmctcWoyNkd5V3B1bUZfaEY5T1ZJS3loSGR0SjdwcHEtOWlMTjRiaEpueVpXTEw0N3F1eVZRQWF5dVQ1dVRNQ0NvZ253T1lVUnBwU3R4TnZrM3JEdW9DZG9BWkRFc2pNVVA4N3VCeW1Kem54TW5DZnhRNGFoVVBGNjEtOUtCMmtmU2RFZE5ITQ?oc=5",
-        "published": "Mon, 16 Nov 2026 08:32:11 GMT",
-        "published_ts": 1794817931.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 36
-  },
-  {
-    "cluster_id": "f82c508317",
-    "theme_title": "Tata Steel targets fiscal year for NINL merger and Rs 40,000 Cr expansion - The Avenue Mail",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794812737.0,
-    "article_count": 1,
-    "outlets": [
-      "The Avenue Mail"
-    ],
-    "summary": "Tata Steel targets fiscal year for NINL merger and Rs 40,000 Cr expansion The Avenue Mail",
-    "sources": [
-      {
-        "outlet": "The Avenue Mail",
-        "title": "Tata Steel targets fiscal year for NINL merger and Rs 40,000 Cr expansion - The Avenue Mail",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ScVlnanUwR2V1aEM0MnNmTnBreUp0TmRHaXNtV2FuMEdxaHIzVUFXQ01pZGs4TV9ydGFlQ2U1ckFBajV2V0k4YU5DX0J4VVhMUjg4ZzFQQV9UUjU0UTJ4N2dDRVJMM3hQSlVDdG5n?oc=5",
-        "published": "Mon, 16 Nov 2026 07:05:37 GMT",
-        "published_ts": 1794812737.0,
-        "priority_score": 30
-      }
-    ],
-    "priority_score": 30
-  },
-  {
-    "cluster_id": "701a690a55",
-    "theme_title": "Tata Steel looks to complete NINL amalgamation this fiscal: CFO Koushik Chatterjee - cfo.economictimes.indiatimes.com",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794807420.0,
-    "article_count": 4,
-    "outlets": [
-      "cfo.economictimes.indiatimes.com",
-      "Mid-Day",
-      "The Economic Times",
-      "ET Manufacturing"
-    ],
-    "summary": "Tata Steel looks to complete NINL amalgamation this fiscal: CFO Koushik Chatterjee cfo.economictimes.indiatimes.com",
-    "sources": [
-      {
-        "outlet": "cfo.economictimes.indiatimes.com",
-        "title": "Tata Steel looks to complete NINL amalgamation this fiscal: CFO Koushik Chatterjee - cfo.economictimes.indiatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRF9FYkVaTWRCdERPSDNSUWMwdmRydnRmbzNWamN4Uk5TWDF1dnVNMjRXeU9QX183N0RiT19Jb2hrTDRQanZrV0llM2pPN0NCOUNJZElYZk1uc2dqUDBPdVUyV0VoOFgxak9PNlFTaUlMUVoxTW02RF9UOWZNbGl6ejdlanl1dGxvcV9mUHcxckdObWY3alpOTEVsTmVIUnpxVmhsR25HbFFNOGFzVVJBYUJ6dzZJNVRFR2xIV3FPX2tRSHpBOHE5NmtKSDFKQ1JBTlFFRXZOQjNXdzBEdHI1UG9MVmstOFVna0ZobVd1bTEzWknSAfMBQVVfeXFMUERfRWJFWk1kQnRET0gzUlFjMHZkcnZ0Zm8zVmpjeFJOU1gxdXZ1TTI0V3lPUF9fNzdEYk9fSW9oa0w0UGp2a1dJZTNqTzdDQjlDSWRJWGZNbnNnalAwT3VVMldFaDhYMWpPTzZRU2lJTFFaMU1tNkRfVDlmTWxpeno3ZWp5dXRsb3FfZlB3MXJHTm1mN2paTkxFbE5lSFJ6cVZobEduR2xRTThhc1VSQWFCenc2STVURUdsSFdxT19rUUh6QThxOTZrSkgxSkNSQU5RRUV2TkIzV3cwRHRyNVBvTFZrLThVZ2tGaG1XdW0xM1pJ?oc=5",
-        "published": "Mon, 16 Nov 2026 02:45:35 GMT",
-        "published_ts": 1794797135.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "Mid-Day",
-        "title": "Tata Steel looks to complete NINL amalgamation this financial year: CFO - Mid-Day",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVUdBMWJmQ2txWlVOV2hOUnlodUtseDRXal8zaGJRMFdYczBuUzdabktyTnp1V1E4cGVMU1ZQZ2FmR2N4a2pKUnVic2hoWGUwYmJQeGxCb3dySjFJQl8yZEJrNjNnbHUzSlYxSUxzZzgzQ2p0bk1INm03dWY3VlByamxEM3pySm92aGtmMzQxRGowbElTNm85NGhGX3NRTWstc0dZVmhmQTBLZ0NiRzF1a3RPT1IycDB0T1pTWWE1RW5oV3RYVU5ac2pmQlBJdkVBQTNpVnNSSWw?oc=5",
-        "published": "Mon, 16 Nov 2026 05:37:00 GMT",
-        "published_ts": 1794807420.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "The Economic Times",
-        "title": "Tata Steel looks to complete NINL amalgamation this fiscal: CFO Koushik Chatterjee - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUzAwS2VpQTIwa215eUMyQWpUOUhtWmt3RUdRelRZSWtuZ2RUM200U3N6Z1pqeXdqZkhiamxrbjNlcV9jc21lOTB1aEJnUTh5aWxjV2k5cWRmcHRjQUxjMHBXa3o5ZnlJOTY5bXpERWtIUE8tX2g3aWdOMTlUSlRkN3lRQXU3ZHM4MTRrWmZkOU12UWFYblVraXNvclRFYjJMLUotRzlkVDA5QWNEOFBocU13ZWJidV96d0p3QUlXNGprUC1KbG16ZWFWQVEtWnBycjgtNm02WjVjSHhaX25JNjhGampFZUtnTUF3SUE5Z0daQzZWUTdXbWFZb2NFYTdveGI1N9IB_gFBVV95cUxQcnJjY3Q3WE9SY1F0MjYycXlJNjJRSzdkZnF3ZHpXMGE1LVBJSFhUYmFIZzJNWm1waDBVb2FhUWdrcTBJT05OSnQxeHlHbF9NVnduZlBmeUNUWEpkQS1DcmRMN0lvTjNHYUJaVl8wMjByM0JHdjEyNzR4bUU5bDFlS1pha1J2S3RVX3hydnB3bzFvUEVOa0hrb2w5Zk5SQUZyTXZRZG1qMmd0dkxuNDI4TmhGakpPejJOckM2Y2lfQTRYc01pcTZ5Wm1xRmlJUExqMXliNFZYZ2IxNzUwT1NvR0M3YlhfeUdsMHVTSVZQMEpJNUdhblJjY0FmaWlodw?oc=5",
-        "published": "Sun, 15 Nov 2026 05:08:18 GMT",
-        "published_ts": 1794719298.0,
-        "priority_score": 16
-      },
-      {
-        "outlet": "ET Manufacturing",
-        "title": "Tata Steel looks to complete NINL amalgamation this fiscal: CFO Koushik Chatterjee - ET Manufacturing",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcGZCT2pZOUF2bi1RaHF4NktWd1NYQUdGRUpORjJ6NXphblJobFZub25Hckh6WnAyRnd4NmdYdmZLMkFEVzZiNDVKUTlMQ21zYzl3dHUwYUF6VVd5azQ2TmxCbUsxN3JlbzJNQWd0cnlKUzRVNHBTQUxwTGc4NlJBc1NlQkFITWZESm1lZ1hFMWVzVkg2MDJOVEd1VGtFY09oYmgtaWdUQ1VZOTJ2MVpQb29mZHROeVg0TGM1WUxWbTN3SDQ1MDdvR2J1Y0FsZFFncFZlVzNjSXhUZ1VBOV9ZMkRiTk8zdll5eTRGNFFUZzDSAfABQVVfeXFMT3BmQk9qWTlBdm4tUWhxeDZLVndTWEFHRkVKTkYyejV6YW5SaGxWbm9uR3JIelpwMkZ3eDZnWHZmSzJBRFc2YjQ1SlE5TENtc2M5d3R1MGFBelVXeWs0Nk5sQm1LMTdyZW8yTUFndHJ5SlM0VTRwU0FMcExnODZSQXNTZUJBSE1mREptZWdYRTFlc1ZINjAyTlRHdVRrRWNPaGJoLWlnVENVWTkydjFaUG9vZmR0TnlYNExjNVlMVm0zd0g0NTA3b0didWNBbGRRZ3BWZVczY0l4VGdVQTlfWTJEYk5PM3ZZeXk0RjRRVGcw?oc=5",
-        "published": "Sun, 15 Nov 2026 07:18:29 GMT",
-        "published_ts": 1794727109.0,
-        "priority_score": 16
-      }
-    ],
-    "priority_score": 38
-  },
-  {
-    "cluster_id": "533756a52f",
-    "theme_title": "Tata Steel, JSW Steel, Jindal Steel remain Nomura's top picks; brokerage stays positive on sector - Moneycontrol.com",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794804223.0,
-    "article_count": 1,
-    "outlets": [
-      "Moneycontrol.com"
-    ],
-    "summary": "Tata Steel, JSW Steel, Jindal Steel remain Nomura's top picks; brokerage stays positive on sector Moneycontrol.com",
-    "sources": [
-      {
-        "outlet": "Moneycontrol.com",
-        "title": "Tata Steel, JSW Steel, Jindal Steel remain Nomura's top picks; brokerage stays positive on sector - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTlp6MVh0eUg4ZXhYN1J1Y1RHVDZ1dExMSUtCX25hcEdRQzJNUFFpYVpYYlNIcW90WWgxZjJuVWdLemZzdHZVZHptcmdoUDA5UWdVZ2t1NUktTnZwWFRDb2lmLTVjaTdvQ0VxTFU2VHVKNDcybjhNbElESEdkMTh4SGxaNktTZjhINzlPU2JqRFlZTTV3RFZ3bVlFV0tybHltM2p4ay1QX3phQXEteVI0dDBZbXlZYVhxbms0Rl9iNVNSX3FfekZWa2FPTmhKUjUtNmcxckYzM1RNc01WWktfRE1fSjItMkwta3VKR1QxWdIB9AFBVV95cUxNSG9NTGFJbk00aUczcXBVd0xtTEJ1aFVOdmFCSzdpOVlRam8yVVZHX0dtQWNIY2lRWHEtQXo1anMtQlNadkVVNFo5UG93R1p2Yzdwcm8tak0xSXBCVEFKeDhpM2pjOGZJVExLb3dPQ2JJR0JoZ1BGaTU1SlRsUnRYTjVsNDNGZzRIYXh1OUh2VThfSjRtQzdGdUVPNy0welhnUHNUMTFoRVBWTUlwbjJfb3lBbWRBYjlJSHpJZmtyUUpMRVRMT3ZWMGJWTXJFaTJuWUp3LWZCblBHeW8waVg2UURZcUhlTlNhMUR4Sy1jX0xtVXBD?oc=5",
-        "published": "Mon, 16 Nov 2026 04:43:43 GMT",
-        "published_ts": 1794804223.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "7b3141368b",
-    "theme_title": "Tata Steel Plans To Finalize Neelachal Ispat Merger By End Of FY27 - Sahi",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794801697.0,
-    "article_count": 1,
-    "outlets": [
-      "Sahi"
-    ],
-    "summary": "Tata Steel Plans To Finalize Neelachal Ispat Merger By End Of FY27 Sahi",
-    "sources": [
-      {
-        "outlet": "Sahi",
-        "title": "Tata Steel Plans To Finalize Neelachal Ispat Merger By End Of FY27 - Sahi",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2hOTks3bzBXSVJMaEEyWlRPTkl1M0VUWVkzWlRVUllpd2pBREN0S1RjdkcxQTgwNG5NWm5hTi0yMVo0Vm5UcFlLajdKNnhhQmFJNVd0TE0zSHpMNEdydU9YMzdTdkxFS1hDdjFsRWFiaFhPX0xJWFhocWRLR1FWbW5KakVNUnkxWlFLMjV4M1ZHTjdUdnNZ?oc=5",
-        "published": "Mon, 16 Nov 2026 04:01:37 GMT",
-        "published_ts": 1794801697.0,
-        "priority_score": 30
-      }
-    ],
-    "priority_score": 30
-  },
-  {
-    "cluster_id": "8a7fa9ebd0",
-    "theme_title": "Stocks to watch, Nov 16: Max Estates, Vedanta, ONGC, Coal India, VA Tech Wabag, Tata Steel TMPV, Sammaan Capital - Upstox",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794797307.0,
-    "article_count": 1,
-    "outlets": [
+      "Business Today",
       "Upstox"
     ],
-    "summary": "Stocks to watch, Nov 16: Max Estates, Vedanta, ONGC, Coal India, VA Tech Wabag, Tata Steel TMPV, Sammaan Capital Upstox",
+    "summary": "Tata Steel, JSW Steel, SAIL, Jindal Steel: Steel stocks in focus today; here's why Business Today",
     "sources": [
       {
-        "outlet": "Upstox",
-        "title": "Stocks to watch, Nov 16: Max Estates, Vedanta, ONGC, Coal India, VA Tech Wabag, Tata Steel TMPV, Sammaan Capital - Upstox",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTmpmOWgxelFaSXM3SDBpc0IxX2pBb21LTTFYdXVHd3RNWHEyTUlrNk1FZ1RoSFJkV0ZFVVdLNHczNFVfSWJuUWhvMDNYdHNqTzNTVTA1cGhyZVFlcGVsWlNlUXdjMG5yZGJzQ0FZTUVQbUoxTXdYZXRmWUN5eVBmR2Nsal83SXVfZWZhVWdWU0ZqeGdPbndiUW01eVpDZ1JMYUgxU0lpU3E1VGdCZk1kNjNYTHlfZ0p1bzVudmZBTGNEUUF1Rm1DU3BsWlpQcHZrZUhvX2JkR3g0c2lOVldqNXdhVTJkbWxkQVFOUTJqX3hfR1Bhb3c?oc=5",
-        "published": "Mon, 16 Nov 2026 02:48:27 GMT",
-        "published_ts": 1794797307.0,
+        "outlet": "Business Today",
+        "title": "Tata Steel, JSW Steel, SAIL, Jindal Steel: Steel stocks in focus today; here's why - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzJhci1qSFRPQXZiZkQ3a24ycXFrQjFrODgyQ2ZmdmR6ZzZXc2J3X0tSUlVsVF9Nb1dlMm1GSGc5U3FRTEphd3JVdUJnUUZrcWhnMWxPbl9ibVZBYkIzbS1IdnRTeHpRcFNUR0d0Q0JTS1hISXZBLXVwU25CdEZ5eV9hNUlmXzJUaTN2TEhWYjhUWm1IaklPNmw0bTRCQTVQdGhwTU5nN21OMDZ4NEtLTjR3bkkyZ0JPQmw1SXBaaVN0VGczRGJWSUVLUjBYY3pMTmY5eWFuLTJNRjBhdnZfbkhB0gHiAUFVX3lxTE9TMmFyLWpIVE9BdmJmRDdrbjJxcWtCMWs4ODJDZmZ2ZHpnNldzYndfS1JSVWxUX01vV2UybUZIZzlTcVFMSmF3clV1QmdRRmtxaGcxbE9uX2JtVkFiQjNtLUh2dFN4elFwU1RHR3RDQlNLWEhJdkEtdXBTbkJ0Rnl5X2E1SWZfMlRpM3ZMSFZiOFRabUhqSU82bDRtNEJBNVB0aHBNTmc3bU4wNng0S0tONHduSTJnQk9CbDVJcFppU3RUZzNEYlZJRUtSMFhjekxOZjl5YW4tMk1GMGF2dl9uSEE?oc=5",
+        "published": "Tue, 17 Nov 2026 03:13:53 GMT",
+        "published_ts": 1794885233.0,
         "priority_score": 35
+      },
+      {
+        "outlet": "Upstox",
+        "title": "JSW Steel, Tata Steel shares in focus as EU imposes 9.5% duty on Indian steel - Upstox",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXlIR1hVYmgwSjZqdkNOTGo0ZmszNFJTSjdrcFlwdDVCeV9BLThZVDJHQWNkZEQ0VmN6TU1ZOWxybUYzTUVqdU9IZDBiT2xvRkFVR2ZtbE1QTjliUUhERGhIRkRqRUZSVXVaX3RKLWdsMV9vMmp0NU51M3BpV3ctdGNTdEpmNUZGVmYtMEMzUXhxMlVQY0M1QkZZTkJJNFQwcFFfM1pjYkYtd2Q2eDMxUVoyVGxXVmN0UmkzZ202Sno1UDFCR1Z6TDMzMmJNRTg?oc=5",
+        "published": "Tue, 17 Nov 2026 02:16:24 GMT",
+        "published_ts": 1794881784.0,
+        "priority_score": 20
       }
     ],
-    "priority_score": 35
+    "priority_score": 41
+  },
+  {
+    "cluster_id": "97e72bb0f8",
+    "theme_title": "[Tata Steel Targets March 2027 for NINL Merger, Plans \u20b940,000 Crore Odisha Expansion] - Shanghai Metals Market",
+    "date": "Tue, 17 Nov 2026",
+    "published_ts": 1794882000.0,
+    "article_count": 3,
+    "outlets": [
+      "Shanghai Metals Market",
+      "OdishaPlus",
+      "Maritime Gateway"
+    ],
+    "summary": "[Tata Steel Targets March 2027 for NINL Merger, Plans \u20b940,000 Crore Odisha Expansion] Shanghai Metals Market",
+    "sources": [
+      {
+        "outlet": "Shanghai Metals Market",
+        "title": "[Tata Steel Targets March 2027 for NINL Merger, Plans \u20b940,000 Crore Odisha Expansion] - Shanghai Metals Market",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNamVpdEM4NVhta0FrZHNHUTBaNXhrVEdRdXlyQmtZS2Ewam0tdkQ4YVNhenZ5T1o5LW1RZ0F2cDFFeGxCVXRoYkJoM190OGlqS0ladXluRGNmLXZCRW4wcGhSSkN2RVByUnN3RWhCVTJvd01EVGUycGswazJEX3JkRXphak85WDlzUUpyZlVHT244NVQzNlNrX2NKZDFCOTQzSE10MWhseHRoMFRSaHZXX3pqSmt0eEhYdS1Wcm8tQ21XRHhtLUc5dUVfU3FfTmQ5S3lsdGJMOGFsMVBhejB5RFd0aWFSamhVbWhMRmpUTE1SRkk5Rndz?oc=5",
+        "published": "Tue, 17 Nov 2026 02:20:00 GMT",
+        "published_ts": 1794882000.0,
+        "priority_score": 45
+      },
+      {
+        "outlet": "OdishaPlus",
+        "title": "Tata Steel-NINL merger by March 2027: \u20b940,000 crore expansion in Odisha - OdishaPlus",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrY002VnYxR3VHSVg5Q0NrVHJ4NUpuak9VNkl4bkItREZyU0piR2J0QmVZNTZjQkt5d0VWbzNBMk44LW1CZjlQbjRudFFSMTFDOWZwQXRPajZoaWMyUjI0MUlHSUpXbmtPLVhUdTBfSUpwbDZXS0ZxZEI5VjM2UQ?oc=5",
+        "published": "Mon, 16 Nov 2026 13:41:13 GMT",
+        "published_ts": 1794836473.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "Maritime Gateway",
+        "title": "Tata Steel targets March 2027 for NINL merger ahead of \u20b940,000 crore Odisha expansion - Maritime Gateway",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGoxRDRsYkFHeVZkSTUyV0w3QmVkWV9PNEJJWmN4V0s5LWVVdWc1TFpmRWVqcTVZZ0FOWkVNanQzOUpkdFQ3Z0kyUm1NNGljUmlvUk1waFZGeW94MjZKUlNqcFBrbDVUODhZS0dBc01qQVRQbFRnRk9MMGQwX0tGc2ZuMzk0SjlDMGYtdXNrY1lsZHFwMUVka2xEaTR4cWl4a0VvU0tuT2doTkdJb0YzNlNuWkRaMm5kOTZMRXNqNEdWZms?oc=5",
+        "published": "Mon, 16 Nov 2026 00:34:00 GMT",
+        "published_ts": 1794789240.0,
+        "priority_score": 26
+      }
+    ],
+    "priority_score": 57
   }
 ]
