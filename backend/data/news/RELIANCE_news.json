@@ -1,282 +1,237 @@
 [
   {
-    "cluster_id": "58e7f2fc07",
-    "theme_title": "Reliance plans to invest about $1.6 billion to build new biogas plants - BusinessLine",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794915905.0,
-    "article_count": 4,
-    "outlets": [
-      "BusinessLine",
-      "Business Standard",
-      "TradingView",
-      "marketscreener.com"
-    ],
-    "summary": "Reliance plans to invest about $1.6 billion to build new biogas plants BusinessLine",
-    "sources": [
-      {
-        "outlet": "BusinessLine",
-        "title": "Reliance plans to invest about $1.6 billion to build new biogas plants - BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb25na3lDdHNPcDBfOVZ6b1BpU09EZXl6UHF2SnMtYkp1VlhpTTR4MFVTZTVZOGJqYXQ1bUM4anpkT2g0US1mQm5rWmQ2WXlwRU1rWS1Ga2M4V0IwZXlsVjgzdVZlLU05OTU5Vy1qbWR2dG42RTVDT0NXenFFeXFLMUZuUHRyMTdPRkFWYXE0a3pDSDZOQUdvU3ZJU21GYVV1NWJkdUs3aC1hQTFwY0xWVEh4a0w4QV9NaS1RMFd0aURlcTJfWXpLamx6VGJpbHBR0gHXAUFVX3lxTE9QeWNleW1ESm94QjNWYjdMTEtnci1jZmFlRmNVQjhTNDdhbzFnQ0ZfZzF5X2FQUUx2enBQWmp0WjZ6RlVQcXBSTUFRQTRkbTU0elVFZ1QwNnZMWHhvWVNsNXhCeTZYVjlBYnA4OFI5cS16VFRrUjQxWUxBdXdzOEM0QkdBTlVuQ2F5RDhRWG1nX0ZuWVZ4UmptR0NZSnVnczN4Mk8yQ01vdWNYVllTWkNzbHNCOGRVSWtFTHpRNjY2azFLN0JMQnByYVZMMHpMTTdETEpLM0h3?oc=5",
-        "published": "Tue, 17 Nov 2026 10:07:31 GMT",
-        "published_ts": 1794910051.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "Business Standard",
-        "title": "Reliance plans to invest about $1.6 billion to build new biogas plants - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDkwbVVJTUVXeFdnaDV6b2hPOEJNWlk5NS1IQlpHaTlQdTZueWE2VEtGTFdwNEtQMjhKa2VqbzRrUkJFMm10dEJxMDJnWVJsbG1iM1VRRkhTLXVpWTh2TlJ6RWNzb2tYYlZncVJlLW9Udk5DdUt4eGNCWkdwa2tVdW1ocjRwcEhROEJreWpaVWVCRmZWajB4Qjl0eEpOLS1OOGtmZnllMkFMMVZ2RWpSdWVISGxiMFEtQ3kza2RIMXZUbXA1SERtQkZ6TkV1THJGdTEyRtIB2gFBVV95cUxNX1NyYWw4TE16aVdaak5wWTJtV1pPVXZPdFFEZGgxLV9hQnBYSjhURUlzV1dlQ2pyZFlsVXAtcVBJSkZ3aWpXMWM5dHMyTTYxNWVHaG1QWVJCQmMzWFhjUEh0NTNFdHJGQ014eDJ2WHkyTnpOWW45ZXM1OU9XVzBiWDQyWjlaakpTVkhBM2FiX21nblYzR20zTE1oMHZRRi1Mdm5fa0J4V01kMUE0NXQ3N0tFZzNaSmFJZnU3SFhadFFSRHZ2VW9xR0NIWVkxRlVMS2h2NGlMd2ZyZw?oc=5",
-        "published": "Tue, 17 Nov 2026 11:45:05 GMT",
-        "published_ts": 1794915905.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "TradingView",
-        "title": "India's Reliance plans to invest about $1.6 billion to build new biogas plants - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS29EbmlBVGV5RkpHZW9PM3ZUTHpvMnA5SmY1azQ4QXFBZUhEYlNJaENxSFR0aFdTdE0tbklLQkpwaXhuUHpLdHlFbjl6a1pOaHRXSTRibFppbGg0MkVRWF9VT0N3Q1d3Sm10NDE1NVNDU3lEQVBZN0tONm8xejk1N01ybU05WExzMWZGOG5rZlpYdENqcXE4SS1UUElCWldfaHBrZmJhV0NGd3BuclJKVWs5Ti1SYkhtZ0dvdkxxMnpSY1Bqbm44dFlJTkRzUXpMdkNuaF9pTUxNdF9kOGw4Uw?oc=5",
-        "published": "Tue, 17 Nov 2026 09:22:13 GMT",
-        "published_ts": 1794907333.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "marketscreener.com",
-        "title": "India's Reliance plans to invest about $1.6 billion to build new biogas plants - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaENINnBrS1MtRG1BcjNGSTNUTENMWWYxN1NVMm9IelNrTGZVbXhsNlZzNkdGelZRVFJwLVhsVUpDNWEtaUVLNEdjLS03ckx0al95cld6X0huLVRfNGNYbW8yTGY3NDBDODg5aVJhSEM2bWRJVkxNUktWcVR6YVVUUkFCRl9XUm5BTkN2OGdIRnlCUnhPbjNkbjhvRV9xRWtoV2J3U3NjT0d6RGZYaGctc19uUjlrTHhMOEZYd1JtQXJ1Nk4tVW1PZ053?oc=5",
-        "published": "Tue, 17 Nov 2026 09:23:29 GMT",
-        "published_ts": 1794907409.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 38
-  },
-  {
-    "cluster_id": "39153f3352",
-    "theme_title": "XGPU Stock Price | Reliance Global Group Inc Stock Price | Index - Finimize",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794915049.0,
-    "article_count": 1,
-    "outlets": [
-      "Finimize"
-    ],
-    "summary": "XGPU Stock Price | Reliance Global Group Inc Stock Price | Index Finimize",
-    "sources": [
-      {
-        "outlet": "Finimize",
-        "title": "XGPU Stock Price | Reliance Global Group Inc Stock Price | Index - Finimize",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HY2NPYUNyWFZIcjl2QVdTSkJCd19Wc09CRUgxZmUzUDVpT09YTXBDNFBqd1NqWk9qeUk4d3ZtTmxTWHF5c0NNOFVBTnR2SjVIS1E?oc=5",
-        "published": "Tue, 17 Nov 2026 11:30:49 GMT",
-        "published_ts": 1794915049.0,
-        "priority_score": 35
-      }
-    ],
-    "priority_score": 35
-  },
-  {
-    "cluster_id": "67e9871673",
-    "theme_title": "AstraZeneca Pharma India Signs LoI With Reliance Unit Strand - Equitypandit",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794913551.0,
-    "article_count": 3,
-    "outlets": [
-      "Equitypandit",
-      "LinkedIn",
-      "CNBC TV18"
-    ],
-    "summary": "AstraZeneca Pharma India Signs LoI With Reliance Unit Strand Equitypandit",
-    "sources": [
-      {
-        "outlet": "Equitypandit",
-        "title": "AstraZeneca Pharma India Signs LoI With Reliance Unit Strand - Equitypandit",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWI5eTdwak9DVEhKa2VPbjYzZi1YNU0tNGlxOWw0ZC1hUndMeFdvSGtqWHYzcE9ZeDBXejBWQ21VQ2MzYWVmQTVXV01fZENPd3FXb2VzRDllUEhoQmRoMk5mRmdkMzFuMVNNeUUxY3NLcVp2eXRpd2hrNFBJUUpXb1dsTU1JQkZIYVBQLXQwRkI4dkNh?oc=5",
-        "published": "Tue, 17 Nov 2026 11:05:51 GMT",
-        "published_ts": 1794913551.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "LinkedIn",
-        "title": "AstraZeneca Pharma India signs LoI with Reliance's Strand Life Sciences for healthcare tie-up - CNBC TV18 - LinkedIn",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR2I0a3o2emRDbW1LbUptRjFoQXJCNE9kSmV5UzlNMktzSWpyMm91OEY3OExzV3gwOV9GYlZhSGRzdlJ1bDY4ZVZIY2ZtR0V2ZEFHTnpReFJlRHItODJPU3FBbk82Z1ZPRWZSTzliWTViRW1UaE1lS2tDLU04cVBJMGkybFc1eXkxTk9TX1EtYUhYNG9JNEFCNGtYSXo0ZFdkeEVueUtESFFhMUFsOG9vSlpWU0M5WEp4dkJNMjhYbEZOQQ?oc=5",
-        "published": "Tue, 17 Nov 2026 10:14:48 GMT",
-        "published_ts": 1794910488.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "CNBC TV18",
-        "title": "AstraZeneca Pharma India signs LoI with Reliance's Strand Life Sciences for healthcare tie-up - CNBC TV18",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSWFxVE5kWXEwQ1FXOVlOb1IwTFZTVFdEYWgxZkZwM1NBRlNSNG1DY0plbTdJaHY0azhXblVqZWpTdGt5ekJjc3dyenY2azFrM3dfbE8xdU1HVllhUTFrZG5Ub1p6QkJISi14b2d4UkM1MnF1akZBNW83OGdFNjY3OGludmgwWWd1MG84aG5qNU1VbFVweUFjTmNyVmIxQmthWDRiR1RPTUw5ZENGRzI4SE45SmY3Q2hWakN1NzROTjVUYW1Wcm5rMmdWdWnSAdIBQVVfeXFMTmV0QW1sLXBuVFh5R3EtaHg0NnBGRWtpOXVSSWJLMngzSFJUSHB0Wk1naXFlZjRCdVliM2VybXhESXIxZTR2YThoeDl1ZUxxN2JnZ2FUWUVnbnRhcGNiQkhHVFNsSjRDb19aOXgyWmNXdzBSemdFbzlocW16TVhtT0pQQ3RQRHdMa2tzX29YVXhFcDdJWnR4VWtVTTZhYWU5cWI0VTZrdkpvOWhKS3pUb2Y4ekFHM0xVT2hyYVBSb1RuTEhaN2c4UWZta2J6MGsxREx3?oc=5",
-        "published": "Tue, 17 Nov 2026 09:13:48 GMT",
-        "published_ts": 1794906828.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 32
-  },
-  {
-    "cluster_id": "dd1842de70",
-    "theme_title": "Reliance to invest Rs 1,600 cr in Campa Cola plant in Vijayapura, generating 2,000 direct jobs - People Matters - HR News",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794911908.0,
-    "article_count": 3,
-    "outlets": [
-      "People Matters - HR News",
-      "ET Retail",
-      "HDFC Sky"
-    ],
-    "summary": "Reliance to invest Rs 1,600 cr in Campa Cola plant in Vijayapura, generating 2,000 direct jobs People Matters - HR News",
-    "sources": [
-      {
-        "outlet": "People Matters - HR News",
-        "title": "Reliance to invest Rs 1,600 cr in Campa Cola plant in Vijayapura, generating 2,000 direct jobs - People Matters - HR News",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDlQLV9RaGVaQWRSOG0xM0RsT3lnQmgzdTlYaTBIQnZjcElHaVl4MDBzRkY3dmhXcTFCMDBsVlJJUUJzdGdWSmRWSmpPY0tiaU5ta2M2ZDM4MEhQZnYxZUdid2llMTFleGhUQlB1T3kyNldRajRoSmhmUUxURXpNeFk1TEJtSjNkOVNSand4NUtrT3VnWk1hdXhVeTRwUmFWQ0QzdXEyNzJFaVhTRERxVzFadzV3bXExQkhuMGE4SFI5Mm45TF9URlFNR3UzWmlKSlE2RWdBTQ?oc=5",
-        "published": "Tue, 17 Nov 2026 10:30:05 GMT",
-        "published_ts": 1794911405.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "ET Retail",
-        "title": "Reliance to invest Rs 1,600 cr in Campa Cola plant in Vijayapura, generating 2,000 direct jobs - ET Retail",
-        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOd2txTUZKcEFxM3BLcXhPRkhVU1lKZWN1QkZ2V1hJMGFvdGtSR2xNSW5HbVBUUlRkOGxzYkthNXJvd1A1LWZaSlhrOGtrbTlRQWxWbFB1a1Y2R3F0aGxrR25aQ0pTckQwbjMtQ3NydHFsOFJROGl6WFhqMWJzR2JBLVAydkZ2Zl9tdlBOTGpaT2Q2Zmk5NE9abDhMa0RXUHhRQlRUbXVJZElSSElLdzVHa1lzYWlmTG9pTkk1YVQyY1hydVZCVTVWNF9rdkk0UXJaTl9HY20wN3hQdHVLS2hWVGMzNGtpZDliYVNSUUhuOWZRcXYxblJ0ODdYc3ZIak5zYmp6TVZFSFdEeVg5c2tsY2g0dDVYLUhQSjY3cEFiOEJTZjBaOGhnYXpCc9IBrwJBVV95cUxPRVEwN1JwcFdzMDVGSDM3NGQzREg3ODh1RkFERFV5a08tWXh3YUpOOERSOXRtUTRIbGtlNElKbjItaWliSllmaU5OSEcwbVRseWRrWllPUnRwczJWbEtPV1ljYUlsVVo5MEdCQ2FSUEwzb3dUODVpZUVpYzI2dHA2bzBjN29mZE00MlRheUF2MFRCTC1ObExXWHVCM0pXOUplQ0lscnk1M0tlNTRsYm9BNVAxRkg4djQ3MUJOaFl0S0pQbjFESnVtV1FDT1RoMl9tQzVycTVZWEtCZGJra0lDMFBaUVloNThzN2hnT0RtTUs3OTR5X1g1eV91WVRpcVZxQUl0SzkzVE1zVlBXT2w4NWJaNXpPTHJEXzh3T2dLUTBVdEF6ckkyejlaWVhsODQ?oc=5",
-        "published": "Tue, 17 Nov 2026 10:38:28 GMT",
-        "published_ts": 1794911908.0,
-        "priority_score": 20
-      },
-      {
-        "outlet": "HDFC Sky",
-        "title": "Reliance To Invest Rs 1,600 Cr in Campa Cola Plant in Vijayapura, Generating 2,000 Direct Jobs - HDFC Sky",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVlPVTJGN255SnU4QnVjdmtBQTVHYnlodERaQk50d3dveVJWM3VhY0tpc2JrUVVkTEVESDZaRk1IZzZuNkl5WllKanBOV2o0d3IzNFBuSFphY3g0UV9idzhoZlg1VWJvWURyN3lKdHpGeER1ZDY0aDBRMGRXVGdINDNaUERoVWVjeURsTUlHZ0hlSjZTSTA5bVRGV0kzVVZha2hmWHhwRlplVFF0d05FUms1bXRtMEE?oc=5",
-        "published": "Tue, 17 Nov 2026 04:14:56 GMT",
-        "published_ts": 1794888896.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 32
-  },
-  {
-    "cluster_id": "bae78c2cd9",
-    "theme_title": "Reliance Jio weighs up launch options - Advanced Television",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794909483.0,
-    "article_count": 1,
-    "outlets": [
-      "Advanced Television"
-    ],
-    "summary": "Reliance Jio weighs up launch options Advanced Television",
-    "sources": [
-      {
-        "outlet": "Advanced Television",
-        "title": "Reliance Jio weighs up launch options - Advanced Television",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmV0VGM0ZWROcVM5SG5tX2toTkIyU2JTTFh1Zm5kb1FXLXdOaHo2UTZKVFM3S1FsMHRIWEg0UFhzUS13YUZqaU9OWjhxVm00cnJPTVBsdUVMU1R3eEZieXpTNXh5bGdqem43dVpWbmV6QzlDeFplbkV0ZUFxS3JBeXJDbEpFbHMzb0JUNnZ3?oc=5",
-        "published": "Tue, 17 Nov 2026 09:58:03 GMT",
-        "published_ts": 1794909483.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "2e3806ae9c",
-    "theme_title": "AstraZeneca shares rise 2% on signing LoI with Reliance unit Strand Life Sciences - Upstox",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794906246.0,
-    "article_count": 1,
-    "outlets": [
-      "Upstox"
-    ],
-    "summary": "AstraZeneca shares rise 2% on signing LoI with Reliance unit Strand Life Sciences Upstox",
-    "sources": [
-      {
-        "outlet": "Upstox",
-        "title": "AstraZeneca shares rise 2% on signing LoI with Reliance unit Strand Life Sciences - Upstox",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSjMtNDFJQ1FrSi0yam52bGxjSVF5ajJqeVo4cFl4ZGpwMnQwOGVXY240d0lnZl9lZG1kanB1TldFSU04Y2VJVWlpMXJaQ3pGVURGNkQ0alRhOG1MYnhpSy0xU3ZfOHlwVkxnZEt5dE00LWtpR21nNWJIbGdvSWtWSnFxVmlfUVRndlVvbXFJNXEyVnZmWXB5VGFBdzFCamRhblJkRHZtQ3hHMmRWU1A5RjZMeVVFRlhFcUNTTG9CYzdOR2ZKSWlMSUNxYzVRdG1MYUlHSlM0ZXI?oc=5",
-        "published": "Tue, 17 Nov 2026 09:04:06 GMT",
-        "published_ts": 1794906246.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "c66ca1dad8",
-    "theme_title": "Mukesh Ambani-led Reliance Group has planned to invest Rs 1,600 crore in a Campa Cola beverage manufacturing plant in Vijayapura, Karnataka, with the project expected to create approximately 2,000 direct jobs. Karnataka Industries Minister M B Patil laid - Instagram",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794904447.0,
-    "article_count": 1,
-    "outlets": [
-      "Instagram"
-    ],
-    "summary": "Mukesh Ambani-led Reliance Group has planned to invest Rs 1,600 crore in a Campa Cola beverage manufacturing plant in Vijayapura, Karnataka, with the project expected to create approximately 2,000 direct jobs. Karnataka Industries Minister M B Patil laid Instagram",
-    "sources": [
-      {
-        "outlet": "Instagram",
-        "title": "Mukesh Ambani-led Reliance Group has planned to invest Rs 1,600 crore in a Campa Cola beverage manufacturing plant in Vijayapura, Karnataka, with the project expected to create approximately 2,000 direct jobs. Karnataka Industries Minister M B Patil laid - Instagram",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaOGlDVGE3ZUxyclcxS2tobjBTcTFfd1o4aFBjbW4yZzJwVU1ySUZSZDRLU0otMG8wcEpaYWZha0dqUmNKU21adnhLSkVnbjBzcVE?oc=5",
-        "published": "Tue, 17 Nov 2026 08:34:07 GMT",
-        "published_ts": 1794904447.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "624315da82",
-    "theme_title": "Reliance Industries Plans Rs. 430 bn Andhra Coal Gasification Project - Construction World",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794900489.0,
-    "article_count": 1,
-    "outlets": [
-      "Construction World"
-    ],
-    "summary": "Reliance Industries Plans Rs. 430 bn Andhra Coal Gasification Project Construction World",
-    "sources": [
-      {
-        "outlet": "Construction World",
-        "title": "Reliance Industries Plans Rs. 430 bn Andhra Coal Gasification Project - Construction World",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNkRHa21hYzh1OFNYUHRmcmF4NVNlUzI2dXFqZzUxNXV0T3hQd3otX0k5bjJPRFBKRmlSVVdGSFFwOGxVQWhocURjVDNyRHdTZ0lHanpWN2FJeUVZbDN0R1lobVNaTXhCb1h5VzZmblRkUC03NDVOd3VLUzNWRE15TEViREx2OUVCWFNvckU3ckJVUDRpVlBGMGV1bV9PRUFOSms5ci1vQm0wYVJUUk1hNmUtVkZSTFpHUDM0bXZSRmtFTk9xdU1OVUZUbUpGYnI2dzh0dFRkQVlYRXZadDQ0NQ?oc=5",
-        "published": "Tue, 17 Nov 2026 07:28:09 GMT",
-        "published_ts": 1794900489.0,
-        "priority_score": 20
-      }
-    ],
-    "priority_score": 20
-  },
-  {
-    "cluster_id": "e18fabcafe",
-    "theme_title": "Top stock picks: Analysts recommend Honasa Consumer, Welspun Corp, ICICI Bank, Reliance, CDSL, Indian Hotels - CNBC TV18",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794900332.0,
+    "cluster_id": "32f8db7c83",
+    "theme_title": "Sohum's Sanjay Parekh sees upside in Reliance Industries, Airtel; calls Vedanta Aluminium a value pick - CNBC TV18",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1795002460.0,
     "article_count": 1,
     "outlets": [
       "CNBC TV18"
     ],
-    "summary": "Top stock picks: Analysts recommend Honasa Consumer, Welspun Corp, ICICI Bank, Reliance, CDSL, Indian Hotels CNBC TV18",
+    "summary": "Sohum's Sanjay Parekh sees upside in Reliance Industries, Airtel; calls Vedanta Aluminium a value pick CNBC TV18",
     "sources": [
       {
         "outlet": "CNBC TV18",
-        "title": "Top stock picks: Analysts recommend Honasa Consumer, Welspun Corp, ICICI Bank, Reliance, CDSL, Indian Hotels - CNBC TV18",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZHNZTGpQX2hSX0JqeXdOX29lR29sYllRVDR4NkhQb1dxSFc4dzlndEZtMXRVbkRqWjJVX3BCV2gxWkNKeUZfZk1PcF9Gd0NZcEhxNldEcEJXd0plQlBrRXNVUC1URndaU19pZ3pYX1RCb3prdk1mNjgxRXp4X1ROVURXRFIzVlk1bmw2aThzWTF3Z3liMUtMX2hCNjZQWFctdjg4NzktQ3dKeTkzU3llWEM5VEJqclBYREpCdHRFRlhWcWlZTWw4T2lRc9IB0AFBVV95cUxNSS1QN3Bpd0NPRGw4RFZ3bGU4SDRjYmZmbmVpOElCaDlmc0o0NGlBV0cyaVlRSjIwdmV4QXI3VmtmeTZqcTd6TmxsTGRZVGtRd3pQSXdoeHl4aVFlMnZHNmg3eHVCQnBsN0xlaTFUZ1Zqa2ZKNndzTDhBam8tMXF0dHhULWJWekI2bG5EMG10RWd4VFRiUldhaVJVeTlpeTl6Ymc5MXVoVUR4cFJGU1NmaEZpUnhvbFpIRVJFUWZxRW1xVFhxX0hqYzlfcHN0WGJT?oc=5",
-        "published": "Tue, 17 Nov 2026 07:25:32 GMT",
-        "published_ts": 1794900332.0,
-        "priority_score": 35
+        "title": "Sohum's Sanjay Parekh sees upside in Reliance Industries, Airtel; calls Vedanta Aluminium a value pick - CNBC TV18",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTU2QXI5QTlXQmtHaGVmMzRsWnU3bjNKVjBJSzFna1RWOFJJM1JQNzh4S2cxVVFoNmRCank4MENxNmhnemZnRktOeXFRT0Q5YUdPRFFMMG1oblRZdlhHUGVVZm9wNk4taVQ1dXNSS2hScl9YTHJ2RFQ0OGxmWC13dllkS29JU2tlYUs0RVNydHZUM21tdlRQdmdHZHpCYXUyRU95SFRmMWgtOGtoQVppTGVqSdIBuAFBVV95cUxNczdRUWwyUFl2MFBLZTFBdEgtWUFGMHFLMVlCdnhFTXBLYXkyY29Db2JLaHNKci05bkZFVDdyaTNST1dha3h5dHY0V1Fxei1zS1FzN1d1Z1o4bFFOYTQ0Z1BLMEJ4c0M1b2RvU093R1Rlc3V4UDhoTl81R0JRMzZlemVoVVRTOXVJMUtLYjJSNDBtcnRaLVZ1NklGTzBXOW1WdjlpT2lMRWo3NHl4aUZlbVl2cWFkZmYw?oc=5",
+        "published": "Wed, 18 Nov 2026 11:47:40 GMT",
+        "published_ts": 1795002460.0,
+        "priority_score": 20
       }
     ],
-    "priority_score": 35
+    "priority_score": 20
   },
   {
-    "cluster_id": "764d55bafe",
-    "theme_title": "Reliance Foundation Hospital Hosts IMPACT 2026 in Mumbai - Voice of Healthcare",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794899700.0,
+    "cluster_id": "01090d7d3b",
+    "theme_title": "Consumer forum orders Reliance Retail to pay \u20b97,500 compensation for diverting \u20b91 refund to reward wallet - Bar and Bench",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1795001928.0,
+    "article_count": 1,
+    "outlets": [
+      "Bar and Bench"
+    ],
+    "summary": "Consumer forum orders Reliance Retail to pay \u20b97,500 compensation for diverting \u20b91 refund to reward wallet Bar and Bench",
+    "sources": [
+      {
+        "outlet": "Bar and Bench",
+        "title": "Consumer forum orders Reliance Retail to pay \u20b97,500 compensation for diverting \u20b91 refund to reward wallet - Bar and Bench",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX3ZGYjZrYm5FYXFYQkl0eFU0VEhyQkdXNXpPSkd6WDNTUk16NVB0U0xBaXhGZl8zZTBUTVBpb3drUXZlZ19wV1QwS3paYklpN2V4aE9ySzJ4eG1ZSWdtZXZkUGo2NFdyWFliTTFPNk9BR29pd2N5YXFjS0syRUpYRm4tbkRSM2c5QU5ZRjBpREtJRS1zeVhUZ2lCRzlBZ1hUSHBoYXdGbXRtV1FyVEpBcVFmdnVxLVRKd1ZmbF92Wmx2V2lENlJFcWxWZzF5ZDlPVWtRclB0VDZUU0RZaWhz0gHsAUFVX3lxTE1ianI1NVVnTC16Y3l1NlFxSW9WMXJTdlRNRlJCdTJKUzJfQzlOQ2RPWUZrSUdjY216bjVmWVF4S29XbHBsalp6cXZsMTJkcDMxN2ljMDR5RkZIN3UyMElHVENTRkJWU2J0X0NuZWNvZTRlRUZMNkhXS29uTG5SQVZRVTlXMUxzZkUwUDgxUUlObFpJVzQ5aHNuQ1N4YjZ3azYtWlpSMGREdlhScHJjSmN0UlR4eDhHU19CcGc2anF4Q3JNS2lNYXBnMHhmQl8tcFhJcEl5bFg1aXQ5VV94NjB2THQ5QldpMU1RUzN5?oc=5",
+        "published": "Wed, 18 Nov 2026 11:38:48 GMT",
+        "published_ts": 1795001928.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "1a3be7d88e",
+    "theme_title": "Reliance's 1,600-Satellite Ambition: Can Ambani Challenge Starlink in India? - Marksmen Daily",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794999611.0,
+    "article_count": 1,
+    "outlets": [
+      "Marksmen Daily"
+    ],
+    "summary": "Reliance's 1,600-Satellite Ambition: Can Ambani Challenge Starlink in India? Marksmen Daily",
+    "sources": [
+      {
+        "outlet": "Marksmen Daily",
+        "title": "Reliance's 1,600-Satellite Ambition: Can Ambani Challenge Starlink in India? - Marksmen Daily",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUpjLUlwRm5QOXVDcFpTZlpaZXR0SmFzeFU4VDdtbGNMWk42TXpsWEp1dG9nVDRKZG94X2VVanowaTRVMXpBWTRzWWF5MC1XLVRoMmlDbW01cmpMcktSZWJpNmc3YUNaMzdWQ2dKdE5uYWNkZW04NlVacjYxOGJvdEExM25sNVN4M2c?oc=5",
+        "published": "Wed, 18 Nov 2026 11:00:11 GMT",
+        "published_ts": 1794999611.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "43f5c0d5fd",
+    "theme_title": "Technology: Reliance plans network of 1,600 satellites to take on Musk\u2019s Starlink - Revoi.in",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794999328.0,
+    "article_count": 1,
+    "outlets": [
+      "Revoi.in"
+    ],
+    "summary": "Technology: Reliance plans network of 1,600 satellites to take on Musk\u2019s Starlink Revoi.in",
+    "sources": [
+      {
+        "outlet": "Revoi.in",
+        "title": "Technology: Reliance plans network of 1,600 satellites to take on Musk\u2019s Starlink - Revoi.in",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0p1dG1wVVpKdF9zRWpFaEJ3anBMLWJ0akJiaGQzV1VjWmxhUVo0djNvUjJSNENMTTBKRjFhNl9uRTBrV2hWV2tzbzQ2czlleURJTF9tcGFKUWlUTWc3dW1KOUxxNVhDRG1nYUFaTEVEazdNVHNpZjhxcm5qd2djYk50S1VjRFFXRjF5bDVXWVBqZlp2UGN4MXVuVnNjdE8xYkxDSE93Yw?oc=5",
+        "published": "Wed, 18 Nov 2026 10:55:28 GMT",
+        "published_ts": 1794999328.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "9fc4175fe9",
+    "theme_title": "Ambani\u2019s Reliance explores manufacturing partnerships for 1,600-satellite network to challenge Starlink: Report - Telegraph India",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794996676.0,
+    "article_count": 1,
+    "outlets": [
+      "Telegraph India"
+    ],
+    "summary": "Ambani\u2019s Reliance explores manufacturing partnerships for 1,600-satellite network to challenge Starlink: Report Telegraph India",
+    "sources": [
+      {
+        "outlet": "Telegraph India",
+        "title": "Ambani\u2019s Reliance explores manufacturing partnerships for 1,600-satellite network to challenge Starlink: Report - Telegraph India",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVzVadjFZb0tsQWRtaXNXQV9uMERFbzlrb25OLXl4ZGZMNmlzY2puM3VVYmZvLUdORFpBdXhqQUhkS0JMWENIY3pQTHRja1Z6YUtuT1FoM0JpNEFSNmxYc0U0YkZGeWpvc3VxSXZsRGlZOFJ2SS03ODhVaFN6SlFKLU16TUR4SUtXclhINnlUZkt2aGpWMC1fbEQ2MERUMm9OV2hwakpLRzBQcWFxdXQ0VDNjWmlZSHBnby1VcUhxU002bU81VFE4bmZGM2hxdndrbkstSVVFWF9ObFlxckNveGNYRlFFeFAwbzNTSkktY3BlZ9IB9wFBVV95cUxNVXBicm1iMDNmeEd5Y3pCQnV5T0tGdEhlbmZlQUNMOEl3ZUw5QlBPelFmQ2tqMU9PR1NfYW9QdGxOenE4Vnc3N3VJTU9qdEY5dnU1ODA4WkpDX1NPeUFBS2FDeEFpSmlQREdTRndiNUo1S2lPZkk0NGstMm91Z1o3bDIxQXgtc3VCc3FSQ1A1WlR4MzRlcGUtTDJIT2pIMUtFanplbUZjVGtEblF2cExMNGxMLWVaZ3NFaXpPTnh4WnE2NzBjSTlxTVJndF8wOTYxaWNrc29FTk5sZm0zNVpRclBEVDk1eDdvOFRvcnpZQUF5YThTZ1ow?oc=5",
+        "published": "Wed, 18 Nov 2026 10:11:16 GMT",
+        "published_ts": 1794996676.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "2d8c35c15f",
+    "theme_title": "US FDA Launches Global Reliance Disclosure Program for Medicines - Voice of Healthcare",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794994713.0,
     "article_count": 1,
     "outlets": [
       "Voice of Healthcare"
     ],
-    "summary": "Reliance Foundation Hospital Hosts IMPACT 2026 in Mumbai Voice of Healthcare",
+    "summary": "US FDA Launches Global Reliance Disclosure Program for Medicines Voice of Healthcare",
     "sources": [
       {
         "outlet": "Voice of Healthcare",
-        "title": "Reliance Foundation Hospital Hosts IMPACT 2026 in Mumbai - Voice of Healthcare",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLVRfVVE3d1IzdjJmVXM5WEpvci1KeHBRM2JXYUhxZzBXVDBqVWttdEtERmhzTmh5cGU2a3ZMdGc5dFFxdXNZcVVSdWo2RVB4WTdHMThHRmw3b21kZFY2SEZ3ZklCdkxiZUk2ZUxBQmlKRmVnemJaOTNyM0ZKLVJES1FRRklwR2xxTjFrOHpxOUtaRExwaU9pMVg2d2RPYXAxSWdZcEd2V0c1TEg1ekp2Z2U1bDJSRUgzZ2ZpRTNBX3VNeGZ4bDZjb2h3cU81R25YaG9nV05GRzM4N3o3aURj?oc=5",
-        "published": "Tue, 17 Nov 2026 07:15:00 GMT",
-        "published_ts": 1794899700.0,
+        "title": "US FDA Launches Global Reliance Disclosure Program for Medicines - Voice of Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQkRtSnFXbnNrZUlBSF8wVUtxU1MtSXlmejNSNWJZTkFkS3pOWm1JTzdLQkFYeGcxRk43MUR4RnVFa1VzdFowbi1BNlc1cFV6TDlqMDFLLVNFMktJMl9pM3loTFVxNklUeGxtdzhPTDdlb25vc0JHTi1XZWFmaGpQak12bmZOVGYzRXNQcUZMVW5kZ0owSjZzYWdUS0toTVg4YjhMaGt0NHZnSlYwckNkWlZOUUZsbzVGbXlHcmhjTERiYXJjS25fdjVPTTY5TVJ2M3dpeS05c2Q?oc=5",
+        "published": "Wed, 18 Nov 2026 09:38:33 GMT",
+        "published_ts": 1794994713.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "59f9b39769",
+    "theme_title": "Reliance Industries on course for longest winning streak in 19 years- Moneycontrol.com - LinkedIn",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794992416.0,
+    "article_count": 2,
+    "outlets": [
+      "LinkedIn",
+      "Moneycontrol.com"
+    ],
+    "summary": "Reliance Industries on course for longest winning streak in 19 years- Moneycontrol.com LinkedIn",
+    "sources": [
+      {
+        "outlet": "LinkedIn",
+        "title": "Reliance Industries on course for longest winning streak in 19 years- Moneycontrol.com - LinkedIn",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHF6R3RIb3Z2N250cWFQdlNWY0hvMm9zUEtIZ0lkZTROcnd1R0RvZE1GQTdDdkNTbER1dTJLV1duMjdmVXNXa0RVQ3VleU1YcUN3ajZnclE4cjFROGZHai1OUnJ4d0lvNDh4eUNrSXVwSURsVW1CSmg1cDZQblNjc293eENqYTZselZjT0p6b0ZnemI5cFJHd1BCRnVrZVdiNXR4NkY5dDcyTHV3eHVWMWNtVUNSdjBTdDRV?oc=5",
+        "published": "Wed, 18 Nov 2026 09:00:16 GMT",
+        "published_ts": 1794992416.0,
+        "priority_score": 20
+      },
+      {
+        "outlet": "Moneycontrol.com",
+        "title": "Reliance Industries on course for longest winning streak in 19 years - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdjItdmxaMnZXaUFOMnhBZFFzNzd3Ni1UU3FiQlh6emFoMVd0bUtkODNsVXRjLVotOUp5OXRVNjVFOEx3MDRQcHdKUVZ6ZjNIS2tkNGZ1MFMyNTAxVmNlX0lUZUE2Z0xrenBBTGVXRUtyTG4wRUIweVhiRTNlTEY3ZGNBVUZhampBam0zUFBlbnVRWWduY19vOW9HT1FSdGg5VDJfU2hYaVdiTTdNdHphS3RoQjhqX3Z0YUVEVlhYeUF5RjTSAcgBQVVfeXFMUFI3emhsRHAyS19IMl9mdUZJWFJHTlZic3dla3VXQllKV3RtMjZPVWE3WlphcUlZejViMWV0cWpOV3ZGNnNIWkl0TVFfZ3BYdXBCUVNISW1Jam1vSEFHM2M2VUpoRkxQSVJvUXVWdG14cGR0REw4eFgyQlB4UmlwQndqS096eWJYTjJuMlFiNDdBZ2ppLU15UXQ2UnBzbnR0SlpvMHdldENXZWl3TWZxb19wTEdlMkRmWjBYdGIySWQwOGVGQmNOcEs?oc=5",
+        "published": "Wed, 18 Nov 2026 08:29:50 GMT",
+        "published_ts": 1794990590.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 26
+  },
+  {
+    "cluster_id": "ef70caa02b",
+    "theme_title": "Reliance's Ira Bindra ranks 19th among world's top 40 CHROs, moves up nine places - People Matters - HR News",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794989495.0,
+    "article_count": 1,
+    "outlets": [
+      "People Matters - HR News"
+    ],
+    "summary": "Reliance's Ira Bindra ranks 19th among world's top 40 CHROs, moves up nine places People Matters - HR News",
+    "sources": [
+      {
+        "outlet": "People Matters - HR News",
+        "title": "Reliance's Ira Bindra ranks 19th among world's top 40 CHROs, moves up nine places - People Matters - HR News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHl0Tmh1VmwzZHlGeVJZRnJpUVhPclNya05PREowY05qMEwxRDJjeVcwendRNmQ1Y0hOODhCSzZiVFZXY0s2TkMxc1c4QmloWmVyMnNiT1BHTmxtbjFrVmliTDNkVjB2NGZJLXB4YUpwUnBTSTZQU2pqU2xTMGtsQ0FzaUZfM2V6Si1md1pCeHlnZkxBdWVoc2ctODd5MEQyRTFxT0YydGtWTWhHMUdFYi1BLTRtRkdleGZXRTdKRmdNYmM4WWxfQg?oc=5",
+        "published": "Wed, 18 Nov 2026 08:11:35 GMT",
+        "published_ts": 1794989495.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "0117d172af",
+    "theme_title": "Reliance plans 100 compressed biogas plants by 2030 at $1.6 billion investment - BioEnergy Times",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794983096.0,
+    "article_count": 2,
+    "outlets": [
+      "BioEnergy Times",
+      "The Hindu"
+    ],
+    "summary": "Reliance plans 100 compressed biogas plants by 2030 at $1.6 billion investment BioEnergy Times",
+    "sources": [
+      {
+        "outlet": "BioEnergy Times",
+        "title": "Reliance plans 100 compressed biogas plants by 2030 at $1.6 billion investment - BioEnergy Times",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjN3TS1xeV9rR19YWGFfM2RabVpzOURZdUJQVkNkaHNrcFVlVGNfanFJZXhaeEJEeTdieEd0RGhOYmkzazV5dFdibUs0VnQ4SzZLaXVoQ3daTjgwMmdsOXBrdG40c3htZm1UZkRlcVRWQzNUNXpURkV5V1ItLWI3NTVqRWJGdjZTaWJWVnJRVXBEdGREaWk3SWpHeE5TdmR1SmRMS0V6NDE?oc=5",
+        "published": "Wed, 18 Nov 2026 06:24:56 GMT",
+        "published_ts": 1794983096.0,
+        "priority_score": 30
+      },
+      {
+        "outlet": "The Hindu",
+        "title": "Reliance plans $1.6 billion investment in 100 compressed biogas plants by 2030 - The Hindu",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWdhUjN0R3I4cGRyWk5HeVpydHRXWlNnZVZlQ1ItRVhQNWVVbGpuOFJQWWlRNERDaEhxUERYd09PNVlISmFLRGctT0xDRUE3QXRpY1RtZHAtakFsZFlpQ1Q5cjNjMGxXNEVDQ0JIUjJZMFpsOE93ckJzb1ZiRXNPTXdyZENMMVc1N0RPdGdMMlp1cjZndVRxSlNlc0hldF9kRzVhb3U3bl9DWWp2YkRkOW9IS25zTWtRRjJIa3RJOFJzR3BnX2NKWER30gHQAUFVX3lxTE5OWW93OUpDRDgtdms5U01PQkhpVUtoUk5HXzhFQmdsSk9vcUgwanNaZzl6emYyUXJkX0g5MVk1djRXU3pINTV3TFhUcG9HZmVvTk82VlM1Y0tQVHo3UXM0WWtoNndTaE95SGQ2NE1FV0VnREZCekZPazFSd0NrVlEzUDB3WTZrRnNzNWNVLUp5X3d4cHdKNnltUld5bWVZQ1dscTlNbzV4eTltdUMzdEtJb21RSkRmUlZkenBZbFFzcWR3R3YzTjVwbUs5M0JqQVM?oc=5",
+        "published": "Tue, 17 Nov 2026 17:47:11 GMT",
+        "published_ts": 1794937631.0,
+        "priority_score": 30
+      }
+    ],
+    "priority_score": 36
+  },
+  {
+    "cluster_id": "fd265aaf52",
+    "theme_title": "Ambani's Reliance Courts Local Manufacturers for 1,600-Satellite Push Against Starlink - BigGo Finance",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794981300.0,
+    "article_count": 1,
+    "outlets": [
+      "BigGo Finance"
+    ],
+    "summary": "Ambani's Reliance Courts Local Manufacturers for 1,600-Satellite Push Against Starlink BigGo Finance",
+    "sources": [
+      {
+        "outlet": "BigGo Finance",
+        "title": "Ambani's Reliance Courts Local Manufacturers for 1,600-Satellite Push Against Starlink - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xXzh3NjFsaWw1a2x1LUFsZDhVM3BLSXpkZ1JKWWVLbDBUZzRwbkNNSUpZLUhTRXJJYjNHV3ZuZkkxX2U3MzVsRng5UVFTY2dlVlF4bXYyRVZPZUc5Q2VNekVLbnBiOVhkbU5nbGdiVWhNaTZ5dEE?oc=5",
+        "published": "Wed, 18 Nov 2026 05:55:00 GMT",
+        "published_ts": 1794981300.0,
         "priority_score": 20
       }
     ],
