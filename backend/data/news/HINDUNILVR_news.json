@@ -1,9 +1,9 @@
 [
   {
-    "cluster_id": "266b6a8dab",
-    "theme_title": "HUL Share Price Live Updates: HUL's Market Update",
-    "date": "Wed, 18 Nov 2026",
-    "published_ts": 1794973601.0,
+    "cluster_id": "c38b6c4e40",
+    "theme_title": "HUL Share Price Live Updates: HUL Stock Analysis",
+    "date": "Thu, 19 Nov 2026",
+    "published_ts": 1795058176.0,
     "article_count": 1,
     "outlets": [
       "Economic Times - Stocks"
@@ -12,14 +12,80 @@
     "sources": [
       {
         "outlet": "Economic Times - Stocks",
-        "title": "HUL Share Price Live Updates: HUL's Market Update",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-18-nov-2026/liveblog/135947703.cms",
-        "published": "Wed, 18 Nov 2026 09:16:41 +0530",
-        "published_ts": 1794973601.0,
+        "title": "HUL Share Price Live Updates: HUL Stock Analysis",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-today-live-19-nov-2026/liveblog/135976243.cms",
+        "published": "Thu, 19 Nov 2026 08:46:16 +0530",
+        "published_ts": 1795058176.0,
         "priority_score": 35
       }
     ],
     "priority_score": 35
+  },
+  {
+    "cluster_id": "2fc62e6895",
+    "theme_title": "Hindustan Unilever GM hands over aid to IDPs - The Sangai Express",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1795031112.0,
+    "article_count": 1,
+    "outlets": [
+      "The Sangai Express"
+    ],
+    "summary": "Hindustan Unilever GM hands over aid to IDPs The Sangai Express",
+    "sources": [
+      {
+        "outlet": "The Sangai Express",
+        "title": "Hindustan Unilever GM hands over aid to IDPs - The Sangai Express",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM3d5Y0ZlZVU1NXdORThwbjVyZExPU1Y2LUpPMWVleG9LY3BRUTF2OUFPS0ZkUUdyUnhqTkhhTWpjR2FWZThST3JCNlcwanZEaEJtVXJXa2RlVHVJUGttTDNDeDlzYkZfRUFRN2lEN00tQnB5eURLbkY1cE5iREdieVVHRGh4aF8xMFBzN25aODVmWjBOakN3V2Z4UDB0ZlRMZVNJcWNMbWVwQm5JTUZWZ3lHV2RkVTdTT1JKdVNkNWFoNVltZFBfbnBIU0dpeHYzTTZPXzhSTHlLckxYTW1fRWZobGNGbjcyS3JUV1FPX3VYZXRlMExFaQ?oc=5",
+        "published": "Wed, 18 Nov 2026 19:45:12 GMT",
+        "published_ts": 1795031112.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "62f14cb730",
+    "theme_title": "Hindustan Unilever (NSE:HINDUNILVR) in Focus - Kalkine India",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1795010640.0,
+    "article_count": 1,
+    "outlets": [
+      "Kalkine India"
+    ],
+    "summary": "Hindustan Unilever (NSE:HINDUNILVR) in Focus Kalkine India",
+    "sources": [
+      {
+        "outlet": "Kalkine India",
+        "title": "Hindustan Unilever (NSE:HINDUNILVR) in Focus - Kalkine India",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdzdseU5lbF9EZ2R1WW9DWnFEdUNZd3VmeEtFbE5pQkpyU3FLM2lFd1RVTDBtNzhUNk02WXg5NWdweTZkVXdodkl1TV9JMTJEcEE5dFFZN281TWExR0pMUFdmbjhxQ2diTEZkU1JQazM4R3ZOY3pBSkI4OUdmVlBxdHJkcGNOdkxQQ0NwVi04dzFnNk1mLUdfTWt3XzFjMTdFNWc3RXZrY25Xbm5WN1U3dVIzdnVpam1hcEFzQzNwcEh6a28yWUVraXQ4NmxSYmZ6cWdjbDBReUIxRG40YlNXRA?oc=5",
+        "published": "Wed, 18 Nov 2026 14:04:00 GMT",
+        "published_ts": 1795010640.0,
+        "priority_score": 20
+      }
+    ],
+    "priority_score": 20
+  },
+  {
+    "cluster_id": "07218696de",
+    "theme_title": "Hindustan Unilever falls Wednesday, underperforms market - MarketWatch",
+    "date": "Wed, 18 Nov 2026",
+    "published_ts": 1794997920.0,
+    "article_count": 1,
+    "outlets": [
+      "MarketWatch"
+    ],
+    "summary": "Hindustan Unilever falls Wednesday, underperforms market MarketWatch",
+    "sources": [
+      {
+        "outlet": "MarketWatch",
+        "title": "Hindustan Unilever falls Wednesday, underperforms market - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOai12VGRlVHlhREZtTE5hNTZ2ci1mY2ZzYU95MmxfbzdJV3BHbGFZVkdWdnBQMkJXbmNENFROWWJUUkpmVTZhUTNoZG9DSmplQ1BVSEFmN0x2cmhueXlJUmU2T3paMDJJUkFFTnZnbmdOZGlYY1NrVmpfQnlOMEFTdWhhWWI0bDVIeWg4VUZ0RVJjTEZhNTc1UktMcEl3NUI1dzZicXJwOXh1RWk5endTV1o5M0J1dGNVakJSYzZ3OEtRNHJLOElCU0Rod1pEUQ?oc=5",
+        "published": "Wed, 18 Nov 2026 10:32:00 GMT",
+        "published_ts": 1794997920.0,
+        "priority_score": 31
+      }
+    ],
+    "priority_score": 31
   },
   {
     "cluster_id": "2a2d52560f",
@@ -38,10 +104,10 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU0VBVHRPU0RpdmFDUEV4X2pjUnVEVHBRTDkzcTMtaUp5RlBOZzJYYXBZT05BcmNYUnUwamZwQkhkaG1raHRCRk9LUENaaDh3OC1ydDNaUUdDX21WdFFkdWVtQkJkanJ4X3FHSUdkQV9vZW5pei1fY0w0bzlYSlRJM0U4N2JwUXF4VzlnWTRyWGRmVmZTVlloRmtrZDFyTjRWSl80WV94NVc1LURhaVcxWW8ya00ya0VJYVpSS3pWNWFZLWh3Y0h3cUdyZlZaOTFsT0lreA?oc=5",
         "published": "Tue, 17 Nov 2026 10:32:00 GMT",
         "published_ts": 1794911520.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
+    "priority_score": 29
   },
   {
     "cluster_id": "f448af6969",
@@ -60,75 +126,9 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dVFxdDhwZlY4ejgxamtBbTFJRWpQVk83RGl2UG1iaFdwSjVIRlNDNllqUnhvTzZnY1Y4dlU1ZlhaTVJ5cHd1NTB2bHJNamRuMnplSU5yOXBTaWZ5OXRN?oc=5",
         "published": "Tue, 17 Nov 2026 04:01:24 GMT",
         "published_ts": 1794888084.0,
-        "priority_score": 31
+        "priority_score": 29
       }
     ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "80a7fff3df",
-    "theme_title": "After HUL split, Kwality Wall's bets on milk-based ice cream, q-comm and wider distribution - BMI",
-    "date": "Tue, 17 Nov 2026",
-    "published_ts": 1794887859.0,
-    "article_count": 1,
-    "outlets": [
-      "BMI"
-    ],
-    "summary": "After HUL split, Kwality Wall's bets on milk-based ice cream, q-comm and wider distribution BMI",
-    "sources": [
-      {
-        "outlet": "BMI",
-        "title": "After HUL split, Kwality Wall's bets on milk-based ice cream, q-comm and wider distribution - BMI",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYkpMdExEOFR6MjRBY05pcHFWcGFxQThPVzA3ZGRnNDQ2NzhPNU5wZkkwaHN0Ymx6TmNXWTBBQlJwZTdkMjlQMlVLbThoNW5RSUFwcndXX2tQNXV1emIyY21RUmdwU0FFSE1obnFBbkdYeFJCSGxGRHdMLUNqSWtnbWVDbUlEOEVSMG5XWnJIbVNPRlhQOXB6bi1mTlJrOFNlQTNzRU5vTk00bzZ3OUJfM2lwMUt2eE4wTzVHdGhBMXJ5ZW5vbDN3aF9jWnQ5d0ZlT1RMVV9Wd2dMa0ZSVGc4S3k2WnI3ejdX0gHoAUFVX3lxTFBiSkx0TEQ4VHoyNEFjTmlwcVZwYXFBOE9XMDdkZGc0NDY3OE81TnBmSTBoc3RibHpOY1dZMEFCUnBlN2QyOVAyVUttOGg1blFJQXByd1dfa1A1dXV6YjJjbVFSZ3BTQUVITWhucUFuR1h4UkJIbEZEd0wtQ2pJa2dtZUNtSUQ4RVIwbldackhtU09GWFA5cHpuLWZOUms4U2VBM3NFTm9OTTRvNnc5Ql8zaXAxS3Z4TjBPNUd0aEExcnllbm9sM3doX2NadDl3RmVPVExVX1Z3Z0xrRlJUZzhLeTZacjd6N1c?oc=5",
-        "published": "Tue, 17 Nov 2026 03:57:39 GMT",
-        "published_ts": 1794887859.0,
-        "priority_score": 16
-      }
-    ],
-    "priority_score": 16
-  },
-  {
-    "cluster_id": "f83bb1a983",
-    "theme_title": "Hindustan Unilever Limited (HINDUNILVR.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794844976.0,
-    "article_count": 1,
-    "outlets": [
-      "Yahoo! Finance Canada"
-    ],
-    "summary": "Hindustan Unilever Limited (HINDUNILVR.NS) Stock Price, News, Quote & History Yahoo! Finance Canada",
-    "sources": [
-      {
-        "outlet": "Yahoo! Finance Canada",
-        "title": "Hindustan Unilever Limited (HINDUNILVR.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaYWRabHYzQjBGMHphbVluNGN5RE5neUpMemtjOHNTek8xYk0wN0pqTDJ1UjJRR0QtWTh5azdpOTR0UjdWaFZtT3h4U3hNaDJ5Sk1ZTEgyYW1pTFhkWXc?oc=5",
-        "published": "Mon, 16 Nov 2026 16:02:56 GMT",
-        "published_ts": 1794844976.0,
-        "priority_score": 31
-      }
-    ],
-    "priority_score": 31
-  },
-  {
-    "cluster_id": "bd3f37df74",
-    "theme_title": "Hindustan Unilever climbs Monday, outperforms competitors - MarketWatch",
-    "date": "Mon, 16 Nov 2026",
-    "published_ts": 1794825120.0,
-    "article_count": 1,
-    "outlets": [
-      "MarketWatch"
-    ],
-    "summary": "Hindustan Unilever climbs Monday, outperforms competitors MarketWatch",
-    "sources": [
-      {
-        "outlet": "MarketWatch",
-        "title": "Hindustan Unilever climbs Monday, outperforms competitors - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMi00X0JWUTBfamMxbFA5VlZwbzJUc1I5T3NSTkxMcnNWeUNUSUpSTjAwQXNCU2t0VXZTUTJmSHA5NkQzcnNQZ09VZkRqRmdsV2kxR3RmcjFMdzZLZ0prdnhkYnVRUS1qdTVJTnRncUMwajBfNlF6cy1LUzhkM2k0bVdEYzRMV2t1YzFVLUdwbjhLQkFzaDZSVkF4Z3h6aFBicjBSdklyWk56eDMySkJBcEZFNFU3djNyTzdMdmVocENuQmUtUXc2SkRvbHFOQ0k?oc=5",
-        "published": "Mon, 16 Nov 2026 10:32:00 GMT",
-        "published_ts": 1794825120.0,
-        "priority_score": 14
-      }
-    ],
-    "priority_score": 14
+    "priority_score": 29
   }
 ]
